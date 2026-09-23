@@ -46,7 +46,7 @@ images:
   # Her habere yapay zeka ile özel görsel (Google "Nano Banana").
   # GEMINI_API_KEY gizli anahtarı yoksa ya da üretim başarısız olursa
   # habere özgü 3D stüdyo görseli (ücretsiz yedek) kullanılır.
-  ai: true
+  ai: false                              # ücretli (Google ödeme gerektirir). Açmak için: true
   model: "gemini-3.1-flash-lite-image"   # daha kaliteli: "gemini-3.1-flash-image"
   cost_per_image: 0.035                  # sadece maliyet raporu için (dolar)
 
@@ -56,10 +56,13 @@ social:
   send_to_telegram: true
 
 ai:
-  # Ayıklama (ucuz ve hızlı model) ve yazım (daha güçlü model).
-  triage_model: "claude-haiku-4-5-20251001"
-  writer_model: "claude-sonnet-5"
-  writer_effort: "medium"        # low | medium | high  (yüksek = daha pahalı)
+  # gemini: Google Gemini ücretsiz katmanı (kredi kartı gerekmez, günlük sınırlı)
+  # claude: Anthropic Claude (ücretli, ANTHROPIC_API_KEY gerekir)
+  provider: gemini
+  triage_model: "gemini-flash-lite-latest"   # ayıklama
+  writer_model: "gemini-flash-latest"        # haber yazımı
+  # Claude'a geçersen örnek: triage_model "claude-haiku-4-5-20251001", writer_model "claude-sonnet-5"
+  writer_effort: "medium"                    # sadece Claude için
 
 # ─────────────────────────────────────────────────────────────
 #  Kaynaklar
