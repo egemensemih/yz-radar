@@ -46,10 +46,12 @@ def check(cfg) -> int:
     ok = True
     print(f"Site adresi       : {cfg.site_url}")
     print(f"Kaynak sayısı     : {len(cfg.sources)}")
-    print(f"ANTHROPIC_API_KEY : {'VAR' if cfg.anthropic_key else 'YOK ✗'}")
+    print(f"GEMINI_API_KEY    : {'VAR' if cfg.google_key else 'YOK ✗'}")
+    if cfg.anthropic_key:
+        print("ANTHROPIC_API_KEY : VAR (isteğe bağlı)")
     print(f"TELEGRAM_BOT_TOKEN: {'VAR' if cfg.telegram_token else 'YOK ✗'}")
     print(f"TELEGRAM_CHAT_ID  : {cfg.telegram_chat_id or 'YOK (bota /start yaz)'}")
-    ok &= bool(cfg.anthropic_key and cfg.telegram_token and cfg.telegram_chat_id)
+    ok &= bool((cfg.google_key or cfg.anthropic_key) and cfg.telegram_token and cfg.telegram_chat_id)
     if cfg.telegram_token and cfg.telegram_chat_id:
         from .telegram import Telegram, TelegramError
         try:
@@ -58,15 +60,16 @@ def check(cfg) -> int:
         except TelegramError as e:
             print(f"Telegram          : HATA ✗ {e}")
             ok = False
-    if cfg.anthropic_key:
-        from .llm import LLM, LLMError
+    from .llm import LLMError, make_llm
+    llm = make_llm(cfg)
+    if llm:
         try:
-            r = LLM(cfg.anthropic_key).json(cfg.get("ai", "triage_model"), "Reply in JSON.", "Say ok.",
-                                            {"type": "object", "properties": {"ok": {"type": "boolean"}},
-                                             "required": ["ok"], "additionalProperties": False}, max_tokens=200)
-            print(f"Claude API        : çalışıyor ✓ {r}")
+            r = llm.json(cfg.get("ai", "triage_model"), "Reply in JSON.", "Say ok.",
+                         {"type": "object", "properties": {"ok": {"type": "boolean"}},
+                          "required": ["ok"], "additionalProperties": False}, max_tokens=200)
+            print(f"Yapay zeka        : çalışıyor ✓ {r}")
         except LLMError as e:
-            print(f"Claude API        : HATA ✗ {e}")
+            print(f"Yapay zeka        : HATA ✗ {e}")
             ok = False
     return 0 if ok else 1
 
