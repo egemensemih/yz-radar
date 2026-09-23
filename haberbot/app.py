@@ -9,7 +9,7 @@ import time
 from . import policy
 from .config import CATEGORIES, Config, category_label
 from .extract import full_text
-from .llm import LLM, LLMError, MockLLM, estimate_cost
+from .llm import LLMError, MockLLM, estimate_cost, make_llm
 from .prompts import (FLAG_LABELS, FLAGS, TRIAGE_SCHEMA, WRITE_SCHEMA, triage_system,
                       triage_user, write_system, write_user)
 from .sources import fetch_all
@@ -71,10 +71,8 @@ class App:
 
         if cfg.mock:
             self.llm = MockLLM(usage_cb=self._usage)
-        elif cfg.anthropic_key:
-            self.llm = LLM(cfg.anthropic_key, usage_cb=self._usage)
         else:
-            self.llm = None
+            self.llm = make_llm(cfg, usage_cb=self._usage)
 
         if cfg.mock:
             self.tg = MockTelegram(cfg.data_dir / "_mock")
@@ -128,7 +126,7 @@ class App:
     # ── 1) TOPLAMA ──────────────────────────────────────────
     def collect(self) -> None:
         if not self.llm:
-            log.warning("ANTHROPIC_API_KEY tanımlı değil; haber toplama atlandı.")
+            log.warning("GEMINI_API_KEY tanımlı değil; haber toplama atlandı.")
             return
         cfg, st = self.cfg, self.store
         ed = lambda k, d: cfg.get("editorial", k, d)  # noqa: E731
