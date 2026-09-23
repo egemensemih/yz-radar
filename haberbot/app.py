@@ -173,7 +173,7 @@ class App:
                                 triage_system(self.brand), triage_user(fresh, recent[:80], today),
                                 TRIAGE_SCHEMA, max_tokens=8000)
         except LLMError as e:
-            self.notify_error(f"Claude API (ayıklama) hatası: {e}")
+            self.notify_error(f"Yapay zeka (ayıklama) hatası: {e}")
             for it in fresh:  # bir sonraki turda tekrar denensin
                 st.seen.pop(it["key"], None)
             return
@@ -200,11 +200,15 @@ class App:
         for s, its in chosen[limit:]:  # sınırı aşanlar bir sonraki turda yeniden değerlendirilsin
             for it in its:
                 st.seen.pop(it["key"], None)
-        for s, its in chosen[:limit]:
+        todo = chosen[:limit]
+        for n, (s, its) in enumerate(todo):
             try:
                 self.create_draft(s, its)
             except LLMError as e:
-                self.notify_error(f"Claude API (yazım) hatası: {e}")
+                self.notify_error(f"Yapay zeka (yazım) hatası: {e}")
+                for _, rest in todo[n:]:  # yazılamayanlar bir sonraki turda yeniden denensin
+                    for it in rest:
+                        st.seen.pop(it["key"], None)
                 break
             except Exception as e:  # noqa: BLE001
                 log.exception("Taslak oluşturulamadı: %s", e)
@@ -460,7 +464,7 @@ class App:
             try:
                 self._handle(u)
             except LLMError as e:
-                self.notify(f"⚠️ Claude API hatası: {esc(e)}")
+                self.notify(f"⚠️ Yapay zeka hatası: {esc(e)}")
             except Exception as e:  # noqa: BLE001
                 log.exception("Güncelleme işlenemedi: %s", e)
         return len(ups)
@@ -612,7 +616,7 @@ class App:
             self._rewrite(target, None, where, visual_only=m.group(1))
             return
         if not self.llm:
-            self.tg.send_message(self.chat_id, "Claude API anahtarı tanımlı değil.", reply_to=user_mid)
+            self.tg.send_message(self.chat_id, "Yapay zeka anahtarı (GEMINI_API_KEY) tanımlı değil.", reply_to=user_mid)
             return
         self._rewrite(target, instruction, where)
 
