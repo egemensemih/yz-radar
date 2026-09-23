@@ -115,7 +115,9 @@ class LLM:
 
 # ── Google Gemini (ücretsiz katman) ─────────────────────────
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-GEMINI_FALLBACKS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
+GEMINI_LIST_URL = "https://generativelanguage.googleapis.com/v1beta/models"
+GEMINI_FALLBACKS = ["gemini-flash-latest", "gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+_FLASH_RE = re.compile(r"^gemini-(?P<ver>\d+(?:\.\d+)?)-flash(?P<lite>-lite)?(?P<pre>-preview)?(?P<date>-\d{2}-\d{4})?(?:-\d{3})?$")
 
 
 def _gemini_schema(schema, upper: bool):
@@ -146,6 +148,7 @@ class GeminiLLM:
         self._last = 0.0
         self._model_ok: dict[str, str] = {}
         self._variant_ok: dict[str, int] = {}
+        self._avail: list[str] | None = None
 
     def _post(self, model: str, body: dict) -> dict:
         delays = [10, 25]
@@ -171,10 +174,40 @@ class GeminiLLM:
             return r.json()
         raise LLMError("Tekrar denemeler tükendi")
 
+    def _available(self) -> list[str]:
+        """Hesapta kullanılabilen Gemini metin modellerini bir kez sorgula (yeni modeller kendiliğinden gelir)."""
+        if self._avail is None:
+            self._avail = []
+            try:
+                r = requests.get(GEMINI_LIST_URL, params={"pageSize": 1000}, timeout=30,
+                                 headers={"x-goog-api-key": self.api_key})
+                if r.ok:
+                    for m in r.json().get("models", []):
+                        if "generateContent" in (m.get("supportedGenerationMethods") or []):
+                            self._avail.append(m.get("name", "").removeprefix("models/"))
+            except (requests.RequestException, ValueError):
+                pass
+        return self._avail
+
+    @staticmethod
+    def _rank(names: list[str], lite: bool) -> list[str]:
+        """Flash modellerini en yeni sürümden eskiye sırala (kararlı sürüm önizlemeden önce)."""
+        out = []
+        for n in names:
+            m = _FLASH_RE.match(n)
+            if not m or bool(m.group("lite")) != lite:
+                continue
+            ver = tuple(int(x) for x in m.group("ver").split("."))
+            out.append(((ver, not m.group("pre"), not m.group("date")), n))
+        return [n for _, n in sorted(out, reverse=True)]
+
     def _models(self, model: str) -> list[str]:
         if model in self._model_ok:
             return [self._model_ok[model]]
-        return list(dict.fromkeys([model] + GEMINI_FALLBACKS))
+        avail = self._available()
+        flash, lite = self._rank(avail, False)[:3], self._rank(avail, True)[:2]
+        order = [model] + (lite + flash if "lite" in model else flash + lite) + GEMINI_FALLBACKS
+        return list(dict.fromkeys(order))
 
     def json(self, model: str, system: str, user: str, schema: dict,
              max_tokens: int = 4000, effort: str | None = None) -> dict:
