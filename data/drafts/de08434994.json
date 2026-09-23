@@ -1,0 +1,65 @@
+{
+  "id": "de08434994",
+  "status": "pending",
+  "created_at": "2026-09-23T21:48:21Z",
+  "title": "ABD ve Çin yapay zeka güvenliği için masaya oturdu",
+  "summary": "ABD ve Çin liderlerinin görüşmesi öncesinde, iki ülke arasında yeni bir yapay zeka güvenlik bildirim mekanizması kurulması planı ele alındı.",
+  "body": "ABD ve Çin liderlerinin perşembe ve cuma günkü görüşmeleri öncesinde, **yapay zeka** güvenliği konusunda önemli bir adım atıldı ve yeni bir güvenlik bildirim mekanizması masaya yatırıldı. Ars Technica'nın aktardığına göre, iki ülke küresel riskleri azaltmak amacıyla yürütülen müzakereler kapsamında açık bir iletişim hattı kurulmasını tartışıyor.\n\n## Yapay zeka güvenlik mekanizması\n\nABD Hazine Bakanı Scott Bessent'in açıklamalarına göre, olası bir anlaşma durumunda iki ülke kendi yapay zeka sistemleri tehdit oluşturduğunda veya öngörülemez şekilde davrandığında birbirlerini uyarabilecek. Bu kanalın aynı zamanda ortak hedeflerin paylaşılmasına da olanak tanıyabileceği belirtiliyor. Ancak görüşmeler, ABD'nin ihracat kontrollerini artırdığı ve Kongre'nin yeni donanım kısıtlamaları değerlendirdiği bir dönemde gerçekleşiyor.\n\n## Gerilimler ve müzakerelerin geleceği\n\nABD Adalet Bakanlığı tarafından Çinli önde gelen yapay zeka geliştiricilerine yöneltilen suçlamalar ve Donald Trump'ın rekabet söylemlerine rağmen, Çin görüşmelere katılım göstermeye devam ediyor. Uzmanlar, iki ülkenin bu süreçte iş birliğine ne kadar açık olacağının güvenilir bir küresel yönetişim çerçevesi açısından belirleyici olacağını ifade ediyor.\n\n**Neden önemli?** Dünyanın en büyük iki yapay zeka liderinin güvenlik risklerini önlemek için başlattığı bu ilk temaslar, gelecekteki küresel denetim mekanizmalarının ve uluslararası teknoloji politikasının yönünü belirleyebilir.",
+  "category": "politika",
+  "tags": [
+    "Amerika Birleşik Devletleri",
+    "Çin",
+    "Donald Trump",
+    "Xi Jinping",
+    "Scott Bessent"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD ve Çin arasında yapay zeka güvenliği görüşmeleri",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "two smooth geometric monoliths of dark and light stone standing close together on a polished concrete surface, a thin thread of white light connecting them across a narrow gap",
+  "focus_keyword": "yapay zeka",
+  "seo_title": "ABD ve Çin yapay zeka güvenliği için görüştü",
+  "meta_description": "ABD ve Çin, gelişen yapay zeka risklerine karşı küresel güvenlik bildirim mekanizması kurmak üzere müzakerelere başladı.",
+  "seo_slug": "abd-ve-cin-yapay-zeka-guvenligi-icin-gorustu",
+  "image_alt": "İki geometrik monolitin yakın duruşunu ve aralarındaki ışık çizgisini gösteren yapay zeka güvenliği temalı stüdyo görseli…",
+  "importance": 7,
+  "triage_reason": "ABD ve Çin, yapay zeka risklerini yönetmek için görüşmelere başladı.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/#comments",
+      "published": "2026-09-23T20:52:28Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "published": "2026-09-23T20:52:28Z",
+      "summary": "This week, the US and China, the two world leaders on AI, finally started talks meant to keep the whole world safe from emerging safety risks. But whether meetings between Donald Trump and Xi Jinping can lead to a reliable global governance framework for AI depends on how much the fierce rivals are actually willing to cooperate. It's clear Trump wants it to seem like discussions are going well. Before Trump and Xi meet on Thursday and Friday, Treasury Secretary Scott Bessent announced that both sides had already discussed setting up a new AI safety notification mechanism. If China agrees to…",
+      "text": "This week, the US and China, the two world leaders on AI, finally started talks meant to keep the whole world safe from emerging safety risks. But whether meetings between Donald Trump and Xi Jinping can lead to a reliable global governance framework for AI depends on how much the fierce rivals are actually willing to cooperate.\nIt’s clear Trump wants it to seem like discussions are going well. Before Trump and Xi meet on Thursday and Friday, Treasury Secretary Scott Bessent announced that both sides had already discussed setting up a new AI safety notification mechanism. If China agrees to participate, that would create an open line for either side to send alerts when their country’s AI systems pose threats or behave unpredictably. The same channel, Bessent said, could allow the countries to share their “vision of common goals.”\nHowever, the proposal comes at a time when China may not be ready to trust the US to have AI safety conversations that aren’t about limiting China’s capabilities. Not only has Trump steadily increased export controls that explicitly seek to block China from accessing technology to advance AI, but Congress is mulling bills that would cut the country off from more chips and hardware. Adding to tensions, just two weeks ago, Trump’s Justice Department accused six of China’s leading AI makers of stealing from US frontier labs, which China has strongly disputed.\nSome US-China experts told Ars that there were concerns that China might cancel talks, but China seemingly isn’t taking offense to Trump’s rhetoric. Even Truth Social posts where Trump insists that America must dominate China on AI—declaring “WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so”—didn’t keep China from showing up."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 24
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
