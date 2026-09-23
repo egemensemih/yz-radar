@@ -1,0 +1,8 @@
+_site/
+__pycache__/
+*.pyc
+.venv/
+data/_mock/
+*.tmp
+.DS_Store
+.cache/

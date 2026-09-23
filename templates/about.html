@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Hakkında — {{ site.name }}{% endblock %}
+{% block main %}
+<header class="page-head wrap" style="--c:#6E6E73">
+  <span class="eyebrow">Hakkında</span>
+  <h1>Kaynağıyla,<br>sakin ve net.</h1>
+  <p>{{ site.description }}</p>
+</header>
+<article class="narrow prose">
+  <h2>Nasıl çalışıyoruz?</h2>
+  <p>{{ site.name }}, dünyanın önde gelen yapay zeka şirketlerinin resmi duyurularını ve saygın teknoloji yayınlarını düzenli olarak tarar. Önemli gelişmeler seçilir, yapay zeka yardımıyla Türkçe olarak özgün biçimde derlenir ve yayımlanır.</p>
+  <h2>Yayın ilkelerimiz</h2>
+  <ul>
+    <li><strong>Her haberde kaynak.</strong> Haberin dayandığı tüm kaynaklar adıyla ve bağlantısıyla belirtilir.</li>
+    <li><strong>Kopyalama yok.</strong> Kaynak metinler çevrilip aktarılmaz; bilgiler özetlenip kendi cümlelerimizle yazılır.</li>
+    <li><strong>Uydurma yok.</strong> Kaynaklarda olmayan rakam, tarih, alıntı ya da iddia eklenmez. Doğrulanmamış bilgiler kaynağına atfedilir.</li>
+    <li><strong>Temsili görseller.</strong> Kaynak sitelerin fotoğrafları kullanılmaz. Haber görselleri yapay zeka ile üretilmiş temsili görsellerdir; gerçek kişileri, ürünleri ya da olayları göstermez.</li>
+    <li><strong>İnsan denetimi.</strong> Haberler editör onayından geçer. Güvenilirliği kanıtlanmış kaynaklardan gelen net haberler otomatik yayımlanabilir; bu durum haberin altında belirtilir.</li>
+    <li><strong>Düzeltme.</strong> Hatalı bir bilgi fark edersek haberi güncelleriz ya da kaldırırız.</li>
+  </ul>
+  <h2>Takip ettiğimiz kaynaklar</h2>
+  <p>{% for s in sources %}{{ s.name }}{{ ', ' if not loop.last }}{% endfor %}.</p>
+  <h2>İletişim</h2>
+  <p>{% if site.contact_email %}Hata bildirimi, öneri ve telif talepleri için: <strong>{{ site.contact_email }}</strong>{% else %}İletişim adresi yakında eklenecek.{% endif %}</p>
+</article>
+{% endblock %}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}{{ site.name }} — {{ site.tagline }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:locale" content="tr_TR">
+{% block og %}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ site.name }} — {{ site.tagline }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ site.og_image }}">
+{% endblock %}
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.base }}/feed.xml">
+<link rel="icon" href="{{ site.base }}/static/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="{{ site.base }}/static/style.css?v={{ site.asset_v }}">
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#icerik">İçeriğe geç</a>
+<nav class="nav" aria-label="Ana menü">
+  <div class="wrap nav-in">
+    <a class="brand" href="{{ site.base }}/" aria-label="{{ site.name }} ana sayfa"><span class="mark" aria-hidden="true"></span>{{ site.name }}</a>
+    <div class="nav-links">
+      {% for c in site.nav_categories %}
+      <a href="{{ c.url }}" class="{{ 'on' if active_cat|default('') == c.slug }}">{{ c.label }}</a>
+      {% endfor %}
+    </div>
+    <div class="nav-end">
+      <a href="{{ site.base }}/hakkinda/" class="hide-sm">Hakkında</a>
+      <details class="menu">
+        <summary aria-label="Menüyü aç"><span></span></summary>
+        <div class="menu-panel">
+          <a href="{{ site.base }}/">Tüm haberler</a>
+          {% for c in site.nav_categories %}<a href="{{ c.url }}">{{ c.label }}</a>{% endfor %}
+          <a href="{{ site.base }}/hakkinda/">Hakkında</a>
+        </div>
+      </details>
+    </div>
+  </div>
+</nav>
+{% block top %}{% endblock %}
+
+<main id="icerik">
+{% block main %}{% endblock %}
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <a class="brand" href="{{ site.base }}/"><span class="mark" aria-hidden="true"></span>{{ site.name }}</a>
+    <p>{{ site.tagline }} Her haberde orijinal kaynak adıyla ve bağlantısıyla belirtilir. Haberler kaynaklardan yapay zeka yardımıyla Türkçe derlenir. Görseller yapay zeka ile üretilmiş temsili görsellerdir.</p>
+    <div class="foot-cats">
+      {% for c in site.categories %}<a href="{{ c.url }}">{{ c.label }}</a>{% endfor %}
+    </div>
+    <p>© {{ site.year }} {{ site.name }} · <a href="{{ site.base }}/hakkinda/">Hakkında ve yayın ilkeleri</a> · <a href="{{ site.base }}/feed.xml">RSS</a>{% if site.instagram %} · <a href="https://instagram.com/{{ site.instagram }}" rel="noopener" target="_blank">Instagram</a>{% endif %}</p>
+  </div>
+</footer>
+<script src="{{ site.base }}/static/site.js?v={{ site.asset_v }}" defer></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% from "_macros.html" import card %}
+{% set active_cat = cat.slug %}
+{% block title %}{{ cat.label }} — {{ site.name }}{% endblock %}
+{% block description %}{{ cat.label }} alanındaki yapay zeka gelişmeleri, kaynaklarıyla.{% endblock %}
+{% block main %}
+<header class="page-head wrap" style="--c:{{ cat.color }}">
+  <span class="eyebrow">Kategori</span>
+  <h1>{{ cat.label }}.</h1>
+  <p>{% if cat.count %}{{ cat.count }} haber{% else %}Bu kategoride henüz haber yok.{% endif %}</p>
+</header>
+{% if posts %}
+<section class="wrap"><div class="grid">{% for p in posts %}{{ card(p) }}{% endfor %}</div></section>
+{% endif %}
+{% endblock %}

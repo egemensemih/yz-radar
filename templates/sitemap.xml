@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ site.url }}/</loc></url>
+  <url><loc>{{ site.url }}/hakkinda/</loc></url>
+  {% for c in site.categories if c.count %}
+  <url><loc>{{ site.url }}/kategori/{{ c.slug }}/</loc></url>
+  {% endfor %}
+  {% for p in posts %}
+  <url><loc>{{ p.abs_url }}</loc><lastmod>{{ p.iso }}</lastmod></url>
+  {% endfor %}
+</urlset>

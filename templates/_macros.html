@@ -1,0 +1,59 @@
+{% macro img(p, cls='', eager=false, sizes='(min-width: 1000px) 400px, 100vw') %}
+<img src="{{ p.img }}" alt="{{ p.img_alt }}" width="1280" height="960"{% if not eager %} loading="lazy"{% endif %} decoding="async" class="{{ cls }}" style="view-transition-name: v{{ p.id }}">
+{% endmacro %}
+
+{% macro card(p) %}
+<a class="card reveal" href="{{ p.url }}" style="--c:{{ p.cat_color }}">
+  <div class="ph">{{ img(p) }}</div>
+  <span class="eyebrow sm">{{ p.kicker_disp }}</span>
+  <h3>{{ p.title_disp }}</h3>
+  <span class="t"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · {{ p.credits|join(', ') }}</span>
+</a>
+{% endmacro %}
+
+{% macro rcard(p) %}
+<a class="rcard" href="{{ p.url }}" style="--c:{{ p.cat_color }}">
+  {{ img(p) }}
+  <div class="rcard-body">
+    <span class="eyebrow sm">{{ p.kicker_disp }}</span>
+    <h3>{{ p.title_disp }}</h3>
+    <span class="t"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · {{ p.credits|join(', ') }}</span>
+  </div>
+</a>
+{% endmacro %}
+
+{% macro tile(p, wide=false) %}
+<article class="tile reveal{{ ' wide' if wide }}" style="--c:{{ p.cat_color }}">
+  <a class="cover" href="{{ p.url }}" aria-label="{{ p.title }}"></a>
+  <div class="tile-txt">
+    <span class="eyebrow">{{ p.kicker_disp }}</span>
+    <h2>{{ p.short_disp }}</h2>
+    {% if p.hero_stat %}
+      <div class="stat">{{ p.hero_stat }}</div>
+      {% if p.hero_stat_label %}<div class="stat-label">{{ p.hero_stat_label }}</div>{% endif %}
+    {% else %}
+      <p class="dek">{{ p.summary }}</p>
+    {% endif %}
+    <div class="links">
+      <a class="more" href="{{ p.url }}">Haberi oku</a>
+      <a class="more" href="{{ p.sources[0].url }}" rel="noopener" target="_blank">{{ p.credits[0] }}</a>
+    </div>
+  </div>
+  <div class="tile-media">{{ img(p, sizes='(min-width: 834px) 50vw, 100vw') }}</div>
+</article>
+{% endmacro %}
+
+{% macro rail(posts, title, id, muted_title='') %}
+<section class="sec{{ ' bg-alt' if id == 'son' }}" aria-labelledby="h-{{ id }}">
+  <div class="wrap sec-head">
+    <h2 id="h-{{ id }}">{{ title }}{% if muted_title %} <span>{{ muted_title }}</span>{% endif %}</h2>
+    <div class="arrows" data-rail="r-{{ id }}">
+      <button type="button" data-dir="-1" aria-label="Önceki">‹</button>
+      <button type="button" data-dir="1" aria-label="Sonraki">›</button>
+    </div>
+  </div>
+  <div class="rail" id="r-{{ id }}">
+    {% for p in posts %}{{ rcard(p) }}{% endfor %}
+  </div>
+</section>
+{% endmacro %}
