@@ -1,0 +1,50 @@
+{
+  "id": "00983b0692",
+  "created_at": "2026-09-23T19:54:41Z",
+  "title": "Bernie Sanders ve Greg Casar'dan süper zeka yapay zeka yasağı tasarısı",
+  "summary": "ABD'li milletvekilleri, insanlığın varlığına tehdit oluşturabilecek yapay süper zeka geliştirilmesini yasaklayan ve hapis cezası öngören bir yasa tasarısı sundu.",
+  "body": "The Verge'in aktardığına göre, Bağımsız Senatör Bernie Sanders ve Temsilciler Meclisi Üyesi Greg Casar, insanlığın ortadan kaldırılması veya yetkisizleştirilmesi potansiyeli taşıyan yapay süper zeka teknolojisinin geliştirilmesini yasaklayan yeni bir yasa tasarısı sundu. Tasarıya göre, bu kuralı ihlal eden yapay zeka liderleri yirmi yıla kadar hapis cezasıyla karşı karşıya kalabilecek.\n\nTasarı yalnızca süper zeka sistemlerini hedeflemekle kalmıyor; aynı zamanda belirli bir veri eşiğinde eğitilen gelişmiş öncü modellerin geliştirilmesini de devlet bünyesinde bilim insanlarından oluşan bir Yapay Zeka Departmanı kurulana kadar durdurmayı öngörüyor. Bahsi geçen yeni kurum, tehlikeli özelliklerin kaldırılmasını denetlemenin yanı sıra şirketlerin gelişmiş yapay zeka modelleri geliştirmek için izin almasını zorunlu kılacak. Tasarının tanıtım metninde, öngörülen hapis cezasının nükleer silahların yasadışı geliştirilmesine yönelik mevcut cezalarla benzerlik gösterdiği belirtiliyor.\n\nBasın bülteninde açıklamalarda bulunan Senatör Bernie Sanders, insanlığın geleceği söz konusuyken birkaç büyük teknoloji şirketinin yöneticisinin kendi kurallarını yazmasına izin veremeyeceklerini ifade etti. Öte yandan, Kaliforniya Valisi Gavin Newsom'ın geçtiğimiz hafta öncü modeller için bir acil durdurma mekanizması önermesi ve sektördeki hızlı ilerlemeye dair endişelerin artması dikkat çekiyor.\n\n**Neden önemli?** Sunulan yeni yasa tasarısı, ABD'de yapay zeka teknolojilerinin düzenlenmesine ve olası risklerin denetlenmesine yönelik bugüne kadar atılan en sert yasal adımlardan biri olarak öne çıkıyor.",
+  "category": "politika",
+  "tags": [
+    "Bernie Sanders",
+    "ABD",
+    "Yapay Zeka",
+    "Regülasyon",
+    "Yasa Tasarısı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD'de süper zeka yapay zeka için hapis cezası tasarısı",
+  "kicker": "Regülasyon",
+  "hero_stat": "20 yıl",
+  "hero_stat_label": "hapis cezası üst sınırı",
+  "visual_style": "studio",
+  "visual_scene": "a heavy cast-iron brake pedal standing upright on a seamless concrete floor, illuminated by soft directional side light casting a long shadow, minimalist and calm atmosphere",
+  "importance": 8,
+  "triage_reason": "ABD'li milletvekilleri, yapay süper zeka geliştirilmesini yasaklayan ve cezai müeyyide öngören yasa tasarısı sundu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T16:23:05Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 6
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "bernie-sanders-ve-greg-casar-dan-super-zeka-yapay-zeka-yasagi-tasarisi",
+  "published_at": "2026-09-23T19:55:03Z",
+  "publish_mode": "manual"
+}

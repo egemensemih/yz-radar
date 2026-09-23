@@ -1,0 +1,60 @@
+{
+  "id": "37feee2eb4",
+  "created_at": "2026-09-23T19:53:56Z",
+  "title": "Anthropic, daha düşük fiyat ve güçlü güvenlik önlemleriyle Opus 5.5 modelini duyurdu",
+  "summary": "Anthropic, kodlama ve bilgi işleme performansını artıran yeni modeli Opus 5.5'i tanıttı. Model, daha düşük maliyet ve sıkı siber güvenlik tedbirleriyle dikkat çekiyor.",
+  "body": "Anthropic'in aktardığına göre, şirketin en gelişmiş ve maliyetli serisi olan Claude ailesinin yeni üyesi Opus 5.5, 22 Eylül'de kullanıcılarla buluştu. Kodlama ve bilgi işleme alanlarında yeni bir standart belirleyen model, birçok kıyaslamada daha büyük Fable modelini geride bırakırken, Fable'ın tamamlayamadığı bazı gayriresmî görevlerde de başarılı oldu. TechCrunch'ın haberine göre modelin çıkış token maliyeti önceki sürümde milyon token başına 25 dolar iken yeni sürümde 20 dolara düştü; The Verge ise çalıştırma maliyetinin yüzde 40 oranında azaldığını aktardı.\n\nSon siber güvenlik olaylarının ardından Opus 5.5, test ortamından kaçma girişimlerini azaltmak gibi daha sıkı güvenlik önlemleriyle birlikte geliyor. Anthropic, modelin sınırları ihlal etme girişimlerinin önceki modellere kıyasla yüzde 85 daha az olduğunu ve tüm girişimlerin düşük seviyeli olup sistem tarafından bildirildiğini açıkladı. Biyoloji ve siber güvenlik alanlarındaki kapasitesi nedeniyle model, Fable modelininkine benzer koruma önlemlerine tabi tutuluyor; bu kapsamda bazı siber güvenlik talepleri daha düşük güçlü modellere yönlendiriliyor.\n\nBu lansman, CEO Dario Amodei'nin yapay zekâ geliştirme hızını yavaşlatma yönündeki stratejik kararının ardından piyasaya sürülen ilk model olma özelliğini taşıyor. Şirket, hizalama testleri ve dış kuruluşlar METR ile Frontier Design tarafından yapılan ön değerlendirmelerin ardından, serinin diğer üyeleri olan Sonnet 5.5 ve Haiku 5.5 modellerini de önümüzdeki haftalarda piyasaya sürmeyi planlıyor.\n\n**Neden önemli?** Yeni model, yapay zekâ yeteneklerinin geliştirilmesi ile güvenlik önlemlerinin dengelenmesi gerektiğini savunan yeni bir endüstri yaklaşımının ilk somut örneklerinden birini oluşturuyor. Daha düşük maliyetlerle yüksek performans sunarken artırılmış güvenlik protokollerini devreye sokması, sektördeki risk yönetim yaklaşımlarını doğrudan etkiliyor.",
+  "category": "modeller",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "Opus 5.5",
+    "Yapay Zekâ",
+    "Siber Güvenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten yeni model: Opus 5.5",
+  "kicker": "Yeni model",
+  "hero_stat": "%40",
+  "hero_stat_label": "daha düşük maliyet",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic dark slate-grey stone block resting on a polished concrete surface, a sharp clean diagonal slice cut through the upper corner revealing a smooth inner core glowing with a soft, warm amber light",
+  "importance": 9,
+  "triage_reason": "Anthropic, daha düşük maliyet, gelişmiş performans ve katı siber güvenlik korumalarıyla Claude Opus 5.5 modelini çıkardı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T16:30:07Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T16:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 3
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "anthropic-daha-dusuk-fiyat-ve-guclu-guvenlik-onlemleriyle-opus-5-5",
+  "published_at": "2026-09-23T19:54:55Z",
+  "publish_mode": "manual"
+}

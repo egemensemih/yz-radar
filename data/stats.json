@@ -1,4 +1,52 @@
 {
-  "sources": {},
-  "decisions": []
+  "sources": {
+    "OpenAI": {
+      "approved": 1,
+      "rejected": 0
+    },
+    "Ars Technica": {
+      "approved": 1,
+      "rejected": 0
+    },
+    "TechCrunch": {
+      "approved": 3,
+      "rejected": 0
+    },
+    "The Verge": {
+      "approved": 3,
+      "rejected": 0
+    }
+  },
+  "decisions": [
+    {
+      "t": "2026-09-23T19:54:51Z",
+      "id": "244c14b93d",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-23T19:54:55Z",
+      "id": "37feee2eb4",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-23T19:54:59Z",
+      "id": "084914f8e1",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-23T19:55:04Z",
+      "id": "00983b0692",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-23T19:55:07Z",
+      "id": "0a0b74ecb8",
+      "ok": true,
+      "manual": true
+    }
+  ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "244c14b93d",
+  "created_at": "2026-09-23T19:53:27Z",
+  "title": "OpenAI, maliyet odaklı yeni modelleri GPT-6 Sol ve Luna’yı duyurdu",
+  "summary": "OpenAI, GPT-6 ailesini daha verimli ve ekonomik modeller olan GPT-6 Sol ve Luna ile genişlettiğini açıkladı.",
+  "body": "OpenAI'ın duyurusuna göre, ay başında tanıtılan GPT-6 Astra'nın ardından maliyet etkinliği ve hıza odaklanan GPT-6 Sol ve Luna modelleri kullanıcıların erişimine sunuldu. Yeni modeller; profesyonel işler, kodlama, olgusal doğruluk ve bilgisayar kullanımı gibi alanlarda Astra seviyesindeki yetenekleri daha uygun fiyatlarla sunmayı amaçlıyor.\n\nŞirket, önbellekleme ve çıkarım süreçlerindeki iyileştirmeler sayesinde Sol ve Luna modellerinin API fiyatlarında önceki nesil GPT-5.6 promosyon fiyatlarına kıyasla yüzde 50 indirime gittiklerini belirtti. TechCrunch'ın aktardığına göre Sol karmaşık kodlama gibi işler için tasarlanırken, Luna belge özetleme ve hızlı soru yanıtlama gibi yüksek hacimli görevlerde konumlandırılıyor.\n\nArs Technica'nın haberine göre bu yeni model duyuruları, yapay zeka laboratuvarlarının artan maliyetler ve açık ağırlıklı alternatiflerin rekabeti karşısında kurumsal müşterilere daha ekonomik çözümler sunma yarışının bir parçası olarak öne çıkıyor. Öte yandan OpenAI, prompt önbellekleme iyileştirmeleriyle girdi token okumalarında yüzde 90'a varan indirimler sağlandığını kaydetti.\n\n**Neden önemli?** GPT-6 Sol ve Luna, yapay zeka şirketlerinin gelişmiş zeka sunarken işletmeler için maliyetleri düşürme ve verimliliği artırma odaklı rekabetinin son örneğini oluşturuyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "GPT-6 Sol",
+    "GPT-6 Luna",
+    "Yapay Zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan yeni modeller: GPT-6 Sol ve Luna",
+  "kicker": "Yeni model",
+  "hero_stat": "%50",
+  "hero_stat_label": "api fiyat düşüşü",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist arrangement of thin translucent slate panels stacked horizontally on a pale concrete surface, casting soft shadows, illuminated by a neutral daylight source from the side, emphasizing smooth textures and clean geometric symmetry",
+  "importance": 9,
+  "triage_reason": "OpenAI, günlük işler için optimize edilmiş maliyet ve performans dengesine sahip GPT-6 Sol ve Luna modellerini çıkardı.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T18:00:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/#comments",
+      "published": "2026-09-22T21:25:18Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI",
+    "Ars Technica",
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 2
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "openai-maliyet-odakli-yeni-modelleri-gpt-6-sol-ve-lunayi-duyurdu",
+  "published_at": "2026-09-23T19:54:50Z",
+  "publish_mode": "manual"
+}

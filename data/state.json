@@ -1,12 +1,103 @@
 {
-  "telegram_offset": 0,
-  "last_collect": null,
+  "telegram_offset": 614197213,
+  "last_collect": "2026-09-23T19:51:37Z",
   "last_summary_date": "2026-09-23",
   "mode_override": null,
   "paused": false,
-  "seeded_sources": [],
-  "source_health": {},
-  "day_counts": {},
+  "seeded_sources": [
+    "Anthropic",
+    "Ars Technica",
+    "Google",
+    "Google DeepMind",
+    "Google Research",
+    "Hugging Face",
+    "MIT Technology Review",
+    "NVIDIA",
+    "OpenAI",
+    "TechCrunch",
+    "The Verge",
+    "Webrazzi"
+  ],
+  "source_health": {
+    "OpenAI": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 1225
+    },
+    "Anthropic": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 11
+    },
+    "Google DeepMind": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 100
+    },
+    "Google Research": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 100
+    },
+    "Google": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 20
+    },
+    "NVIDIA": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 18
+    },
+    "Hugging Face": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 867
+    },
+    "TechCrunch": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 20
+    },
+    "The Verge": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 10
+    },
+    "MIT Technology Review": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 10
+    },
+    "VentureBeat": {
+      "fails": 1,
+      "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
+    },
+    "Ars Technica": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:36Z",
+      "count": 20
+    },
+    "Webrazzi": {
+      "fails": 0,
+      "last_ok": "2026-09-23T19:51:37Z",
+      "count": 15
+    },
+    "Hacker News": {
+      "fails": 1,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+    }
+  },
+  "day_counts": {
+    "2026-09-23": {
+      "tok_in": 15991,
+      "tok_out": 8805,
+      "cost_usd": 0.0,
+      "drafts": 5,
+      "published": 5,
+      "approved": 5
+    }
+  },
   "last_error_notice": null,
   "chat_id_hint_sent": [],
   "commands_version": 1

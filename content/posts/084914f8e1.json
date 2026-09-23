@@ -1,0 +1,50 @@
+{
+  "id": "084914f8e1",
+  "created_at": "2026-09-23T19:54:13Z",
+  "title": "Enveda doğadan ilham alan yapay zeka ilaçları için 311 milyon dolar yatırım aldı",
+  "summary": "Biyoteknoloji girişimi Enveda, yapay zeka destekli doğa kaynaklı ilaç geliştirmelerini ilerletmek amacıyla 311 milyon dolarlık C Serisi yatırım turunu tamamladı.",
+  "body": "TechCrunch'ın aktardığına göre, doğadan yeni ilaçlar keşfetmek için yapay zeka kullanan biyoteknoloji girişimi Enveda, Catalio Capital Management liderliğinde ve Iconiq gibi katılımcıların desteğiyle 311 milyon dolar tutarında bir yatırım elde etti. 2019 yılında Viswa Colluru tarafından kurulan şirket, bu finansman turuyla değerlemesini bir yıl önceki seviyesinin iki katına çıkararak 2 milyar dolara ulaştırdı.\n\nLaboratuvarda sıfırdan sentetik ilaçlar üretmek yerine bitki ve mikroplardaki potansiyel tıbbi bileşenleri yapay zeka teknikleriyle hızla taramayı amaçlayan girişim, aday ilaçlarını insan klinik deneylerine taşımayı hedefliyor. Şirket halihazırda şiddetli cilt rahatsızlıklarını hedefleyen bir ilacın yanı sıra GLP-1 kullanımının bırakılmasının ardından kilo kaybının sürdürülmesine yardımcı olmak üzere tasarlanan bir ilacı hastalar üzerinde test ediyor.\n\n**Neden önemli?** Yapay zeka henüz FDA onaylı bir ilaç üretmemiş olsa da, Enveda gibi şirketler yapay zeka tarafından keşfedilen adayları insan klinik deneylerine taşıyan yeni dalga girişimler arasında yer alıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Enveda",
+    "yapay zeka",
+    "biyoteknoloji",
+    "yatırım",
+    "ilaç keşfi"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Enveda yapay zeka destekli ilaçlar için yatırım aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "311 milyon $",
+  "hero_stat_label": "Serisi E yatırım tutarı",
+  "visual_style": "studio",
+  "visual_scene": "a smooth ceramic pod resting on a brushed steel surface, beside a small, translucent amber glass vial containing abstract glowing green botanical fibers, captured with soft directional studio light and a shallow depth of field",
+  "importance": 8,
+  "triage_reason": "Yapay zeka odaklı biyoteknoloji şirketi Enveda, klinik çalışmalar için 311 milyon dolar yatırım aldı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T19:31:28Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 4
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "enveda-dogadan-ilham-alan-yapay-zeka-ilaclari-icin-311-milyon-dolar",
+  "published_at": "2026-09-23T19:54:59Z",
+  "publish_mode": "manual"
+}

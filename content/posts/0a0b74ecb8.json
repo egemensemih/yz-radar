@@ -1,0 +1,49 @@
+{
+  "id": "0a0b74ecb8",
+  "created_at": "2026-09-23T19:54:25Z",
+  "title": "Anthropic'in yapay zeka ajanı Claude yeni bir enzim sistemi buldu",
+  "summary": "Anthropic, Claude yapay zeka ajanlarının Crispr sistemine benzeyen yeni bir enzim sistemini özerk olarak keşfettiğini duyurdu.",
+  "body": "The Verge'ün aktardığına göre, Anthropic bünyesindeki yeni biyoloji laboratuvarından ilk sonuçlar elde edildi. Şirketin açıklamasına göre Claude modelleri, devasa bir DNA dizisi veritabanını tarayarak daha önce karakterize edilmemiş yeni bir enzim sistemi keşfetti. Bakterileri enfekte eden virüs türü olan bakteriyofajlarda bulunan bu sistem, şirket tarafından güçlü gen düzenleme aracı Crispr ile kıyaslandı.\n\nSüreç boyunca yaklaşık 950 Claude ajanı, 21 saatlik bir süre zarfında 210 milyon token işledi. Bu süre sonunda ajanlardan biri veri setinde alışılmadık bir tekrar deseni fark ederek durumu insan incelemesine taşıdı. İnsan bilimcilerin katılımının başlangıçtaki komut ve laboratuvar çalışmalarıyla sınırlı olduğu belirtilirken, Anthropic yetkilileri bu bulguların pratik uygulamalarının olupceğinin henüz netleşmediğini ifade etti.\n\nŞirket, Claude modelinin bilim alanındaki yeteneklerini göstermek ve topluluğa bilgi sağlamak amacıyla bu erken duyuruyu yaptığını belirtti. Diğer yapay zeka şirketleri de yetenekli modellerinin değerini kanıtlamak için bilimsel araştırmalara yöneliyor.\n\n**Neden önemli?** Yapay zeka şirketlerinin bilimsel araştırmalara ve laboratuvar çalışmalarına odaklandığı bir dönemde gerçekleşen bu gelişme, yapay zeka ajanlarının karmaşık veri setlerindeki özerk keşif potansiyelini göstermesi açısından dikkat çekiyor.",
+  "category": "arastirma",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "Crispr",
+    "Biyoloji"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic yapay zekası Claude yeni enzim sistemi keşfetti",
+  "kicker": "Bilimsel araştırma",
+  "hero_stat": "950",
+  "hero_stat_label": "çalışan Claude ajanı",
+  "visual_style": "studio",
+  "visual_scene": "a single translucent glass vessel containing delicate glowing DNA strands, casting soft amber light onto a smooth dark stone surface",
+  "importance": 8,
+  "triage_reason": "Anthropic'in ıslak laboratuvarı, Claude yapay zeka modelinin Crispr benzeri yeni bir enzim sistemini otonom olarak keşfettiğini açıkladı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 5
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "anthropic-in-yapay-zeka-ajani-claude-yeni-bir-enzim-sistemi-buldu",
+  "published_at": "2026-09-23T19:55:07Z",
+  "publish_mode": "manual"
+}
