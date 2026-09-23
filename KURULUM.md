@@ -1,4 +1,4 @@
-# Kurulum rehberi (yaklaşık 25–35 dakika)
+# Kurulum rehberi (yaklaşık 20–30 dakika, tamamen ücretsiz)
 
 Kod yazmana gerek yok. Sırayla 7 adım var. Takılırsan bir sonraki adıma geçme, bana yaz.
 
@@ -13,24 +13,22 @@ Kod yazmana gerek yok. Sırayla 7 adım var. Takılırsan bir sonraki adıma ge�
 5. BotFather sana uzun bir **token** verir (`123456789:AA...` gibi). Bir yere kopyala. → Bu **TELEGRAM_BOT_TOKEN**.
 6. Oluşan botu aç ve **Başlat**'a (/start) bas.
 
-## 2) Claude API anahtarını al (5 dk)
+## 2) Ücretsiz Gemini anahtarını al (3 dk)
 
-1. <https://platform.claude.com> adresinden hesap aç.
-2. **Settings → Billing** bölümünden kredi yükle (başlangıç için 10–20 $ yeterli).
-3. **Settings → API keys** → **Create key**. Süre (expiration) olarak en uzun seçeneği seç.
-4. `sk-ant-` ile başlayan anahtarı kopyala (bir kez gösterilir). → Bu **ANTHROPIC_API_KEY**.
-
-> Tahmini maliyet: Günde ~15–20 haber için ayda yaklaşık 30–50 $. Bot her akşam o günün tahmini maliyetini Telegram'dan bildirir. `config.yaml` içindeki `max_drafts_per_day` ile üst sınır koyabilirsin.
-
-## 3) Google görsel anahtarını al (5 dk)
-
-Her habere özel görseli Google'ın görsel modeli üretir.
+Haberleri Google Gemini'nin **ücretsiz katmanı** yazar. Kredi kartı gerekmez.
 
 1. <https://aistudio.google.com/apikey> adresine Google hesabınla gir.
-2. **Create API key** ile anahtar oluştur ve kopyala. → Bu **GEMINI_API_KEY**.
-3. Görsel modelleri ücretsiz katmanda yok. Aynı sayfadan **Set up billing** ile ödeme yöntemini bağla.
+2. **Create API key** → **Create key**. Anahtarı kopyala. → Bu **GEMINI_API_KEY**.
+3. **Set up billing / Upgrade** gibi ödeme düğmelerine **tıklama.** Faturalandırma açılmadığı sürece hiçbir ücret çıkmaz; günlük sınır dolarsa bot sadece bir sonraki taramayı bekler.
 
-> Tahmini maliyet: Görsel başına yaklaşık 0,035 $. Günde 20 haberle ayda yaklaşık 20 $. Bu anahtarı eklemezsen sistem yine çalışır; o zaman her habere özgü, ücretsiz 3D görseller üretilir.
+> Toplam maliyet: **0 $.** GitHub, Telegram ve Gemini'nin ücretsiz katmanı yeterli.
+> Not: Ücretsiz katmanda Google gönderilen metinleri ürünlerini geliştirmek için kullanabilir. Bot yalnızca herkese açık haber metinlerini gönderdiği için sorun değil.
+
+## 3) (İsteğe bağlı, ücretli) Ekstralar
+
+Varsayılan kurulumda bunlara **gerek yok**:
+- **Yapay zeka görselleri:** `config.yaml` → `images.ai: true`. Google ödeme yöntemi ister. Kapalıyken her habere özgü, ücretsiz 3D kapaklar üretilir.
+- **Claude ile yazım:** `config.yaml` → `ai.provider: claude` ve `ANTHROPIC_API_KEY` gizli anahtarı. Ücretlidir.
 
 ## 4) GitHub deposunu oluştur ve dosyaları yükle (5 dk)
 
@@ -54,14 +52,13 @@ Her habere özel görseli Google'ın görsel modeli üretir.
 
 ## 6) Gizli anahtarları gir (3 dk)
 
-**Settings → Secrets and variables → Actions → New repository secret**. Dört anahtarı tek tek ekle:
+**Settings → Secrets and variables → Actions → New repository secret**. Üç anahtarı tek tek ekle:
 
 | Name (birebir böyle yaz) | Secret (değer) |
 |---|---|
-| `ANTHROPIC_API_KEY` | 2. adımdaki `sk-ant-...` anahtarı |
 | `TELEGRAM_BOT_TOKEN` | 1. adımdaki BotFather token'ı |
 | `TELEGRAM_CHAT_ID` | Senin Telegram numaran (aşağıya bak) |
-| `GEMINI_API_KEY` | 3. adımdaki Google anahtarı |
+| `GEMINI_API_KEY` | 2. adımdaki Google anahtarı |
 
 **TELEGRAM_CHAT_ID'yi öğrenmenin en kolay yolu:** Telegram'da **@userinfobot**'a `/start` yaz. Sana verdiği **Id** numarasını kopyala.
 (Diğer yol: İlk ikisini girip 7. adımı çalıştır, sonra kendi botuna `/start` yaz. Bot sana numaranı söyler.)
@@ -82,7 +79,7 @@ Bundan sonra her şey kendiliğinden çalışır. Sistem her 10 dakikada bir uya
 
 - Telegram'a gelen her haberde: **✅ Yayınla**, **❌ Reddet**, **📄 Tam metin**, **🔁 Yeniden yaz**, **🎨 Yeni görsel** düğmeleri var.
 - **Görseli sen yönet:** Haber mesajını yanıtlayıp `görsel: cam bir satranç tahtası üzerinde parlayan piyonlar` gibi yazarsan görsel bu sahneye göre yeniden üretilir.
-- **Instagram:** Yayınlanan her haberin post (1080×1350) ve story (1080×1920) görseli Telegram'a gelir. Otomatik paylaşım 2. aşamada eklenecek; o zamana kadar bunları indirip elle paylaşabilirsin. Instagram, yapay zeka ile üretilmiş görseller için "AI info" etiketi isteyebilir.
+- **Instagram:** Yayınlanan her haberin post (1080×1350) ve story (1080×1920) görseli Telegram'a gelir. Otomatik paylaşım 2. aşamada eklenecek; o zamana kadar bunları indirip elle paylaşabilirsin. Yapay zeka görsellerini açarsan Instagram bunlar için "AI info" etiketi isteyebilir.
 - **Düzeltme:** Haber mesajını yanıtla ve talimat yaz (ör. "başlığı kısalt").
 - Butona bastıktan sonra işlem genellikle birkaç dakikada, en geç ~15 dakikada gerçekleşir; mesaj güncellenir.
 - **Öğrenen mod:** Önce 30 karar vermen gerekir. Ardından en az 10 kararda %90 onay verdiğin kaynaklardan gelen net haberler otomatik yayınlanır. Bunlar sana sessiz bildirim olarak gelir ve **🗑 Kaldır** düğmesiyle geri alınabilir.
