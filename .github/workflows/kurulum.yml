@@ -1,0 +1,31 @@
+name: Kurulum (tek seferlik)
+
+# yz-radar.zip paketini depoya açar, sonra paketi siler.
+# Paket yoksa hiçbir şey yapmaz.
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  paketi-ac:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Paketi aç
+        run: |
+          if [ ! -f yz-radar.zip ]; then echo "Açılacak paket yok."; exit 0; fi
+          mkdir -p /tmp/paket
+          unzip -q yz-radar.zip -d /tmp/paket
+          src=/tmp/paket
+          if [ -d /tmp/paket/yz-radar ]; then src=/tmp/paket/yz-radar; fi
+          rm -rf "$src/.github"
+          cp -a "$src"/. .
+          git rm -q yz-radar.zip
+          git config user.name "haber-botu"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Proje dosyaları paketten açıldı"
+          git push
