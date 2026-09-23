@@ -23,6 +23,36 @@ CATEGORIES: dict[str, tuple[str, str]] = {
 }
 DEFAULT_CATEGORY = "urunler"
 
+# Kategori sayfaları için arama motoru başlığı ve tanıtım metni
+CATEGORY_SEO: dict[str, tuple[str, str]] = {
+    "modeller": ("Yapay zeka modelleri haberleri",
+                 "GPT, Gemini, Claude, Llama ve diğer büyük dil modellerindeki yeni sürümler, yetenekler ve karşılaştırmalar."),
+    "urunler": ("Yapay zeka ürünleri ve araçları",
+                "ChatGPT, Gemini ve Copilot gibi yapay zeka uygulamalarındaki yeni özellikler, geliştirici araçları ve API güncellemeleri."),
+    "arastirma": ("Yapay zeka araştırmaları",
+                  "Yapay zeka alanındaki yeni bilimsel makaleler, deney sonuçları ve teknik buluşlar."),
+    "sirketler": ("Yapay zeka şirketleri ve yatırımlar",
+                  "OpenAI, Anthropic, Google, NVIDIA ve yapay zeka girişimlerinin yatırım turları, satın almaları ve iş stratejileri."),
+    "politika": ("Yapay zeka regülasyonu ve güvenliği",
+                 "Yapay zeka yasaları, davalar, güvenlik ve etik tartışmaları ile hükümetlerin aldığı kararlar."),
+    "donanim": ("Yapay zeka çipleri ve altyapısı",
+                "GPU'lar, yapay zeka çipleri, veri merkezleri ve enerji altyapısındaki gelişmeler."),
+    "acik-kaynak": ("Açık kaynak yapay zeka",
+                    "Açık ağırlıklı modeller, açık kaynak yapay zeka araçları ve topluluk projeleri."),
+    "turkiye": ("Türkiye'de yapay zeka",
+                "Türkiye'deki yapay zeka girişimleri, yatırımlar, kamu politikaları ve yerli projeler."),
+}
+
+
+def category_seo(slug: str) -> tuple[str, str]:
+    return CATEGORY_SEO.get(slug, (category_label(slug), ""))
+
+
+def indexnow_key(site_url: str) -> str:
+    """IndexNow (Bing/Yandex anlık bildirim) anahtarı: site adresinden türetilir, sitede /<anahtar>.txt olarak durur."""
+    import hashlib
+    return hashlib.sha1(("yzradar-indexnow:" + site_url).encode()).hexdigest()[:32]
+
 
 def category_label(slug: str) -> str:
     return CATEGORIES.get(slug, CATEGORIES[DEFAULT_CATEGORY])[0]

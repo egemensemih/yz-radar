@@ -312,6 +312,12 @@ class MockLLM:
             self.usage_cb(model, len(user) // 4, 300)
         if "stories" in schema.get("properties", {}):
             return self._triage(user)
+        if "body" not in schema.get("properties", {}):  # yalnızca SEO bilgisi
+            t = re.search(r"TITLE: (.+)", user)
+            t = t.group(1) if t else "Haber"
+            return {"focus_keyword": " ".join(t.split()[:3]), "seo_title": t[:58],
+                    "meta_description": (t + ". Gelişmenin ayrıntıları, kaynağıyla ve Türkçe olarak YZ Radar'da.")[:156],
+                    "image_alt": f"{t[:80]} haberini temsil eden 3D görsel", "tags": ["OpenAI", "Test"]}
         return self._write(user)
 
     @staticmethod
@@ -363,4 +369,9 @@ class MockLLM:
             "hero_stat_label": "",
             "visual_style": "studio",
             "visual_scene": "a smooth sculptural object on a pastel backdrop",
+            "focus_keyword": " ".join(title.split()[:3]),
+            "seo_title": title[:58],
+            "meta_description": (f"{title}. {credit} kaynaklı gelişmenin ayrıntıları, kaynağıyla ve Türkçe olarak.")[:156],
+            "slug": "",
+            "image_alt": f"{title[:80]} haberini temsil eden 3D görsel",
         }

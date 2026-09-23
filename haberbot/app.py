@@ -5,13 +5,16 @@ import html
 import os
 import re
 import time
+from urllib.parse import urlsplit
+
+import requests
 
 from . import policy
-from .config import CATEGORIES, Config, category_label
+from .config import CATEGORIES, Config, category_label, indexnow_key
 from .extract import full_text
 from .llm import LLMError, MockLLM, estimate_cost, make_llm
-from .prompts import (FLAG_LABELS, FLAGS, TRIAGE_SCHEMA, WRITE_SCHEMA, triage_system,
-                      triage_user, write_system, write_user)
+from .prompts import (FLAG_LABELS, FLAGS, SEO_SCHEMA, TRIAGE_SCHEMA, WRITE_SCHEMA, seo_system, seo_user,
+                      triage_system, triage_user, write_system, write_user)
 from .sources import fetch_all
 from .store import Store
 from .telegram import MockTelegram, Telegram, TelegramError
@@ -248,7 +251,7 @@ class App:
             "summary": clip((out.get("summary") or "").strip(), 280),
             "body": (out.get("body") or "").strip(),
             "category": cat,
-            "tags": [clip(t, 30) for t in (out.get("tags") or [])][:5],
+            "tags": [clip(t, 30) for t in (out.get("tags") or [])][:6],
             "confidence": out.get("confidence") if out.get("confidence") in CONF_LABEL else "orta",
             "flags": [f for f in (out.get("flags") or []) if f in FLAGS],
             "editor_note": clip(out.get("editor_note") or "", 200),
@@ -258,6 +261,11 @@ class App:
             "hero_stat_label": clip((out.get("hero_stat_label") or "").strip(), 36),
             "visual_style": out.get("visual_style") or "studio",
             "visual_scene": clip((out.get("visual_scene") or "").strip(), 600),
+            "focus_keyword": clip((out.get("focus_keyword") or "").strip(), 60),
+            "seo_title": clip((out.get("seo_title") or "").strip().rstrip("."), 62),
+            "meta_description": clip((out.get("meta_description") or "").strip(), 170),
+            "seo_slug": slugify(out["slug"], 64) if (out.get("slug") or "").strip() else "",
+            "image_alt": clip((out.get("image_alt") or "").strip(), 125),
         }
 
     def create_draft(self, story: dict, its: list[dict]) -> dict:
@@ -331,12 +339,13 @@ class App:
     def publish(self, d: dict, auto: bool) -> dict:
         st = self.store
         used = {p.get("slug") for p in st.posts()}
-        base = slugify(d["title"])
+        base = d.get("seo_slug") if len(d.get("seo_slug") or "") >= 12 else slugify(d["title"], 64)
         slug, n = base, 2
         while slug in used:
             slug, n = f"{base}-{n}", n + 1
         post = {k: v for k, v in d.items() if k not in ("source_texts", "status", "policy_reason")}
         post.update({"slug": slug, "published_at": iso(now_utc()), "publish_mode": "auto" if auto else "manual"})
+        self.queue_indexnow(self.cfg.post_url(slug))
         st.move_image_to_post(d["id"])
         if not st.post_image(d["id"]).exists():
             post["image"] = self.vis.make_hero(post, st.post_image(d["id"]))
@@ -362,6 +371,8 @@ class App:
         meta = f"🏷 {esc(category_label(d['category']))} · Önem {d.get('importance', '?')}/10 · Güven {CONF_LABEL.get(d.get('confidence'), '?')}"
         lines = [head, "", f"<b>{esc(d['title'])}</b>", "", "{SUMMARY}", "",
                  "📰 " + esc(", ".join(self._credits(d))), meta]
+        if d.get("focus_keyword") and kind in ("pending", "auto"):
+            lines.append(f"🔎 Google: <i>{esc(d['focus_keyword'])}</i>")
         if d.get("flags"):
             fl = ", ".join(FLAG_LABELS.get(f, f) for f in d["flags"])
             note = f" — {esc(d['editor_note'])}" if d.get("editor_note") else ""
@@ -754,6 +765,59 @@ class App:
             elif d.get("status") == "rejected" and hours_since(d.get("rejected_at")) > 24:
                 st.archive_draft(d, "rejected")
 
+    # ── ARAMA MOTORLARI ─────────────────────────────────────
+    def queue_indexnow(self, url: str) -> None:
+        q = self.state.setdefault("indexnow_queue", [])
+        if url not in q:
+            q.append(url)
+
+    def flush_indexnow(self) -> None:
+        """Önceki turda yayınlanan adresleri Bing/Yandex'e bildir (IndexNow). Site o arada yayına girmiş olur."""
+        q = self.state.get("indexnow_queue") or []
+        if not q or self.cfg.mock or not (self.cfg.raw.get("seo") or {}).get("indexnow", True):
+            return
+        site = self.cfg.site_url
+        if "localhost" in site:
+            return
+        key = indexnow_key(site)
+        urls = list(dict.fromkeys(q + [site + "/"]))[:500]
+        try:
+            r = requests.post("https://api.indexnow.org/indexnow", timeout=20, json={
+                "host": urlsplit(site).netloc, "key": key, "keyLocation": f"{site}/{key}.txt", "urlList": urls})
+            log.info("IndexNow: %d adres bildirildi (HTTP %s)", len(urls), r.status_code)
+            if r.status_code < 300 or r.status_code in (400, 403, 422):
+                self.state["indexnow_queue"] = []
+        except requests.RequestException as e:
+            log.warning("IndexNow bildirimi başarısız: %s", e)
+
+    def backfill_seo(self, limit: int = 3) -> None:
+        """SEO bilgisi olmayan eski haberlere (metnine dokunmadan) arama başlığı ve açıklaması ekle."""
+        if not self.llm:
+            return
+        todo = [p for p in self.store.posts() if not p.get("seo_title") and not p.get("seo_skip")][:limit]
+        for p in todo:
+            try:
+                out = self.llm.json(self.cfg.get("ai", "triage_model", "gemini-flash-lite-latest"),
+                                    seo_system(self.brand), seo_user(p), SEO_SCHEMA, max_tokens=2000)
+            except LLMError as e:
+                log.warning("SEO bilgisi üretilemedi (%s): %s", p["id"], e)
+                p["seo_tries"] = int(p.get("seo_tries", 0)) + 1
+                if p["seo_tries"] >= 3:
+                    p["seo_skip"] = True
+                self.store.save_post(p)
+                return
+            p["focus_keyword"] = clip((out.get("focus_keyword") or "").strip(), 60)
+            p["seo_title"] = clip((out.get("seo_title") or "").strip().rstrip("."), 62) or p.get("short_title") or p["title"]
+            p["meta_description"] = clip((out.get("meta_description") or "").strip(), 170)
+            p["image_alt"] = clip((out.get("image_alt") or "").strip(), 125)
+            tags = [clip(t, 30) for t in (out.get("tags") or []) if t and t.strip()][:6]
+            if len(tags) >= 2:
+                p["tags"] = tags
+            self.store.save_post(p)
+            self.store.site_dirty = True
+            self.queue_indexnow(self.cfg.post_url(p["slug"]))
+            log.info("SEO bilgisi eklendi: %s → %s", p["id"], p["seo_title"])
+
     def maybe_summary(self) -> None:
         now_l = local(now_utc(), self.cfg.tz)
         hour = self.cfg.get("schedule", "daily_summary_hour", 21)
@@ -795,6 +859,7 @@ class App:
         elif not self.chat_id:
             log.warning("TELEGRAM_CHAT_ID tanımlı değil; bota /start yaz, numaranı söyleyecek.")
 
+        self.flush_indexnow()
         self.process_updates()
         self.expire()
         every = self.cfg.get("schedule", "collect_every_minutes", 60)
@@ -806,6 +871,8 @@ class App:
             except Exception as e:  # noqa: BLE001
                 log.exception("Toplama hatası: %s", e)
                 self.notify_error(f"Toplama sırasında hata: {type(e).__name__}: {e}")
+        if not self.state.get("paused"):
+            self.backfill_seo()
         self.maybe_summary()
         self.listen(int(self.cfg.get("schedule", "listen_seconds", 120) or 0))
         self.store.save()

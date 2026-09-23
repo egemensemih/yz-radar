@@ -1,14 +1,15 @@
-{% macro img(p, cls='', eager=false, sizes='(min-width: 1000px) 400px, 100vw') %}
-<img src="{{ p.img }}" alt="{{ p.img_alt }}" width="1280" height="960"{% if not eager %} loading="lazy"{% endif %} decoding="async" class="{{ cls }}" style="view-transition-name: v{{ p.id }}">
+{% macro img(p, cls='', eager=false, sizes='(min-width: 1000px) 400px, 100vw', priority=false) %}
+<img src="{{ p.img }}" alt="{{ p.img_alt }}" width="1280" height="960"{% if not eager %} loading="lazy"{% endif %}{% if priority %} fetchpriority="high"{% endif %} decoding="async" class="{{ cls }}" style="view-transition-name: v{{ p.id }}">
 {% endmacro %}
 
-{% macro card(p) %}
-<a class="card reveal" href="{{ p.url }}" style="--c:{{ p.cat_color }}">
-  <div class="ph">{{ img(p) }}</div>
-  <span class="eyebrow sm">{{ p.kicker_disp }}</span>
-  <h3>{{ p.title_disp }}</h3>
+{% macro card(p, dek=true, heading='h3') %}
+<article class="card reveal" style="--c:{{ p.cat_color }}">
+  <a class="ph" href="{{ p.url }}" tabindex="-1" aria-hidden="true">{{ img(p) }}</a>
+  <a class="eyebrow sm" href="{{ p.cat_url }}">{{ p.cat_label }}</a>
+  <{{ heading }}><a href="{{ p.url }}">{{ p.title_disp }}</a></{{ heading }}>
+  {% if dek %}<p class="card-dek">{{ p.summary }}</p>{% endif %}
   <span class="t"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · {{ p.credits|join(', ') }}</span>
-</a>
+</article>
 {% endmacro %}
 
 {% macro rcard(p) %}
@@ -22,38 +23,52 @@
 </a>
 {% endmacro %}
 
-{% macro tile(p, wide=false) %}
-<article class="tile reveal{{ ' wide' if wide }}" style="--c:{{ p.cat_color }}">
-  <a class="cover" href="{{ p.url }}" aria-label="{{ p.title }}"></a>
-  <div class="tile-txt">
-    <span class="eyebrow">{{ p.kicker_disp }}</span>
-    <h2>{{ p.short_disp }}</h2>
-    {% if p.hero_stat %}
-      <div class="stat">{{ p.hero_stat }}</div>
-      {% if p.hero_stat_label %}<div class="stat-label">{{ p.hero_stat_label }}</div>{% endif %}
-    {% else %}
-      <p class="dek">{{ p.summary }}</p>
-    {% endif %}
-    <div class="links">
-      <a class="more" href="{{ p.url }}">Haberi oku</a>
-      <a class="more" href="{{ p.sources[0].url }}" rel="noopener" target="_blank">{{ p.credits[0] }}</a>
-    </div>
-  </div>
-  <div class="tile-media">{{ img(p, sizes='(min-width: 834px) 50vw, 100vw') }}</div>
+{% macro slide(p, i, n) %}
+<article class="slide" role="group" aria-roledescription="slayt" aria-label="{{ i }} / {{ n }}" style="--c:{{ p.cat_color }}" data-i="{{ i - 1 }}">
+  <a class="slide-in" href="{{ p.url }}">
+    {{ img(p, 'slide-img', eager=(i == 1), sizes='(min-width: 1232px) 1200px, 100vw', priority=(i == 1)) }}
+    <span class="slide-scrim" aria-hidden="true"></span>
+    <span class="slide-txt">
+      <span class="slide-top">
+        <span class="chip">{{ p.kicker_disp }}</span>
+        {% if p.hero_stat %}<span class="chip stat-chip"><b>{{ p.hero_stat }}</b>{% if p.hero_stat_label %} {{ p.hero_stat_label }}{% endif %}</span>{% endif %}
+      </span>
+      <h2>{{ p.title_disp }}</h2>
+      <span class="slide-dek">{{ p.summary }}</span>
+      <span class="slide-meta"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · Kaynak: {{ p.credits|join(', ') }}</span>
+    </span>
+  </a>
 </article>
 {% endmacro %}
 
-{% macro rail(posts, title, id, muted_title='') %}
+{% macro rail(posts, title, id, muted_title='', more_url='') %}
 <section class="sec{{ ' bg-alt' if id == 'son' }}" aria-labelledby="h-{{ id }}">
   <div class="wrap sec-head">
     <h2 id="h-{{ id }}">{{ title }}{% if muted_title %} <span>{{ muted_title }}</span>{% endif %}</h2>
-    <div class="arrows" data-rail="r-{{ id }}">
-      <button type="button" data-dir="-1" aria-label="Önceki">‹</button>
-      <button type="button" data-dir="1" aria-label="Sonraki">›</button>
+    <div class="sec-tools">
+      {% if more_url %}<a class="more" href="{{ more_url }}">Tümü</a>{% endif %}
+      <div class="arrows" data-rail="r-{{ id }}">
+        <button type="button" data-dir="-1" aria-label="Önceki">‹</button>
+        <button type="button" data-dir="1" aria-label="Sonraki">›</button>
+      </div>
     </div>
   </div>
   <div class="rail" id="r-{{ id }}">
     {% for p in posts %}{{ rcard(p) }}{% endfor %}
   </div>
 </section>
+{% endmacro %}
+
+{% macro crumbs(items) %}
+{# items: [(ad, göreli_url, mutlak_url), ...] #}
+<nav class="crumbs wrap" aria-label="Konum">
+  <ol>
+    {% for it in items %}
+    <li>{% if not loop.last %}<a href="{{ it[1] }}">{{ it[0] }}</a>{% else %}<span aria-current="page">{{ it[0] }}</span>{% endif %}</li>
+    {% endfor %}
+  </ol>
+</nav>
+{% set ns = namespace(els=[]) %}
+{% for it in items %}{% set ns.els = ns.els + [{"@type": "ListItem", "position": loop.index, "name": it[0], "item": it[2]}] %}{% endfor %}
+<script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": ns.els}|tojson }}</script>
 {% endmacro %}

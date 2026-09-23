@@ -104,9 +104,15 @@ WRITE_SCHEMA = {
         "hero_stat_label": {"type": "string"},
         "visual_style": {"type": "string", "enum": ["studio", "macro", "diorama", "sculpture", "still_life"]},
         "visual_scene": {"type": "string"},
+        "focus_keyword": {"type": "string"},
+        "seo_title": {"type": "string"},
+        "meta_description": {"type": "string"},
+        "slug": {"type": "string"},
+        "image_alt": {"type": "string"},
     },
     "required": ["title", "summary", "body", "category", "tags", "confidence", "flags", "editor_note",
-                 "short_title", "kicker", "hero_stat", "hero_stat_label", "visual_style", "visual_scene"],
+                 "short_title", "kicker", "hero_stat", "hero_stat_label", "visual_style", "visual_scene",
+                 "focus_keyword", "seo_title", "meta_description", "slug", "image_alt"],
     "additionalProperties": False,
 }
 
@@ -129,12 +135,22 @@ Style:
 - Keep product, model and company names in their original form. Briefly explain technical terms on first use if a general reader would not know them.
 - Money: "350 milyon dolar". Avoid "bugün/dün"; use explicit dates like "22 Eylül'de" when the sources give them.
 
+SEO (the site must rank on Google for Turkish searches — write for readers first, never keyword-stuff):
+- First decide focus_keyword: the 2–4 word Turkish phrase a Turkish reader would most likely type into Google to find THIS news, built around the main entity (e.g. "GPT-6 Sol", "Anthropic Opus 5.5", "Nvidia yapay zeka çipi", "OpenAI yatırım"). Lowercase except proper nouns.
+- Use the focus_keyword (or a natural inflection of it) in: title, the first sentence of the body, seo_title, meta_description, and at least one subheading. Keep it natural Turkish; never repeat it more than 3 times in the body.
+- Mention the full, official names of the companies, products and models involved at least once (e.g. "Google DeepMind", "Gemini 3.5 Flash"), since people search for these names.
+
 Output fields:
-- title: ≤90 characters, informative and specific (who did what). Sentence case (only first word and proper nouns capitalized). No trailing period.
-- summary: 1–2 sentences, ≤220 characters, the core news.
-- body: Markdown, 3–5 short paragraphs, 150–320 words total, no headings, no bullet lists unless listing 3+ concrete items. The LAST paragraph must start with "**Neden önemli?** " followed by 1–2 grounded sentences (no speculation beyond what sources support). Do not include a sources list; the site adds it.
+- title: the H1. ≤90 characters, informative and specific (who did what), starts with or contains the focus_keyword. Sentence case (only first word and proper nouns capitalized). No trailing period, no clickbait.
+- summary: 1–2 sentences, ≤220 characters, the core news (shown under the headline).
+- body: Markdown, 250–450 words. Structure: a 2–3 sentence lead paragraph that answers who/what/when and contains the focus_keyword; then 2 or 3 sections, each starting with a "## " subheading (short, informative, natural search-style phrase such as "## GPT-6 Sol neler sunuyor?" or "## Fiyat ve erişim"), each followed by 1–2 short paragraphs. Use a bullet list only for 3+ concrete items from the sources. Bold at most 2 key terms. The LAST paragraph (not under a new heading) must start with "**Neden önemli?** " followed by 1–2 grounded sentences (no speculation beyond what sources support). Do not include a sources list or links; the site adds them. If the sources are thin, write fewer, shorter sections rather than padding — accuracy beats length.
 - category: one of the allowed keys.
-- tags: 3–5 short tags (proper nouns or Turkish terms).
+- tags: 3–6 tags that people search for: companies, products, models, technologies, places (e.g. "OpenAI", "GPT-6", "Nvidia", "Avrupa Birliği", "büyük dil modelleri"). Use the official spelling consistently. Never use generic words like "yapay zeka", "teknoloji", "haber", and never use the names of news outlets (TechCrunch, The Verge…).
+- focus_keyword: as described above.
+- seo_title: ≤58 characters, the title shown in Google results. Starts with the focus_keyword or puts it near the start; specific and compelling but not clickbait; may differ from title. No site name, no trailing period.
+- meta_description: 140–156 characters, one or two sentences in active voice that contain the focus_keyword and tell the reader exactly what they will learn. No quotes, no emojis.
+- slug: URL slug in lowercase ASCII (convert ç→c, ğ→g, ı→i, ö→o, ş→s, ü→u), words separated by hyphens, 3–7 words, ≤60 characters, based on the focus_keyword plus the key action (e.g. "openai-gpt-6-sol-ve-luna-modellerini-duyurdu"). No stop-word padding, no dates.
+- image_alt: ≤120 characters Turkish alt text for the cover image: briefly describe the visual metaphor from visual_scene and relate it to the news topic (e.g. "Buzlu cam küplerden yükselen grafik: Enveda'nın 311 milyon dolarlık yatırımını temsil eden görsel").
 - confidence: "yuksek" if facts are clear and come from an official/primary source or several reputable reports; "orta" if a single secondary report with clear facts; "dusuk" if thin or ambiguous.
 - flags (zero or more): iddia = based on unconfirmed reports, anonymous sources or rumors; hassas = death, violence, military, elections, allegations against individuals, medical/health claims, minors; yetersiz_bilgi = source text too thin to write reliably; celiski = sources conflict; eski = not actually new; tanitim = primarily promotional/sponsored/event marketing.
 - editor_note: ≤140 characters in Turkish for the human editor explaining any flag or uncertainty; "" if nothing to note.
@@ -169,3 +185,39 @@ def write_user(sources: list[dict], today: str, previous: dict | None = None,
             f"EDITOR INSTRUCTION (follow it, while keeping all accuracy rules): {instruction or 'Metni daha akıcı ve net hale getir.'}",
         ]
     return "\n".join(parts)
+
+
+# ── 3) Yayınlanmış haberler için SEO bilgisi (metni değiştirmeden) ──
+SEO_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "focus_keyword": {"type": "string"},
+        "seo_title": {"type": "string"},
+        "meta_description": {"type": "string"},
+        "image_alt": {"type": "string"},
+        "tags": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["focus_keyword", "seo_title", "meta_description", "image_alt", "tags"],
+    "additionalProperties": False,
+}
+
+
+def seo_system(site_name: str) -> str:
+    return f"""You are the SEO editor of "{site_name}", a Turkish-language AI news site. You receive an already published Turkish article.
+Do NOT change the article. Produce search metadata in natural Türkiye Türkçesi that is faithful to the article — never add facts that are not in it.
+- focus_keyword: the 2–4 word Turkish phrase a reader would most likely type into Google to find this news, built around the main entity.
+- seo_title: ≤58 characters, starts with or contains the focus_keyword near the start, specific, no clickbait, no site name, no trailing period.
+- meta_description: 140–156 characters, active voice, contains the focus_keyword, tells the reader what they will learn. No quotes, no emojis.
+- image_alt: ≤120 characters, describes the cover image (described in VISUAL) and relates it to the news topic.
+- tags: 3–6 searchable entities (companies, products, models, technologies, places) with official spelling. Never generic words like "yapay zeka", "teknoloji", and never news outlet names."""
+
+
+def seo_user(post: dict) -> str:
+    return "\n".join([
+        f"TITLE: {post.get('title', '')}",
+        f"SUMMARY: {post.get('summary', '')}",
+        f"CURRENT TAGS: {', '.join(post.get('tags') or [])}",
+        f"VISUAL: {post.get('visual_scene', '')}",
+        "BODY:",
+        post.get("body", ""),
+    ])

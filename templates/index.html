@@ -1,67 +1,82 @@
 {% extends "base.html" %}
-{% from "_macros.html" import card, tile, rail, img %}
-{% block title %}{% if page > 1 %}Tüm haberler, sayfa {{ page }} — {{ site.name }}{% else %}{{ site.name }} — {{ site.tagline }}{% endif %}{% endblock %}
+{% from "_macros.html" import card, slide, rail %}
 
-{% block top %}
-{% if page == 1 and posts %}
-<div class="live" role="status"><span class="dot" aria-hidden="true"></span>Canlı · Son güncelleme <b><time datetime="{{ site.built_iso }}" data-rel>{{ site.built }}</time></b>{% if site.today_count %} · Bugün <b>{{ site.today_count }}</b> gelişme{% endif %}</div>
-{% endif %}
+{% block head %}
+{% if featured %}<link rel="preload" as="image" href="{{ featured[0].img }}" fetchpriority="high">{% endif %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type": "WebSite", "@id": site.url ~ "/#website", "name": site.name, "alternateName": "YZ Radar yapay zeka haberleri",
+     "url": site.url ~ "/", "inLanguage": "tr-TR", "description": site.home_description,
+     "publisher": {"@id": site.url ~ "/#org"}},
+    {"@type": "NewsMediaOrganization", "@id": site.url ~ "/#org", "name": site.name, "url": site.url ~ "/",
+     "logo": {"@type": "ImageObject", "url": site.logo, "width": 512, "height": 512},
+     "publishingPrinciples": site.url ~ "/hakkinda/"}
+  ]
+}|tojson }}</script>
 {% endblock %}
 
 {% block main %}
-{% if not posts %}
+<header class="home-head wrap">
+  <h1>Yapay zeka haberleri</h1>
+  {% if featured %}
+  <p class="live" role="status"><span class="dot" aria-hidden="true"></span>Canlı · Son güncelleme <b><time datetime="{{ site.built_iso }}" data-rel>{{ site.built }}</time></b>{% if site.today_count %} · Bugün <b>{{ site.today_count }}</b> gelişme{% endif %}</p>
+  {% endif %}
+</header>
+
+{% if not featured %}
   <section class="empty">
-    <h1>{{ site.name }} yayına hazırlanıyor.</h1>
-    <p>{{ site.tagline }}</p>
+    <p>{{ site.name }} yayına hazırlanıyor. {{ site.tagline }}</p>
   </section>
-{% elif page == 1 %}
-  {% set lead = posts[0] %}
-  <section class="hero" style="--c:{{ lead.cat_color }}">
-    <span class="eyebrow">{{ lead.kicker_disp }}</span>
-    <h1>{{ lead.title_disp }}</h1>
-    {% if lead.hero_stat %}
-      <div class="hero-stat"><div class="stat">{{ lead.hero_stat }}</div>{% if lead.hero_stat_label %}<div class="stat-label">{{ lead.hero_stat_label }}</div>{% endif %}</div>
-    {% else %}
-      <p class="dek">{{ lead.summary }}</p>
-    {% endif %}
-    <div class="links">
-      <a class="more" href="{{ lead.url }}">Haberi oku</a>
-      <a class="more" href="{{ lead.sources[0].url }}" rel="noopener" target="_blank">Kaynak: {{ lead.credits[0] }}</a>
-    </div>
-    <a class="hero-media" href="{{ lead.url }}" tabindex="-1" aria-hidden="true">{{ img(lead, eager=true, sizes='100vw') }}</a>
-  </section>
-
-  {% set tiles = posts[1:5] %}
-  {% if tiles %}
-  <section class="tiles" aria-label="Öne çıkanlar">
-    {% for p in tiles %}{{ tile(p, wide=(loop.length is odd and loop.last)) }}{% endfor %}
-  </section>
-  {% endif %}
-
-  {% set rest = posts[5:] %}
-  {% if rest|length >= 3 %}
-    {{ rail(rest[:10], 'Son gelişmeler.', 'son', 'Kaçırmayın.') }}
-    {% set grid_posts = rest[10:] %}
-  {% else %}
-    {% set grid_posts = rest %}
-  {% endif %}
-
-  {% if grid_posts %}
-  <section class="sec wrap" aria-labelledby="h-tum">
-    <div class="sec-head"><h2 id="h-tum">Tüm haberler.</h2></div>
-    <div class="grid">{% for p in grid_posts %}{{ card(p) }}{% endfor %}</div>
-  </section>
-  {% endif %}
-  {% if pages > 1 %}
-  <nav class="pager wrap" aria-label="Sayfalar"><span class="muted">1 / {{ pages }}</span><a class="more" href="{{ next_url }}">Daha eski haberler</a></nav>
-  {% endif %}
 {% else %}
-  <header class="page-head wrap"><span class="eyebrow" style="--c:#6E6E73">Arşiv</span><h1>Tüm haberler.</h1><p>Sayfa {{ page }} / {{ pages }}</p></header>
-  <section class="wrap"><div class="grid">{% for p in posts %}{{ card(p) }}{% endfor %}</div></section>
-  <nav class="pager wrap" aria-label="Sayfalar">
-    {% if prev_url %}<a class="more" href="{{ prev_url }}">Daha yeni</a>{% endif %}
-    <span class="muted">{{ page }} / {{ pages }}</span>
-    {% if next_url %}<a class="more" href="{{ next_url }}">Daha eski</a>{% endif %}
+  <section class="car" aria-roledescription="carousel" aria-label="Öne çıkan yapay zeka haberleri" data-interval="6500">
+    <div class="car-track" id="car-track">
+      {% for p in featured %}{{ slide(p, loop.index, loop.length) }}{% endfor %}
+    </div>
+    {% if featured|length > 1 %}
+    <div class="car-ui wrap">
+      <div class="car-dots">
+        {% for p in featured %}
+        <button type="button" data-go="{{ loop.index0 }}" aria-label="{{ loop.index }}. manşet: {{ p.short_title or p.title }}"{% if loop.first %} aria-current="true"{% endif %}><i></i></button>
+        {% endfor %}
+      </div>
+      <div class="car-ctrl">
+        <button type="button" class="car-play" aria-label="Otomatik geçişi durdur" data-state="play"><span aria-hidden="true"></span></button>
+        <button type="button" class="car-arr" data-dir="-1" aria-label="Önceki manşet">‹</button>
+        <button type="button" class="car-arr" data-dir="1" aria-label="Sonraki manşet">›</button>
+      </div>
+    </div>
+    {% endif %}
+  </section>
+
+  <nav class="chips wrap" aria-label="Kategoriler">
+    {% for c in site.categories if c.count %}
+    <a class="chip-link" href="{{ c.url }}" style="--c:{{ c.color }}"><i aria-hidden="true"></i>{{ c.label }}<span>{{ c.count }}</span></a>
+    {% endfor %}
   </nav>
+
+  <section class="sec wrap" aria-labelledby="h-son">
+    <div class="sec-head"><h2 id="h-son">Son gelişmeler.</h2></div>
+    <div class="grid">{% for p in latest %}{{ card(p) }}{% endfor %}</div>
+    {% if next_url %}
+    <nav class="pager" aria-label="Sayfalar"><a class="more" href="{{ next_url }}">Daha eski haberler</a></nav>
+    {% endif %}
+  </section>
+
+  {% for r in rails %}
+    {{ rail(r.posts, r.cat.seo_title ~ '.', 'k-' ~ r.cat.slug, '', r.cat.url) }}
+  {% endfor %}
+
+  {% if tags %}
+  <section class="sec wrap" aria-labelledby="h-konu">
+    <div class="sec-head"><h2 id="h-konu">Popüler konular.</h2></div>
+    <div class="tags">{% for t in tags %}<a href="{{ t.url }}">{{ t.label }}<span>{{ t.count }}</span></a>{% endfor %}</div>
+  </section>
+  {% endif %}
+
+  <section class="about-note wrap" aria-labelledby="h-hakkinda">
+    <h2 id="h-hakkinda">{{ site.name }} nedir?</h2>
+    <p>{{ site.name }}, dünyadaki yapay zeka gelişmelerini Türkçe olarak takip eden bir haber sitesidir. OpenAI, Google, Anthropic, NVIDIA ve Hugging Face gibi şirketlerin resmi duyurularını ve saygın teknoloji yayınlarını her saat tarar. ChatGPT, Gemini ve Claude gibi yapay zeka modellerindeki yenilikleri, yatırımları, araştırmaları ve regülasyon haberlerini sade bir dille, her zaman orijinal kaynağıyla aktarır. <a href="{{ site.base }}/hakkinda/">Yayın ilkelerimiz</a></p>
+  </section>
 {% endif %}
 {% endblock %}
