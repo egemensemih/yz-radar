@@ -148,7 +148,7 @@ class GeminiLLM:
         self._variant_ok: dict[str, int] = {}
 
     def _post(self, model: str, body: dict) -> dict:
-        delays = [15, 35, 65]
+        delays = [10, 25]
         for attempt in range(len(delays) + 1):
             wait = self.min_interval - (time.time() - self._last)
             if wait > 0:
@@ -207,6 +207,9 @@ class GeminiLLM:
                         break
                     if "HTTP 400" in msg:
                         continue
+                    if re.search(r"HTTP (429|5\d\d)|Tekrar denemeler|Bağlantı", msg):
+                        log.warning("Gemini %s meşgul/sınırda, sıradaki model deneniyor", m)
+                        break
                     raise
                 usage = resp.get("usageMetadata") or {}
                 if self.usage_cb:
