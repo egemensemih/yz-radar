@@ -1,4 +1,4 @@
-"""Claude API istemcisi (yapılandırılmış JSON çıktısı) + test için sahte (mock) mod."""
+"""Yapay zeka istemcileri: Google Gemini (ücretsiz), Claude (isteğe bağlı) + test için sahte mod."""
 from __future__ import annotations
 
 import json
@@ -21,6 +21,8 @@ PRICES = {
 
 
 def estimate_cost(model: str, tok_in: int, tok_out: int) -> float:
+    if model.startswith("gemini") or model.startswith("gemma"):
+        return 0.0  # ücretsiz katman
     for k, (pi, po) in PRICES.items():
         if k in model:
             return tok_in / 1e6 * pi + tok_out / 1e6 * po
@@ -109,6 +111,136 @@ class LLM:
                 last_err = LLMError(f"JSON çözümlenemedi: {e}; metin: {text[:200]}")
                 continue
         raise LLMError(str(last_err))
+
+
+# ── Google Gemini (ücretsiz katman) ─────────────────────────
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+GEMINI_FALLBACKS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
+
+
+def _gemini_schema(schema, upper: bool):
+    """JSON şemasını Gemini'nin kabul ettiği alt kümeye indir."""
+    if isinstance(schema, dict):
+        out = {}
+        for k, v in schema.items():
+            if k == "additionalProperties":
+                continue
+            if k == "type" and isinstance(v, str):
+                out[k] = v.upper() if upper else v
+            else:
+                out[k] = _gemini_schema(v, upper)
+        return out
+    if isinstance(schema, list):
+        return [_gemini_schema(v, upper) for v in schema]
+    return schema
+
+
+class GeminiLLM:
+    """Google Gemini API: ücretsiz katmanda kredi kartı gerektirmez (dakika/gün sınırlıdır)."""
+
+    min_interval = 7.0  # ücretsiz katman: dakikada ~10 istek
+
+    def __init__(self, api_key: str, usage_cb=None):
+        self.api_key = api_key
+        self.usage_cb = usage_cb
+        self._last = 0.0
+        self._model_ok: dict[str, str] = {}
+        self._variant_ok: dict[str, int] = {}
+
+    def _post(self, model: str, body: dict) -> dict:
+        delays = [15, 35, 65]
+        for attempt in range(len(delays) + 1):
+            wait = self.min_interval - (time.time() - self._last)
+            if wait > 0:
+                time.sleep(wait)
+            self._last = time.time()
+            try:
+                r = requests.post(GEMINI_URL.format(model=model), json=body, timeout=300,
+                                  headers={"x-goog-api-key": self.api_key, "Content-Type": "application/json"})
+            except requests.RequestException as e:
+                if attempt < len(delays):
+                    time.sleep(delays[attempt])
+                    continue
+                raise LLMError(f"Bağlantı hatası: {e}") from e
+            if r.status_code in (429, 500, 502, 503, 504) and attempt < len(delays):
+                log.warning("Gemini API %s, %ss sonra tekrar denenecek", r.status_code, delays[attempt])
+                time.sleep(delays[attempt])
+                continue
+            if r.status_code >= 400:
+                raise LLMError(f"HTTP {r.status_code}: {r.text[:300]}")
+            return r.json()
+        raise LLMError("Tekrar denemeler tükendi")
+
+    def _models(self, model: str) -> list[str]:
+        if model in self._model_ok:
+            return [self._model_ok[model]]
+        return list(dict.fromkeys([model] + GEMINI_FALLBACKS))
+
+    def json(self, model: str, system: str, user: str, schema: dict,
+             max_tokens: int = 4000, effort: str | None = None) -> dict:
+        base = {
+            "systemInstruction": {"parts": [{"text": system}]},
+            "contents": [{"role": "user", "parts": [{"text": user}]}],
+        }
+        gen = {"responseMimeType": "application/json", "maxOutputTokens": max(max_tokens, 8192)}
+        variants = [
+            {**gen, "responseJsonSchema": _gemini_schema(schema, upper=False)},
+            {**gen, "responseSchema": _gemini_schema(schema, upper=True)},
+            dict(gen),
+        ]
+        start = self._variant_ok.get(model, 0)
+        variants = variants[start:] + variants[:start]
+        last_err: Exception | None = None
+        for m in self._models(model):
+            for gc in variants:
+                body = {**base, "generationConfig": gc}
+                if "responseJsonSchema" not in gc and "responseSchema" not in gc:
+                    body["systemInstruction"] = {"parts": [{"text": system + (
+                        "\n\nReturn ONLY a JSON object matching this JSON schema:\n" + json.dumps(schema, ensure_ascii=False))}]}
+                try:
+                    resp = self._post(m, body)
+                except LLMError as e:
+                    last_err = e
+                    msg = str(e)
+                    if "HTTP 404" in msg:
+                        log.info("Gemini modeli bulunamadı (%s), sıradaki deneniyor", m)
+                        break
+                    if "HTTP 400" in msg:
+                        continue
+                    raise
+                usage = resp.get("usageMetadata") or {}
+                if self.usage_cb:
+                    self.usage_cb(m, int(usage.get("promptTokenCount", 0)), int(usage.get("candidatesTokenCount", 0)))
+                cands = resp.get("candidates") or []
+                if not cands:
+                    reason = (resp.get("promptFeedback") or {}).get("blockReason", "boş yanıt")
+                    raise LLMError(f"Gemini yanıt vermedi: {reason}")
+                parts = (cands[0].get("content") or {}).get("parts") or []
+                text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+                if cands[0].get("finishReason") == "MAX_TOKENS":
+                    last_err = LLMError("Yanıt token sınırına takıldı")
+                    continue
+                try:
+                    out = _parse_json(text)
+                    self._model_ok[model] = m
+                    self._variant_ok[model] = ("responseJsonSchema" not in gc) + ("responseSchema" not in gc and "responseJsonSchema" not in gc)
+                    return out
+                except ValueError as e:
+                    last_err = LLMError(f"JSON çözümlenemedi: {e}; metin: {text[:200]}")
+                    continue
+        raise LLMError(str(last_err))
+
+
+def make_llm(cfg, usage_cb=None):
+    """Ayarlara göre yapay zeka sağlayıcısını seç. Varsayılan: ücretsiz Gemini."""
+    provider = (cfg.get("ai", "provider", "gemini") or "gemini").lower()
+    if provider == "claude" and cfg.anthropic_key:
+        return LLM(cfg.anthropic_key, usage_cb=usage_cb)
+    if cfg.google_key:
+        return GeminiLLM(cfg.google_key, usage_cb=usage_cb)
+    if cfg.anthropic_key:
+        return LLM(cfg.anthropic_key, usage_cb=usage_cb)
+    return None
 
 
 def _parse_json(text: str) -> dict:
