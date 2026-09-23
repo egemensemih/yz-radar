@@ -4,7 +4,10 @@ Dünyadaki yapay zeka gelişmelerini toplar, Türkçe ve kaynak gösteren haberl
 Telegram'dan onayını alır ve web sitesinde yayınlar. Kararlarından öğrenir: güvendiği
 kaynaklardan gelen net haberleri zamanla kendisi yayınlamaya başlar.
 
-**Kurulum için:** `KURULUM.md` dosyasına bak (yaklaşık 25–35 dakika, kod bilgisi gerekmez).
+**Kurulum için:** `KURULUM.md` dosyasına bak (yaklaşık 20–30 dakika, kod bilgisi gerekmez).
+
+**Maliyet: 0 $.** GitHub Actions + Pages, Telegram ve Google Gemini'nin ücretsiz katmanıyla çalışır.
+Claude ve yapay zeka görselleri isteğe bağlı, ücretli eklentilerdir (`config.yaml`).
 
 ## Nasıl çalışır?
 
@@ -12,11 +15,11 @@ kaynaklardan gelen net haberleri zamanla kendisi yayınlamaya başlar.
 Her 10 dk (GitHub Actions)
  ├─ Telegram: butonlarını ve komutlarını işle
  ├─ Saatte bir: 14 kaynağı tara (RSS + Anthropic haber sayfası)
- │    ├─ Claude Haiku: aynı haberleri birleştir, 1–10 önem puanı ver, önemsizleri ele
+ │    ├─ Gemini Flash-Lite (ücretsiz): aynı haberleri birleştir, 1–10 önem puanı ver, önemsizleri ele
  │    ├─ Tam metni kaynaktan oku (robots.txt'ye uyarak)
- │    ├─ Claude Sonnet: özgün Türkçe haber + "Neden önemli?" + risk işaretleri
- │    ├─ Claude habere özel bir görsel sahne kurgular → Google görsel modeli üretir
- │    │   (anahtar yoksa habere özgü 3D stüdyo görseli; kaynak fotoğrafı asla kullanılmaz)
+ │    ├─ Gemini Flash (ücretsiz): özgün Türkçe haber + "Neden önemli?" + risk işaretleri
+ │    ├─ Kapak: habere özgü 3D stüdyo görseli (ücretsiz; kaynak fotoğrafı asla kullanılmaz)
+ │    │   İsteğe bağlı, ücretli: images.ai: true ile yapay zeka görseli
  │    ├─ Kartlar: Instagram post 1080×1350, story 1080×1920, paylaşım kapağı 1200×630
  │    │   (3 düzen: ürün, buzlu cam, dev rakam — habere göre otomatik seçilir)
  │    └─ Karar: sana sor  |  otomatik yayınla (öğrenen mod)
