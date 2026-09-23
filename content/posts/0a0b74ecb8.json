@@ -8,8 +8,7 @@
   "tags": [
     "Anthropic",
     "Claude",
-    "Crispr",
-    "Biyoloji"
+    "Crispr"
   ],
   "confidence": "yuksek",
   "flags": [],
@@ -45,5 +44,9 @@
   },
   "slug": "anthropic-in-yapay-zeka-ajani-claude-yeni-bir-enzim-sistemi-buldu",
   "published_at": "2026-09-23T19:55:07Z",
-  "publish_mode": "manual"
+  "publish_mode": "manual",
+  "focus_keyword": "Claude enzim sistemi",
+  "seo_title": "Claude yeni bir enzim sistemi buldu",
+  "meta_description": "Anthropic yapay zeka ajanı Claude, Crispr sistemine benzeyen yeni bir enzim sistemini özerk olarak keşfetti. Detayları ve sürecin gelişimini öğrenin.",
+  "image_alt": "Koyu zemin üzerinde parlayan DNA sızıntıları ve şeffaf cam kap"
 }

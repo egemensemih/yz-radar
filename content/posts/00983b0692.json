@@ -7,10 +7,9 @@
   "category": "politika",
   "tags": [
     "Bernie Sanders",
-    "ABD",
-    "Yapay Zeka",
-    "Regülasyon",
-    "Yasa Tasarısı"
+    "Greg Casar",
+    "The Verge",
+    "Gavin Newsom"
   ],
   "confidence": "yuksek",
   "flags": [],
@@ -46,5 +45,9 @@
   },
   "slug": "bernie-sanders-ve-greg-casar-dan-super-zeka-yapay-zeka-yasagi-tasarisi",
   "published_at": "2026-09-23T19:55:03Z",
-  "publish_mode": "manual"
+  "publish_mode": "manual",
+  "focus_keyword": "yapay süper zeka yasağı",
+  "seo_title": "Yapay süper zeka yasağı tasarısı hapis cezası öngörüyor",
+  "meta_description": "Bernie Sanders ve Greg Casar tarafından sunulan yeni yasa tasarısı ile yapay süper zeka geliştirilmesinin yasaklanması ve hapis cezası getirilmesi hedefleniyor.",
+  "image_alt": "Beton zemin üzerinde duran minimalist demir fren pedalı ve uzun gölgesi"
 }
