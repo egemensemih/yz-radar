@@ -1,0 +1,140 @@
+YZRADAR-BUNDLE v1 part 2/2
+@@@YZ@@@ FILE templates/cards/cover.html
+{# Haber kapağı: tek bir güçlü öğe (dev rakam, dev isim ya da dev manşet), habere özel renkler.
+   Değişkenler: layout (sayi|isim|manset|isik), tone (dark|light), pal (renk listesi), kicker, word, stat,
+   stat_label, headline, brand (bool), W, H, seed #}
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8">
+<style>
+@font-face { font-family: "IS"; src: url("{{ font_dir }}/InstrumentSans-Regular.ttf"); font-weight: 400; }
+@font-face { font-family: "IS"; src: url("{{ font_dir }}/InstrumentSans-Bold.ttf"); font-weight: 700; }
+:root {
+  --u: {{ [W, H]|min / 100 }}px;         /* kısa kenarın %1'i */
+  --c1: {{ pal[0] }}; --c2: {{ pal[1] }}; --c3: {{ pal[2] }}; --c4: {{ pal[3] }};
+  --base: {{ pal[4] }};
+  --ink: {{ ink }};
+  --ink2: {{ 'rgba(255,255,255,.74)' if ink == '#FFFFFF' else 'rgba(17,17,20,.62)' }};
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: {{ W }}px; height: {{ H }}px; overflow: hidden; }
+body { font-family: "IS", system-ui, sans-serif; background: var(--base); color: var(--ink);
+  -webkit-font-smoothing: antialiased; position: relative; isolation: isolate; }
+
+/* ── zemin ── */
+.bg { position: absolute; inset: 0; z-index: -2; overflow: hidden; }
+.blob { position: absolute; border-radius: 50%; filter: blur(calc(var(--u) * 9)); opacity: .95; }
+.t-dark .blob { opacity: .5; filter: blur(calc(var(--u) * 11)); }
+.t-light .blob { opacity: .75; }
+.t-vivid .blob { opacity: 1; filter: blur(calc(var(--u) * 8)); }
+.grain { position: absolute; inset: 0; z-index: -1; opacity: {{ '0.10' if tone == 'dark' else '0.07' }}; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>"); }
+
+/* ── ortak metin ── */
+.kicker { position: absolute; left: calc(var(--u) * 6); top: calc(var(--u) * 6); display: inline-flex; align-items: center; gap: calc(var(--u) * 1.3);
+  font-weight: 700; font-size: calc(var(--u) * 3.8); letter-spacing: -.015em; color: var(--ink); }
+.kicker i { width: calc(var(--u) * 1.9); height: calc(var(--u) * 1.9); border-radius: 50%; background: linear-gradient(135deg, var(--c1), var(--c3)); }
+.t-vivid .kicker i { background: var(--ink); }
+.brand { position: absolute; right: calc(var(--u) * 6); bottom: calc(var(--u) * 5.5); display: inline-flex; align-items: center; gap: calc(var(--u) * 1);
+  font-weight: 700; font-size: calc(var(--u) * 3); letter-spacing: -.02em; color: var(--ink); opacity: .9; }
+.brand .mk { width: calc(var(--u) * 3.2); height: calc(var(--u) * 3.2); border-radius: 50%;
+  background: linear-gradient(100deg, #FF6A3D, #FF3D8B 28%, #A259FF 58%, #3D8BFF 82%, #22C7E8);
+  -webkit-mask: radial-gradient(circle, #000 0 18%, transparent 19% 38%, #000 39% 58%, transparent 59% 66%, #000 67%);
+  mask: radial-gradient(circle, #000 0 18%, transparent 19% 38%, #000 39% 58%, transparent 59% 66%, #000 67%); }
+.grad-text { background: linear-gradient(100deg, var(--c1) 0%, var(--c2) 38%, var(--c3) 72%, var(--c4) 100%);
+  -webkit-background-clip: text; background-clip: text; color: transparent; }
+.t-light .grad-text { background-image: linear-gradient(100deg, color-mix(in oklab, var(--c2) 72%, #000) 0%,
+  color-mix(in oklab, var(--c3) 78%, #000) 55%, color-mix(in oklab, var(--c4) 70%, #000) 100%); }
+
+/* ── sosyal medya boyutları için alt yazı (kısa başlık) ── */
+.cap { position: absolute; left: calc(var(--u) * 6); right: calc(var(--u) * 6); bottom: calc(var(--u) * 12.5);
+  font-weight: 700; font-size: calc(var(--u) * 5.6); line-height: 1.1; letter-spacing: -.03em; text-wrap: balance; color: var(--ink); }
+.has-cap .center { bottom: calc(var(--u) * 24) !important; }
+
+/* ── 1) SAYI: dev rakam ── */
+.l-sayi .center { position: absolute; inset: 0; display: grid; place-content: center; justify-items: center; text-align: center;
+  padding: 0 calc(var(--u) * 9); gap: calc(var(--u) * 1.5); }
+.l-sayi .num { font-weight: 700; font-size: calc(var(--u) * 34); line-height: .9; letter-spacing: -.06em; white-space: nowrap;
+  padding: 0 .04em .06em; }
+.l-sayi .lab { font-size: calc(var(--u) * 4.6); font-weight: 700; letter-spacing: -.02em; color: var(--ink2); max-width: 22ch; text-wrap: balance; }
+.t-vivid .l-sayi .num, .l-sayi.t-vivid .num { background: none; color: var(--ink); -webkit-text-fill-color: currentColor; }
+.l-sayi.v-left .center { place-content: end start; justify-items: start; text-align: left; padding: 0 calc(var(--u) * 8) calc(var(--u) * 9); }
+.l-sayi.v-left .num { font-size: calc(var(--u) * 36); }
+.l-sayi.v-left .lab { order: -1; max-width: 26ch; }
+
+/* ── 2) İSİM: dev ürün / model adı ── */
+.l-isim .center { position: absolute; inset: 0; display: grid; place-content: center; justify-items: center; text-align: center;
+  padding: 0 calc(var(--u) * 7); }
+.l-isim .word { font-weight: 700; font-size: calc(var(--u) * 21); line-height: .95; letter-spacing: -.055em; text-wrap: balance;
+  max-width: 100%; text-shadow: 0 calc(var(--u) * .6) calc(var(--u) * 5) rgba(0,0,0,.18); }
+.l-isim .sub { margin-top: calc(var(--u) * 3.5); font-size: calc(var(--u) * 4.2); font-weight: 700; letter-spacing: -.02em; color: var(--ink2); }
+.l-isim.t-light .word { text-shadow: none; }
+
+/* ── 3) MANŞET: afiş gibi büyük başlık ── */
+.l-manset .head { position: absolute; left: calc(var(--u) * 6); right: calc(var(--u) * 6); bottom: calc(var(--u) * 12);
+  font-weight: 700; font-size: calc(var(--u) * 11.5); line-height: .98; letter-spacing: -.05em; text-wrap: balance; }
+em { font-style: normal; }
+.t-vivid .grad-text { background: none; color: var(--ink); -webkit-text-fill-color: currentColor; }
+.t-vivid .head em { text-decoration: underline; text-decoration-thickness: .06em; text-underline-offset: .12em; }
+.l-manset .glyph { position: absolute; right: calc(var(--u) * -4); top: calc(var(--u) * -10); font-weight: 700; font-size: calc(var(--u) * 70);
+  line-height: 1; letter-spacing: -.08em; opacity: {{ '0.16' if tone == 'dark' else '0.22' }}; }
+
+/* ── 4) IŞIK: karanlıkta tepeden spot ışığı ── */
+.l-isik .beam { position: absolute; left: 50%; top: -12%; width: 70%; height: 95%; transform: translateX(-50%);
+  background: radial-gradient(ellipse 50% 100% at 50% 0%, var(--c1), color-mix(in srgb, var(--c2) 60%, transparent) 38%, transparent 72%);
+  filter: blur(calc(var(--u) * 3)); opacity: .9; }
+.l-isik .floor { position: absolute; left: 20%; right: 20%; bottom: 30%; height: 12%; border-radius: 50%;
+  background: radial-gradient(closest-side, color-mix(in srgb, var(--c2) 80%, #fff), transparent); filter: blur(calc(var(--u) * 3)); opacity: .55; }
+.l-isik .head { position: absolute; left: calc(var(--u) * 7); right: calc(var(--u) * 7); bottom: calc(var(--u) * 10); text-align: center;
+  font-weight: 700; font-size: calc(var(--u) * 9.5); line-height: 1.02; letter-spacing: -.045em; text-wrap: balance; }
+</style></head>
+<body class="l-{{ layout }} t-{{ tone }} v-{{ variant }}{{ ' has-cap' if caption }}">
+<div class="bg">
+  {% for b in blobs %}<div class="blob" style="left:{{ b.x }}%; top:{{ b.y }}%; width:{{ b.s }}%; height:{{ b.s * W / H }}%; background: {{ b.c }}; transform: translate(-50%,-50%)"></div>{% endfor %}
+  {% if layout == 'isik' %}<div class="beam"></div><div class="floor"></div>{% endif %}
+</div>
+<div class="grain"></div>
+
+{% if kicker %}<div class="kicker"><i></i>{{ kicker }}</div>{% endif %}
+
+{% if layout == 'sayi' %}
+<div class="center">
+  <div class="num grad-text" data-fitw>{{ stat }}</div>
+  {% if stat_label %}<div class="lab">{{ stat_label }}</div>{% endif %}
+</div>
+{% elif layout == 'isim' %}
+<div class="center">
+  <div class="word" data-fitw data-maxh="{{ (H * 0.62)|int }}">{{ word }}</div>
+  {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+</div>
+{% elif layout == 'manset' %}
+<div class="glyph grad-text">{{ glyph }}</div>
+<div class="head" data-maxh="{{ (H * 0.62)|int }}">{{ headline|safe }}</div>
+{% else %}
+<div class="head" data-maxh="{{ (H * 0.5)|int }}">{{ headline|safe }}</div>
+{% endif %}
+
+{% if caption %}<div class="cap" data-maxh="{{ (H * 0.2)|int }}">{{ caption }}</div>{% endif %}
+{% if brand %}<div class="brand"><span class="mk"></span>{{ brand_name }}</div>{% endif %}
+
+<script>
+function fitW(el){ const cs = getComputedStyle(el.parentElement); const max = el.parentElement.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight) - 4;
+  const r = document.createRange(); r.selectNodeContents(el);
+  let fs = parseFloat(getComputedStyle(el).fontSize); while (r.getBoundingClientRect().width > max && fs > 20) { fs -= 3; el.style.fontSize = fs + "px"; } }
+function fitH(el, max){ let fs = parseFloat(getComputedStyle(el).fontSize); while (el.scrollHeight > max && fs > 20) { fs -= 3; el.style.fontSize = fs + "px"; } }
+document.fonts.ready.then(function(){
+  document.querySelectorAll("[data-fitw]").forEach(fitW);
+  document.querySelectorAll("[data-maxh]").forEach(function(e){ fitH(e, +e.dataset.maxh); });
+  window.__ready = true;
+});
+</script>
+</body></html>
+@@@YZ@@@ SHA
+0361db0d7f3d480771bd49ae3500873d3100baf4e0c26ca77d2368a438947cce  config.yaml
+10fd9fa018afc75ea0fd13d1c6f79fbce0660ef83ced9414239ec7b7b6d7ceff  haberbot/app.py
+731040ca0a049085b3eaee7eb2b7f2d5333bce457d3707e152b1a46f1e132eb5  haberbot/prompts.py
+6de7a71368d51fd449d617b79ba78b9b63a07c64670550cbde70ec7567397e2e  haberbot/site.py
+393955df3e3375f3a7f860188e98a10f57971f514183d98b7c7455fa94d26b11  haberbot/visuals.py
+8a720c18f5a9c8cba22f95326b98feec28b550b736eb1605303f4cfc077e0d24  static/style.css
+6276661a28229cffd55f7bd51b9f6ee77317bfeff33480d8b0f548cf92a16df7  templates/article.html
+759f2f2d59064fc1d4291ae9088902903eac3973731a78b5c8ce9173ace718b0  haberbot/covers.py
+94ff17ec11e56edd499dc47794d6469a67b6d6ef54c08b5512893b343ef9a412  templates/cards/cover.html
