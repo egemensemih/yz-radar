@@ -64,7 +64,7 @@
   </figure>
 
   <div class="narrow">
-    {% if post.hero_stat %}
+    {% if post.hero_stat and not post.stat_on_cover %}
     <div class="stat-band"><div class="stat">{{ post.hero_stat }}</div>{% if post.hero_stat_label %}<div class="stat-label">{{ post.hero_stat_label }}</div>{% endif %}</div>
     {% endif %}
     <div class="art-body">{{ post.body_html|safe }}</div>
