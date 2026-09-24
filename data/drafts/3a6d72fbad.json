@@ -65,6 +65,33 @@
       "via": null,
       "via_url": null,
       "published": "2026-09-23T23:19:42Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T01:13:32Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T00:46:17Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T00:15:20Z"
     }
   ],
   "source_keys": [
