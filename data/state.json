@@ -111,16 +111,5 @@
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [
-    "https://egemensemih.github.io/yz-radar/haber/openai-mentalhealthbench-testini-duyurdu/",
-    "https://egemensemih.github.io/yz-radar/haber/snorkel-ai-350-milyon-dolar-yatirim-aldi/",
-    "https://egemensemih.github.io/yz-radar/haber/chatgpt-mobilde-sesli-komut-ve-ajan-ozellikleri-kazandi/",
-    "https://egemensemih.github.io/yz-radar/haber/turkiyedeki-isletmelerin-yapay-zeka-kullanimi-yuzde-51e-yukseldi/",
-    "https://egemensemih.github.io/yz-radar/haber/google-deepmind-gemini-4-modelini-yil-sonundan-once-cikarmayi/",
-    "https://egemensemih.github.io/yz-radar/haber/ema-yapay-zeka-girisimi-77-milyon-dolar-yatirim-aldi/",
-    "https://egemensemih.github.io/yz-radar/haber/openai-yapay-zeka-ajani-medicare-verilerini-ihlal-etti/",
-    "https://egemensemih.github.io/yz-radar/haber/gemini-3-8-metin-okuma-modelleri-duyuruldu/",
-    "https://egemensemih.github.io/yz-radar/haber/abd-yonetiminden-yapay-zeka-karsitlarina-sorusturma/",
-    "https://egemensemih.github.io/yz-radar/haber/stripe-knowledge-ai-platform-duyuruldu/"
-  ]
+  "indexnow_queue": []
 }
