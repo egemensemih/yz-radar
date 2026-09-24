@@ -112,11 +112,5 @@
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [
-    "https://egemensemih.github.io/yz-radar/haber/google-deepmind-gemini-3-8-live-avatar/",
-    "https://egemensemih.github.io/yz-radar/haber/google-pixel-11-gemini-otomatik-arama-ozelligi/",
-    "https://egemensemih.github.io/yz-radar/haber/google-yapay-zeka-uydusu-project-suncatcher/",
-    "https://egemensemih.github.io/yz-radar/haber/lfm2-5-vl-dspark-gorsel-dil-modellerini-hizlandiriyor/",
-    "https://egemensemih.github.io/yz-radar/haber/lovable-yillik-gelir-orani-600-milyon-dolari-asti/"
-  ]
+  "indexnow_queue": []
 }
