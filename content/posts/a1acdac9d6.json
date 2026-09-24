@@ -55,7 +55,10 @@
     "message_id": 50
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "chatgpt-mobilde-sesli-komut-ve-ajan-ozellikleri-kazandi",
   "published_at": "2026-09-24T11:23:34Z",

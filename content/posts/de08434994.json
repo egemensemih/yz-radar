@@ -47,7 +47,10 @@
     "message_id": 24
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isik",
+    "palette": "mercan",
+    "cover_v": 1
   },
   "slug": "abd-ve-cin-yapay-zeka-guvenligi-icin-gorustu",
   "published_at": "2026-09-24T05:03:33Z",

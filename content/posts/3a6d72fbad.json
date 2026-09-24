@@ -102,7 +102,10 @@
     "message_id": 26
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
   },
   "slug": "meta-akilli-gozluk-ailesine-yeni-modeller-ve-muse-geldi",
   "published_at": "2026-09-24T05:03:43Z",

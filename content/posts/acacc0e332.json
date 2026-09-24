@@ -45,7 +45,10 @@
     "message_id": 51
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
   },
   "slug": "snorkel-ai-350-milyon-dolar-yatirim-aldi",
   "published_at": "2026-09-24T11:23:31Z",

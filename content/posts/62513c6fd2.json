@@ -46,7 +46,10 @@
     "message_id": 59
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "manset",
+    "palette": "lavanta",
+    "cover_v": 1
   },
   "slug": "stripe-knowledge-ai-platform-duyuruldu",
   "published_at": "2026-09-24T11:23:57Z",

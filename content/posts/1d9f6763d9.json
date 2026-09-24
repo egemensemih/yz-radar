@@ -46,7 +46,10 @@
     "message_id": 21
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isik",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "sam-altman-birlesmis-milletler-guvenlik-konseyi",
   "published_at": "2026-09-24T05:03:07Z",

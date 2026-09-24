@@ -47,7 +47,10 @@
     "message_id": 49
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
   },
   "slug": "turkiyedeki-isletmelerin-yapay-zeka-kullanimi-yuzde-51e-yukseldi",
   "published_at": "2026-09-24T11:23:37Z",

@@ -75,7 +75,10 @@
     "message_id": 25
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isim",
+    "palette": "lav",
+    "cover_v": 1
   },
   "slug": "youtube-yapay-zeka-destekli-ozel-akislar-ozelligini-duyurdu",
   "published_at": "2026-09-24T05:03:38Z",

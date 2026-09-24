@@ -46,7 +46,10 @@
     "message_id": 58
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isik",
+    "palette": "okyanus",
+    "cover_v": 1
   },
   "slug": "abd-yonetiminden-yapay-zeka-karsitlarina-sorusturma",
   "published_at": "2026-09-24T11:23:54Z",

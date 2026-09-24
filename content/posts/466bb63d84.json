@@ -47,7 +47,10 @@
     "message_id": 29
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
   },
   "slug": "veri-merkezleri-enerji-tuketimi-california-seffaflik-yasasi",
   "published_at": "2026-09-24T05:03:48Z",

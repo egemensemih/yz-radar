@@ -47,7 +47,10 @@
     "message_id": 55
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "gunbatimi",
+    "cover_v": 1
   },
   "slug": "ema-yapay-zeka-girisimi-77-milyon-dolar-yatirim-aldi",
   "published_at": "2026-09-24T11:23:44Z",

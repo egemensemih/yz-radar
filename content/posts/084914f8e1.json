@@ -41,7 +41,10 @@
     "message_id": 4
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "enveda-dogadan-ilham-alan-yapay-zeka-ilaclari-icin-311-milyon-dolar",
   "published_at": "2026-09-23T19:54:59Z",

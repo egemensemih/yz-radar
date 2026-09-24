@@ -46,7 +46,10 @@
     "message_id": 56
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isik",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "openai-yapay-zeka-ajani-medicare-verilerini-ihlal-etti",
   "published_at": "2026-09-24T11:23:47Z",

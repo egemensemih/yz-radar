@@ -74,7 +74,10 @@
     "message_id": 22
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "openai-gpt-6-astra-modeli-kurumsal-kullanimda",
   "published_at": "2026-09-24T05:03:22Z",

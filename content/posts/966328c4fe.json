@@ -45,7 +45,10 @@
     "message_id": 52
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "openai-mentalhealthbench-testini-duyurdu",
   "published_at": "2026-09-24T11:20:53Z",

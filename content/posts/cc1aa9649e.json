@@ -47,7 +47,10 @@
     "message_id": 48
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
   },
   "slug": "google-deepmind-gemini-4-modelini-yil-sonundan-once-cikarmayi",
   "published_at": "2026-09-24T11:23:40Z",

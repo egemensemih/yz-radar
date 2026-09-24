@@ -46,7 +46,10 @@
     "message_id": 57
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
   },
   "slug": "gemini-3-8-metin-okuma-modelleri-duyuruldu",
   "published_at": "2026-09-24T11:23:51Z",

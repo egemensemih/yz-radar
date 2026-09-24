@@ -46,7 +46,10 @@
     "message_id": 23
   },
   "image": {
-    "source": "fallback"
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
   },
   "slug": "nvidia-isaac-ros-5-0-duyuruldu",
   "published_at": "2026-09-24T05:03:28Z",
