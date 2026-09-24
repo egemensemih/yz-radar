@@ -32,7 +32,10 @@ jobs:
     outputs:
       site_changed: ${{ steps.bot.outputs.site_changed }}
     steps:
+      # Her zaman en güncel durumla başla (zamanlanmış çalışmalar gecikince eski kopya kullanılmasın)
       - uses: actions/checkout@v6
+        with:
+          ref: main
 
       - uses: actions/setup-python@v6
         with:
