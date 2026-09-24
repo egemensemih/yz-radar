@@ -46,11 +46,21 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=49826565",
       "published": "2026-09-24T05:21:10Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T12:54:19Z"
     }
   ],
   "source_keys": [
     "The Verge",
-    "Hacker News"
+    "Hacker News",
+    "TechCrunch"
   ],
   "source_texts": [
     {
