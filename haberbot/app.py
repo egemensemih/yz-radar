@@ -118,6 +118,11 @@ class App:
         except TelegramError as e:
             log.warning("Telegram bildirimi gönderilemedi: %s", e)
 
+    @staticmethod
+    def _transient(e: Exception) -> bool:
+        """Google tarafındaki geçici yoğunluk/sınır: kullanıcıyı rahatsız etmeye gerek yok, sonraki turda tekrar denenir."""
+        return bool(re.search(r"HTTP (429|5\d\d)|meşgul|Tekrar denemeler|Bağlantı hatası|high demand|UNAVAILABLE", str(e)))
+
     def notify_error(self, text: str) -> None:
         """Aynı tür hata için en fazla 6 saatte bir uyar."""
         if hours_since(self.state.get("last_error_notice")) < 6:
@@ -176,7 +181,10 @@ class App:
                                 triage_system(self.brand), triage_user(fresh, recent[:80], today),
                                 TRIAGE_SCHEMA, max_tokens=8000)
         except LLMError as e:
-            self.notify_error(f"Yapay zeka (ayıklama) hatası: {e}")
+            if self._transient(e):
+                log.warning("Yapay zeka şu an yoğun (ayıklama), sonraki turda tekrar denenecek: %s", str(e)[:160])
+            else:
+                self.notify_error(f"Yapay zeka (ayıklama) hatası: {e}")
             for it in fresh:  # bir sonraki turda tekrar denensin
                 st.seen.pop(it["key"], None)
             return
@@ -208,7 +216,11 @@ class App:
             try:
                 self.create_draft(s, its)
             except LLMError as e:
-                self.notify_error(f"Yapay zeka (yazım) hatası: {e}")
+                if self._transient(e):
+                    log.warning("Yapay zeka şu an yoğun (yazım), kalan %d haber sonraki turda yazılacak: %s",
+                                len(todo) - n, str(e)[:160])
+                else:
+                    self.notify_error(f"Yapay zeka (yazım) hatası: {e}")
                 for _, rest in todo[n:]:  # yazılamayanlar bir sonraki turda yeniden denensin
                     for it in rest:
                         st.seen.pop(it["key"], None)

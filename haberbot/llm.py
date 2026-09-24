@@ -148,10 +148,11 @@ class GeminiLLM:
         self._last = 0.0
         self._model_ok: dict[str, str] = {}
         self._variant_ok: dict[str, int] = {}
+        self._busy: set[str] = set()  # bu turda yoğunluk/sınır hatası veren modeller
         self._avail: list[str] | None = None
 
     def _post(self, model: str, body: dict) -> dict:
-        delays = [10, 25]
+        delays = [8]
         for attempt in range(len(delays) + 1):
             wait = self.min_interval - (time.time() - self._last)
             if wait > 0:
@@ -202,12 +203,14 @@ class GeminiLLM:
         return [n for _, n in sorted(out, reverse=True)]
 
     def _models(self, model: str) -> list[str]:
-        if model in self._model_ok:
-            return [self._model_ok[model]]
         avail = self._available()
         flash, lite = self._rank(avail, False)[:3], self._rank(avail, True)[:2]
         order = [model] + (lite + flash if "lite" in model else flash + lite) + GEMINI_FALLBACKS
-        return list(dict.fromkeys(order))
+        if model in self._model_ok:  # son çalışan model önce denenir, ama diğerleri yedekte kalır
+            order.insert(0, self._model_ok[model])
+        order = list(dict.fromkeys(order))
+        # yoğun olanlar sona
+        return [m for m in order if m not in self._busy] + [m for m in order if m in self._busy]
 
     def json(self, model: str, system: str, user: str, schema: dict,
              max_tokens: int = 4000, effort: str | None = None) -> dict:
@@ -242,6 +245,7 @@ class GeminiLLM:
                         continue
                     if re.search(r"HTTP (429|5\d\d)|Tekrar denemeler|Bağlantı", msg):
                         log.warning("Gemini %s meşgul/sınırda, sıradaki model deneniyor", m)
+                        self._busy.add(m)
                         break
                     raise
                 usage = resp.get("usageMetadata") or {}
@@ -259,12 +263,13 @@ class GeminiLLM:
                 try:
                     out = _parse_json(text)
                     self._model_ok[model] = m
+                    self._busy.discard(m)
                     self._variant_ok[model] = ("responseJsonSchema" not in gc) + ("responseSchema" not in gc and "responseJsonSchema" not in gc)
                     return out
                 except ValueError as e:
                     last_err = LLMError(f"JSON çözümlenemedi: {e}; metin: {text[:200]}")
                     continue
-        raise LLMError(str(last_err))
+        raise LLMError(("Tüm modeller meşgul: " if self._busy else "") + str(last_err))
 
 
 def make_llm(cfg, usage_cb=None):
