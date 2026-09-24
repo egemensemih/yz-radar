@@ -11,6 +11,7 @@ import requests
 
 from . import policy
 from .config import CATEGORIES, Config, category_label, indexnow_key
+from .covers import COVER_VERSION
 from .extract import full_text
 from .llm import LLMError, MockLLM, estimate_cost, make_llm
 from .prompts import (FLAG_LABELS, FLAGS, SEO_SCHEMA, TRIAGE_SCHEMA, WRITE_SCHEMA, seo_system, seo_user,
@@ -278,6 +279,7 @@ class App:
             "meta_description": clip((out.get("meta_description") or "").strip(), 170),
             "seo_slug": slugify(out["slug"], 64) if (out.get("slug") or "").strip() else "",
             "image_alt": clip((out.get("image_alt") or "").strip(), 125),
+            "cover_text": clip((out.get("cover_text") or "").strip(), 24),
         }
 
     def create_draft(self, story: dict, its: list[dict]) -> dict:
@@ -359,7 +361,10 @@ class App:
         post.update({"slug": slug, "published_at": iso(now_utc()), "publish_mode": "auto" if auto else "manual"})
         self.queue_indexnow(self.cfg.post_url(slug))
         st.move_image_to_post(d["id"])
-        if not st.post_image(d["id"]).exists():
+        img = post.get("image") or {}
+        if img.get("source") in ("cover", "fallback") and img.get("cover_v") != COVER_VERSION:
+            post["image"] = self.vis.make_hero(post, st.post_image(d["id"]))
+        elif not st.post_image(d["id"]).exists():
             post["image"] = self.vis.make_hero(post, st.post_image(d["id"]))
         self.vis.render_card(post, "og", st.post_image(d["id"]), st.post_og(d["id"]))
         st.save_post(post)
@@ -651,8 +656,14 @@ class App:
         st = self.store
         new_visual = visual_only is not None
         if new_visual:
-            if visual_only.strip():
-                d["visual_scene"] = visual_only.strip()
+            text = visual_only.strip()
+            if text and len(text) <= 24:   # kısa ifade: kapaktaki büyük yazı olsun
+                d["cover_text"] = text
+                d["cover_variant"] = int(d.get("cover_variant", 0)) + 1
+            elif text:                      # uzun ifade: yapay zeka görseli sahnesi
+                d["visual_scene"] = text
+            else:                           # "Yeni görsel" düğmesi: yeni renk ve düzen
+                d["cover_variant"] = int(d.get("cover_variant", 0)) + 1
             d["rewrites"] = (d.get("rewrites") or 0) + 1
             old_kind = "pending" if where == "draft" else ("auto" if d.get("publish_mode") == "auto" else "published")
             d["image"] = self.vis.make_hero(d, self._hero(d))
@@ -830,6 +841,23 @@ class App:
             self.queue_indexnow(self.cfg.post_url(p["slug"]))
             log.info("SEO bilgisi eklendi: %s → %s", p["id"], p["seo_title"])
 
+    def refresh_covers(self, limit: int = 30) -> None:
+        """Kapak tasarımı değişince yayındaki haberlerin görsellerini yeniden üret (yapay zeka görsellerine dokunmaz)."""
+        if (self.cfg.get("images", "style", "kapak") or "kapak") != "kapak":
+            return
+        todo = [p for p in self.store.posts()
+                if (p.get("image") or {}).get("source") != "ai" and (p.get("image") or {}).get("cover_v") != COVER_VERSION][:limit]
+        for p in todo:
+            try:
+                p["image"] = {**self.vis.make_hero(p, self.store.post_image(p["id"])), "cover_v": COVER_VERSION}
+                self.vis.render_card(p, "og", self.store.post_image(p["id"]), self.store.post_og(p["id"]))
+                self.store.save_post(p)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Kapak yenilenemedi (%s): %s", p["id"], e)
+                return
+        if todo:
+            log.info("Kapak yenilendi: %d haber", len(todo))
+
     def maybe_summary(self) -> None:
         now_l = local(now_utc(), self.cfg.tz)
         hour = self.cfg.get("schedule", "daily_summary_hour", 21)
@@ -885,6 +913,7 @@ class App:
                 self.notify_error(f"Toplama sırasında hata: {type(e).__name__}: {e}")
         if not self.state.get("paused"):
             self.backfill_seo()
+        self.refresh_covers()
         self.maybe_summary()
         self.listen(int(self.cfg.get("schedule", "listen_seconds", 120) or 0))
         self.store.save()

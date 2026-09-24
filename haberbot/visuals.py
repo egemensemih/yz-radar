@@ -15,6 +15,7 @@ from pathlib import Path
 import requests
 from PIL import Image
 
+from . import covers
 from .config import Config, category_color, category_label
 from .render import Renderer
 from .util import clip, log, tr_date
@@ -204,6 +205,13 @@ class Visuals:
         self.renderer.close()
 
     # ── kahraman görsel ─────────────────────────────────────
+    def cover_image(self, d: dict, size=HERO_SIZE, brand: bool = False, caption: bool = False) -> Image.Image:
+        """Tipografik kapak (dev rakam / isim / manşet) — ücretsiz, habere özel. Sitede etiket zaten yazdığı için kapakta yok."""
+        tmp = self.renderer.cache / "_cover.jpg"
+        ctx = covers.design(d, brand=brand, caption=caption, brand_name=self.brand, kicker=False)
+        self.renderer.html_to_image("cover.html", ctx, size, tmp, quality=95)
+        return Image.open(tmp).convert("RGB")
+
     def make_hero(self, d: dict, out: Path) -> dict:
         """Görseli üretir, out'a WEBP yazar. d['image'] bilgisini döndürür."""
         info = {"source": "fallback"}
@@ -217,6 +225,14 @@ class Visuals:
             except (ImageError, OSError) as e:
                 log.warning("Yapay zeka görseli üretilemedi, yedek görsel kullanılacak: %s", e)
                 info = {"source": "fallback", "error": str(e)[:300]}
+        if img is None and self.cfg.get("images", "style", "kapak") == "kapak":
+            try:
+                img = self.cover_image(d)
+                c = covers.design(d)
+                info = {**info, "source": "cover", "layout": c["layout"], "palette": c["palette"],
+                        "cover_v": covers.COVER_VERSION}
+            except Exception as e:  # noqa: BLE001
+                log.warning("Kapak üretilemedi, 3D görsel denenecek: %s", e)
         if img is None:
             try:
                 img = fallback_hero(self.renderer, d)
@@ -276,6 +292,12 @@ class Visuals:
 
     def render_card(self, d: dict, kind: str, hero: Path, out: Path) -> Path:
         size = self.SIZES[kind]
+        if (d.get("image") or {}).get("source") == "cover":
+            try:
+                ctx = covers.design(d, brand=True, caption=True, brand_name=self.brand)
+                return self.renderer.html_to_image("cover.html", ctx, size, out)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Kapak kartı üretilemedi (%s): %s", kind, e)
         ctx = self.card_context(d, hero, kind)
         try:
             return self.renderer.html_to_image(f"{kind}.html", {**ctx, "kind": kind}, size, out)

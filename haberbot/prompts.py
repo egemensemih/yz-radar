@@ -109,10 +109,11 @@ WRITE_SCHEMA = {
         "meta_description": {"type": "string"},
         "slug": {"type": "string"},
         "image_alt": {"type": "string"},
+        "cover_text": {"type": "string"},
     },
     "required": ["title", "summary", "body", "category", "tags", "confidence", "flags", "editor_note",
                  "short_title", "kicker", "hero_stat", "hero_stat_label", "visual_style", "visual_scene",
-                 "focus_keyword", "seo_title", "meta_description", "slug", "image_alt"],
+                 "focus_keyword", "seo_title", "meta_description", "slug", "image_alt", "cover_text"],
     "additionalProperties": False,
 }
 
@@ -161,7 +162,8 @@ Social/visual fields (used on Instagram cards and the site; the design is calm a
 - hero_stat: if ONE number is the heart of the story and appears in the sources (money, parameter count, percentage, user count), write it compactly in Turkish format, ≤12 characters: "3,5 milyar $", "30 milyar", "%40", "1 milyon". Otherwise "". Never invent or round beyond the source.
 - hero_stat_label: ≤30 Turkish characters explaining the number ("yeni değerleme", "parametre", "daha hızlı"); "" if no hero_stat.
 - visual_style: pick the style that best fits AND varies from a generic look: studio (one sculptural object), macro (material close-up), diorama (tiny isometric world), sculpture (abstract glass/light forms), still_life (symbolic everyday objects).
-- visual_scene: ≤60 words in ENGLISH describing ONE concrete, original visual metaphor for the story for an image generator. Physical objects and materials only. Never depict real people, faces, logos, brand names, product UIs, text, letters or numbers. Avoid clichés (glowing brains, humanoid robots, binary code, circuit-board heads). Good example for a funding round in AI training data: "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface"."""
+- cover_text: the single most striking name for a big typographic cover, ≤18 characters, exactly as written in the sources: usually the product/model name ("GPT-6 Astra", "Opus 5.5", "Gemini 4"), otherwise the company or organisation ("Snorkel AI", "YouTube"), otherwise a 1–3 word key term in Turkish ("Süper zeka yasağı"). Never a full sentence, never generic words like "Yapay zeka".
+- visual_scene: ≤60 words in ENGLISH describing ONE concrete, original visual metaphor for THIS story for an image generator. Invent a new metaphor every time; never reuse the example below. Physical objects and materials only. Never depict real people, faces, logos, brand names, product UIs, text, letters or numbers. Avoid clichés (glowing brains, humanoid robots, binary code, circuit-board heads). Good example for a funding round in AI training data: "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface"."""
 
 
 def write_user(sources: list[dict], today: str, previous: dict | None = None,

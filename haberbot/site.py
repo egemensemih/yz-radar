@@ -138,6 +138,7 @@ class SiteBuilder:
             "hero_stat": (p.get("hero_stat") or "").strip(),
             "hero_stat_label": (p.get("hero_stat_label") or "").strip(),
             "ai_image": (p.get("image") or {}).get("source") == "ai",
+            "cover_image": (p.get("image") or {}).get("source") == "cover",
             "img_alt": clip(p.get("image_alt") or f"{short}: habere ait temsili görsel", 125),
             "seo_title": seo_title,
             "meta_description": clip(meta, 158),

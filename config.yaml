@@ -55,6 +55,9 @@ autonomy:
   auto_min_importance: 6         # Otomatik yayın için en düşük önem puanı
 
 images:
+  # kapak: habere özel tipografik kapak (dev rakam / isim / manşet), ücretsiz (önerilen)
+  # 3d   : eski renkli 3D şekiller
+  style: kapak
   # Her habere yapay zeka ile özel görsel (Google "Nano Banana").
   # GEMINI_API_KEY gizli anahtarı yoksa ya da üretim başarısız olursa
   # habere özgü 3D stüdyo görseli (ücretsiz yedek) kullanılır.
