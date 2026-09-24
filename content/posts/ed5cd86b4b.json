@@ -1,0 +1,59 @@
+{
+  "id": "ed5cd86b4b",
+  "created_at": "2026-09-24T17:23:17Z",
+  "title": "Flock yapay zeka gözetim ağı ABD Senatosu oturumunda ele alındı",
+  "summary": "The Verge'ün haberine göre, Flock ve diğer otomatik plaka okuma sistemleri ABD Senatosu'ndaki bir alt komite oturumunda milletvekillerinin incelemesine alındı.",
+  "body": "Flock yapay zeka gözetim ağı, The Verge'ün aktardığına göre, ABD Senatosu Yargı Komitesi suç ve terörle mücadele alt komitesinde düzenlenen bir oturumda milletvekillerinin hedefindeydi. Çarşamba günü gerçekleştirilen oturuma Flock CEO'sunun yanı sıra Axon, Motorola Solutions ve Verkada yöneticileri katılmadı.\n\n## Oturumda öne çıkan endişeler\n\nAlt komite başkanı Senatör Josh Hawley, oturumda yaptığı açıklamada Flock'un sektördeki diğer oyunculardan ayrıldığını belirtti. Oturumda ayrıca, sistemin topladığı verilerin güvenliği, kolluk kuvvetlerinin verilere erişim kolaylığı ve kitlesel konum verisi toplama uygulamaları masaya yatırıldı. Uzmanlar ve tanıklar, sistemin yanlış araç eşleştirmeleri ve olası gizlilik ihlalleri hakkındaki deneyimlerini paylaştı.\n\n## Şirketlerin ve yetkililerin konumu\n\nVerkada sözcüsü Virginia Ramsey, alt komiteye hazırlık sürecinde bilgi sağladıklarını ve ulusal bir ağ bulunmadığını ifade etti. Diğer şirket temsilcileri ise haberin yayımlandığı sırada yorum taleplerine yanıt vermedi. Senatörler ayrıca federal göçmenlik otoritelerinin veya üreme sağlığı ile silah hakları gibi konularda hassas verilerin bu sistemler üzerinden takip edilme risklerine dikkat çekti.\n\n**Neden önemli?** Kongre'deki bu ilk federal duruşma, otomatik plaka okuma sistemlerine yönelik denetim eksikliği ve vatandaşların izlenmesine ilişkin siyasi partiler üstü kaygılarının arttığını gösteriyor.",
+  "category": "politika",
+  "tags": [
+    "Flock",
+    "Verkada",
+    "Axon",
+    "Motorola Solutions",
+    "Josh Hawley"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Flock yapay zeka gözetim ağı Senato'da görüşüldü",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single dark metallic camera lens casting a sharp shadow on a flat concrete surface, surrounded by subtle glowing amber light lines forming a grid pattern",
+  "focus_keyword": "Flock yapay zeka gözetim ağı",
+  "seo_title": "Flock yapay zeka gözetim ağı ABD Senatosu'nda masaya yatırıldı",
+  "meta_description": "Flock yapay zeka gözetim ağı ve otomatik plaka okuma sistemleri ABD Senatosu alt komite oturumunda milletvekillerinin denetimine girdi.",
+  "seo_slug": "flock-yapay-zeka-gozetim-agi-senatoda-gorusuldu",
+  "image_alt": "Flock yapay zeka gözetim ağı oturumunu temsil eden kamera lensi ve ışık çizgileri görseli",
+  "cover_text": "Flock Senato'da",
+  "importance": 7,
+  "triage_reason": "Flock şirketinin yapay zeka gözetim ağı ABD yönetiminde ve senatoda inceleme altında.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "title": "The vibes are bad for Flock in Washington",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T14:15:05Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 99
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "flock-yapay-zeka-gozetim-agi-senatoda-gorusuldu",
+  "published_at": "2026-09-24T20:40:56Z",
+  "publish_mode": "manual"
+}

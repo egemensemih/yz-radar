@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 614197258,
+  "telegram_offset": 614197260,
   "last_collect": "2026-09-24T20:20:57Z",
   "last_summary_date": "2026-09-24",
   "mode_override": null,
@@ -104,12 +104,15 @@
       "tok_out": 49421,
       "cost_usd": 0.0,
       "drafts": 25,
-      "published": 23,
-      "approved": 23
+      "published": 25,
+      "approved": 25
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": []
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/elevenlabs-degerlemesi-22-milyar-dolara-ulasti/",
+    "https://egemensemih.github.io/yz-radar/haber/flock-yapay-zeka-gozetim-agi-senatoda-gorusuldu/"
+  ]
 }

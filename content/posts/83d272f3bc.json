@@ -1,0 +1,60 @@
+{
+  "id": "83d272f3bc",
+  "created_at": "2026-09-24T17:22:43Z",
+  "title": "ElevenLabs değerlemesi 22 milyar dolara ulaştı",
+  "summary": "TechCrunch'ın aktardığına göre, ses yapay zekası şirketi ElevenLabs 22 milyar dolar değerlemeye ulaştı ve yıllık 600 milyon dolar gelire yaklaşıyor.",
+  "body": "TechCrunch'ın aktardığına göre ses yapay zekası alanında faaliyet gösteren ElevenLabs, 22 milyar dolar değerlemeye ulaştı ve şirketin yıllık 600 milyon dolar yinelenen gelire (ARR) sahip olduğu bildirildi. Toronto'daki Nrth konferansında konuşan kurucu ortak ve CEO Mati Staniszewski, şirketin büyüme stratejileri, müşteri tabanı ve ses modellerinin geleceği hakkında açıklamalarda bulundu.\n\n## Kurumsal pazar ve müşteri tabanı\n\nKuruluşundan bu yana dört yıl geçen şirketin gelirlerinin yüzde elli beşten fazlasını klasik kurumsal müşteriler oluşturuyor. Geriye kalan yüzde kırk beşlik kesimde ise küçük ve orta ölçekli işletmeler, geliştiriciler ve içerik üreticileri yer alıyor. Klarna, Deutsche Telekom, Cisco ve Adobe gibi büyük kurumların yanı sıra çeşitli devletler de ElevenLabs teknolojisini kullanıyor. Örneğin Polonya devleti sağlık sektöründe hastaların randevularını hatırlatması için bu yapay zeka ajanlarından yararlanıyor.\n\n## Ses modellerinde rekabet ve pazar payı\n\nCEO Mati Staniszewski, pazar payını artırmak amacıyla marjların daralmasını dert etmediklerini belirtti. Ses modellerinin geleceğinde Turing testini geçmeyi hedeflediklerini ifade eden Staniszewski, bunun için sadece zekanın değil, aynı zamanda duygusal zekanın da entegre edilmesi gerektiğini vurguladı.\n\n**Neden önemli?** ElevenLabs CEO'su Mati Staniszewski, yapay zeka ses teknolojilerinde pazar payını genişletmek amacıyla kar marjlarının daralmasını göze aldıklarını ve şirketin önümüzdeki yıllarda halka arz için zemin hazırladığını belirtti.",
+  "category": "sirketler",
+  "tags": [
+    "ElevenLabs",
+    "Mati Staniszewski",
+    "Klarna",
+    "Deutsche Telekom",
+    "Cisco",
+    "Adobe"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ElevenLabs 22 milyar dolar değerlemeye ulaştı",
+  "kicker": "Şirketler",
+  "hero_stat": "22 milyar $",
+  "hero_stat_label": "bildirilen değerleme",
+  "visual_style": "studio",
+  "visual_scene": "a smooth, matte black acoustic panel standing upright on a minimalist concrete surface, with a series of vertically aligned, glowing amber glass cylinders representing sound frequencies and data layers",
+  "focus_keyword": "ElevenLabs değerlemesi",
+  "seo_title": "ElevenLabs değerlemesi 22 milyar dolara ulaştı",
+  "meta_description": "TechCrunch'ın haberine göre ses yapay zekası şirketi ElevenLabs 22 milyar dolar değerlemeye ulaştı ve yıllık 600 milyon dolar gelire yaklaşıyor.",
+  "seo_slug": "elevenlabs-degerlemesi-22-milyar-dolara-ulasti",
+  "image_alt": "Minimalist beton yüzey üzerinde dikey olarak duran mat siyah akustik panel ve ses frekanslarını temsil eden kehribar renkli…",
+  "cover_text": "ElevenLabs",
+  "importance": 7,
+  "triage_reason": "Ses yapay zekası şirketi ElevenLabs'ın 22 milyar dolarlık değerlemesi ve kurucu röportajı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:35:13Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 98
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "elevenlabs-degerlemesi-22-milyar-dolara-ulasti",
+  "published_at": "2026-09-24T20:40:47Z",
+  "publish_mode": "manual"
+}

@@ -9,11 +9,11 @@
       "rejected": 0
     },
     "TechCrunch": {
-      "approved": 11,
+      "approved": 12,
       "rejected": 0
     },
     "The Verge": {
-      "approved": 10,
+      "approved": 11,
       "rejected": 0
     },
     "NVIDIA": {
@@ -203,6 +203,18 @@
     {
       "t": "2026-09-24T16:46:30Z",
       "id": "ff48165677",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T20:40:51Z",
+      "id": "83d272f3bc",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T20:40:57Z",
+      "id": "ed5cd86b4b",
       "ok": true,
       "manual": true
     }
