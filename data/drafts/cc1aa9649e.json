@@ -1,0 +1,65 @@
+{
+  "id": "cc1aa9649e",
+  "status": "pending",
+  "created_at": "2026-09-24T09:36:43Z",
+  "title": "Google DeepMind yeni lideri Koray Kavukcuoglu ile Gemini 4 icin hazirlikta",
+  "summary": "Google DeepMind'in yeni lideri Koray Kavukcuoglu, Gemini 4 modelinin arastirma ve gelistirme surecinde son asamaya gelindigini ve lansmanin yil sonundan once yapilacagini acikladi.",
+  "body": "Google DeepMind yonetimindeki degisikligin ardindan, merakla beklenen Gemini 4 icin resmi takvim netlesmeye basladi. The Verge'in aktardigina gore, Google DeepMind'in yeni lideri Koray Kavukcuoglu, The Information'a verdigi ilk medya roportajinda yeni yapay zeka modelinin yil sonundan cok daha once piyasaya surulmesinin hedeflendigini belirtti.\n\n## Gelistirme sureci ve hizli iterasyonlar\n\nKavukcuoglu, modelin su an iyilestirme asamasinda oldugunu ve elde ettikleri sonuclardan heyecan duyduklari icin erken bir egitim sonrasi ciktiyi mumkun olan en kisa surede sunmayi amacladiklarini ifade etti. Google, kasim 2025'teki Gemini 3 serisinden bu yana yeni bir amiral gemisi yapay zeka modeli duyurmamisti. Bu surecte OpenAI tarafindan duyurulan **GPT-6** ve Anthropic'in Mythos serisi modelleri piyasaya cikarak rakip saglayicilara ustunluk saglamisti.\n\n## Stratejik degisiklikler ve pazar durumu\n\nGoogle CEO'su Sundar Pichai mayis ayindaki I/O etkinliginde haziran ayinda buyuk bir Gemini 3.5 Pro guncellemesi gelecegini aciklamis ancak bu model yayinlanmamisti. Kavukcuoglu, sirketin Gemini 3.5 Pro yerine daha hizli ve daha dusuk guclu Flash modellerine odaklanmak icin bir adim geri attigini belirtti. Google, agustos ayinda eski yapay zeka baskani Demis Hassabis'in ayriligiyla sonuclanan ust duzey bir yonetim degisikligi yasamisti.\n\n**Neden önemli?** Google DeepMind, rekabetin yogun oldugu yapay zeka pazarinda ustunlugu yeniden ele almak icin hizli iterasyon sureclerine geri donmeyi ve Gemini 4 modelini 2026 yili bitmeden kullanicilarla bulusturmayi amacliyor.",
+  "category": "modeller",
+  "tags": [
+    "Google DeepMind",
+    "Gemini 4",
+    "Koray Kavukcuoglu",
+    "Demis Hassabis",
+    "GPT-6"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google DeepMind yeni lideri ile Gemini 4'e hazirlaniyor",
+  "kicker": "Yeni model",
+  "hero_stat": "2026",
+  "hero_stat_label": "planlanan cikis yili",
+  "visual_style": "studio",
+  "visual_scene": "a smooth dark obsidian monolith standing vertically on a brushed steel surface, illuminated by a sharp, cool white light beam from above, casting soft, long shadows across the metallic plane.",
+  "focus_keyword": "Gemini 4",
+  "seo_title": "Gemini 4 ne zaman cikacak? Google DeepMind yeni lideri duyurdu",
+  "meta_description": "Google DeepMind'in yeni lideri Koray Kavukcuoglu, Gemini 4 modelinin arastirma ve gelistirme surecinde sona yaklasildigini ve yil sonundan once gelecegini acikladi.",
+  "seo_slug": "google-deepmind-gemini-4-modelini-yil-sonundan-once-cikarmayi",
+  "image_alt": "Koyu renkli obsidiyen monolit heykelin uzerine dusen keskin beyaz isik, Google DeepMind'in yeni yapay zeka modeli Gemini 4…",
+  "importance": 8,
+  "triage_reason": "Google DeepMind yeni amiral gemisi modeli Gemini 4'ün yakında çıkacağını açıkladı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T09:04:18Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "published": "2026-09-24T09:04:18Z",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
+      "text": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google’s DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is aiming to launch the model “much earlier” than the end of the year.\nGemini 4 is almost ready, says new Google DeepMind chief\nThe new frontier AI model should arrive long before the end of 2026.\n“Our intention is to, like — as soon as possible — to release an early post-training output because we see the results and we are excited,” Kavukcuoglu told the publication, adding that Google would “continue the fast-paced iterations” going forward. This hopefully marks Google returning to a more consistent AI release timeline following a shakeup at DeepMind’s top leadership, with former AI head Demis Hassabis stepping down in August after announcing that “great progress” was being made on Gemini 4.\nGoogle hasn’t released a new flagship AI model since the Gemini 3 series in November 2025. OpenAI’s GPT-6 and Anthropic’s Mythos series models have launched since then. Both outperform Gemini 3 and give the rival AI providers a sizable lead against Google in the AI race. Google CEO Sundar Pichai said at the I/O event in May that a major Gemini 3.5 Pro update would be coming in June to help bridge the gap, but the model was never rolled out.\nKavukcuoglu said the company “took a little bit of a step back” to focus on introducing faster, less powerful Flash models instead of releasing Gemini 3.5 Pro. When asked whether he was concerned about Google falling behind its rivals on AI development, he told The Information that “In my mind, it’s a certainty that we are always gonna be at the frontier.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 48
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "policy_reason": "Öğreniyor: 12/30 karar"
+}
