@@ -1,0 +1,68 @@
+{
+  "id": "d15f5e05c8",
+  "status": "pending",
+  "created_at": "2026-09-24T16:26:05Z",
+  "title": "Google yapay zeka uydusu Project Suncatcher ile uzaya fırlatılıyor",
+  "summary": "Google, yapay zeka çiplerinin uzay koşullarındaki performansını test etmek amacıyla Project Suncatcher kapsamında gelecek hafta bir uydu fırlatmaya hazırlanıyor.",
+  "body": "Google yapay zeka uydusu projesiyle, yapay zeka veri merkezlerini yörüngeye taşıma yolunda ilk büyük adımı atıyor. The Verge'ün aktardığına göre Google, yapay zeka işlemcilerini uzayda test etmek üzere Project Suncatcher girişimini başlatıyor ve uydunun önümüzdeki hafta uzaya gönderilmesi planlanıyor.\n\n## SpaceX roketiyle uzay yolculuğu\n\nGoogle'ın açıklamasına göre uydu, 1 Ekim'de bir SpaceX Falcon 9 roketi ile alçak Dünya yörüngesine fırlatılacak. Cihaz, Google'ın kendi Tensor Processing Units (TPU) yani özel yapay zeka işlemcileri ile donatılmış durumda. Bu misyonun temel amacı, çiplerin uzay uçuşunun fiziksel stresine, radyasyona ve termal aşırılıklara nasıl tepki verdiğini ölçmek olarak belirtiliyor.\n\n## Isı yönetimi ve gelecek planları\n\nProject Suncatcher kıdemli ürün yönetimi direktörü Travis Beals, The New York Times'a yaptığı açıklamada çiplerin soğumadan önce yalnızca yaklaşık 15 dakika çalışabileceğini belirtti. Google, yörüngedeyken ısı boruları ve radyatörler içeren bir soğutma sistemini de denemeyi planlıyor. Şirket, önümüzüdeki yıl yörüngeye iki uydu daha yerleştirmeyi hedefliyor.\n\n**Neden önemli?** Project Suncatcher, gelecekte yapay zeka veri merkezlerini yörüngeye taşıma potansiyeli taşıyan deneysel bir girişim olarak öne çıkıyor ve Google donanımının uzay koşullarındaki dayanıklılığını test ediyor.",
+  "category": "donanim",
+  "tags": [
+    "Google",
+    "SpaceX",
+    "Project Suncatcher",
+    "Travis Beals"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google yapay zeka uydusunu uzaya gönderiyor",
+  "kicker": "Donanım",
+  "hero_stat": "1 Ekim",
+  "hero_stat_label": "fırlatılış tarihi",
+  "visual_style": "studio",
+  "visual_scene": "a sleek dark rectangular processor chip resting on a mirrored metallic surface, angled toward a soft beam of white light, surrounded by fine dust particles drifting in the air",
+  "focus_keyword": "Google yapay zeka uydusu",
+  "seo_title": "Google yapay zeka uydusu Project Suncatcher ile uzaya çıkıyor",
+  "meta_description": "Google, yapay zeka çiplerinin uzay performansını test etmek için Project Suncatcher uydusunu SpaceX roketiyle yörüngeye fırlatıyor.",
+  "seo_slug": "google-yapay-zeka-uydusu-project-suncatcher",
+  "image_alt": "Metal yüzey üzerinde parlayan yapay zeka işlemcisi çipi",
+  "cover_text": "Suncatcher",
+  "importance": 7,
+  "triage_reason": "Google, yapay zeka işlemcilerini test etmek için uzaya bir uydu fırlatmaya hazırlanıyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "title": "Google is sending an AI satellite into space next week",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T14:15:17Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "published": "2026-09-24T14:15:17Z",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor […]",
+      "text": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google’s Project Suncatcher, the company’s experimental initiative that could eventually put AI data centers into orbit.\nGoogle is sending an AI satellite into space next week\nIt’s the first step toward Google’s goal of handling AI tasks from space.\nThe satellite, equipped with Google’s Tensor Processing Units, will launch aboard a SpaceX Falcon 9 rocket on October 1st, allowing it to harness the power of the sun in low Earth orbit. As noted by Google, the goal of the mission is to measure how well its TPUs “handle the physical stress of spaceflight and the radiation and thermal extremes of space.”\nThis is just one step toward Google’s goal of putting a constellation of chip-equipped satellites into space — an idea Elon Musk, Jeff Bezos, and former Google CEO Eric Schmidt have also floated as an alternative to data centers on Earth. Google plans to put two satellites into orbit next year.\nDuring testing, Google found that its TPUs can withstand high levels of g-force and radiation, but notes that “some things can only be tested in space.” It’s also planning to try out a cooling system that involves heat pipes and radiators while the chips are in orbit. Travis Beals, Project Suncatcher’s senior director of product management, tells the NYT that the chips can only run for about 15 minutes before they’ll need to be turned off to cool down.\n“Exploring space as a viable location for scalable AI compute won’t happen all at once,” Beals writes in the company’s announcement. “It takes methodical engineering, starting with proving our hardware can handle the physical and unpredictable realities of operating in orbit. This first launch is about seeing what works, identifying points of failure, and applying those findings to future missions.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 85
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Öğreniyor: 23/30 karar"
+}

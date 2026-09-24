@@ -1,0 +1,86 @@
+{
+  "id": "bcb81e3acb",
+  "status": "pending",
+  "created_at": "2026-09-24T16:24:22Z",
+  "title": "Google Pixel 11 sahipleri için Gemini otomatik arama özelliğini test ediyor",
+  "summary": "Google, Pixel 11 kullanıcılarının yerel işletmeleri araması, rezervasyon yapması ve sırada beklemesini sağlayan yeni bir Gemini özelliğini test etmeye başladı.",
+  "body": "Google, Pixel 11 kullanıcıları için yapay zekanın yerel işletmelerle telefon görüşmeleri yapmasına olanak tanıyan yeni bir özellik duyurdu. Google'ın aktardığına göre, kullanıcılar Gemini uygulamasını kullanarak işletmeleri arayabilecek ve rezervasyon oluşturma veya ürün stok durumu öğrenme gibi işlemleri yapay zekaya devredebilecek.\n\n## Gemini telefon aramalarını nasıl gerçekleştiriyor?\n\nYeni sistem, yapay zekanın işletmeyi araması, kendini tanıtması, otomatik telefon menülerini geçmesi ve hatta hatta telefonda bekletildiğinde hatta kalması prensibiyle çalışıyor. The Verge'ün aktardığına göre, arama başlatmak için kullanıcıların bizzat çağrı başlatmasına gerek kalmıyor; Gemini tüm süreci kullanıcı adına yönetebiliyor. TechCrunch'ın haberine göre ise bu özellik, kullanıcıların onayladığı kişisel bilgileri paylaşmasına da imkan tanıyor, böylece daha geniş kapsamlı işlemler gerçekleştirilebiliyor.\n\n## Canlı döküm ve kullanıcı kontrolü\n\nSüreç boyunca kullanıcılar, telefon görüşmesinin nasıl ilerlediğini canlı bir döküm ekranı üzerinden takip edebiliyor. Yapay zekanın yürüttüğü görüşmeyi izleyen kullanıcılar, istedikleri herhangi bir anda aramayı devralarak doğrudan konuşmaya devam etme yetkisine sahip. Google, gerçek dünyadaki konuşmaların incelikli olması nedeniyle bu erken aşamadaki denemeyi küçük bir ölçekte başlattığını ifade ediyor.\n\n## Kimler erişebilecek?\n\n* ABD'deki Pixel 11 sahipleri\n* Ücretli Gemini aboneliğine sahip olanlar\n* Phone by Google Public Beta sürümünü kullananlar\n\n**Neden önemli?** Google'ın yıllar önce I/O konferansında tanıttığı yapay zeka destekli arama teknolojilerinin bir uzantısı olan bu erken deney, yapay zeka ajanlarının günlük ve pratik görevleri üstlenme kapasitesini genişletiyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Pixel 11"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini Pixel 11 için otomatik aramaları test ediyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "11",
+  "hero_stat_label": "Pixel modeli",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist matte black smartphone resting flat on a textured concrete surface, with a thin glowing line of warm amber light floating gently above the speaker grille, suggesting an active audio stream",
+  "focus_keyword": "Google Pixel 11 Gemini",
+  "seo_title": "Google Pixel 11 için Gemini otomatik arama özelliğini test…",
+  "meta_description": "Google, Pixel 11 sahipleri için Gemini'ın yerel işletmeleri arayıp rezervasyon ve stok sorgulaması yapmasını sağlayan yeni özelliği test ediyor.",
+  "seo_slug": "google-pixel-11-gemini-otomatik-arama-ozelligi",
+  "image_alt": "Beton zemin üzerinde duran siyah akıllı telefon ve üzerinde hafifçe parlayan amber renkli ışık çizgisi",
+  "cover_text": "Gemini Call",
+  "importance": 7,
+  "triage_reason": "Google, Pixel 11 kullanıcıları için Gemini'ın işletmeleri arayabileceği yeni bir özellik test ediyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:04:31Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "title": "Google tests letting Gemini call businesses for you",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge",
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "published": "2026-09-24T16:04:31Z",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: Instead of dialing yourself, […]",
+      "text": "Google’s launching an “early experiment” feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don’t even need to start the call to have Gemini handle it for you:\nGemini can now call businesses for you so you don’t have to wait on hold\nGoogle’s AI can handle entire phone calls with businesses with a new Pixel 11 feature.\nInstead of dialing yourself, just tell Gemini to call on your behalf using the Gemini app on your Pixel. Gemini will call the business, introduce itself, navigate automated phone menus, wait on hold, and handle the conversation with the person on the other end. You remain in control at all times with a live transcript view and the ability to take over the conversation at any point.\nGoogle announced a similar “Call for me” feature last year that has its AI call local businesses to ask if they have a product you’re looking for, but it didn’t have an option for users to take over those phone calls. Meta is also working on a similar automated phone call feature for its Muse AI agent, although those calls reportedly might be made by a human behind the scenes. Google’s new AI calling feature is rolling out starting today as an “early preview” for “Gemini paid subscribers enrolled in the Phone by Google Public Beta on Pixel 11 in the US.”"
+    },
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "published": "2026-09-24T16:00:00Z",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "text": "With AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.”\nThe feature will initially roll out to Pixel 11 owners who pay for a Gemini subscription in the U.S. It will also require the use of the beta version of Google’s Phone app for Android, as it’s still supposed to be an experiment.\nWhile Google has long offered calling features guided by AI, prior versions were limited in what they could do. With this update, Gemini will be able to share personal information that you approve as part of the calls it makes, which, the company says, will allow it to take a broader set of actions.\nIn addition, Google says users will be able to follow the call as it happens and take over at any time. “Call for Me” will also use your own personal phone number to make calls, which will be dialed directly from your phone.\nGoogle says the AI can handle complex tasks, like calling a store to ask if a product is in stock, making a restaurant reservation, moving a scheduled appointment to a different date, or placing items on hold.\nThe AI can call a business and introduce itself, navigate automated phone menus, wait on hold, and then handle the conversation on the other end. Meanwhile, users can watch how the call proceeds via a live transcript of the conversation.\nThe launch builds on years of experiments with AI-assisted, automated calling technology at Google.\nYears ago, the company wowed people at its I/O developer conference when it demonstrated Google Assistant calling a salon to make a reservation, and even adding little “umm’s” and “ahh’s” to make the conversation seem natural.\nLast year, it rolled out “Ask for Me,” a feature that let Gemini call businesses on users’ behalf to inquire about things like pricing or services. People with Pixel smartphones have also had access to features like “Hold for Me” or “Talk to a Live Rep,” which can navigate phone trees, then automatically wait on hold until a real person comes to the line. Another option, “Direct My Call,” can display the numbers to navigate IVR systems.\nGoogle said it’s starting this experiment at a small scale because “real-world conversations are nuanced,” and it needs time to get the feature right before rolling it out more broadly."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 84
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Öğreniyor: 23/30 karar"
+}
