@@ -1,0 +1,82 @@
+{
+  "id": "7f47b7c2f8",
+  "created_at": "2026-09-23T21:47:20Z",
+  "title": "OpenAI'ın GPT-6 Astra modeli hukuk ve video düzenlemede kullanılmaya başladı",
+  "summary": "OpenAI, yeni nesil modeli GPT-6 Astra'nın Harvey, invideo ve Airbnb gibi platformlar tarafından kullanılmaya başlandığını duyurdu.",
+  "body": "OpenAI'ın duyurusuna göre, yeni nesil dil modeli **GPT-6 Astra** iş dünyasında ve farklı sektörlerde kullanılmaya başlandı. Hukuk teknolojileri şirketi Harvey, video düzenleme platformu invideo ve konaklama devi Airbnb, operasyonlarında bu yeni modeli entegre eden kurumlar arasında yer alıyor.\n\n## Hukuk ve video düzenlemede Astra etkisi\n\nOpenAI'ın aktardığına göre, **Harvey** adlı yapay zeka destekli hukuk platformu, GPT-6 Astra sayesinde karmaşık hukuki bağlamları daha iyi işleyebiliyor. Model, mahkeme bilgileri ve dava araştırmaları gibi geniş veri kaynaklarını daha yapılı çıktılara dönüştürürken, platforma eklenen hafıza paneli avukatların tercihlerini doğrudan taslak süreçlerine yansıtmasına imkan tanıyor. Diğer yandan, yapay zeka odaklı video editörü invideo da Astra ile renk düzenleme ve düzeltme görevlerinde başarısını üç kat artırdı. Şirket, modelin yardımıyla tek bir günde 50 özel efekt üretebildiğini bildirdi.\n\n## Airbnb mühendisliğinde genişleyen kullanım\n\nAirbnb ise yaptığı yeni bir anlaşmayla mühendislik ve ürün geliştirme ekiplerinin GPT-6 Astra dahil olmak üzere OpenAI öncü modellerine erişimini genişletti. Amazon Bedrock ve OpenAI API'leri üzerinden sağlanan bu erişim, Airbnb mühendislerinin kod yazma, hata ayıklama ve sistem tasarımı süreçlerini hızlandırmasına yardımcı oluyor. Şirket ayrıca yapay zeka modellerini arama, dolandırıcılık önleme, müşteri desteği ve sigorta talepleri gibi alanlarda da kullanıyor.\n\n**Neden önemli?** GPT-6 Astra'nın kurumsal entegrasyonları, büyük dil modellerinin hukuk, video prodüksiyonu ve yazılım mühendisliği gibi karmaşık iş akışlarında daha fazla bağlam işleme ve daha az işlem adımıyla yüksek doğruluk sağlama kapasitesini gösteriyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "GPT-6",
+    "Airbnb",
+    "büyük dil modelleri",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "GPT-6 Astra kurumsal kullanıma açıldı",
+  "kicker": "Yeni model",
+  "hero_stat": "3x",
+  "hero_stat_label": "renk düzenleme başarısı",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "GPT-6 Astra",
+  "seo_title": "OpenAI GPT-6 Astra modeli kurumsal kullanıma sunuldu",
+  "meta_description": "OpenAI'ın yeni modeli GPT-6 Astra; Harvey, invideo ve Airbnb entegrasyonlarıyla hukuk, video düzenleme ve yazılım alanlarında kullanılmaya başlandı.",
+  "seo_slug": "openai-gpt-6-astra-modeli-kurumsal-kullanimda",
+  "image_alt": "Buzlu cam küplerden yükselen grafik ve üzerinde yuvarlanan seramik küreler, GPT-6 Astra'nın kurumsal entegrasyonlarını…",
+  "importance": 8,
+  "triage_reason": "OpenAI'nin GPT-6 modeli için yeni entegrasyonlar, performans geliştirmeleri ve güncellemeler duyuruldu.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T12:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T12:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T01:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T21:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 22
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "openai-gpt-6-astra-modeli-kurumsal-kullanimda",
+  "published_at": "2026-09-24T05:03:22Z",
+  "publish_mode": "manual"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "466bb63d84",
+  "created_at": "2026-09-24T04:43:01Z",
+  "title": "California'da veri merkezleri enerji tüketimi ve su kullanımını açıklamak zorunda kalacak",
+  "summary": "California Valisi Gavin Newsom'ın imzaladığı yedi yeni yasa tasarısı, veri merkezlerinin elektrik ve su tüketim verilerini paylaşmasını ve şebeke maliyetlerini üstlenmesini zorunlu kılıyor.",
+  "body": "California Valisi Gavin Newsom, eyaletteki veri merkezlerinin şebeke ve su kaynakları üzerindeki etkilerini denetim altına almayı amaçlayan yedi yasa tasarısını 21 Eylül'de imzaladı. Yeni düzenlemelerle birlikte **veri merkezleri enerji tüketimi** ve su kullanımı konusunda kamuoyuna daha fazla şeffaflık sağlamak zorunda kalacak.\n\n## Şebeke maliyetleri ve veri merkezleri enerji tüketimi\n\nİmzalanan yasal paket, California Kamu Hizmetleri Komisyonu'na veri merkezleri için ayrı elektrik tarifeleri belirleme yetkisi veriyor. Senate Bill 886, Assembly Bill 2383 ve Senate Bill 1168 kapsamındaki bu adım, yapay zeka altyapılarının şebekeye bağlanması için gereken yüksek maliyetli altyapı harcamalarının genel tüketicilerin faturalarına yansıtılmasını engellemeyi hedefliyor. Ayrıca AB 2383, tesislerin daha fazla yenilenebilir enerji kullanmasını teşvik ediyor.\n\nAB 1577 sayılı yasa ise veri merkezlerinin aylık enerji tüketimlerini düzenli olarak raporlamasını şart koşuyor. UCS (Union of Concerned Scientists) bünyesindeki araştırmacılar, mevcut durumda veri eksikliği nedeniyle tesislerin şebeke maliyetlerini nasıl etkilediğini net biçimde saptamanın mümkün olmadığını belirtiyor.\n\n## Su tüketimi bildirimleri ve çevre denetimi\n\nPaket, su kaynaklarının korunmasına ve çevresel etki değerlendirmelerine yönelik şu maddeleri içeriyor:\n\n* AB 2619 ve AB 2469, işletmelerin izin ve ruhsat başvuruları sırasında su kullanım verilerini açıklamasını zorunlu kılıyor.\n* AB 2469, tesislere hizmet vermek için gereken su altyapısı yükseltmelerinin maliyetini işletmecilerin karşılamasını şart koşuyor.\n* SB 887, veri merkezlerinin California Çevre Kalitesi Yasası muafiyetlerini kaldırarak tesisleri standart çevresel incelemelere tabi tutuyor.\n\nSanta Clara University araştırmacıları, su bildirimlerinin sadece izin süreçlerinde istenmesinin yıllık fiili kullanım dalgalanmalarını gizleyebileceğini belirtse de adımı düzenleme yönünde önemli bir başlangıç olarak nitelendiriyor.\n\n**Neden önemli?** Yapay zeka modellerini barındıran dev tesislerin kamu kaynakları üzerindeki yükü tartışılırken, bu düzenleme teknoloji sektöründe kaynak şeffaflığı ve altyapı maliyet paylaşımı için bağlayıcı bir yasal çerçeve sunuyor.",
+  "category": "politika",
+  "tags": [
+    "California",
+    "veri merkezleri",
+    "Gavin Newsom",
+    "enerji şebekesi",
+    "sürdürülebilirlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "California'dan veri merkezlerine şeffaflık yasası",
+  "kicker": "Regülasyon",
+  "hero_stat": "7",
+  "hero_stat_label": "onaylanan yasa tasarısı",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist matte black monolith block resting on a split pedestal of clear water glass and solid copper grid lines, illuminated by soft neutral studio light against a light gray backdrop.",
+  "focus_keyword": "veri merkezleri enerji tüketimi",
+  "seo_title": "Veri merkezleri enerji tüketimi California'da açıklanacak",
+  "meta_description": "California'da yürürlüğe giren yeni yasalarla veri merkezleri enerji tüketimi ve su verilerini paylaşacak, şebeke altyapı maliyetlerini üstlenecek.",
+  "seo_slug": "veri-merkezleri-enerji-tuketimi-california-seffaflik-yasasi",
+  "image_alt": "Mat siyah veri bloğu, su ve şebeke hattını simgeleyen kaide üzerinde durarak California düzenlemesini temsil ediyor",
+  "importance": 7,
+  "triage_reason": "Kaliforniya valisinin veri merkezlerini düzenleyen yeni yasaları imzalaması önemli bir politika adımıdır.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "title": "Data centers are black boxes, but California wants to change that",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T18:22:57Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 29
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "veri-merkezleri-enerji-tuketimi-california-seffaflik-yasasi",
+  "published_at": "2026-09-24T05:03:48Z",
+  "publish_mode": "manual"
+}

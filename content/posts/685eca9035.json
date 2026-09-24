@@ -1,0 +1,83 @@
+{
+  "id": "685eca9035",
+  "created_at": "2026-09-23T21:48:42Z",
+  "title": "YouTube yapay zeka destekli özel akışlar ve yeni özelliklerini duyurdu",
+  "summary": "YouTube, Made on YouTube etkinliğinde yapay zeka destekli özel akışlar, Ask YouTube ve YouTube Music için yeni sohbet tabanlı araçları tanıttı.",
+  "body": "YouTube, yıllık Made on YouTube etkinliğinde platformun kullanıcılar ve içerik üreticileri için yenilenen yüzünü paylaştı. Yapılan duyurulara göre, Google’ın video platformu yapay zeka teknolojilerini arayüze ve müzik uygulamasına entegre eden yeni araçlar sunmaya hazırlanıyor.\n\n## Özel akışlar ve yapay zeka entegrasyonu\nTechCrunch'ın aktardığına göre, kullanıcılar kendi algoritmalarını oluşturmalarına imkan tanıyan yeni **özel akışlar** (custom feeds) özelliğine kavuşuyor. İstediğiniz bir konuyu ya da ruh halini metin kutusuna yazarak Google’ın Gemini AI modelinin bu doğrultuda yeni bir sekme oluşturmasını sağlayabilirsiniz. YouTube'un açıklamasına göre bu özellik, kullanıcıların platformdaki yüz milyarlarca video arasından istedikleri içeriklere daha kolay ulaşmasını hedefliyor. Özelliğin web ve mobil platformlarda önümüzdeki ay itibarıyla kullanıma sunulması planlanıyor.\n\n## YouTube Music ve sohbet özellikleri\nEtkinlikte ayrıca YouTube Music uygulaması için de yeni yapay zeka yetenekleri duyuruldu. Ask Music adlı yeni sohbet tabanlı araç, arama çubuğunun yerine geçerek kullanıcıların günlük dille şarkı, çalma listesi veya sanatçı aramasına olanak tanıyor. Platform ayrıca, podcast keşfini kolaylaştırmak için Your Podcast Lineup adlı yeni bir yapay zeka rehberi sunuyor. Öte yandan Ars Technica'nın haberine göre, platforma gelecek diğer yenilikler arasında şu maddeler yer alıyor:\n\n- Yorumlarda GIF paylaşımı desteği\n- Doğrudan mesajlaşma özelliğine grup sohbeti eklenmesi\n- Ürün inceleme videolarında ve aramalarda daha aktif rol alan Ask YouTube asistanı\n\n**Neden önemli?** Bu yenilikler, YouTube'un kullanıcı deneyimini daha kişiselleştirilmiş ve etkileşimli hale getirmek için yapay zeka araçlarını platform genelinde daha belirgin bir konuma taşıdığını gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "YouTube",
+    "YouTube Music",
+    "Google",
+    "Gemini"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "YouTube'dan yapay zeka tabanlı özel akışlar",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "özel akışlar",
+  "seo_title": "YouTube yapay zeka destekli özel akışlar özelliğini duyurdu",
+  "meta_description": "YouTube, Made on YouTube etkinliğinde yapay zeka destekli özel akışlar ve Ask Music gibi yeni özellikleri kullanıcılarla buluşturacağını açıkladı.",
+  "seo_slug": "youtube-yapay-zeka-destekli-ozel-akislar-ozelligini-duyurdu",
+  "image_alt": "Buzlu cam küplerden oluşan soyut bir yapay zeka ve veri görselleştirmesi temsil eden stüdyo sahnesi hazırlığı için görsel…",
+  "importance": 7,
+  "triage_reason": "YouTube, yapay zeka destekli özel akışlar ve içerik üretici araçlarını tanıttı.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/#comments",
+      "published": "2026-09-23T19:35:53Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T15:19:30Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T14:30:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T14:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica",
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 25
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "youtube-yapay-zeka-destekli-ozel-akislar-ozelligini-duyurdu",
+  "published_at": "2026-09-24T05:03:38Z",
+  "publish_mode": "manual"
+}

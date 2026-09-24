@@ -1,0 +1,54 @@
+{
+  "id": "e92db9514f",
+  "created_at": "2026-09-23T21:47:34Z",
+  "title": "NVIDIA Isaac ROS 5.0 duyuruldu",
+  "summary": "Nvidia, robotik geliştirme süreçlerini hızlandırmak ve yapay zeka ajanlarını entegre etmek üzere tasarlanan Isaac ROS 5.0'ı duyurdu.",
+  "body": "Nvidia Isaac ROS 5.0 duyuruldu ve yapay zeka ajanlarını robotik geliştirme süreçlerine dahil eden yeni araçlar ile platform desteği sunmaya başladı. Toronto, Kanada'daki ROSCon konferansında tanıtılan bu yeni sürüm, geliştiricilerin fiziksel yapay zeka uygulamalarını daha hızlı inşa etmesini ve dağıtmasını hedefliyor.\n\n## Yeni yapay zeka yetenekleri ve iş akışları\n\nNvidia'nın açıklamasına göre, Isaac ROS 5.0, geliştiricilerin ROS araçlarını ve iş akışlarını anlamasını kolaylaştıran yapay zeka ajanı dostu dokümantasyonlar içeriyor. Yeni FoundationStereo ince ayar yeteneği, yapay zeka ajanlarının stereo algılama modelini geliştiricinin kameralarına ve ortamına uyarlamasına yardımcı oluyor. Ayrıca **FoundationPose** modeli, robotların nesnelerin konumunu ve yönelimini algılayıp takip etmesini 5.5 kat daha hızlı hale getiren çıkarım kütüphanesi sunuyor.\n\n## Platform desteği ve ekosistem entegrasyonu\n\nSürüm, ROS Lyrical ve Ubuntu 24.04 desteği getirerek geliştiricilere en son ROS platformuna geçiş yolu açıyor. Nvidia, farklı bilgi işlem donanımları arasında verimli çalışan standart bir veri işleme arayüzüne katkıda bulundu. RealSense, Intrinsic, Seeed Studio ve Magna gibi şirketler de yeni sürümü kendi platformlarında ve çözümlerinde kullanmaya başladıklarını duyurdu.\n\n**Neden önemli?** Yeni sürüm, giriş seviyesi Nvidia Jetson Orin Nano'dan yüksek performanslı Jetson Thor cihazlarına kadar ölçeklenebilir bilgi işlem desteği sunarak robotik iş yüklerinin geliştirilmesini ve gerçek dünya uygulamalarına taşınmasını kolaylaştırıyor.",
+  "category": "donanim",
+  "tags": [
+    "NVIDIA",
+    "Isaac ROS",
+    "Jetson",
+    "ROS"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "NVIDIA Isaac ROS 5.0 duyuruldu",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "5,5x",
+  "hero_stat_label": "daha hızlı nesne takibi",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "NVIDIA Isaac ROS 5.0",
+  "seo_title": "NVIDIA Isaac ROS 5.0 duyuruldu",
+  "meta_description": "Nvidia, yapay zeka ajanlarını robotik geliştirme süreçlerine entegre eden Isaac ROS 5.0 sürümünü duyurdu. Detaylar haberimizde.",
+  "seo_slug": "nvidia-isaac-ros-5-0-duyuruldu",
+  "image_alt": "Buzlu cam küplerden yükselen grafik ve seramik küpler: Nvidia Isaac ROS 5.0 duyurusunu temsil eden görsel",
+  "importance": 7,
+  "triage_reason": "NVIDIA, robotik geliştirme için Isaac ROS 5.0 sürümünü duyurdu.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-22T12:00:41Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 23
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "nvidia-isaac-ros-5-0-duyuruldu",
+  "published_at": "2026-09-24T05:03:28Z",
+  "publish_mode": "manual"
+}

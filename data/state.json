@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 614197216,
+  "telegram_offset": 614197224,
   "last_collect": "2026-09-24T04:41:20Z",
   "last_summary_date": "2026-09-23",
   "mode_override": null,
@@ -104,11 +104,21 @@
       "tok_in": 36250,
       "tok_out": 29505,
       "cost_usd": 0.0,
-      "drafts": 7
+      "drafts": 7,
+      "published": 7,
+      "approved": 7
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": []
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/sam-altman-birlesmis-milletler-guvenlik-konseyi/",
+    "https://egemensemih.github.io/yz-radar/haber/openai-gpt-6-astra-modeli-kurumsal-kullanimda/",
+    "https://egemensemih.github.io/yz-radar/haber/nvidia-isaac-ros-5-0-duyuruldu/",
+    "https://egemensemih.github.io/yz-radar/haber/abd-ve-cin-yapay-zeka-guvenligi-icin-gorustu/",
+    "https://egemensemih.github.io/yz-radar/haber/youtube-yapay-zeka-destekli-ozel-akislar-ozelligini-duyurdu/",
+    "https://egemensemih.github.io/yz-radar/haber/meta-akilli-gozluk-ailesine-yeni-modeller-ve-muse-geldi/",
+    "https://egemensemih.github.io/yz-radar/haber/veri-merkezleri-enerji-tuketimi-california-seffaflik-yasasi/"
+  ]
 }

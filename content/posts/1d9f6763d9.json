@@ -1,0 +1,54 @@
+{
+  "id": "1d9f6763d9",
+  "created_at": "2026-09-23T21:47:03Z",
+  "title": "Sam Altman Birleşmiş Milletler Güvenlik Konseyi'nde yapay zeka güvenliğini anlattı",
+  "summary": "OpenAI CEO'su Sam Altman, Birleşmiş Milletler Güvenlik Konseyi'nde yaptığı konuşmada yapay zeka güvenliği, insan kontrolü ve uluslararası iş birliği çağrısında bulundu.",
+  "body": "OpenAI CEO'su Sam Altman, Birleşmiş Milletler Güvenlik Konseyi'nde yaptığı konuşmada yapay zeka güvenliği konusuna dikkat çekti. 23 Eylül 2026 tarihinde gerçekleşen oturumda Altman, yapay zekanın insanları merkeze alan bir yaklaşımla geliştirilmesi gerektiğini vurguladı.\n\n## İnsan kontrolü ve temel riskler\n\nOpenAI'ın duyurusuna göre Altman, yapay zeka modellerinin özerkleşmesiyle birlikte ortaya çıkabilecek iki temel tehlikeye dikkat çekti. Bunlardan birincisi, sistemlerin hızla gelişmesi sonucunda geleceğin kontrolünün yapay zekaya kaptırılması riski. İkincisi ise teknolojinin çok az kişinin elinde toplanarak güç yoğunlaşmasına yol açması tehlikesi.\n\nAltman, gelecekte kendilerini geliştirebilen modeller yaklaşırken endüstrinin aşırı teknolojik risk almaması gerektiğini belirtti. OpenAI'ın geçmişte tek taraflı olarak yavaşladığını hatırlatan Altman, güvenlik garantileri verilemeyen sistemlerin eğitilmemesi gerektiğini ifade etti.\n\n## Üç temel ilke\n\nŞirketin bu süreçte izleyeceği stratejiyi paylaşan Altman, insan ajansının korunması gerektiğini belirterek üç temel ilkeye bağlı kaldıklarını aktardı:\n\n- Karar mekanizmalarında insanların merkezde kalması ve insan değerlerinin otomatize edilmemesi.\n- Bilimsel ilerleme ve ekonomik büyüme faydalarının herkes için olması.\n- Teknolojinin bireyleri ve toplulukları güçlendirmesi.\n\n**Neden önemli?** Sam Altman, yapay zekanın tıp, eğitim ve ekonomi alanlarında yeni keşifler yapabileceğini belirtirken, modellerin kontrol altında tutulması ve uluslararası iş birliğinin hayati önem taşıdığını vurguladı.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "Birleşmiş Milletler",
+    "Sam Altman",
+    "güvenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Sam Altman BM Güvenlik Konseyi'nde konuştu",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic dark grey basalt stone block resting on a polished concrete surface, illuminated by a single soft overhead spotlight, casting a quiet and balanced shadow",
+  "focus_keyword": "Sam Altman yapay zeka",
+  "seo_title": "Sam Altman Birleşmiş Milletler'de yapay zeka güvenliğini…",
+  "meta_description": "OpenAI CEO'su Sam Altman, BM Güvenlik Konseyi'ndeki konuşmasında yapay zeka güvenliği, insan kontrolü ve uluslararası iş birliği çağrısı yaptı.",
+  "seo_slug": "sam-altman-birlesmis-milletler-guvenlik-konseyi",
+  "image_alt": "Gri bazit taş blok üzerinde yumuşak ışık yansıması, yapay zeka güvenliği toplantısını temsil eden minimalist stüdyo görseli",
+  "importance": 8,
+  "triage_reason": "Sam Altman, BM Güvenlik Konseyi'nde yapay zeka güvenliği ve uluslararası iş birliğini savundu.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T12:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 21
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "sam-altman-birlesmis-milletler-guvenlik-konseyi",
+  "published_at": "2026-09-24T05:03:07Z",
+  "publish_mode": "manual"
+}

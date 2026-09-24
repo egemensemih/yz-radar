@@ -1,0 +1,110 @@
+{
+  "id": "3a6d72fbad",
+  "created_at": "2026-09-24T00:01:02Z",
+  "title": "Meta akıllı gözlük serisini kamerasız model ve Muse desteğiyle genişletti",
+  "summary": "Meta, kamerasız Ray-Ban Meta Audio ve üçüncü nesil kameralı gözlüklerini tanıtırken yapay zeka ajanı Muse'u donanım ailesine entegre edeceğini açıkladı.",
+  "body": "Meta, Connect 2026 etkinliğinde tanıttığı yeni ürünlerle **Meta akıllı gözlük** ekosistemini kamerasız bir model ve gelişmiş yapay zeka yetenekleriyle büyütüyor. Şirket, EssilorLuxottica ortaklığıyla geliştirdiği ilk kamerasız model olan Ray-Ban Meta Audio'yu duyururken kameralı Ray-Ban Meta serisini de üçüncü nesle taşıdı. Duyurulan tüm akıllı gözlüklerin, şirketin yeni kişisel yapay zeka ajanı Muse ile çalışacağı bildirildi.\n\n## Kamerasız Ray-Ban Meta Audio neler sunuyor?\n\nKamera içermeyen yapay zeka gözlüğü Ray-Ban Meta Audio, gizlilik endişelerini gidermek ve yalnızca sese odaklanmak amacıyla tasarlandı. Ön çerçevede kamera donanımı bulunmadığı için 43 gram ağırlığında olan cihaz; müzik dinleme, telefon görüşmesi yapma, konuşma çevirisi ve Muse ile sesli etkileşim kurma işlevlerini sunuyor. \n\nCihazın öne çıkan donanım ve erişim detayları şöyle sıralanıyor:\n- Tek şarjla 12 saate kadar, şarj kutusuyla ise 48 saate kadar kullanım süresi\n- Clubmaster ve Burbank adını taşıyan iki farklı çerçeve tasarımı ve 23 renk/cam kombinasyonu\n- Genişleyebilen menteşeler, ayarlanabilir saplar ve değiştirilebilir burun pedleri\n- 13 Ekim'de başlayacak ön sipariş süreci ve 349 dolarlık başlangıç fiyatı\n\n## Üçüncü nesil kameralı model ve Muse entegrasyonu\n\nMeta, kameralı ürün grubunu ise 449 dolardan başlayan Ray-Ban Meta Gen 3 ile güncelledi. Yeni nesil, 3K Ultra HD video kaydedebilen 12 MP kamera, altı mikrofonlu dizi ve dokuz saate varan pil ömrüyle geliyor. Bu modelde Aviator ve kedi gözü formundaki Zena çerçeve seçenekleri sunuluyor. Ayrıca videolarda 360 derece mekansal ses kaydı için Dolby Atmos Capture desteği ekleniyor.\n\nYazılım tarafında ise yeni yapay zeka ajanı Muse, kullanıcıların gözlük üzerinden antrenman takibi, yemek kaydı ve alışveriş gibi görevleri sesle yönetmesini sağlayacak. Erişilebilirlik kapsamında hafif ve orta düzey işitme kaybı için FDA onaylı Hearing Enhancement yazılımı, Meta One aboneliğiyle ya da 149 dolarlık tek seferlik ek paket olarak sunulacak.\n\n**Neden önemli?** Akıllı gözlüklerdeki gizlilik eleştirilerine kamerasız bir tasarımla yanıt veren Meta, donanımı hafifleterek cihazları yalnızca görsel bir kayıt aracından çıkarıp sürekli taşınabilir bir yapay zeka arayüzüne dönüştürmeyi amaçlıyor.",
+  "category": "donanim",
+  "tags": [
+    "Meta",
+    "Ray-Ban Meta",
+    "Muse",
+    "akıllı gözlük",
+    "EssilorLuxottica"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta'dan kamerasız akıllı gözlük",
+  "kicker": "Donanım",
+  "hero_stat": "349 $",
+  "hero_stat_label": "başlangıç fiyatı",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist matte dark acetate eyewear frame resting gracefully on a pale limestone pedestal, stripped of lenses and visible mechanical joints, casting a sharp geometric shadow under soft studio lighting.",
+  "focus_keyword": "Meta akıllı gözlük",
+  "seo_title": "Meta Akıllı Gözlük Ailesine Kamerasız Yeni Model Geldi",
+  "meta_description": "Meta akıllı gözlük serisine kamerasız Ray-Ban Meta Audio ve Gen 3 eklendi. Yapay zeka asistanı Muse ve erişilebilirlik özellikleri tanıtıldı.",
+  "seo_slug": "meta-akilli-gozluk-ailesine-yeni-modeller-ve-muse-geldi",
+  "image_alt": "Kireçtaşı kaide üzerinde duran sade gözlük çerçevesi: Meta'nın kamerasız yeni akıllı gözlük tasarımını temsil eden görsel",
+  "importance": 8,
+  "triage_reason": "Meta Connect etkinliğinde yeni kamerasız akıllı gözlükler ve gelişmiş Muse yapay zeka ajanı duyuruldu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "title": "Muse is coming to Meta smart glasses",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T23:40:56Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "title": "Meta introduces camera-free AI glasses",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T23:39:44Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T23:37:17Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T23:19:42Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T01:13:32Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T00:46:17Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T00:15:20Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge",
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 26
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "meta-akilli-gozluk-ailesine-yeni-modeller-ve-muse-geldi",
+  "published_at": "2026-09-24T05:03:43Z",
+  "publish_mode": "manual"
+}

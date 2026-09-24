@@ -1,19 +1,23 @@
 {
   "sources": {
     "OpenAI": {
-      "approved": 1,
+      "approved": 3,
       "rejected": 0
     },
     "Ars Technica": {
-      "approved": 1,
+      "approved": 3,
       "rejected": 0
     },
     "TechCrunch": {
-      "approved": 3,
+      "approved": 5,
       "rejected": 0
     },
     "The Verge": {
-      "approved": 3,
+      "approved": 6,
+      "rejected": 0
+    },
+    "NVIDIA": {
+      "approved": 1,
       "rejected": 0
     }
   },
@@ -45,6 +49,48 @@
     {
       "t": "2026-09-23T19:55:07Z",
       "id": "0a0b74ecb8",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:17Z",
+      "id": "1d9f6763d9",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:23Z",
+      "id": "7f47b7c2f8",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:28Z",
+      "id": "e92db9514f",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:34Z",
+      "id": "de08434994",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:39Z",
+      "id": "685eca9035",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:44Z",
+      "id": "3a6d72fbad",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T05:03:48Z",
+      "id": "466bb63d84",
       "ok": true,
       "manual": true
     }
