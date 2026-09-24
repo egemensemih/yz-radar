@@ -7,6 +7,7 @@
     var m = Math.round((now - d) / 60000);
     var s = m < 1 ? "az önce" : m < 60 ? m + " dk önce" : m < 1440 ? Math.round(m / 60) + " saat önce" : m < 10080 ? Math.round(m / 1440) + " gün önce" : null;
     if (s) { t.title = t.textContent; t.textContent = s; }
+    if (t.hasAttribute("data-live") && m > 180) { var l = t.closest(".live"); if (l) l.classList.add("stale"); }
   });
 
   // Yatay şerit okları

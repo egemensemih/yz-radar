@@ -24,10 +24,8 @@
 {% endmacro %}
 
 {% macro slide(p, i, n) %}
-<article class="slide" role="group" aria-roledescription="slayt" aria-label="{{ i }} / {{ n }}" style="--c:{{ p.cat_color }}" data-i="{{ i - 1 }}">
+<article class="slide{{ ' dark' if p.slide_dark }}" role="group" aria-roledescription="slayt" aria-label="{{ i }} / {{ n }}" style="--c:{{ p.cat_color }}; --sbg:{{ p.slide_bg or '#F5F5F7' }}" data-i="{{ i - 1 }}">
   <a class="slide-in" href="{{ p.url }}">
-    {{ img(p, 'slide-img', eager=(i == 1), sizes='(min-width: 1232px) 1200px, 100vw', priority=(i == 1)) }}
-    <span class="slide-scrim" aria-hidden="true"></span>
     <span class="slide-txt">
       <span class="slide-top">
         <span class="chip">{{ p.kicker_disp }}</span>
@@ -35,8 +33,10 @@
       </span>
       <h2>{{ p.title_disp }}</h2>
       <span class="slide-dek">{{ p.summary }}</span>
-      <span class="slide-meta"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · Kaynak: {{ p.credits|join(', ') }}</span>
+      <span class="slide-meta"><time datetime="{{ p.iso }}" data-rel>{{ p.date_str }}</time> · {{ p.credits|join(', ') }}</span>
+      <span class="more">Haberi oku</span>
     </span>
+    <span class="slide-media">{{ img(p, 'slide-img', eager=(i == 1), sizes='(min-width: 900px) 640px, 100vw', priority=(i == 1)) }}</span>
   </a>
 </article>
 {% endmacro %}

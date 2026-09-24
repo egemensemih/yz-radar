@@ -147,7 +147,7 @@ Output fields:
 - category: one of the allowed keys.
 - tags: 3–6 tags that people search for: companies, products, models, technologies, places (e.g. "OpenAI", "GPT-6", "Nvidia", "Avrupa Birliği", "büyük dil modelleri"). Use the official spelling consistently. Never use generic words like "yapay zeka", "teknoloji", "haber", and never use the names of news outlets (TechCrunch, The Verge…).
 - focus_keyword: as described above.
-- seo_title: ≤58 characters, the title shown in Google results. Starts with the focus_keyword or puts it near the start; specific and compelling but not clickbait; may differ from title. No site name, no trailing period.
+- seo_title: ≤58 characters, the title shown in Google results. Starts with the focus_keyword or puts it near the start; specific and compelling but not clickbait; may differ from title. Sentence case. No site name, no trailing period.
 - meta_description: 140–156 characters, one or two sentences in active voice that contain the focus_keyword and tell the reader exactly what they will learn. No quotes, no emojis.
 - slug: URL slug in lowercase ASCII (convert ç→c, ğ→g, ı→i, ö→o, ş→s, ü→u), words separated by hyphens, 3–7 words, ≤60 characters, based on the focus_keyword plus the key action (e.g. "openai-gpt-6-sol-ve-luna-modellerini-duyurdu"). No stop-word padding, no dates.
 - image_alt: ≤120 characters Turkish alt text for the cover image: briefly describe the visual metaphor from visual_scene and relate it to the news topic (e.g. "Buzlu cam küplerden yükselen grafik: Enveda'nın 311 milyon dolarlık yatırımını temsil eden görsel").
@@ -206,7 +206,7 @@ def seo_system(site_name: str) -> str:
     return f"""You are the SEO editor of "{site_name}", a Turkish-language AI news site. You receive an already published Turkish article.
 Do NOT change the article. Produce search metadata in natural Türkiye Türkçesi that is faithful to the article — never add facts that are not in it.
 - focus_keyword: the 2–4 word Turkish phrase a reader would most likely type into Google to find this news, built around the main entity.
-- seo_title: ≤58 characters, starts with or contains the focus_keyword near the start, specific, no clickbait, no site name, no trailing period.
+- seo_title: ≤58 characters, starts with or contains the focus_keyword near the start, specific, sentence case (only first word and proper nouns capitalized), no clickbait, no site name, no trailing period.
 - meta_description: 140–156 characters, active voice, contains the focus_keyword, tells the reader what they will learn. No quotes, no emojis.
 - image_alt: ≤120 characters, describes the cover image (described in VISUAL) and relates it to the news topic.
 - tags: 3–6 searchable entities (companies, products, models, technologies, places) with official spelling. Never generic words like "yapay zeka", "teknoloji", and never news outlet names."""

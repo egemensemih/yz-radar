@@ -20,7 +20,7 @@
 <header class="home-head wrap">
   <h1>Yapay zeka haberleri</h1>
   {% if featured %}
-  <p class="live" role="status"><span class="dot" aria-hidden="true"></span>Canlı · Son güncelleme <b><time datetime="{{ site.built_iso }}" data-rel>{{ site.built }}</time></b>{% if site.today_count %} · Bugün <b>{{ site.today_count }}</b> gelişme{% endif %}</p>
+  <p class="live" role="status"><span class="dot" aria-hidden="true"></span>Son haber <b><time datetime="{{ latest_iso }}" data-rel data-live>{{ latest_str }}</time></b>{% if site.today_count %} · Bugün <b>{{ site.today_count }}</b> gelişme{% endif %}</p>
   {% endif %}
 </header>
 
@@ -30,8 +30,10 @@
   </section>
 {% else %}
   <section class="car" aria-roledescription="carousel" aria-label="Öne çıkan yapay zeka haberleri" data-interval="6500">
-    <div class="car-track" id="car-track">
-      {% for p in featured %}{{ slide(p, loop.index, loop.length) }}{% endfor %}
+    <div class="car-view wrap">
+      <div class="car-track" id="car-track">
+        {% for p in featured %}{{ slide(p, loop.index, loop.length) }}{% endfor %}
+      </div>
     </div>
     {% if featured|length > 1 %}
     <div class="car-ui wrap">

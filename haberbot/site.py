@@ -15,7 +15,7 @@ from .config import CATEGORIES, ROOT, Config, category_color, category_label, ca
 from .store import Store
 from .util import clip, hours_since, iso, local, log, now_utc, parse_iso, slugify, tr_date
 
-ASSET_V = "5"
+ASSET_V = "6"
 WHY_RE = re.compile(r"<p><strong>Neden önemli\?</strong>\s*(.*?)</p>", re.S)
 H2_RE = re.compile(r"<h[1-3]>(.*?)</h[1-3]>", re.S)
 
@@ -52,6 +52,19 @@ def tag_slug(tag: str) -> str:
 # Her habere uyan genel sözcükler konu sayfası olmaz
 GENERIC_TAGS = {"yapay-zeka", "yapay-zek", "ai", "artificial-intelligence", "teknoloji", "technology", "haber", "haberler",
                 "gelisme", "duyuru", "yenilik", "yapay-zeka-haberleri"}
+
+
+def edge_color(path) -> tuple[str, bool]:
+    """Görselin sol kenar rengi: manşet zemini bu renge boyanır, görsel dikişsiz kaynaşır."""
+    from PIL import Image
+    try:
+        im = Image.open(path).convert("RGB")
+    except Exception:  # noqa: BLE001
+        return "#F5F5F7", False
+    w, h = im.size
+    r, g, b = im.crop((0, 0, max(2, int(w * .05)), h)).resize((1, 1), Image.BOX).getpixel((0, 0))
+    lum = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255
+    return f"#{r:02X}{g:02X}{b:02X}", lum < .5
 
 
 def make_logo(path, size: int = 512) -> None:
@@ -235,6 +248,9 @@ class SiteBuilder:
         # ana sayfa: manşet + son haberler; devamı arşiv sayfalarında
         n_feat = int(seo.get("featured_count", 5) or 5)
         featured = self._featured(posts, n_feat)
+        for p in featured:
+            src = cfg.images_dir / p["img"].rsplit("/", 1)[-1]
+            p["slide_bg"], p["slide_dark"] = edge_color(src)
         rest = [p for p in posts if p not in featured]
         latest = rest[:12] if len(rest) >= 3 else posts[:6]
         if len(latest) > 3:
@@ -250,6 +266,8 @@ class SiteBuilder:
                 rails.append({"cat": c, "posts": cp[:10]})
         self._write("index.html", self.env.get_template("index.html").render(
             **ctx, featured=featured, latest=latest, rails=rails, tags=site["top_tags"],
+            latest_iso=max((q["iso"] for q in posts), default=site["built_iso"]),
+            latest_str=tr_date(max((q.get("published_at") or "" for q in posts), default=None), cfg.tz),
             page=1, pages=pages, next_url=f"{b}/sayfa/2/" if pages > 1 else None,
             canonical=cfg.site_url + "/"))
         for n in range(2, pages + 1):
