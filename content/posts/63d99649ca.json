@@ -1,0 +1,54 @@
+{
+  "id": "63d99649ca",
+  "created_at": "2026-09-24T11:23:08Z",
+  "title": "ABD yönetiminden yapay zeka karşıtlarına yönelik soruşturma ve uyarılar",
+  "summary": "ABD yönetimi, yapay zeka ve veri merkezlerine yönelik kamuoyu tepkilerini yabancı devlet propagandası olarak nitelendirerek Adalet Bakanlığı üzerinden inceleme başlattı.",
+  "body": "ABD yönetiminden gelen açıklamalar doğrultusunda, yapay zeka ve veri merkezlerine karşı yürütülen kamusal muhalefet **ulusal güvenlik** meselesi olarak değerlendirilmeye başlandı. Ken Klippenstein'ın aktardığına göre, ABD Başkanı Donald Trump ve Adalet Bakanlığı, yapay zeka politikalarına karşı çıkan göstericileri ve protestocuları yabancı güçlerin amaçlarına hizmet etmekle suçlayarak cezai sorumluluk uyarısında bulundu. Yapılan son talimatlarda, kamu faaliyetlerinde bulunan vatandaşların devletin hedef gösterdiği durumlara karşı resmi bildirim yapması gerektiği ifade edildi.\n\n## Siyasi isimlerden Çin bağlantısı iddiaları\n\nTrump, Eylül ayında sosyal medya üzerinden yaptığı paylaşımlarda yapay zeka karşıtlığının Çin kaynaklı bir komplo olduğunu öne sürdü. Senato İstihbarat Komitesi başkanı Tom Cotton ise Haziran ayında dönemin vekili olan Başsavcı Todd Blanche'a bir mektup göndererek, Amerikan veri merkezi altyapısını hedef alan yabancı etki faaliyetlerinin araştırılmasını talep etti. Cotton mektubunda, Şanghay merkezli teknoloji yatırımcısı Neville Roy Singham'ın ağının Amerikan yapay zeka altyapısına karşı içerik ürettiğini iddia etti. Benzer şekilde Temsilciler Meclisi Enerji ve Ticaret Komitesi'ndeki Cumhuriyetçiler de FBI Direktörü Kash Patel ve Beyaz Saray'dan konuyla ilgili brifing talep etti.\n\n## Yatırımcılar ve hukuki süreçler\n\nTrump yönetiminin yanı sıra iş dünyasından isimler de bu iddialara destek veren açıklamalar yaptı. Yatırımcı Kevin O'Leary, Utah'da planlanan bir veri merkezine karşı çıkan protestoların arkasında Çin'den gelen yüz milyonlarca dolar olduğunu iddia etti. O'Leary daha sonra yaptığı açıklamalarda bu iddiayı kanıtlayacak delili olmadığını kabul ederken, adı geçen bazı gruplar O'Leary ve Fox News hakkında iftira davası açtı.\n\n**Neden önemli?** Yapay zeka ve veri merkezlerinin inşasına yönelik yerel muhalefetin federal düzeyde ulusal güvenlik ve dış etki soruşturmalarının konusu haline gelmesi, ABD'deki teknoloji politikaları ve ifade özgürlüğü tartışmalarını derinleştiriyor.",
+  "category": "politika",
+  "tags": [
+    "Donald Trump",
+    "Tom Cotton",
+    "Adalet Bakanligi",
+    "veri merkezleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD'de yapay zeka karşıtlarına soruşturma uyarısı",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a dense cluster of vertical graphite rods standing upright on a dark slate surface, one central rod leaning slightly away from the rest, illuminated by a sharp, cool directional light casting long shadows",
+  "focus_keyword": "yapay zeka karşıtlarına",
+  "seo_title": "ABD yönetiminden yapay zeka karşıtlarına soruşturma uyarısı",
+  "meta_description": "ABD yönetimi yapay zeka ve veri merkezlerine karşı çıkan protestocuları yabancı güçlerin amaçlarına hizmet etmekle suçlayarak Adalet Bakanlığı'nı harekete geçirdi.",
+  "seo_slug": "abd-yonetiminden-yapay-zeka-karsitlarina-sorusturma",
+  "image_alt": "Koyu zemin üzerinde dikey duran grafit çubuklar ve aralarında eğik duran tek bir odak çubuğu",
+  "importance": 6,
+  "triage_reason": "ABD federal hükümetinin yapay zeka eleştirmenlerini hedef alması.",
+  "sources": [
+    {
+      "name": "kenklippenstein.com",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=49824686",
+      "published": "2026-09-24T00:41:31Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 58
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "abd-yonetiminden-yapay-zeka-karsitlarina-sorusturma",
+  "published_at": "2026-09-24T11:23:54Z",
+  "publish_mode": "manual"
+}

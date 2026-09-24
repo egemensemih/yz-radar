@@ -1,6 +1,6 @@
 {
-  "telegram_offset": 614197226,
-  "last_collect": "2026-09-24T09:35:14Z",
+  "telegram_offset": 614197249,
+  "last_collect": "2026-09-24T11:21:15Z",
   "last_summary_date": "2026-09-23",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 1229
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 867
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:10Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 5,
+      "fails": 6,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:11Z",
+      "last_ok": "2026-09-24T11:21:07Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-24T09:35:11Z",
+      "last_ok": "2026-09-24T11:21:08Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 3,
-      "last_ok": "2026-09-23T21:43:03Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-09-24T11:21:15Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -101,16 +100,27 @@
       "approved": 5
     },
     "2026-09-24": {
-      "tok_in": 50884,
-      "tok_out": 34819,
+      "tok_in": 67223,
+      "tok_out": 39760,
       "cost_usd": 0.0,
-      "drafts": 12,
-      "published": 7,
-      "approved": 7
+      "drafts": 17,
+      "published": 17,
+      "approved": 17
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": []
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/openai-mentalhealthbench-testini-duyurdu/",
+    "https://egemensemih.github.io/yz-radar/haber/snorkel-ai-350-milyon-dolar-yatirim-aldi/",
+    "https://egemensemih.github.io/yz-radar/haber/chatgpt-mobilde-sesli-komut-ve-ajan-ozellikleri-kazandi/",
+    "https://egemensemih.github.io/yz-radar/haber/turkiyedeki-isletmelerin-yapay-zeka-kullanimi-yuzde-51e-yukseldi/",
+    "https://egemensemih.github.io/yz-radar/haber/google-deepmind-gemini-4-modelini-yil-sonundan-once-cikarmayi/",
+    "https://egemensemih.github.io/yz-radar/haber/ema-yapay-zeka-girisimi-77-milyon-dolar-yatirim-aldi/",
+    "https://egemensemih.github.io/yz-radar/haber/openai-yapay-zeka-ajani-medicare-verilerini-ihlal-etti/",
+    "https://egemensemih.github.io/yz-radar/haber/gemini-3-8-metin-okuma-modelleri-duyuruldu/",
+    "https://egemensemih.github.io/yz-radar/haber/abd-yonetiminden-yapay-zeka-karsitlarina-sorusturma/",
+    "https://egemensemih.github.io/yz-radar/haber/stripe-knowledge-ai-platform-duyuruldu/"
+  ]
 }

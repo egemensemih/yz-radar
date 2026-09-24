@@ -1,0 +1,55 @@
+{
+  "id": "825281feb7",
+  "created_at": "2026-09-24T09:37:06Z",
+  "title": "Türkiye'deki işletmelerin yapay zeka kullanımı yüzde 51'e yükseldi",
+  "summary": "AWS ve Strand Partners tarafından hazırlanan yeni bir araştırmaya göre, Türkiye'de işletmelerin yapay zeka kullanımı son bir yılda yüzde 37'den yüzde 51'e yükseldi.",
+  "body": "Türkiye'deki işletmelerin yapay zeka kullanımı son bir yılda önemli bir artış göstererek yüzde 37'den yüzde 51'e çıktı. Webrazzi'nin aktardığına göre, AWS ve Strand Partners tarafından hazırlanan \"2026'da Türkiye'nin Yapay Zeka Potansiyelini Ortaya Çıkarmak\" başlıklı rapor, şirketlerin bu teknolojiyi iş süreçlerine daha fazla entegre ettiğini ortaya koyuyor. Bulut teknolojilerinin kullanım oranı da aynı dönemde yüzde 34'ten yüzde 49'a yükseldi.\n\n## Sektörel ve bölgesel dağılım\n\nAraştırma sonuçlarına göre, yapay zeka kullanım oranı finansal hizmetlerde yüzde 74, medya ve eğlencede yüzde 66, perakendede yüzde 61 ve imalat sektöründe yüzde 54 seviyesinde bulunuyor. Bölgesel bazda ise İstanbul'daki işletmelerin yüzde 62'si yapay zeka kullanırken, bu oran Ankara ve çevresinde yüzde 58 olarak ölçüldü. İstanbul dışındaki diğer bölgelerde kullanım oranı yüzde 31'den yüzde 46'ya çıktı.\n\n## Gelecek hedefleri ve öncelikler\n\nİşletmelerin yüzde 38'i önemli veya dönüştürücü seviyede verimlilik artışı elde ettiğini belirtirken, yüzde 44'ü yapay zeka kullanımının önümüzdeki yıl büyümelerini artırmasının muhtemel olduğunu ifade ediyor. AWS Türkiye Genel Müdürü Berrin Özselçuk, işletmelerin artık teknolojiyi sorumlu bir şekilde ölçeklendirmeye odaklandığını belirtti. Raporda Türkiye'nin bu ivmeyi sürdürmesi için üç temel öncelik sıralanıyor:\n\n* İşletmelerin finansmana erişiminin artırılması\n* Büyük ölçekli yapay zeka uygulamalarını destekleyecek politikaların geliştirilmesi\n* Yapay zeka yetkinliklerine erişimin genişletilmesi\n\n**Neden önemli?** Yapay zeka kullanan işletmelerin yüzde 78'i dijital dönüşüm hızlarının arttığını belirtirken, bu süreç Yapay Zeka Eylem Planı (2026–2030) ile de destekleniyor.",
+  "category": "sirketler",
+  "tags": [
+    "AWS",
+    "Strand Partners",
+    "Webrazzi",
+    "İstanbul",
+    "Ankara"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Türkiye'de işletmelerin yapay zeka kullanımı arttı",
+  "kicker": "Araştırma",
+  "hero_stat": "%51",
+  "hero_stat_label": "yapay zeka kullanımı",
+  "visual_style": "studio",
+  "visual_scene": "a smooth ceramic monolith with subtle vertical ridges standing on a concrete surface, casting soft shadows under diffused daylight, surrounded by a few small scattered geometric clay blocks",
+  "focus_keyword": "yapay zeka kullanımı",
+  "seo_title": "Türkiye'deki işletmelerin yapay zeka kullanımı yüzde 51 oldu",
+  "meta_description": "AWS ve Strand Partners raporuna göre Türkiye'de işletmelerin yapay zeka kullanımı yüzde 51'e yükseldi. Sektörel ve bölgesel dağılım detayları.",
+  "seo_slug": "turkiyedeki-isletmelerin-yapay-zeka-kullanimi-yuzde-51e-yukseldi",
+  "image_alt": "Gri tonlu seramik bir blok ve geometrik şekillerden oluşan, yapay zeka kullanımındaki büyüme oranlarını temsil eden stüdyo…",
+  "importance": 7,
+  "triage_reason": "Türkiye'deki işletmelerin yapay zeka kullanım oranının arttığını gösteren önemli bir araştırma.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/09/24/turkiye-deki-isletmelerin-yapay-zeka-kullanimi-son-bir-yilda-yuzde-51-e-yukseldi/",
+      "title": "Türkiye'deki işletmelerin yapay zeka kullanımı son bir yılda yüzde 51'e yükseldi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/09/24/turkiye-deki-isletmelerin-yapay-zeka-kullanimi-son-bir-yilda-yuzde-51-e-yukseldi/#comments",
+      "published": "2026-09-24T09:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 49
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "turkiyedeki-isletmelerin-yapay-zeka-kullanimi-yuzde-51e-yukseldi",
+  "published_at": "2026-09-24T11:23:37Z",
+  "publish_mode": "manual"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "759d330c80",
+  "created_at": "2026-09-24T11:22:55Z",
+  "title": "Gemini 3.8 metin okuma modelleri duyuruldu",
+  "summary": "Google, ses üretimini dinamik bir stüdyoya dönüştüren Gemini 3.8 Flash TTS ve Flash-Lite TTS modellerini tanıttı.",
+  "body": "Google'ın duyurusuna göre, Gemini ailesine katılan iki yeni metin okuma modeli ile ses üretimi statik şablonlardan çıkarılarak dinamik bir yaratıcı stüdyoya dönüştürülüyor. **Gemini 3.8 Flash TTS** ve Gemini 3.8 Flash-Lite TTS modelleri; yaratıcılara, geliştiricilere ve işletmelere daha zengin ve etkileyici ses deneyimleri sunmak amacıyla geliştirildi. Yeni modeller, Google AI Studio ve Gemini API üzerinden erişime açıldı.\n\n## Gemini 3.8 Flash TTS neler sunuyor?\n\nGoogle'ın aktardığına göre, **Gemini 3.8 Flash TTS** modeli derin yaratıcı yönlendirme ve karakter tasarımı için tasarlanırken, Flash-Lite TTS yüksek hacimli ve uygun maliyetli ölçeklendirmeye odaklanıyor. Sistem, doğal dil komutları kullanarak 100'den fazla dil ve lehçede sıfırdan özgün sesler oluşturmaya imkan tanıyor. Ayrıca kullanıcılar, 30 saniyelik bir ses örneğinden yola çıkarak ses kopyalama yapabiliyor; bu süreç rıza doğrulaması, SynthID filigranı ve C2PA kimlik bilgileriyle korunuyor.\n\n## Performans ve kıyaslama sonuçları\n\nModeller, Hume AI Ses Tasarımı Kıyaslaması'nda ve Genel Kalite Endeksi'nde üst sıralarda yer alıyor. Kaynaklara göre:\n\n- Gemini 3.8 Flash TTS, Hume AI Ses Tasarımı Kıyaslaması'nda 71.4 puanla birinci oldu.\n- Model, aksan modellemesinde 60.8 puanla liderliği ele geçirdi.\n- Flash ve Flash-Lite TTS, Hume AI Genel Kalite Endeksi'nde sırasıyla birinci ve ikinci sırada yer aldı.\n\n**Neden önemli?** Google'ın duyurduğu yeni metin okuma modelleri, uzun biçimli içerikler ve çift konuşmacılı senaryo kontrolü gibi alanlarda önemli gelişmeler sunarken; ses güvenliği için SynthID filigranı ve zorunlu rıza doğrulama mekanizmalarıyla birlikte geliyor.",
+  "category": "modeller",
+  "tags": [
+    "Google",
+    "Gemini 3.8 Flash TTS",
+    "Gemini 3.8 Flash-Lite TTS",
+    "Google AI Studio"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini 3.8 metin okuma modelleri tanıtıldı",
+  "kicker": "Yeni model",
+  "hero_stat": "71,4",
+  "hero_stat_label": "ses tasarımı puanı",
+  "visual_style": "studio",
+  "visual_scene": "a single translucent frosted glass block standing upright on a pale neutral surface, capturing soft morning light passing through its textured interior, casting gentle shadows",
+  "focus_keyword": "Gemini 3.8 metin okuma",
+  "seo_title": "Gemini 3.8 metin okuma modelleri duyuruldu",
+  "meta_description": "Google, ses üretimini dinamik bir stüdyoya dönüştüren yeni Gemini 3.8 metin okuma modellerini tanıttı.",
+  "seo_slug": "gemini-3-8-metin-okuma-modelleri-duyuruldu",
+  "image_alt": "Pürüzsüz açık zemin üzerinde duran buzlu cam blok, yapay zeka ses üretim modelini temsil ediyor.",
+  "importance": 7,
+  "triage_reason": "Google, Gemini 3.8 metin okuma modelini ve güncellemelerini duyurdu.",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "title": "Gemini 3.8 text-to-speech",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=49817615",
+      "published": "2026-09-23T15:29:23Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 57
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "gemini-3-8-metin-okuma-modelleri-duyuruldu",
+  "published_at": "2026-09-24T11:23:51Z",
+  "publish_mode": "manual"
+}

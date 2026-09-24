@@ -1,0 +1,53 @@
+{
+  "id": "966328c4fe",
+  "created_at": "2026-09-24T09:37:46Z",
+  "title": "OpenAI mentalhealthbench testini duyurdu",
+  "summary": "OpenAI, yapay zeka modellerinin ruh sağlığı konuşmalarındaki performansını değerlendirmek için 80'den fazla uzmanla MentalHealthBench'i geliştirdi.",
+  "body": "OpenAI'ın duyurusuna göre, yapay zeka sistemlerinin ruh sağlığı ile ilgili gerçekçi diyaloglardaki yanıtlarını ölçmek amacıyla **MentalHealthBench** adlı yeni bir açık kıyaslama aracı yayınlandı. Haftada bir milyardan fazla kişinin ChatGPT kullandığı belirtilen açıklamada, bu aracın modellerin uzun vadeli refahı ve güvenliği nasıl desteklediğini incelemek üzere geliştirildiği ifade edildi.\n\n## Uzman iş birliğiyle geliştirilen kapsamlı senaryolar\n\n22 ülkeden 80'den fazla lisanslı psikolog ve psikiyatristin ortak çalışmasıyla oluşturulan MentalHealthBench, yetişkinler, ergenler, bakıcılar ve klinisyenler gibi farklı kullanıcı profillerini kapsıyor. Gizliliği koruyan teknikler kullanılarak üretilen sentetik ruh sağlığı konuşmaları; acil olmayan günlük diyaloglar, yoğun stres içeren yüksek dereceli durumlar ve acil güvenlik endişeleri barındıran kriz anları olmak üzere farklı akut seviyelerinde değerlendiriliyor.\n\n## On farklı boyutta detaylı model davranışı\n\nUzmanlar tarafından hazırlanan değerlendirme kriterleri, modellerin doğru soruları sorma, bağlam arama, kullanıcı iradesini koruma ve uygun durumlarda eyleme geçirilebilir rehberlik sağlama gibi yeteneklerini ölçüyor. Her konuşmanın en az üç uzman tarafından incelendiği ve model yanıtlarının değerlendirilmesinde **GPT‑5.6 Sol** adlı otomatik puanlayıcının kullanıldığı açıklandı.\n\n**Neden önemli?** OpenAI, bu açık kıyaslama aracı sayesinde diğer araştırmacıların da yöntemleri inceleyebileceğini ve yapay zeka modellerinin empati kurma ile gerçek dünya destek hatlarına yönlendirme becerilerinin gelişimini izleyebileceğini belirtiyor.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "GPT‑5.6 Sol"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI mentalhealthbench testini duyurdu",
+  "kicker": "Araştırma",
+  "hero_stat": "80+",
+  "hero_stat_label": "uzman katkısı",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist studio setup featuring three interlocking curved frosted-glass panels in soft grey and warm beige tones, casting gentle overlapping shadows on a matte concrete surface, symbolizing structured evaluation and balance.",
+  "focus_keyword": "MentalHealthBench",
+  "seo_title": "OpenAI ruh sağlığı testi MentalHealthBench'i duyurdu",
+  "meta_description": "OpenAI, yapay zeka modellerinin ruh sağlığı diyaloglarındaki performansını ölçmek için 80'den fazla uzmanla MentalHealthBench'i geliştirdi.",
+  "seo_slug": "openai-mentalhealthbench-testini-duyurdu",
+  "image_alt": "Matte beton zemin üzerinde yumuşak gölgeler oluşturan buzlu cam panelleri temsil eden stüdyo ortamı görseli",
+  "importance": 6,
+  "triage_reason": "OpenAI, ruh sağlığı konuşmaları için yeni bir değerlendirme kriteri yayınladı.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "title": "Introducing MentalHealthBench",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T10:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 52
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "openai-mentalhealthbench-testini-duyurdu",
+  "published_at": "2026-09-24T11:20:53Z",
+  "publish_mode": "manual"
+}

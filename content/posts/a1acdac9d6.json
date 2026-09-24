@@ -1,0 +1,63 @@
+{
+  "id": "a1acdac9d6",
+  "created_at": "2026-09-24T09:37:20Z",
+  "title": "OpenAI'ın yeni güncellemesi ile ChatGPT mobilde sesli ajan yetenekleri kazandı",
+  "summary": "OpenAI, ChatGPT'ye eklediği yeni özelliklerle mobil cihazlarda sesli komutlar üzerinden ajan iş akışlarının çalıştırılmasını sağladı.",
+  "body": "OpenAI tarafından 24 Eylül'de yapılan duyuruya göre, **ChatGPT** uygulamasının sesli kullanım özellikleri genişletilerek mobilde ve webde sesli ajan yetenekleri erişime açıldı. Bu güncellemeyle birlikte kullanıcılar, gerçekleştirmek istedikleri görevleri sesli olarak tarif edip yapay zekanın bağlı uygulamalar ile araçlar üzerinden bu görevleri yerine getirmesini sağlayabiliyor.\n\n## Mobil ve web platformlarında sesli ajan dönemi\n\n**OpenAI**'ın aktardığına göre Plus ve Pro aboneleri, telefonlarındaki Work sekmesini kullanarak e-posta taslağı hazırlama, Slack mesajlarını özetleme, belge, sunum veya elektronik tablo oluşturma gibi işlemleri sesli komutlarla başlatabiliyor. Ayrıca kullanıcılar tarayıcı üzerinden işlem yapabiliyor ve bulutta yürütülen konuşmalar cihazlar arasında senkronize edilerek telefonda başlatılan bir çalışma daha sonra bilgisayarda sürdürülebiliyor. Ücretsiz ve Go kullanıcıları ise planlarının desteklediği eklentileri Chat içindeki sesli görüşmelerde kullanabiliyor.\n\n## Sesli ve yazılı etkileşim entegrasyonu\n\nTemmuz ayında masaüstü uygulamasına eklenen sesli kullanım desteğinin ardından gelen bu yeni güncelleme, sesli etkileşimin günlük işlerin yürütülmesindeki rolünü artırıyor. Görüşme sona erdiğinde tamamlanmamış görevler yazılı sohbet üzerinden devam ettirilebiliyor ve kullanıcılar konuşma sırasında yazılı yanıtları sohbet ekranından takip edebiliyor.\n\n**Neden önemli?** Güncelleme, kullanıcıların e-posta, takvim ve Slack gibi hizmetlere erişim sağlayan eklentilerle birlikte sesli görüşmeleri farklı uygulamalardaki bilgilerle yürütmesine olanak tanıyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Slack"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ChatGPT mobilde sesli ajan yetenekleri kazandı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte ceramic sphere resting on a dark slate surface, with a thin vertical beam of soft white light cutting through the space above it, symbolizing digital voice commands and clean workspace integration",
+  "focus_keyword": "ChatGPT mobilde",
+  "seo_title": "ChatGPT mobilde sesli komut ve ajan özellikleri kazandı",
+  "meta_description": "OpenAI, ChatGPT mobil uygulamasına sesli komutlarla iş yapabilen ajan özellikleri ekledi. Artık e-posta ve belgeler sesle yönetilebiliyor.",
+  "seo_slug": "chatgpt-mobilde-sesli-komut-ve-ajan-ozellikleri-kazandi",
+  "image_alt": "Koyu zemin üzerinde duran mat seramik küre ve üzerinden geçen yumuşak beyaz ışık huzmesiyle temsil edilen sesli ajan…",
+  "importance": 7,
+  "triage_reason": "OpenAI, ChatGPT mobil uygulamasına sesle çalışan ajan özellikleri ekledi.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/09/24/openai-chatgptye-mobilde-sesli-komutlarla-is-yapabilen-ajan-ozellikleri-ekledi/",
+      "title": "OpenAI, ChatGPT'ye mobilde sesli komutlarla iş yapabilen ajan özellikleri ekledi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/09/24/openai-chatgptye-mobilde-sesli-komutlarla-is-yapabilen-ajan-ozellikleri-ekledi/#comments",
+      "published": "2026-09-24T08:00:00Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-23T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi",
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 50
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "chatgpt-mobilde-sesli-komut-ve-ajan-ozellikleri-kazandi",
+  "published_at": "2026-09-24T11:23:34Z",
+  "publish_mode": "manual"
+}

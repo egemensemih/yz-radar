@@ -1,7 +1,7 @@
 {
   "sources": {
     "OpenAI": {
-      "approved": 3,
+      "approved": 4,
       "rejected": 0
     },
     "Ars Technica": {
@@ -9,15 +9,23 @@
       "rejected": 0
     },
     "TechCrunch": {
-      "approved": 5,
+      "approved": 8,
       "rejected": 0
     },
     "The Verge": {
-      "approved": 6,
+      "approved": 7,
       "rejected": 0
     },
     "NVIDIA": {
       "approved": 1,
+      "rejected": 0
+    },
+    "Webrazzi": {
+      "approved": 2,
+      "rejected": 0
+    },
+    "Hacker News": {
+      "approved": 4,
       "rejected": 0
     }
   },
@@ -91,6 +99,66 @@
     {
       "t": "2026-09-24T05:03:48Z",
       "id": "466bb63d84",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:21:03Z",
+      "id": "966328c4fe",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:31Z",
+      "id": "acacc0e332",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:35Z",
+      "id": "a1acdac9d6",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:38Z",
+      "id": "825281feb7",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:41Z",
+      "id": "cc1aa9649e",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:44Z",
+      "id": "a8f6bffb3d",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:48Z",
+      "id": "d6c4e03289",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:51Z",
+      "id": "759d330c80",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:54Z",
+      "id": "63d99649ca",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T11:23:57Z",
+      "id": "62513c6fd2",
       "ok": true,
       "manual": true
     }

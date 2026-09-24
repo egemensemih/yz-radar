@@ -1,0 +1,54 @@
+{
+  "id": "62513c6fd2",
+  "created_at": "2026-09-24T11:23:22Z",
+  "title": "Stripe knowledge ai platform duyuruldu",
+  "summary": "Stripe, yapay zeka ve ajan tabanlı çalışmalar için geliştirdiği Knowledge AI Platform'u tanıttı.",
+  "body": "Stripe'ın Agent Foundation ekibi mühendislik yöneticisi Sharadh Krishnamurthy ve AI Platform ekibinden yazılım mühendisi Anupam Upadhyay tarafından kaleme alınan duyuruya göre Stripe'ın Knowledge AI Platform projesi açıklandı. 23 Eylül 2026 tarihinde paylaşılan bilgilere göre platform, şirketin yapay zeka altyapısı ve ajan odaklı sistemleri için geliştirildi.\n\n## Platformun arka planı\n\nStripe geliştirici blogunda paylaşılan makalede, projenin ekip üyeleri ve temel odak noktaları paylaşıldı. Sharadh Krishnamurthy, Agent Foundation ekibinin yöneticisi olarak görev yaparken, Anupam Upadhyay ise AI Platform ekibinde yazılım mühendisi olarak yer alıyor.\n\n**Neden önemli?** Stripe tarafından duyurulan bu yeni platform, şirketin yapay zeka ve ajan altyapısını güçlendirme çalışmalarında önemli bir adım olarak öne çıkıyor.",
+  "category": "urunler",
+  "tags": [
+    "Stripe",
+    "Knowledge AI Platform",
+    "Sharadh Krishnamurthy",
+    "Anupam Upadhyay"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Stripe Knowledge AI Platform tanıtıldı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist desk surface with a sleek dark slate block, beside it a delicate arrangement of thin translucent glass rods catching soft neutral light, conveying structured information flow",
+  "focus_keyword": "Knowledge AI Platform",
+  "seo_title": "Knowledge AI Platform: Stripe yeni sistemini duyurdu",
+  "meta_description": "Stripe, yapay zeka ve ajan altyapısı için geliştirdiği Knowledge AI Platform adlı yeni sistemini duyurdu.",
+  "seo_slug": "stripe-knowledge-ai-platform-duyuruldu",
+  "image_alt": "Koyu renkli mermer blok üzerinde hafif ışık yansıtan saydam cam çubukların bulunduğu stüdyo ortamı görseli",
+  "importance": 6,
+  "triage_reason": "Stripe, kurumsal yapay zeka bilgi platformunu tanıttı.",
+  "sources": [
+    {
+      "name": "stripe.dev",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "title": "Stripe's Knowledge AI Platform",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=49815982",
+      "published": "2026-09-23T13:38:00Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 59
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "slug": "stripe-knowledge-ai-platform-duyuruldu",
+  "published_at": "2026-09-24T11:23:57Z",
+  "publish_mode": "manual"
+}
