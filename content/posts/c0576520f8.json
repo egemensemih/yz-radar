@@ -1,0 +1,59 @@
+{
+  "id": "c0576520f8",
+  "created_at": "2026-09-24T16:23:24Z",
+  "title": "Google DeepMind, Live Avatar özellikli Gemini 3.8 Live modelini duyurdu",
+  "summary": "Google DeepMind, canlı diyalog modellerine görsel varlık kazandıran Gemini 3.8 Live ile Live Avatar özelliğini tanıttı.",
+  "body": "Google DeepMind, 24 Eylül 2026 tarihinde yaptığı duyuruyla Gemini Enterprise kullanıcıları için Gemini 3.8 Live ile Live Avatar özelliğini sunmaya başladığını açıkladı. Yakın gerçek zamanlı video üretimini konuşma yeteneğiyle birleştiren bu yeni özellik, kullanıcıların dinleyen, gören ve dinamik bir görsel persona ile konuşan yapay zeka ajanlarıyla etkileşime girmesini sağlıyor. \n\n## Çoklu ortam ve gelişmiş yetenekler\n\nGoogle DeepMind'ın açıklamasına göre sistem, görsel ve sesli girdileri aynı anda işleyerek daha zengin bir iletişim deneyimi yaratıyor. Asenkron araç yürütme özelliği sayesinde Live Avatar, aktif diyalog kesintiye uğramadan arka planda veri çekebiliyor ve karmaşık görevleri yerine getirebiliyor. \n\n- Hassas dudak senkronizasyonu ve doğal ifadeler\n- 97 farklı dil arasında kesintisiz geçiş\n- Şirket kimliğine uygun özel avatar oluşturma seçeneği\n\n## Güvenlik ve marka entegrasyonu\n\nKurumlar, kütüphanedeki hazır karakterlerin yanı sıra yüksek kaliteli bir referans görsel kullanarak tamamen animasyonlu ve markalarına uygun özel avatarlar da tasarlayabiliyor. Şirket açıklamasına göre özel avatar üretimi şu an için yalnızca kurumsal izin listesi (allowlisting) üzerinden erişilebiliyor. \n\n**Neden önemli?** Yapay zeka tarafından üretilen içeriklerin güvenliğini artırmak amacıyla tüm ses ve video çıktılarında SynthID filigranı kullanılıyor; böylece içeriklerin tespiti kolaylaştırılarak yanlış bilgilerin önüne geçilmesi hedefleniyor.",
+  "category": "modeller",
+  "tags": [
+    "Google DeepMind",
+    "Gemini 3.8 Live",
+    "Live Avatar",
+    "Gemini Enterprise",
+    "SynthID"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini 3.8 Live ile Live Avatar duyuruldu",
+  "kicker": "Yeni ürün",
+  "hero_stat": "97",
+  "hero_stat_label": "desteklenen dil sayısı",
+  "visual_style": "studio",
+  "visual_scene": "a sculptural translucent glass bust of a minimalist digital persona lit by soft cyan light, resting on a matte dark stone pedestal with faint audio wave patterns etched around its base",
+  "focus_keyword": "Gemini 3.8 Live",
+  "seo_title": "Google DeepMind'dan Live Avatar özellikli Gemini 3.8 Live",
+  "meta_description": "Google DeepMind, gerçek zamanlı görsel varlık ve 97 dil desteği sunan yeni Live Avatar özellikli Gemini 3.8 Live modelini tanıttı.",
+  "seo_slug": "google-deepmind-gemini-3-8-live-avatar",
+  "image_alt": "Minimalist cam heykel formunu ve ses dalgalarını temsil eden stüdyo görseli",
+  "cover_text": "Gemini 3.8 Live",
+  "importance": 7,
+  "triage_reason": "Google DeepMind, canlı avatara sahip yeni Gemini 3.8 Live modelini duyurdu.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:20:39Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 83
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-deepmind-gemini-3-8-live-avatar",
+  "published_at": "2026-09-24T16:45:53Z",
+  "publish_mode": "manual"
+}

@@ -1,6 +1,5 @@
 {
   "id": "d15f5e05c8",
-  "status": "pending",
   "created_at": "2026-09-24T16:26:05Z",
   "title": "Google yapay zeka uydusu Project Suncatcher ile uzaya fırlatılıyor",
   "summary": "Google, yapay zeka çiplerinin uzay koşullarındaki performansını test etmek amacıyla Project Suncatcher kapsamında gelecek hafta bir uydu fırlatmaya hazırlanıyor.",
@@ -43,17 +42,6 @@
   "source_keys": [
     "The Verge"
   ],
-  "source_texts": [
-    {
-      "credit": "The Verge",
-      "kind": "media",
-      "title": "Google is sending an AI satellite into space next week",
-      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "published": "2026-09-24T14:15:17Z",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor […]",
-      "text": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google’s Project Suncatcher, the company’s experimental initiative that could eventually put AI data centers into orbit.\nGoogle is sending an AI satellite into space next week\nIt’s the first step toward Google’s goal of handling AI tasks from space.\nThe satellite, equipped with Google’s Tensor Processing Units, will launch aboard a SpaceX Falcon 9 rocket on October 1st, allowing it to harness the power of the sun in low Earth orbit. As noted by Google, the goal of the mission is to measure how well its TPUs “handle the physical stress of spaceflight and the radiation and thermal extremes of space.”\nThis is just one step toward Google’s goal of putting a constellation of chip-equipped satellites into space — an idea Elon Musk, Jeff Bezos, and former Google CEO Eric Schmidt have also floated as an alternative to data centers on Earth. Google plans to put two satellites into orbit next year.\nDuring testing, Google found that its TPUs can withstand high levels of g-force and radiation, but notes that “some things can only be tested in space.” It’s also planning to try out a cooling system that involves heat pipes and radiators while the chips are in orbit. Travis Beals, Project Suncatcher’s senior director of product management, tells the NYT that the chips can only run for about 15 minutes before they’ll need to be turned off to cool down.\n“Exploring space as a viable location for scalable AI compute won’t happen all at once,” Beals writes in the company’s announcement. “It takes methodical engineering, starting with proving our hardware can handle the physical and unpredictable realities of operating in orbit. This first launch is about seeing what works, identifying points of failure, and applying those findings to future missions.”"
-    }
-  ],
   "rewrites": 0,
   "telegram": {
     "message_id": 85
@@ -64,5 +52,7 @@
     "palette": "elektrik",
     "cover_v": 1
   },
-  "policy_reason": "Öğreniyor: 23/30 karar"
+  "slug": "google-yapay-zeka-uydusu-project-suncatcher",
+  "published_at": "2026-09-24T16:46:17Z",
+  "publish_mode": "manual"
 }

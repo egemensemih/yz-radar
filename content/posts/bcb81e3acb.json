@@ -1,0 +1,67 @@
+{
+  "id": "bcb81e3acb",
+  "created_at": "2026-09-24T16:24:22Z",
+  "title": "Google Pixel 11 sahipleri için Gemini otomatik arama özelliğini test ediyor",
+  "summary": "Google, Pixel 11 kullanıcılarının yerel işletmeleri araması, rezervasyon yapması ve sırada beklemesini sağlayan yeni bir Gemini özelliğini test etmeye başladı.",
+  "body": "Google, Pixel 11 kullanıcıları için yapay zekanın yerel işletmelerle telefon görüşmeleri yapmasına olanak tanıyan yeni bir özellik duyurdu. Google'ın aktardığına göre, kullanıcılar Gemini uygulamasını kullanarak işletmeleri arayabilecek ve rezervasyon oluşturma veya ürün stok durumu öğrenme gibi işlemleri yapay zekaya devredebilecek.\n\n## Gemini telefon aramalarını nasıl gerçekleştiriyor?\n\nYeni sistem, yapay zekanın işletmeyi araması, kendini tanıtması, otomatik telefon menülerini geçmesi ve hatta hatta telefonda bekletildiğinde hatta kalması prensibiyle çalışıyor. The Verge'ün aktardığına göre, arama başlatmak için kullanıcıların bizzat çağrı başlatmasına gerek kalmıyor; Gemini tüm süreci kullanıcı adına yönetebiliyor. TechCrunch'ın haberine göre ise bu özellik, kullanıcıların onayladığı kişisel bilgileri paylaşmasına da imkan tanıyor, böylece daha geniş kapsamlı işlemler gerçekleştirilebiliyor.\n\n## Canlı döküm ve kullanıcı kontrolü\n\nSüreç boyunca kullanıcılar, telefon görüşmesinin nasıl ilerlediğini canlı bir döküm ekranı üzerinden takip edebiliyor. Yapay zekanın yürüttüğü görüşmeyi izleyen kullanıcılar, istedikleri herhangi bir anda aramayı devralarak doğrudan konuşmaya devam etme yetkisine sahip. Google, gerçek dünyadaki konuşmaların incelikli olması nedeniyle bu erken aşamadaki denemeyi küçük bir ölçekte başlattığını ifade ediyor.\n\n## Kimler erişebilecek?\n\n* ABD'deki Pixel 11 sahipleri\n* Ücretli Gemini aboneliğine sahip olanlar\n* Phone by Google Public Beta sürümünü kullananlar\n\n**Neden önemli?** Google'ın yıllar önce I/O konferansında tanıttığı yapay zeka destekli arama teknolojilerinin bir uzantısı olan bu erken deney, yapay zeka ajanlarının günlük ve pratik görevleri üstlenme kapasitesini genişletiyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Pixel 11"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini Pixel 11 için otomatik aramaları test ediyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "11",
+  "hero_stat_label": "Pixel modeli",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist matte black smartphone resting flat on a textured concrete surface, with a thin glowing line of warm amber light floating gently above the speaker grille, suggesting an active audio stream",
+  "focus_keyword": "Google Pixel 11 Gemini",
+  "seo_title": "Google Pixel 11 için Gemini otomatik arama özelliğini test…",
+  "meta_description": "Google, Pixel 11 sahipleri için Gemini'ın yerel işletmeleri arayıp rezervasyon ve stok sorgulaması yapmasını sağlayan yeni özelliği test ediyor.",
+  "seo_slug": "google-pixel-11-gemini-otomatik-arama-ozelligi",
+  "image_alt": "Beton zemin üzerinde duran siyah akıllı telefon ve üzerinde hafifçe parlayan amber renkli ışık çizgisi",
+  "cover_text": "Gemini Call",
+  "importance": 7,
+  "triage_reason": "Google, Pixel 11 kullanıcıları için Gemini'ın işletmeleri arayabileceği yeni bir özellik test ediyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:04:31Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "title": "Google tests letting Gemini call businesses for you",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T16:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge",
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 84
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-pixel-11-gemini-otomatik-arama-ozelligi",
+  "published_at": "2026-09-24T16:46:12Z",
+  "publish_mode": "manual"
+}

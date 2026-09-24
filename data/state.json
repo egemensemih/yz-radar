@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 614197252,
+  "telegram_offset": 614197258,
   "last_collect": "2026-09-24T16:21:11Z",
   "last_summary_date": "2026-09-23",
   "mode_override": null,
@@ -105,12 +105,18 @@
       "tok_out": 46933,
       "cost_usd": 0.0,
       "drafts": 23,
-      "published": 18,
-      "approved": 18
+      "published": 23,
+      "approved": 23
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": []
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/google-deepmind-gemini-3-8-live-avatar/",
+    "https://egemensemih.github.io/yz-radar/haber/google-pixel-11-gemini-otomatik-arama-ozelligi/",
+    "https://egemensemih.github.io/yz-radar/haber/google-yapay-zeka-uydusu-project-suncatcher/",
+    "https://egemensemih.github.io/yz-radar/haber/lfm2-5-vl-dspark-gorsel-dil-modellerini-hizlandiriyor/",
+    "https://egemensemih.github.io/yz-radar/haber/lovable-yillik-gelir-orani-600-milyon-dolari-asti/"
+  ]
 }

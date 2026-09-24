@@ -9,11 +9,11 @@
       "rejected": 0
     },
     "TechCrunch": {
-      "approved": 9,
+      "approved": 11,
       "rejected": 0
     },
     "The Verge": {
-      "approved": 8,
+      "approved": 10,
       "rejected": 0
     },
     "NVIDIA": {
@@ -26,6 +26,14 @@
     },
     "Hacker News": {
       "approved": 5,
+      "rejected": 0
+    },
+    "Google DeepMind": {
+      "approved": 1,
+      "rejected": 0
+    },
+    "Hugging Face": {
+      "approved": 1,
       "rejected": 0
     }
   },
@@ -165,6 +173,36 @@
     {
       "t": "2026-09-24T14:31:12Z",
       "id": "3945791c36",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T16:46:06Z",
+      "id": "c0576520f8",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T16:46:12Z",
+      "id": "bcb81e3acb",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T16:46:18Z",
+      "id": "d15f5e05c8",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T16:46:24Z",
+      "id": "6a921fda10",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-24T16:46:30Z",
+      "id": "ff48165677",
       "ok": true,
       "manual": true
     }

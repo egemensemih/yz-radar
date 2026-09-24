@@ -1,0 +1,59 @@
+{
+  "id": "6a921fda10",
+  "created_at": "2026-09-24T16:26:58Z",
+  "title": "LFM2.5-VL-DSpark modeli ile görsel-dil modellerinde hız artışı",
+  "summary": "Liquid AI, LFM2.5-VL-3B modeli için geliştirdiği DSpark görsel taslak modelini duyurdu. Yeni yaklaşım uç cihazlarda ve veri merkezlerinde önemli ölçüde hızlanma sağlıyor.",
+  "body": "Liquid AI tarafından duyurulan **LFM2.5-VL-DSpark**, görsel-dil modellerinin (VLM) çıkarım hızını artırmak amacıyla geliştirilen yeni bir taslak model mimarisi olarak karşımıza çıkıyor. Hugging Face üzerinde paylaşılan resmi bilgilere göre bu yeni sistem, temel hedef modele eklenen 280 milyon parametrelik ek yük ile yüzde 8,9 oranında bir büyüme getiriyor ve çeşitli donanımlarda önemli hızlanmalar sunuyor.\n\n## Performans ve donanım entegrasyonu\n\nHugging Face'in aktardığına göre taslak model mimarisi; metin ve görsel parçalarını ortak bir temsilde birleştirerek girdi türünden bağımsız olarak aynı boyutta çalışabiliyor. Gerçekleştirilen testlerde elde edilen başlıca performans artışları şu şekildedir:\n\n- Apple M5 Max üzerinde MLX ile görevine bağlı olarak 2,30 ila 3,13 kat arasında kod çözme hızı artışı.\n- M3 Ultra işlemcili cihazlarda llama.cpp ile 1,57 ila 2,14 kat arası kod çözme iyileştirmesi.\n- Nvidia H100 grafik işlemcilerinde ise 2,04 ila 2,66 kat daha hızlı kod çözme performansı.\n\n## Yazılım desteği ve erişilebilirlik\n\nSistem, geliştiricilerin hemen entegre edebilmesi için ilk günden itibaren llama.cpp, MLX-VLM ve SGLang altyapılarıyla uyumlu olarak sunuluyor. Safetensors ve GGUF formatlarında erişilebilen bu açık ağırlıklı modeller, kısıtlama olmaksızın indirilebiliyor, özelleştirilebiliyor ve farklı donanım ortamlarında çalıştırılabiliyor.\n\n**Neden önemli?** Görsel-dil modelleri, hem görsel kodlayıcı hem de büyük metin girdilerini işledikleri için uç cihazlarda gecikme sürelerini artırıyordu; DSpark yaklaşımı ise eklenen düşük parametreli taslak katman sayesinde kod çözme aşamasını hızlandırarak bu maliyeti dengelemeyi hedefliyor.",
+  "category": "modeller",
+  "tags": [
+    "Liquid AI",
+    "gorsel dil modelleri",
+    "acik kaynak",
+    "buyuk dil modelleri",
+    "Hugging Face"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "LFM2.5-VL-DSpark duyuruldu",
+  "kicker": "Yeni model",
+  "hero_stat": "280 M",
+  "hero_stat_label": "ek parametre",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "LFM2.5-VL-DSpark",
+  "seo_title": "LFM2.5-VL-DSpark ile görsel-dil modellerinde hız artışı",
+  "meta_description": "Liquid AI tarafından duyurulan LFM2.5-VL-DSpark modeli, uç cihazlarda ve veri merkezlerinde görsel-dil modellerinin hızını artırıyor.",
+  "seo_slug": "lfm2-5-vl-dspark-gorsel-dil-modellerini-hizlandiriyor",
+  "image_alt": "Buzlu cam küplerden yükselen grafik ve seramik küpler",
+  "cover_text": "LFM2.5-VL-DSpark",
+  "importance": 6,
+  "triage_reason": "Hugging Face, görme-dil modellerini hızlandırmak için LFM2.5-VL-DSpark'ı duyurdu.",
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-24T14:08:57Z"
+    }
+  ],
+  "source_keys": [
+    "Hugging Face"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 86
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "lfm2-5-vl-dspark-gorsel-dil-modellerini-hizlandiriyor",
+  "published_at": "2026-09-24T16:46:23Z",
+  "publish_mode": "manual"
+}
