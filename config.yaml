@@ -29,15 +29,16 @@ seo:
 
 schedule:
   timezone: "Europe/Istanbul"
-  collect_every_minutes: 60      # Kaynaklar kaç dakikada bir taransın
+  collect_every_minutes: 15      # Kaynaklar kaç dakikada bir taransın
   daily_summary_hour: 21         # Günlük özet Telegram'a saat kaçta gelsin
   quiet_hours: [0, 8]            # Bu saatler arasında bildirimler sessiz gelir
-  listen_seconds: 120            # Bekleyen haber varsa, butonlara hızlı tepki için bekleme süresi
+  listen_seconds: 240            # Butonlara anında tepki için her turda Telegram'ı dinleme süresi (sn)
 
 editorial:
   min_importance: 6              # 1-10 arası. Bunun altındaki haberler hiç önüne gelmez
-  max_drafts_per_run: 5          # Bir taramada en fazla kaç yeni haber taslağı yazılsın
-  max_drafts_per_day: 25         # Günlük üst sınır (maliyet kontrolü)
+  max_drafts_per_run: 2          # Bir taramada en fazla kaç yeni haber taslağı yazılsın (haberler tek tek, düzenli gelsin)
+  max_drafts_per_day: 40         # Günlük üst sınır; gün içine eşit yayılır
+  active_hours: [7, 24]          # Taslakların yayıldığı saatler (gece en fazla birkaç haber gelir, kalanlar sabaha kalır)
   max_item_age_hours: 36         # Bundan eski haberler atlanır
   pending_expire_hours: 36       # Onaylanmayan taslak bu süre sonunda düşer
   fetch_full_text: true          # Haberin tam metnini kaynağından okuyup daha doğru özet çıkar

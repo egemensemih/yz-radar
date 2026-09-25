@@ -23,6 +23,13 @@ from .util import (clip, hours_since, iso, local, log, now_utc, short_hash, slug
                    tr_date)
 
 KIND_ORDER = {"official": 0, "media": 1, "community": 2}
+# Uzun süren düğmeler: (hemen gösterilen yanıt, işlem bitince beklenen sonuç)
+SLOW_ACTIONS = {
+    "p": ("⏳ Yayınlanıyor…", "✅ Yayınlandı"),
+    "v": ("⏳ Yeni görsel hazırlanıyor…", "🎨 Yeni görsel hazır"),
+    "w": ("⏳ Yeniden yazılıyor…", "🔁 Yeniden yazıldı"),
+    "s": ("⏳ Görseller hazırlanıyor…", "📱 Gönderildi"),
+}
 CONF_LABEL = {"yuksek": "yüksek", "orta": "orta", "dusuk": "düşük"}
 COMMANDS = [
     ("durum", "Sistem durumu ve istatistikler"),
@@ -109,6 +116,19 @@ class App:
         h = local(now_utc(), self.cfg.tz).hour
         return (a <= h < b) if a <= b else (h >= a or h < b)
 
+    def draft_budget(self) -> int:
+        """Şu an yazılabilecek taslak sayısı. Günlük sınır güne yayılır: sabah hepsi birden tükenmez,
+        akşam da haber gelmeye devam eder."""
+        ed = lambda k, d: self.cfg.get("editorial", k, d)  # noqa: E731
+        cap = int(ed("max_drafts_per_day", 40))
+        used = self.store.count(self.today(), "drafts")
+        a, b = (ed("active_hours", [7, 24]) or [0, 24])[:2]
+        now_l = local(now_utc(), self.cfg.tz)
+        h = now_l.hour + now_l.minute / 60
+        frac = min(1.0, max(0.0, (h - a) / max(1, b - a)))
+        allowed = int(cap * frac + 0.999) + int(ed("burst", 3))
+        return max(0, min(cap - used, allowed - used))
+
     def notify(self, text: str, silent: bool | None = None, keyboard=None) -> None:
         if not (self.tg and self.chat_id):
             log.info("[bildirim] %s", re.sub(r"<[^>]+>", "", text)[:200])
@@ -140,7 +160,13 @@ class App:
         cfg, st = self.cfg, self.store
         ed = lambda k, d: cfg.get("editorial", k, d)  # noqa: E731
         today = self.today()
-        remaining = ed("max_drafts_per_day", 25) - st.count(today, "drafts")
+        remaining = self.draft_budget()
+        if remaining <= 0:
+            # Haberler "görüldü" sayılmaz; sıra gelince (en geç ertesi sabah) değerlendirilir.
+            self.state["last_collect"] = iso(now_utc())
+            log.info("Taslak sırası dolu (bugün %d taslak); yeni haberler sonraki turda değerlendirilecek.",
+                     st.count(today, "drafts"))
+            return
         items = fetch_all(cfg, st)
         seeded = set(self.state.get("seeded_sources", []))
         max_age = ed("max_item_age_hours", 36)
@@ -157,77 +183,94 @@ class App:
         self.state["seeded_sources"] = sorted(seeded | {it["source"] for it in items})
         self.state["last_collect"] = iso(now_utc())
         log.info("Yeni öğe: %d (toplam okunan %d)", len(fresh), len(items))
-        if not fresh:
-            return
-        if remaining <= 0:
-            log.info("Günlük taslak sınırına ulaşıldı (%s).", ed("max_drafts_per_day", 25))
-            return
-
-        fresh.sort(key=lambda x: (KIND_ORDER.get(x["kind"], 3), hours_since(x["published"]) if x["published"] else 0))
-        fresh = fresh[:80]
-        by_tid = {}
-        for i, it in enumerate(fresh, 1):
-            it["tid"] = f"i{i}"
-            by_tid[it["tid"]] = it
-
-        recent = []
-        for p in st.posts():
-            if hours_since(p.get("published_at")) < 72:
-                recent.append({"sid": "s:" + p["id"], "status": "published", "title": p["title"]})
-        for d in st.drafts():
-            recent.append({"sid": "s:" + d["id"], "status": d.get("status", "pending"), "title": d["title"]})
-
-        try:
-            tri = self.llm.json(cfg.get("ai", "triage_model", "claude-haiku-4-5-20251001"),
-                                triage_system(self.brand), triage_user(fresh, recent[:80], today),
-                                TRIAGE_SCHEMA, max_tokens=8000)
-        except LLMError as e:
-            if self._transient(e):
-                log.warning("Yapay zeka şu an yoğun (ayıklama), sonraki turda tekrar denenecek: %s", str(e)[:160])
-            else:
-                self.notify_error(f"Yapay zeka (ayıklama) hatası: {e}")
-            for it in fresh:  # bir sonraki turda tekrar denensin
-                st.seen.pop(it["key"], None)
+        queue = self._queue(max_age)
+        if not fresh and not queue:
             return
 
         min_imp = ed("min_importance", 6)
-        chosen, merged, skipped = [], 0, 0
-        for s in tri.get("stories", []):
-            its = [by_tid[t] for t in s.get("item_ids", []) if t in by_tid]
-            if not its:
-                continue
-            dup = (s.get("duplicate_of") or "").removeprefix("s:")
-            if dup:
-                if self._merge_sources(dup, its):
-                    merged += 1
-                continue
-            if not s.get("ai_related") or int(s.get("importance", 0)) < min_imp:
-                skipped += 1
-                continue
-            chosen.append((s, its))
-        chosen.sort(key=lambda x: -int(x[0].get("importance", 0)))
-        limit = min(ed("max_drafts_per_run", 5), remaining)
-        log.info("Ayıklama: %d hikâye seçildi, %d elendi, %d mevcut habere eklendi (sınır %d)",
-                 len(chosen), skipped, merged, limit)
-        for s, its in chosen[limit:]:  # sınırı aşanlar bir sonraki turda yeniden değerlendirilsin
-            for it in its:
-                st.seen.pop(it["key"], None)
-        todo = chosen[:limit]
-        for n, (s, its) in enumerate(todo):
+        new_stories, merged, skipped = [], 0, 0
+        if fresh:
+            fresh.sort(key=lambda x: (KIND_ORDER.get(x["kind"], 3), hours_since(x["published"]) if x["published"] else 0))
+            fresh = fresh[:80]
+            by_tid = {}
+            for i, it in enumerate(fresh, 1):
+                it["tid"] = f"i{i}"
+                by_tid[it["tid"]] = it
+
+            recent = [{"sid": f"q:{i}", "status": "queued", "title": q["story"].get("topic", "")}
+                      for i, q in enumerate(queue)]
+            for d in st.drafts():
+                recent.append({"sid": "s:" + d["id"], "status": d.get("status", "pending"), "title": d["title"]})
+            for p in st.posts():
+                if hours_since(p.get("published_at")) < 72:
+                    recent.append({"sid": "s:" + p["id"], "status": "published", "title": p["title"]})
+
             try:
-                self.create_draft(s, its)
+                tri = self.llm.json(cfg.get("ai", "triage_model", "claude-haiku-4-5-20251001"),
+                                    triage_system(self.brand), triage_user(fresh, recent[:100], today),
+                                    TRIAGE_SCHEMA, max_tokens=8000)
+            except LLMError as e:
+                if self._transient(e):
+                    log.warning("Yapay zeka şu an yoğun (ayıklama), sonraki turda tekrar denenecek: %s", str(e)[:160])
+                else:
+                    self.notify_error(f"Yapay zeka (ayıklama) hatası: {e}")
+                for it in fresh:  # bir sonraki turda tekrar denensin
+                    st.seen.pop(it["key"], None)
+                tri = {"stories": []}
+
+            for s in tri.get("stories", []):
+                its = [by_tid[t] for t in s.get("item_ids", []) if t in by_tid]
+                if not its:
+                    continue
+                dup = (s.get("duplicate_of") or "").strip()
+                if dup.startswith("q:") and dup[2:].isdigit() and int(dup[2:]) < len(queue):
+                    q = queue[int(dup[2:])]  # sıradaki habere yeni kaynak ekle
+                    urls = {it["url"] for it in q["items"]}
+                    q["items"] += [it for it in its if it["url"] not in urls]
+                    merged += 1
+                    continue
+                if dup:
+                    if self._merge_sources(dup.removeprefix("s:"), its):
+                        merged += 1
+                    continue
+                if not s.get("ai_related") or int(s.get("importance", 0)) < min_imp:
+                    skipped += 1
+                    continue
+                new_stories.append({"story": s, "items": its, "at": iso(now_utc())})
+
+        # Sıra: önce önemli olanlar; eşitse önce gelen
+        queue = sorted(queue + new_stories, key=lambda q: (-int(q["story"].get("importance", 0)), q["at"]))
+        limit = min(ed("max_drafts_per_run", 2), remaining)
+        todo, queue = queue[:limit], queue[limit:]
+        self.state["queue"] = queue[:40]
+        if fresh:
+            log.info("Ayıklama: %d yeni hikâye, %d elendi, %d mevcut habere eklendi", len(new_stories), skipped, merged)
+        log.info("Bu tur %d taslak yazılacak, sırada %d haber var", len(todo), len(self.state["queue"]))
+        for n, q in enumerate(todo):
+            if n:
+                self.process_updates()  # yazım sürerken basılan düğmeler beklemesin
+            try:
+                self.create_draft(q["story"], q["items"])
             except LLMError as e:
                 if self._transient(e):
                     log.warning("Yapay zeka şu an yoğun (yazım), kalan %d haber sonraki turda yazılacak: %s",
                                 len(todo) - n, str(e)[:160])
                 else:
                     self.notify_error(f"Yapay zeka (yazım) hatası: {e}")
-                for _, rest in todo[n:]:  # yazılamayanlar bir sonraki turda yeniden denensin
-                    for it in rest:
-                        st.seen.pop(it["key"], None)
+                self.state["queue"] = (todo[n:] + self.state["queue"])[:40]  # yazılamayanlar sırada kalsın
                 break
             except Exception as e:  # noqa: BLE001
                 log.exception("Taslak oluşturulamadı: %s", e)
+
+    def _queue(self, max_age: float) -> list[dict]:
+        """Seçilmiş ama henüz yazılmamış haberler (eskiyenler düşer)."""
+        out = []
+        for q in self.state.get("queue") or []:
+            pubs = [it.get("published") for it in q.get("items", []) if it.get("published")]
+            newest = max(pubs) if pubs else q.get("at")
+            if hours_since(newest) <= max_age and hours_since(q.get("at")) <= max_age:
+                out.append(q)
+        return out
 
     def _merge_sources(self, did: str, its: list[dict]) -> bool:
         d = self.store.load_draft(did)
@@ -507,7 +550,15 @@ class App:
             if not self._authorized(chat):
                 self.tg.answer_callback(cq["id"], "Yetkin yok.")
                 return
+            self.state["last_activity"] = iso(now_utc())
             action, _, did = (cq.get("data") or "").partition(":")
+            slow = SLOW_ACTIONS.get(action)
+            if slow:  # uzun süren işlerde düğme hemen yanıt versin
+                self.tg.answer_callback(cq["id"], slow[0])
+                msg = self._on_button(action, did)
+                if msg and msg != slow[1]:
+                    self.notify(esc(msg), silent=True)
+                return
             msg = self._on_button(action, did)
             self.tg.answer_callback(cq["id"], msg)
             return
@@ -527,6 +578,8 @@ class App:
             return
         if not self._authorized(chat):
             return
+        self.state["last_activity"] = iso(now_utc())
+        self.tg.typing(chat)
 
         reply_to = (msg.get("reply_to_message") or {}).get("message_id")
         if reply_to and text and not text.startswith("/"):
@@ -751,7 +804,7 @@ class App:
             f"Mod: <b>{mode}</b>{' · ⏸ DURAKLATILDI' if self.state.get('paused') else ''}",
             f"Bugün: {c.get('published', 0)} yayın ({c.get('auto', 0)} otomatik, {c.get('approved', 0)} onayla), "
             f"{c.get('rejected', 0)} ret, {c.get('drafts', 0)} taslak",
-            f"Bekleyen: {pend}",
+            f"Onay bekleyen: {pend} · Yazılmak için sırada: {len(self.state.get('queue') or [])}",
             f"Son {n} kararda onay oranı: %{rate * 100:.0f}",
             f"Toplam yayın: {len(self.store.posts())}",
             f"Bugünkü tahmini maliyet: ${self._cost(c):.2f} ({c.get('images', 0)} görsel)",
@@ -880,12 +933,21 @@ class App:
             return
         deadline = time.time() + seconds
         while time.time() < deadline - 3:
-            if not self.store.drafts("pending") and not self.force_collect:
+            if not self._should_listen():
                 break
             self.process_updates(timeout=int(min(25, deadline - time.time())))
             if self.force_collect and not self.state.get("paused"):
                 self.force_collect = False
                 self.collect()
+
+    def _should_listen(self) -> bool:
+        """Telegram'ı canlı dinle: son 10 dakikada sen bir şey yaptıysan her zaman;
+        onay bekleyen haber varsa sessiz saatler dışında."""
+        if self.force_collect:
+            return True
+        if hours_since(self.state.get("last_activity")) * 60 < 10:
+            return True
+        return bool(self.store.drafts("pending")) and not self.quiet()
 
     # ── tek çalışma ─────────────────────────────────────────
     def run(self) -> bool:

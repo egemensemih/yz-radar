@@ -140,40 +140,32 @@ def _gemini_schema(schema, upper: bool):
 class GeminiLLM:
     """Google Gemini API: ücretsiz katmanda kredi kartı gerektirmez (dakika/gün sınırlıdır)."""
 
-    min_interval = 7.0  # ücretsiz katman: dakikada ~10 istek
+    min_interval = 6.0  # ücretsiz katman: model başına dakikada ~10 istek
 
     def __init__(self, api_key: str, usage_cb=None):
         self.api_key = api_key
         self.usage_cb = usage_cb
-        self._last = 0.0
+        self._last: dict[str, float] = {}  # model başına son istek zamanı
         self._model_ok: dict[str, str] = {}
         self._variant_ok: dict[str, int] = {}
         self._busy: set[str] = set()  # bu turda yoğunluk/sınır hatası veren modeller
+        self._dead: set[str] = set()  # bu hesapta çalışmayan (404) modeller
         self._avail: list[str] | None = None
 
     def _post(self, model: str, body: dict) -> dict:
-        delays = [8]
-        for attempt in range(len(delays) + 1):
-            wait = self.min_interval - (time.time() - self._last)
-            if wait > 0:
-                time.sleep(wait)
-            self._last = time.time()
-            try:
-                r = requests.post(GEMINI_URL.format(model=model), json=body, timeout=300,
-                                  headers={"x-goog-api-key": self.api_key, "Content-Type": "application/json"})
-            except requests.RequestException as e:
-                if attempt < len(delays):
-                    time.sleep(delays[attempt])
-                    continue
-                raise LLMError(f"Bağlantı hatası: {e}") from e
-            if r.status_code in (429, 500, 502, 503, 504) and attempt < len(delays):
-                log.warning("Gemini API %s, %ss sonra tekrar denenecek", r.status_code, delays[attempt])
-                time.sleep(delays[attempt])
-                continue
-            if r.status_code >= 400:
-                raise LLMError(f"HTTP {r.status_code}: {r.text[:300]}")
-            return r.json()
-        raise LLMError("Tekrar denemeler tükendi")
+        """Tek deneme. Yoğunluk/sınır hatasında beklemeden hata verir; json() hemen sıradaki modele geçer."""
+        wait = self.min_interval - (time.time() - self._last.get(model, 0.0))
+        if wait > 0:
+            time.sleep(wait)
+        self._last[model] = time.time()
+        try:
+            r = requests.post(GEMINI_URL.format(model=model), json=body, timeout=240,
+                              headers={"x-goog-api-key": self.api_key, "Content-Type": "application/json"})
+        except requests.RequestException as e:
+            raise LLMError(f"Bağlantı hatası: {e}") from e
+        if r.status_code >= 400:
+            raise LLMError(f"HTTP {r.status_code}: {r.text[:300]}")
+        return r.json()
 
     def _available(self) -> list[str]:
         """Hesapta kullanılabilen Gemini metin modellerini bir kez sorgula (yeni modeller kendiliğinden gelir)."""
@@ -227,7 +219,24 @@ class GeminiLLM:
         start = self._variant_ok.get(model, 0)
         variants = variants[start:] + variants[:start]
         last_err: Exception | None = None
+        for rnd in range(2):  # tüm modeller meşgulse kısa bir aradan sonra bir tur daha
+            if rnd:
+                if not self._busy:
+                    break
+                log.warning("Tüm Gemini modelleri meşgul, 20 sn sonra bir tur daha denenecek")
+                time.sleep(20)
+            out = self._try_models(model, base, variants, schema, system)
+            if isinstance(out, dict):
+                return out
+            last_err = out
+        raise LLMError(("Tüm modeller meşgul: " if self._busy else "") + str(last_err))
+
+    def _try_models(self, model: str, base: dict, variants: list[dict], schema: dict, system: str):
+        """Modelleri sırayla dener; başarıda sonuç sözlüğünü, olmazsa son hatayı döndürür."""
+        last_err: Exception | None = None
         for m in self._models(model):
+            if m in self._dead:
+                continue
             for gc in variants:
                 body = {**base, "generationConfig": gc}
                 if "responseJsonSchema" not in gc and "responseSchema" not in gc:
@@ -240,11 +249,12 @@ class GeminiLLM:
                     msg = str(e)
                     if "HTTP 404" in msg:
                         log.info("Gemini modeli bulunamadı (%s), sıradaki deneniyor", m)
+                        self._dead.add(m)
                         break
                     if "HTTP 400" in msg:
                         continue
                     if re.search(r"HTTP (429|5\d\d)|Tekrar denemeler|Bağlantı", msg):
-                        log.warning("Gemini %s meşgul/sınırda, sıradaki model deneniyor", m)
+                        log.warning("Gemini %s meşgul/sınırda (%s), sıradaki model deneniyor", m, msg[:8])
                         self._busy.add(m)
                         break
                     raise
@@ -269,7 +279,7 @@ class GeminiLLM:
                 except ValueError as e:
                     last_err = LLMError(f"JSON çözümlenemedi: {e}; metin: {text[:200]}")
                     continue
-        raise LLMError(("Tüm modeller meşgul: " if self._busy else "") + str(last_err))
+        return last_err or LLMError("Uygun model bulunamadı")
 
 
 def make_llm(cfg, usage_cb=None):

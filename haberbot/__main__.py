@@ -11,7 +11,7 @@ import sys
 from .app import App, write_github_output
 from .config import load_config
 from .site import SiteBuilder
-from .util import log, setup_logging
+from .util import hours_since, iso, log, now_utc, setup_logging
 
 
 def main(argv: list[str]) -> int:
@@ -32,8 +32,11 @@ def main(argv: list[str]) -> int:
         app = App(cfg)
         changed = app.run()
         in_ci = os.environ.get("GITHUB_ACTIONS") == "true"
-        if changed or cfg.force_build or (not in_ci and not (cfg.out_dir / "index.html").exists()):
+        stale = hours_since(app.state.get("last_build")) >= 1  # "bugün N gelişme" gibi bilgiler saatte bir tazelensin
+        if changed or cfg.force_build or stale or (not in_ci and not (cfg.out_dir / "index.html").exists()):
             SiteBuilder(cfg).build()
+            app.state["last_build"] = iso(now_utc())
+            app.store.save()
             changed = True
         write_github_output("site_changed", "true" if changed else "false")
         return 0

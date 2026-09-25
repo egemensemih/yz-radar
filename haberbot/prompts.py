@@ -60,7 +60,7 @@ You receive a batch of NEW ITEMS fetched from RSS feeds and a list of RECENT STO
 Do the following:
 1. Group items that report the same underlying event into ONE story (a company's own announcement and media coverage of it are the same story). Every item id must appear in exactly one story.
 2. ai_related: true only if the story is substantially about AI/ML (models, AI products, AI companies, AI research, AI chips/infrastructure, AI policy/safety). Tangential mentions → false.
-3. duplicate_of: if the story is the same event as one of the RECENT STORIES, write that story id (e.g. "s:ab12cd34ef"); otherwise "".
+3. duplicate_of: if the story is the same event as one of the RECENT STORIES, write that story id (e.g. "s:ab12cd34ef" or "q:3"); otherwise "".
 4. importance (integer 1–10) for a Turkish audience that follows AI:
    9–10 major frontier-model releases from leading labs, >$1B deals/acquisitions, landmark regulation, events dominating global tech news
    7–8 notable product or model launches, significant research results, large funding rounds, important policy moves, major open-source releases, noteworthy AI news about Turkey

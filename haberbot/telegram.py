@@ -41,6 +41,13 @@ class Telegram:
             "allowed_updates": ["message", "callback_query"],
         }, timeout=timeout + 15)
 
+    def typing(self, chat_id) -> None:
+        """Sohbetin üstünde "yazıyor…" göster (işlem sürerken)."""
+        try:
+            self._call("sendChatAction", {"chat_id": chat_id, "action": "typing"}, timeout=10)
+        except TelegramError:
+            pass
+
     def answer_callback(self, cb_id: str, text: str = "") -> None:
         try:
             self._call("answerCallbackQuery", {"callback_query_id": cb_id, "text": text[:190]})
