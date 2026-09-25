@@ -9,7 +9,7 @@
       "rejected": 0
     },
     "TechCrunch": {
-      "approved": 12,
+      "approved": 13,
       "rejected": 0
     },
     "The Verge": {
@@ -233,6 +233,12 @@
     {
       "t": "2026-09-25T15:06:08Z",
       "id": "7abf6bcf17",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-25T20:49:49Z",
+      "id": "92e14291cf",
       "ok": true,
       "manual": true
     }

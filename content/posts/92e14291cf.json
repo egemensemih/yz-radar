@@ -1,0 +1,79 @@
+{
+  "id": "92e14291cf",
+  "created_at": "2026-09-25T18:31:41Z",
+  "title": "Meta's Muse yapay zeka alanında tüm dikkatleri üzerine çekti",
+  "summary": "TechCrunch'ın aktardığına göre Meta'nın yeni kişisel yapay zeka ajanı Muse, ChatGPT'nin ilk dönem rakamlarını geride bırakarak akıllı gözlükler ve mini cihazlara geliyor.",
+  "body": "TechCrunch'ın aktardığına göre, yapay zeka sektöründe hareketli bir hafta yaşanırken Meta'nın kişisel yapay zeka ajanı Muse tüm dikkatleri üzerine çekti. Anthropic'in Opus 5.5 modelini piyasaya sürmesinden yalnızca 90 dakika sonra OpenAI'ın GPT-6 güncellemelerini duyurduğu bu dönemde, Meta'nın hamlesi ön plana çıktı. Muse'un erken dönem kullanım rakamlarının ChatGPT'nin ilk verilerini geride bıraktığı bildiriliyor.\n\n## Muse akıllı gözlüklere ve yeni cihazlara geliyor\n\nTechCrunch'ın podcast yayınında paylaşılan bilgilere göre Meta, tüketiciye yönelik yapay zeka stratejisini genişletiyor. Bu kapsamda kişisel yapay zeka ajanı Muse'un akıllı gözlüklere ve küçük, Tamagotchi tarzı yeni bir cihaza entegre edilmesi planlanıyor.\n\n**Neden önemli?** Anthropic ve OpenAI gibi sektör liderlerinin peş peşe yeni model duyuruları yaptığı bir dönemde Meta'nın tüketici odaklı bu stratejisi, yapay zeka ürünlerinin günlük hayatta yer edinme biçimini ve pazar dengelerini etkiliyor.",
+  "category": "modeller",
+  "tags": [
+    "Meta",
+    "OpenAI",
+    "Anthropic",
+    "GPT-6",
+    "Muse"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber TechCrunch podcast yayınındaki iddialara ve aktarımlara dayanmaktadır.",
+  "short_title": "Meta'nın Muse yapay zekası dikkat çekti",
+  "kicker": "Yapay zeka",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a small handheld matte device of translucent ceramic resting on a dark slate surface, emitting a soft amber light from a subtle line across its center, minimalist composition",
+  "focus_keyword": "Meta's Muse",
+  "seo_title": "Meta'nın Muse yapay zeka ajanı dikkat çekti",
+  "meta_description": "TechCrunch aktarımına göre Meta'nın kişisel yapay zeka ajanı Meta's Muse, ChatGPT'nin erken dönem rakamlarını geçerek akıllı gözlüklere geliyor.",
+  "seo_slug": "metas-muse-yapay-zeka-ajani-dikkat-cekti",
+  "image_alt": "Koyu zemin üzerinde yumuşak ışık yayan seramik yapay zeka cihazı konsepti",
+  "cover_text": "Muse",
+  "importance": 7,
+  "triage_reason": "Meta'nin Muse ve yeni model cikislari sektordeki hareketliligi artiriyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T18:22:47Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "title": "Will Meta’s AI Tamagotchi bet is…working?",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T16:00:00Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "title": "Meta opens early access program for new Muse features",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T20:34:53Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 128
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "metas-muse-yapay-zeka-ajani-dikkat-cekti",
+  "published_at": "2026-09-25T20:49:47Z",
+  "publish_mode": "manual"
+}
