@@ -1,0 +1,58 @@
+{
+  "id": "fa1ae05c03",
+  "created_at": "2026-09-25T15:46:16Z",
+  "title": "Anthropic kurucuları halka arz öncesi oy kontrolü talep ediyor",
+  "summary": "Anthropic'in kurucuları, olası bir halka arz öncesinde yönetim kontrolünü elinde tutmak amacıyla özel oy hakkı sağlayan bir yapı kurulmasını istiyor.",
+  "body": "Anthropic kurucuları halka arz öncesi yönetim kontrolünü korumak adına hissedarlardan onay talep ediyor. The Information'ın aktardığına göre yapay zeka girişimi, CEO Dario Amodei ve altı kurucu ortak için şirketin oy haklarının %50,1'ini sağlayacak özel hisseler oluşturmak için çalışmalara başladı.\n\n## Oy kontrolü yapısı nasıl işleyecek?\n\nPlanlanan yapı kapsamında yedi kurucu ortak, şirketin geleceğindeki kararlarda ortak bir oy gücüne sahip olacak. Kurucuların bu özel hisseleri alabilmesi için en az üçünün asgari bir payı elinde tutması gerekecek. Benzer süper oy hakkı uygulamaları daha önce Meta ve Snap gibi teknoloji devlerinde de görülmüştü. Ancak yedi kurucu ortağın ortak bir grup yaklaşımı benimsemesi bu süreci farklı kılıyor.\n\nKurucuların her birinin şirkette yalnızca %2 oranında hisseye sahip olduğu belirtiliyor. Ayrıca kurucular, servetlerinin %80'ini bağışlamayı taahhüt etmiş durumda. Ekonomik değer taşımayan bu yeni özel hisseler, halka arz sonrasında dahi şirket kontrolünün kurucu grupta kalmasını hedefliyor. Planın diğer detayları arasında Long-Term Benefit Trust'ın yönetim kurulunun çoğunluğunu seçmeye devam etmesi, kurucu koltuklarının ikiden üçe çıkması ve çalışanlara ek hisseler verilmesi yer alıyor.\n\n**Neden önemli?** Beş yıllık geçmişe sahip olan Anthropic, mayıs ayında 965 milyar dolar değerlemeye ulaşmış, ikincil piyasalarda ise değerlemesi 1,5 trilyon dolara çıkmıştı. Şirketin yaklaşan halka arzının bu yeni finansal büyüklüğü yansıtması bekleniyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Dario Amodei",
+    "Meta",
+    "Snap"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic kurucularından oy kontrolü hamlesi",
+  "kicker": "Halka arz",
+  "hero_stat": "1,5 trilyon $",
+  "hero_stat_label": "ikincil piyasa değerlemesi",
+  "visual_style": "studio",
+  "visual_scene": "a single dark frosted glass monolith standing upright on a pale gray stone surface, casting a soft shadow, minimalist geometric composition",
+  "focus_keyword": "Anthropic kurucuları halka arz",
+  "seo_title": "Anthropic kurucuları halka arz öncesi oy kontrolü istiyor",
+  "meta_description": "Anthropic kurucuları, olası bir halka arz öncesinde yönetim kontrolünü elde tutmak için özel oy hakkı sağlayan yeni bir hisse yapısı talep ediyor.",
+  "seo_slug": "anthropic-kuruculari-halka-arz-oncesi-oy-kontrolu",
+  "image_alt": "Buzlu cam monolit ve taş yüzey üzerinde minimal kompozisyon",
+  "cover_text": "Anthropic",
+  "importance": 7,
+  "triage_reason": "Anthropic'in halka arz öncesi kuruculara oy kontrolü istemesi önemli bir şirket hamlesidir.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T15:40:03Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 118
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-kuruculari-halka-arz-oncesi-oy-kontrolu",
+  "published_at": "2026-09-25T15:46:41Z",
+  "publish_mode": "auto"
+}
