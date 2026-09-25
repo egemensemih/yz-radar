@@ -1,0 +1,70 @@
+{
+  "id": "1bad33aa94",
+  "status": "pending",
+  "created_at": "2026-09-25T19:31:31Z",
+  "title": "NSA gelişmiş yapay zeka modellerini test etmek için milyarlarca dolar harcıyor",
+  "summary": "Washington Sun'ın haberine göre ABD Ulusal Güvenlik Ajansı (NSA), gelişmiş yapay zeka modellerini değerlendirmek ve test etmek için milyarlarca dolarlık harcama yapıyor.",
+  "body": "## NSA'in yapay zeka test harcamaları\n\nWashington Sun'ın iki istihbarat kaynağına dayandırdığı haberine göre, Amerika Birleşik Devletleri Ulusal Güvenlik Ajansı (NSA) gelişmiş yapay zeka modellerini test etmek ve değerlendirmek amacıyla bu yıl milyarlarca dolarlık vergi mükellefi fonu harcıyor. Bu devasa maliyet, milletvekilleri arasında kapsamlı bir yapay zeka düzenleme sisteminin devlete yıllık on milyarlarca dolara mal olabileceği yönündeki endişeleri artırıyor. \n\n## Yüksek maliyetlerin arkasındaki nedenler\n\nNSA'in Yapay Zeka Güvenlik Merkezi, son dönemdeki güvenlik olaylarının ardından ulusal güvenlik açıklarıyla mücadele etmek için frontier modelleri (en gelişmiş sınır modelleri) incelemeye başladı. Bu süreçteki en büyük maliyet kalemi ise modelleri çalıştırmak ve test etmek için gereken devasa işlem gücü ihtiyacı ile çipler oldu. Bunun yanı sıra, dev teknoloji laboratuvarlarının sunduğu yüz milyonlarca dolarlık maaş teklifleriyle rekabet etmenin zorluğu da harcamaları etkileyen unsurlar arasında yer alıyor.\n\n- Sınır modellerini test etmek için gereken işlem gücü ve çip maliyetleri hızla artıyor.\n- Yapay zeka mühendislerine özel sektör tarafından sunulan yüksek maaşlar devleti rekabet açısından zorluyor.\n- Vergi mükelleflerinin yükünü hafifletmek için yapay zeka şirketlerine vergi getirilmesi veya laboratuvarların maliyeti üstlenmesi tartışılıyor.\n\n**Neden önemli?** Washington Sun'ın aktardığına göre, bu yüksek maliyetler hükümetin yapay zeka modellerini denetlemedeki rolüne dair tartışmaları alevlendirirken, masrafların şirketler tarafından karşılanması fikrini de gündeme getiriyor.",
+  "category": "politika",
+  "tags": [
+    "NSA",
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Elon Musk",
+    "Donald Trump"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "NSA yapay zeka testleri için milyarlar harcıyor",
+  "kicker": "İstihbarat raporu",
+  "hero_stat": "milyarlarca",
+  "hero_stat_label": "dolar test harcaması",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "yapay zeka modellerini test",
+  "seo_title": "NSA gelişmiş yapay zeka modellerini test etmek için harcıyor",
+  "meta_description": "Washington Sun haberine göre ABD Ulusal Güvenlik Ajansı NSA, gelişmiş yapay zeka modellerini test etmek için milyarlarca dolar harcıyor.",
+  "seo_slug": "nsa-gelismis-yapay-zeka-modellerini-test-etmek-icin-harciyor",
+  "image_alt": "Buzlu cam küplerden oluşan grafik ve yapay zeka model testlerini temsil eden stüdyo görseli",
+  "cover_text": "NSA AI Testing",
+  "importance": 7,
+  "triage_reason": "NSA'nın yapay zeka modellerini test etmek için milyarlarca dolar harcadığı ortaya çıktı.",
+  "sources": [
+    {
+      "name": "washingtonsun.com",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=49845952",
+      "published": "2026-09-25T15:27:35Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "washingtonsun.com",
+      "kind": "community",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "published": "2026-09-25T15:27:35Z",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 152 # Comments: 80",
+      "text": "The National Security Agency told lawmakers that it is spending billions of dollars in taxpayer funds this year evaluating and testing advanced artificial intelligence models, according to two sources familiar with classified intelligence estimates.\nThe price tag — which is significantly greater than previously known — has led lawmakers to believe that a more comprehensive AI regulatory system could cost the government tens of billions of dollars per year, the sources said.\nPresident Donald Trump has mostly resisted calls for greater federal oversight of AI, rejecting regulatory proposals from members of Congress and the frontier labs aimed at imposing new safeguards on the models. But after a string of high-profile hacking and security incidents, the NSA’s Artificial Intelligence Security Center began testing frontier models to identify potential national security vulnerabilities.\nThe high cost of those efforts is bringing new urgency to the debate about the government’s role in reviewing AI models designed by some of the most powerful and resourceful companies in the world. It also may intensify calls to have the frontier labs to shoulder the financial burden of reviewing the models, especially with spending set to only balloon as the technology grows more advanced.\nTrending\nEstimates of prior proposals to establish new federal AI regulatory oversight suggested a far lower price tag.\nFor instance, the Congressional Budget Office estimated the AI Security and Innovation Act, a bipartisan House proposal to establish a center on AI risks and “facilitate the mitigation of those risks,” would cost roughly $20 million per year.\nA separate bill in the House to establish a new reporting and tracking system for AI calls for $36 million in total over the next five years, the CBO reported.\nSome tech leaders, like billionaire Elon Musk, have suggested that the frontier labs should review each other’s models prior to their release without government oversight. On Thursday, The Information reported that Google, OpenAI and Anthropic are jointly working on a plan to create their own AI safety-focused “standards body.”\nBut some AI safety experts have rejected this model as effectively allowing the firms to police themselves. One alternative is for the government to levy a tax on AI companies to run these safety operations — both to ensure independence and to ensure the financial burden of regulating AI does not fall primarily on the taxpayers. Anthropic and OpenAI have suggested that they want greater federal oversight and may be open to paying for it as well.\nCurrently, NSA’s AI testing efforts are being funded by classified portions of the federal national security budget, the two sources familiar said. The exact dollar amount the government has spent so far is not clear.\nThe Pentagon declined to comment on what the NSA is spending on AI.\n“For security reasons, the Department does not discuss the technical architecture or resource allocation for its AI tools,” a spokesperson for the Defense Department said.\nThe Defense Department’s annual budget is close to $1 trillion. Some budgetary funds already allocated to the military could be shifted into AI-related spending, reducing the potential price tag.\nOne source said the biggest AI-related cost to the NSA thus far has been the extra computing power: the processing on chips necessary to run and test the AI models. Purchasing computing power has become incredibly expensive worldwide amid a surge in demand accompanied by insufficient production of chips. For instance, Anthropic has lined up computing deals that could cost as much as $517 billion, according to The Information.\nAnother big expense is in hiring personnel. Some top AI engineers have been offered salaries in the hundreds of millions of dollars, far outpacing what the government could match. NSA is widely regarded as having the deepest roster of technical experts within the government and still may not be able to compete with the giant pay packages thrown around by the frontier labs.\n“Having in-house AI evaluation capability I think is extremely important and necessary. But it is genuinely expensive,” said Nathan Calvin, general counsel at Encode, an AI advocacy organization. “You’re competing in bidding with some of the most price-insensitive customers.”\nSome experts have pushed for lawmakers to swiftly move to strengthen third-party audits of the models. Nat Purser, director of U.S. Policy at the AI Verification and Evaluation Research Institute, said that while “people often underestimate how much computing power it can take to rigorously test advanced AI systems,” the government should make the investments necessary. Purser also said the AI companies could foot the bill if taxpayers are paying large sums to evaluate the models.\n“If we want the government to be equipped to assess these systems, we need to fund the computing resources and expertise that requires,” Purser said. “I think of these tests as public goods, but there are reasonable questions about if taxpayers should foot the bill. An assessment on frontier developers could be required to help fund these independent audits, including the necessary computing resources.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 136
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
