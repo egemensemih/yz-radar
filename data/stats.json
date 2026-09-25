@@ -21,7 +21,7 @@
       "rejected": 0
     },
     "Webrazzi": {
-      "approved": 3,
+      "approved": 4,
       "rejected": 0
     },
     "Hacker News": {
@@ -227,6 +227,12 @@
     {
       "t": "2026-09-25T12:54:27Z",
       "id": "87981e49d2",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-25T15:06:08Z",
+      "id": "7abf6bcf17",
       "ok": true,
       "manual": true
     }

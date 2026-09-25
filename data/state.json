@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 614197264,
+  "telegram_offset": 614197265,
   "last_collect": "2026-09-25T15:01:27Z",
   "last_summary_date": "2026-09-24",
   "mode_override": null,
@@ -113,16 +113,18 @@
       "tok_out": 4391,
       "cost_usd": 0.0,
       "drafts": 3,
-      "published": 2,
-      "approved": 2
+      "published": 3,
+      "approved": 3
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-25T14:59:39Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/patientdesk-ai-turkce-ses-modelleri-alania-ve-duyu/"
+  ],
+  "last_build": "2026-09-25T15:10:13Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
-  "last_activity": "2026-09-25T12:54:26Z"
+  "last_activity": "2026-09-25T15:05:52Z"
 }
