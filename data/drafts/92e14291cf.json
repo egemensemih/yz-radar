@@ -1,0 +1,89 @@
+{
+  "id": "92e14291cf",
+  "status": "pending",
+  "created_at": "2026-09-25T18:31:41Z",
+  "title": "Meta's Muse yapay zeka alanında tüm dikkatleri üzerine çekti",
+  "summary": "TechCrunch'ın aktardığına göre Meta'nın yeni kişisel yapay zeka ajanı Muse, ChatGPT'nin ilk dönem rakamlarını geride bırakarak akıllı gözlükler ve mini cihazlara geliyor.",
+  "body": "TechCrunch'ın aktardığına göre, yapay zeka sektöründe hareketli bir hafta yaşanırken Meta'nın kişisel yapay zeka ajanı Muse tüm dikkatleri üzerine çekti. Anthropic'in Opus 5.5 modelini piyasaya sürmesinden yalnızca 90 dakika sonra OpenAI'ın GPT-6 güncellemelerini duyurduğu bu dönemde, Meta'nın hamlesi ön plana çıktı. Muse'un erken dönem kullanım rakamlarının ChatGPT'nin ilk verilerini geride bıraktığı bildiriliyor.\n\n## Muse akıllı gözlüklere ve yeni cihazlara geliyor\n\nTechCrunch'ın podcast yayınında paylaşılan bilgilere göre Meta, tüketiciye yönelik yapay zeka stratejisini genişletiyor. Bu kapsamda kişisel yapay zeka ajanı Muse'un akıllı gözlüklere ve küçük, Tamagotchi tarzı yeni bir cihaza entegre edilmesi planlanıyor.\n\n**Neden önemli?** Anthropic ve OpenAI gibi sektör liderlerinin peş peşe yeni model duyuruları yaptığı bir dönemde Meta'nın tüketici odaklı bu stratejisi, yapay zeka ürünlerinin günlük hayatta yer edinme biçimini ve pazar dengelerini etkiliyor.",
+  "category": "modeller",
+  "tags": [
+    "Meta",
+    "OpenAI",
+    "Anthropic",
+    "GPT-6",
+    "Muse"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber TechCrunch podcast yayınındaki iddialara ve aktarımlara dayanmaktadır.",
+  "short_title": "Meta'nın Muse yapay zekası dikkat çekti",
+  "kicker": "Yapay zeka",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a small handheld matte device of translucent ceramic resting on a dark slate surface, emitting a soft amber light from a subtle line across its center, minimalist composition",
+  "focus_keyword": "Meta's Muse",
+  "seo_title": "Meta'nın Muse yapay zeka ajanı dikkat çekti",
+  "meta_description": "TechCrunch aktarımına göre Meta'nın kişisel yapay zeka ajanı Meta's Muse, ChatGPT'nin erken dönem rakamlarını geçerek akıllı gözlüklere geliyor.",
+  "seo_slug": "metas-muse-yapay-zeka-ajani-dikkat-cekti",
+  "image_alt": "Koyu zemin üzerinde yumuşak ışık yayan seramik yapay zeka cihazı konsepti",
+  "cover_text": "Muse",
+  "importance": 7,
+  "triage_reason": "Meta'nin Muse ve yeni model cikislari sektordeki hareketliligi artiriyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T18:22:47Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "title": "Will Meta’s AI Tamagotchi bet is…working?",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T16:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "published": "2026-09-25T18:22:47Z",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+      "text": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and a tiny Tamagotchi-style device next.\nOn this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into Meta’s consumer AI strategy and what it means for the startups trying to build on top of this technology, covering everything from where the money is flowing to which AI products might actually become part of people’s daily lives. They also get into a16z’s new school for aspiring founders and two very different AI and hardware deals.\nListen to the full episode to hear more about:\n- How a16z’s Horowitz Andreessen Academy plans to pave a new path for aspiring founders, and why the Equity crew sees echoes of the Thiel Fellowship and Silicon Valley’s long-running anti-college streak\n- Why Oura’s $2.2 billion IPO looks more like a payday for existing shareholders than a major fundraising event for the company\n- Ema’s $77 million raise to sell teams of AI agents that automate HR, IT, and finance workflows, with Google and Microsoft among its early enterprise customers\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod."
+    },
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Will Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "published": "2026-09-25T16:00:00Z",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+      "text": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and a tiny Tamagotchi-style device next.\nOn this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into Meta’s consumer AI strategy and what it means for the startups trying to build on top of this technology, covering everything from where the money is flowing to which AI products might actually become part of people’s daily lives. They also get into a16z’s new school for aspiring founders and two very different AI and hardware deals."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 128
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
