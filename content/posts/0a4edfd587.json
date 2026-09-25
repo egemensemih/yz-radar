@@ -1,0 +1,58 @@
+{
+  "id": "0a4edfd587",
+  "created_at": "2026-09-25T18:46:36Z",
+  "title": "Nscale halka arz oncesi 3,36 milyar dolar finansman sagladi",
+  "summary": "İngiltere merkezli yapay zeka bulut şirketi Nscale, ABD'deki halka arzı öncesinde dönüştürülebilir tahvil yoluyla 3,36 milyar dolar finansman elde ettiğini duyurdu.",
+  "body": "TechCrunch'ın aktardığına göre, İngiliz yapay zeka bulut şirketi Nscale halka arz öncesi 3,36 milyar dolar finansman sağladı. Bu büyük finansman turu, yapay zeka veri merkezleri kurmanın gerektirdiği devasa sermayeyi gözler önüne seriyor.\n\n## Yatırım turunun detayları\n\nThird Point tarafından yönetilen yeni yatırım, şirkete hemen aktarılan 2,36 milyar doları ve mevcut yatırımcı Nvidia'dan kasım ortasında alınacak ek 1 milyar doları içeriyor. Dönüştürülebilir tahvil şeklinde yapılandırılan bu notlar, halka arz tamamlandığında öz sermaye paylarına dönüşecek.\n\n## Halka arz beklentileri ve tesisler\n\nGeçtiğimiz hafta halka arz evraklarını sunan şirketin New York Menkul Kıymetler Borsası'nda 35 milyar dolar değerlemeye ulaşmasının beklendiği Financial Times tarafından bildirilmişti. Bloomberg'e göre ise şirket halka arzda 3 milyar dolar toplamayı hedefliyor.\n\n* Norveç ve Batı Virginia'da büyük veri merkezi kampüsleri geliştiriliyor\n* Arkon Energy'den iki yıl önce ayrılan şirket, 103 milyar doların üzerinde sözleşme topladı\n\n**Neden önemli?** Yapay zeka veri merkezleri için gereken devasa sermaye akışını gösteren bu finansman, şirketin yıl sonundaki halka arz hazırlıkları kapsamında gerçekleştirildi.",
+  "category": "sirketler",
+  "tags": [
+    "Nscale",
+    "Nvidia",
+    "Third Point",
+    "Arkon Energy"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nscale halka arz oncesi 3,36 milyar dolar aldi",
+  "kicker": "Finansman turu",
+  "hero_stat": "3,36 milyar $",
+  "hero_stat_label": "sağlanan finansman",
+  "visual_style": "studio",
+  "visual_scene": "a massive architectural model of a futuristic data center made of polished dark obsidian stone, surrounded by thin glowing threads of cool white light representing data flows, set against a matte dark gray background",
+  "focus_keyword": "Nscale halka arz",
+  "seo_title": "Nscale halka arz öncesi 3,36 milyar dolar finansman sağladı",
+  "meta_description": "İngiliz yapay zeka bulut şirketi Nscale, ABD halka arzı öncesinde 3,36 milyar dolar dönüştürülebilir finansman sağladığını duyurdu.",
+  "seo_slug": "nscale-halka-arz-oncesi-3-36-milyar-dolar-finansman-sagladi",
+  "image_alt": "Nscale halka arz öncesi 3,36 milyar dolar finansman sağladığını duyurdu",
+  "cover_text": "Nscale",
+  "importance": 9,
+  "triage_reason": "Nscale, Nvidia ve Third Point katılımıyla 3.36 milyar dolar dev finansman sağladı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "title": "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T18:33:59Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 129
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "nscale-halka-arz-oncesi-3-36-milyar-dolar-finansman-sagladi",
+  "published_at": "2026-09-25T18:46:39Z",
+  "publish_mode": "auto"
+}
