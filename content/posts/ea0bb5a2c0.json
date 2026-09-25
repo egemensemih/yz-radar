@@ -1,0 +1,59 @@
+{
+  "id": "ea0bb5a2c0",
+  "created_at": "2026-09-25T17:32:12Z",
+  "title": "Enigma sifreleri yapay zeka modelleriyle cozumu",
+  "summary": "TechCrunch'ın aktardığına göre, OpenAI ve Anthropic modelleri, onlarca yıldır çözülemeyen Enigma şifreli mesajlarını çözmeyi başardı.",
+  "body": "TechCrunch'ın aktardığına göre, aralarında OpenAI ve Anthropic modellerinin de bulunduğu yapay zeka sistemleri, İkinci Dünya Savaşı döneminden kalan ve uzun süredir çözülemeyen Enigma şifreli mesajlarını deşifre etti. Geliştirici Carter Leffen ve kriptanalist Jack Willis tarafından yürütülen çalışmalarda, iki farklı büyük dil modeli tarihî kayıtları inceleyerek yıllara meydan okuyan mesajları açık metne dönüştürdü.\n\n## OpenAI'ın Astra modeliyle gelen cozum\n\nGeliştirici Carter Leffen, OpenAI'ın en yeni modeli Astra'ya bir Enigma mesajları veritabanında arama yapması ve çözülememiş bir mesajı deşifre etmesi talimatını verdi. Model, kendi arşiv araştırmasını yürüterek bağlam ipuçlarını buldu, bir Enigma makinesi simülatörü oluşturdu ve 2005 yılından bu yana araştırmacıları merakta bırakan bir mesajın açık metnini kurtarmayı başardı. Emekli elektrik mühendisi ve kriptoloji meraklısı Frode Weirerud, geçen hafta bu çözümü doğrulayarak modelin çalışmalarının profesyonel bir kriptanalisti andırdığını belirtti.\n\n## Claude Opus 5 ile cozulen diger mesaj\n\n21 Eylül'de bir başka kriptanalist Jack Willis, Anthropic tarafından geliştirilen Claude Opus 5 modelini kullanarak çözülememiş farklı bir mesajı kırdığını duyurdu. Willis'in sağladığı rehberlikle model, belirli bir subayın adının bilinen imzasını kullanarak şifreyi çözmeyi başardı. Uzmanlar, günümüzde dünya genelinde şifresi henüz kırılmamış yedi Enigma mesajı kaldığını, bir mesajda ise metnin bilinmesine rağmen kodun hala çözülemediğini ifade ediyor.\n\n**Neden önemli?** Yapay zeka modellerinin arşiv tarama, simülasyon kurma ve bağlam birleştirme yetenekleri sayesinde, normalde bir insan araştırmacının haftalarca veya aylarca sürebilecek kriptanaliz çalışmalarını günler içinde tamamlayabildiği görüldü.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Astra",
+    "Claude Opus 5",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka Enigma şifrelerini çözdü",
+  "kicker": "Araştırma",
+  "hero_stat": "7",
+  "hero_stat_label": "kalan çözülmemiş mesaj",
+  "visual_style": "studio",
+  "visual_scene": "a complex vintage mechanical gear mechanism made of dark brass and frosted glass blocks, with a subtle warm light emanating from the center, resting on a matte dark gray surface",
+  "focus_keyword": "Enigma sifreleri",
+  "seo_title": "Yapay zeka modelleri uzun süredir çözülemeyen Enigma sifreleri",
+  "meta_description": "TechCrunch haberine göre OpenAI Astra ve Claude Opus 5 modelleri, onlarca yıldır çözülemeyen Enigma şifreli tarihî mesajları çözmeyi başardı.",
+  "seo_slug": "enigma-sifreleri-yapay-zeka-modelleriyle-cozumu",
+  "image_alt": "Koyu renkli zemin üzerinde pirinç dişliler ve buzlu cam bloklardan oluşan karmaşık mekanik yapıyı temsil eden soyut görsel.",
+  "cover_text": "Enigma",
+  "importance": 8,
+  "triage_reason": "İleri düzey yapay zeka modellerinin tarihi kod çözme görevlerini tamamlaması önemli bir başarı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T17:24:36Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 124
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "enigma-sifreleri-yapay-zeka-modelleriyle-cozumu",
+  "published_at": "2026-09-25T17:32:22Z",
+  "publish_mode": "auto"
+}
