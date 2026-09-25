@@ -1,0 +1,58 @@
+{
+  "id": "4bf61d57a4",
+  "created_at": "2026-09-25T16:46:07Z",
+  "title": "Sony ve Universal Music Group, Suno'ya yeni telif davası açtı",
+  "summary": "Sony ve Universal Music Group, Suno'nun yeni v6 modelinin telif haklarını ihlal ettiğini öne sürerek şirkete karşı yeni bir dava başlattı.",
+  "body": "Sony ve Universal Music Group (UMG), müzik üretme platformu Suno hakkında yeni bir telif hakkı davası açtı. The Verge'ün aktardığına göre, plak şirketleri Suno'nun yeni v6 modelinin telif haklarını ihlal etmeyi sürdürdüğünü iddia ediyor.\n\n## Model aklama suçlaması\n\nSony ve UMG mahkemeye sundukları şikayet dilekçesinde, Suno'nun \"model aklama\" yöntemi kullandığını öne sürdü. Şirketlerin hazırladığı metinde, \"Training a ‘new’ model on the outputs of an infringing model does not eliminate the infringement; it launders it\" ifadeleri yer aldı. Davacılar, yeni modelin önceki sürümlerin çıkış verileriyle eğitildiğini ve bu durumun ihlali ortadan kaldırmadığını savunuyor.\n\n## Suno ve plak şirketlerinin iddiaları\n\nSuno'dan Jack Brody daha önce v6 modelinin sıfırdan ve yeni bir veri setiyle eğitildiğini belirtmişti. Suno, bu verilerin kullanıcı yaratımlarını içerdiğini doğrulamış ancak ayrıntı vermemişti. Sony ayrıca Suno'nun v6 modelini eğitmek için damıtma yöntemi kullandığını da iddia ediyor. Plak şirketleri, Suno tamamen sıfırdan başlamadığı sürece modellerin yetkisiz kopyalar üzerine kurulmaya devam edeceğini savunuyor.\n\n**Neden önemli?** Sony ve Universal Music Group, Suno ile lisans anlaşması imzalamayan önemli plak şirketleri arasında yer alıyor ve bu hukuki süreç yapay zeka müzik modellerinin veri eğitimi tartışmalarını derinleştiriyor.",
+  "category": "politika",
+  "tags": [
+    "Suno",
+    "Sony",
+    "Universal Music Group",
+    "v6"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Sony ve UMG'den Suno'ya telif davası",
+  "kicker": "Telif davası",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a close-up of a vintage analog mixing console with sleek dark metallic sliders, a single warm amber light reflecting on the polished surface, minimal and precise composition",
+  "focus_keyword": "Suno telif davası",
+  "seo_title": "Sony ve UMG'den Suno'ya yeni telif davası",
+  "meta_description": "Sony ve Universal Music Group, Suno'nun v6 modelinin telif haklarını ihlal ettiği gerekçesiyle şirkete yeni bir dava açtı.",
+  "seo_slug": "sony-ve-umgden-sunoya-yeni-telif-davasi",
+  "image_alt": "Koyu renkli analog mikser masası üzerinde parlayan sıcak amber ışık",
+  "cover_text": "Suno v6",
+  "importance": 7,
+  "triage_reason": "Büyük müzik şirketlerinin Suno'ya açtığı telif davası sektörde yasal süreçler açısından önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "title": "Sony and UMG are suing Suno again",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T15:51:56Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 121
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "sony-ve-umgden-sunoya-yeni-telif-davasi",
+  "published_at": "2026-09-25T16:46:20Z",
+  "publish_mode": "auto"
+}
