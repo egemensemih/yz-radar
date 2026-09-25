@@ -65,7 +65,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SITE_URL: ${{ steps.pages.outputs.base_url }}
           FORCE_COLLECT: ${{ inputs.force_collect }}
-          FORCE_BUILD: ${{ github.event_name != 'schedule' }}
+          FORCE_BUILD: ${{ github.event_name == 'push' }}   # zamanlayıcı çalışmaları siteyi sadece gerektiğinde yeniden yayınlar
         run: python -m haberbot run
 
       - name: Değişiklikleri kaydet
