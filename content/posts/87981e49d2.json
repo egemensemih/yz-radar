@@ -1,6 +1,5 @@
 {
   "id": "87981e49d2",
-  "status": "pending",
   "created_at": "2026-09-25T11:01:20Z",
   "title": "Meta'dan yapay zeka odaklı oyun geliştirme araçları Horizon Create ve Horizon Studio",
   "summary": "Meta, kodlama bilgisi gerektirmeyen ve metin komutlarıyla 2D ile 3D mobil oyunlar üretilmesini sağlayan Horizon Create ve Horizon Studio araçlarını tanıttı.",
@@ -45,17 +44,6 @@
   "source_keys": [
     "Webrazzi"
   ],
-  "source_texts": [
-    {
-      "credit": "Webrazzi",
-      "kind": "media",
-      "title": "Meta, yapay zeka destekli yeni oyun geliştirme araçları Horizon Create ve Horizon Studio'yu tanıttı",
-      "url": "https://webrazzi.com/2026/09/25/meta-yapay-zeka-destekli-yeni-oyun-gelistirme-araclari-horizon-create-ve-horizon-studioyu-tanitti/",
-      "published": "2026-09-25T11:00:00Z",
-      "summary": "Meta, oyun ve sanal gerçeklik ekosistemini çok daha geniş kitlelere ulaştırmak amacıyla yepyeni bir yapay zeka aracı geliştiriyor. Şirket, kodlama becerisine sahip olmayan kullanıcıların, sadece metin...",
-      "text": "Meta, oyun ve sanal gerçeklik ekosistemini çok daha geniş kitlelere ulaştırmak amacıyla yepyeni bir yapay zeka aracı geliştiriyor. Şirket, kodlama becerisine sahip olmayan kullanıcıların, sadece metin komutları girerek iki veya üç boyutlu mobil oyunlar üretmesini sağlayan Horizon Create ve Horizon Studio araçlarını duyurdu. Erken erişim aşamasında olan bu yenilikçi araçlar için bekleme listesi kayıtları an itibarıyla başlıyor.\nBağımsız bir mobil uygulama olan Horizon Create üzerinden kullanıcılar oyun fikirlerini metinle tarif ederek veya hazır şablonlarla sürece başlıyor. Yapay zeka bu komutları kullanarak ilerleme sistemleri, dengeli zorluk seviyesi, sanat yönetimi ve çok oyunculu modlar barındıran oynanabilir bir oyun inşa ediyor. Kullanıcılar ek komutlarla karakterleri ve hikayeyi düzenleyebiliyor. İnşa süreci arka planda sürerken oyun test edilmeye hazır olduğunda cihaza bildirim geliyor ve eş zamanlı çoklu proje yürütülebiliyor.\nHorizon Studio ise, aynı mantığı tarayıcı üzerinden daha ince ayarlarla sunuyor. Herhangi bir kurulum gerektirmeyen bu sürümde sahneler düzenleniyor varlıklar değiştiriliyor ve komut dosyaları manuel ayarlanıyor. Ortak altyapı sayesinde projeler telefon ve tarayıcı arasında kesintisiz aktarılıyor.\nYayınlanan oyunlar doğrudan Facebook, Instagram ve Horizon akışlarında beliriyor. Oyuncular, ek dosya indirmeden tek dokunuşla bu oyunlara saniyeler içinde katılıyor ve eğlenceli olup oyuncuyu içeride tutan yapımlar daha fazla görünürlük elde ediyor. Canlıya alınan her oyun, öncesinde zorunlu güvenlik testlerinden geçiyor ve otomatik yaş derecelendirmesi alıyor. Başlangıçta sanal gerçeklik odaklı olan platform, bu hamleyle odağını mobile kaydırırken Unity ve Roblox gibi rakiplerin de benzer adımlar attığı pazarda, sizlere daha önce de aktardığımız Pocket isimli uygulamasıyla edindiği deneyimi iyice genişletiyor."
-    }
-  ],
   "rewrites": 0,
   "telegram": {
     "message_id": 109
@@ -66,5 +54,7 @@
     "palette": "okyanus",
     "cover_v": 1
   },
-  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+  "slug": "meta-yapay-zeka-oyun-gelistirme-araclari-horizon-create-studio",
+  "published_at": "2026-09-25T12:54:27Z",
+  "publish_mode": "manual"
 }

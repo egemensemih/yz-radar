@@ -13,7 +13,7 @@
       "rejected": 0
     },
     "The Verge": {
-      "approved": 11,
+      "approved": 12,
       "rejected": 0
     },
     "NVIDIA": {
@@ -21,7 +21,7 @@
       "rejected": 0
     },
     "Webrazzi": {
-      "approved": 2,
+      "approved": 3,
       "rejected": 0
     },
     "Hacker News": {
@@ -215,6 +215,18 @@
     {
       "t": "2026-09-24T20:40:57Z",
       "id": "ed5cd86b4b",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-25T12:54:22Z",
+      "id": "b6ad986142",
+      "ok": true,
+      "manual": true
+    },
+    {
+      "t": "2026-09-25T12:54:27Z",
+      "id": "87981e49d2",
       "ok": true,
       "manual": true
     }

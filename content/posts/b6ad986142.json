@@ -1,0 +1,59 @@
+{
+  "id": "b6ad986142",
+  "created_at": "2026-09-25T12:16:03Z",
+  "title": "Yeni Microsoft Copilot sohbet, kodlama ve otonom ajanları bir araya getiriyor",
+  "summary": "Microsoft, Copilot deneyimini baştan tasarlayarak sohbet, kod geliştirme ve Autopilot adlı yapay zeka ajanlarını üç sekmeli tek bir iş uygulamasında birleştirdi.",
+  "body": "Microsoft, iş dünyasına yönelik yapay zeka araçlarını tek çatı altında toplayan **yeni Microsoft Copilot** uygulamasını resmi olarak tanıttı. Yenilenen arayüz; sohbet, kodlama ve otonom yazılım ajanlarını **üç temel sekme** üzerinden kullanıcılara sunuyor.\n\n## Üç sekmeli yeni yapı neler sunuyor?\n\nYeniden tasarlanan arayüzün ana sekmesi olan **Home**, klasik sohbet deneyimi ile Cowork özelliklerini birleştiriyor. Bu alanda yer alan Today paneli, kullanıcının e-postalarını, toplantı taleplerini ve Teams bildirimlerini kişiselleştirilmiş bir özet halinde listeliyor. İkinci sekme olan **Code**, teknik bilgisi olmayan çalışanların bile GitHub Copilot altyapısıyla güvenli bir sanal alanda dahili uygulamalar, gösterge panelleri ve otomasyonlar geliştirmesine imkan tanıyor.\n\nÜçüncü sekme **Autopilot** ise şirketin daha önce Build etkinliğinde tanıttığı Scout asistanının bulut tabanlı ve yeniden markalanmış halini temsil ediyor. Kendi bulut bilgisayar örneği, hafızası ve kurumsal kimliği bulunan bu otonom ajan, kullanıcı çevrimdışıyken Teams kanallarını izleyebiliyor ve rutin kurumsal görevleri yerine getirebiliyor.\n\n## Kullanıma dayalı fiyatlandırma ve erişim takvimi\n\nMicrosoft, standart Copilot aboneliğiyle Word, Excel ve Teams gibi Office yazılımlarındaki temel sohbet özelliklerini sunmayı sürdürürken, Cowork, Code ve Autopilot gibi yoğun işlem gücü gerektiren bölümlerde **kullanıma dayalı ücretlendirme** modelini devreye alıyor. Kurum içi yapay zeka harcamalarını denetlemek için ise FinOps for AI yönetim aracı kullanılacak.\n\nHome ve Code sekmelerinin önümüzdeki haftalarda Frontier erken erişim programına açılacağı, Autopilot sekmesinin ise ay sonuna doğru kapalı ön izlemeye sunulacağı bildirildi. Code sekmesi ayrıca yılın ilerleyen dönemlerinde Microsoft 365 Premium ve Pro aboneleri için ön izlemeye açılacak.\n\n**Neden önemli?** Microsoft, tüketici pazarında geride kaldığı yarışta kurumsal üretkenliği merkeze alarak yapay zeka çözümlerini tıpkı Office paketi gibi günlük iş akışının temel standardı haline getirmeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Microsoft",
+    "Copilot",
+    "Autopilot",
+    "GitHub Copilot",
+    "Microsoft 365"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Microsoft Copilot baştan tasarlandı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "3 sekme",
+  "hero_stat_label": "tek bir iş merkezinde",
+  "visual_style": "sculpture",
+  "visual_scene": "Three interlocking sculptural geometric blocks made of frosted glass, brushed slate-grey aluminum, and matte dark teal resin, resting precisely on a clean architectural stone pedestal with diffuse morning light.",
+  "focus_keyword": "yeni Microsoft Copilot",
+  "seo_title": "Yeni Microsoft Copilot tanıtıldı: Üç sekmeli süper uygulama",
+  "meta_description": "Yeni Microsoft Copilot; sohbet, GitHub tabanlı kodlama ve Autopilot ajanlarını tek arayüzde birleştirdi. İşte kurumsal özellikler ve detaylar.",
+  "seo_slug": "yeni-microsoft-copilot-tanitildi",
+  "image_alt": "Birbirine kenetlenen üç farklı heykelsi blok: Microsoft Copilot'ın üç sekmeli yeni yapısını simgeliyor",
+  "cover_text": "Copilot",
+  "importance": 8,
+  "triage_reason": "Microsoft'un yeni Copilot süper uygulaması ve yapay zeka stratejisi önemli bir ürün lansmanıdır.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T12:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 110
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "yeni-microsoft-copilot-tanitildi",
+  "published_at": "2026-09-25T12:54:01Z",
+  "publish_mode": "manual"
+}
