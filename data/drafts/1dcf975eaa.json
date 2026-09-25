@@ -39,10 +39,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=49845977",
       "published": "2026-09-25T15:29:25Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/#comments",
+      "published": "2026-09-25T21:36:20Z"
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "Ars Technica"
   ],
   "source_texts": [
     {
