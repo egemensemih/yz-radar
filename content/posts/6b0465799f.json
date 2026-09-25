@@ -1,0 +1,59 @@
+{
+  "id": "6b0465799f",
+  "created_at": "2026-09-25T19:16:00Z",
+  "title": "Anthropic ve Akamai arasında 11,6 milyar dolarlık bulut anlaşması imzalandı",
+  "summary": "Anthropic, yedi yıl boyunca Akamai'nin bulut altyapısı için 11,6 milyar dolar ödeme yapmayı kabul etti. Bu anlaşma Akamai tarihinin en büyüğü olma özelliğini taşıyor.",
+  "body": "TechCrunch'ın aktardığına göre **Anthropic**, Akamai'nin bulut altyapısı için yedi yıllık süre zarfında **11,6 milyar dolar** harcama taahhüdünde bulundu. 25 Eylül Perşembe günü yapılan açıklamaya göre bu anlaşma, şirket tarihinin en büyük sözleşmesi olma özelliğini taşıyor ve yapay zeka alanında işlem gücü yatırımlarının hız kesmeden devam ettiğini gösteriyor.\n\n## CPU altyapısı ve mali detaylar\n\nAkamai'nin menkul kıymetler dosyasına göre anlaşma kesin bir taahhüt içermiyor; süreç, hizmet sürekliliği şartlarının yerine getirilmesine ve tarafların fesih haklarına bağlı olarak ilerliyor. Anlaşma kapsamında Akamai, genel amaçlı işlemciler olan CPU'lara yönelik artan talebe odaklanıyor. Akamai yöneticileri yatırımcı toplantısında, bu anlaşmadan bu yıl gelir beklenmediğini, 2027'nin ikinci yarısında 150 milyon ila 300 milyon dolar gelir öngörüldüğünü ve 2028 sonuna kadar yıllık gelirin 1,7 milyar dolara ulaşmasının beklendiğini belirtti.\n\n## Hisseler ve warrant yapısı\n\nAnlaşmanın finansal yapısı dikkat çekici detaylar barındırıyor. Akamai, Anthropic'e hisse başına 111,33 dolardan yaklaşık %5'lik hisseye denk gelen 7,7 milyon adi hisseye dönüştürülebilir imtiyazlı hisse alım hakkı (warrant) verdi. Bu hakkın yaklaşık %2'si ilk ödemeyle aktifleşecek, kalan kısmı ise Anthropic'in yapacağı ek harcamalara bağlı olarak kademeli şekilde artacak. Bu gelişmenin ardından Akamai hisseleri borsa kapanış sonrası işlemlerde %17'ye varan oranlarda değer kazandı.\n\n**Neden önemli?** Yapay zeka laboratuvarları ile bulut sağlayıcıları arasındaki büyük ölçekli altyapı ortaklıkları, sektördeki işlem gücü kapasitesini artırırken tedarikçi ile müşteri arasındaki finansal ortaklık modellerini de dönüştürüyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Akamai",
+    "bulut Bilisim",
+    "yapay zeka",
+    "AMD"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic ve Akamai bulut anlaşması",
+  "kicker": "Bulut anlaşması",
+  "hero_stat": "11,6 milyar $",
+  "hero_stat_label": "toplam bulut taahhüdü",
+  "visual_style": "studio",
+  "visual_scene": "a series of dark slate monoliths arranged in a gentle curve on a reflective surface, with subtle lines of pale blue light tracing along their edges, symbolizing data infrastructure and cloud capacity",
+  "focus_keyword": "Anthropic Akamai anlaşması",
+  "seo_title": "Anthropic ve Akamai arasında 11,6 milyar dolarlık anlaşma",
+  "meta_description": "Anthropic, yedi yıl boyunca Akamai'nin bulut altyapısı için 11,6 milyar dolar ödeyecek. Anlaşmanın detayları ve finansal şartları haberimizde.",
+  "seo_slug": "anthropic-ve-akamai-11-6-milyar-dolarlik-bulut-anlasmasi",
+  "image_alt": "Koyu renkli monolitlerin üzerinde mavi ışık çizgilerinin yer aldığı, bulut altyapısını temsil eden stüdyo görseli",
+  "cover_text": "Akamai Cloud",
+  "importance": 8,
+  "triage_reason": "Anthropic ile Akamai arasında imzalanan 11.6 milyar dolarlık devasa bulut altyapı anlaşması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-25T19:13:38Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 132
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-ve-akamai-11-6-milyar-dolarlik-bulut-anlasmasi",
+  "published_at": "2026-09-25T19:16:12Z",
+  "publish_mode": "auto"
+}

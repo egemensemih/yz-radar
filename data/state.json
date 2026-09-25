@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197265,
-  "last_collect": "2026-09-25T19:01:18Z",
+  "last_collect": "2026-09-25T19:15:53Z",
   "last_summary_date": "2026-09-25",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 868
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 72,
+      "fails": 73,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:14Z",
+      "last_ok": "2026-09-25T19:15:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-25T19:01:15Z",
+      "last_ok": "2026-09-25T19:15:48Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 7,
-      "last_ok": "2026-09-25T17:15:57Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-09-25T19:15:53Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -109,21 +108,54 @@
       "approved": 25
     },
     "2026-09-25": {
-      "tok_in": 61806,
-      "tok_out": 10085,
+      "tok_in": 69448,
+      "tok_out": 12314,
       "cost_usd": 0.0,
-      "drafts": 8,
-      "published": 7,
+      "drafts": 10,
+      "published": 8,
       "approved": 3,
-      "auto": 4
+      "auto": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-25T18:50:46Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/anthropic-ve-akamai-11-6-milyar-dolarlik-bulut-anlasmasi/"
+  ],
+  "last_build": "2026-09-25T19:20:30Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i4"
+        ],
+        "topic": "NSA spending billions to test AI models",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "politika",
+        "reason": "NSA'nın yapay zeka modellerini test etmek için milyarlarca dolar harcadığı ortaya çıktı."
+      },
+      "items": [
+        {
+          "key": "dd48f8c31e9fe628",
+          "source": "Hacker News",
+          "kind": "community",
+          "credit": "washingtonsun.com",
+          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+          "via": "Hacker News",
+          "via_url": "https://news.ycombinator.com/item?id=49845952",
+          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 152 # Comments: 80",
+          "published": "2026-09-25T15:27:35Z",
+          "html_source": false,
+          "tid": "i4"
+        }
+      ],
+      "at": "2026-09-25T19:15:55Z"
+    }
+  ],
   "last_activity": "2026-09-25T15:05:52Z"
 }

@@ -1,0 +1,69 @@
+{
+  "id": "1dcf975eaa",
+  "status": "pending",
+  "created_at": "2026-09-25T19:16:25Z",
+  "title": "Pentagon anthropic karar onama ve temyiz mahkemesi gelişmeleri",
+  "summary": "ABD temyiz mahkemesi, Pentagon'un yapay zeka şirketi Anthropic'i ulusal güvenlik riski olarak kara listeye almasını onadı.",
+  "body": "Pentagon anthropic karar onama süreci, Washington D.C.'deki federal temyiz mahkemesinin şirketin tedarik zinciri riski olarak etiketlenmesini haklı bulmasıyla sonuçlandı. CNBC'nin aktardığına göre, 2-1 oyla alınan bu karar, yapay zeka şirketi Anthropic ile Trump yönetimi arasındaki hukuki mücadelede yeni bir aşamaya işaret ediyor. Mahkeme heyeti, Savunma Bakanlığı'nın Claude modellerine yönelik yasaklama kararının yetkisiz ve keyfi olduğu yönündeki iddiaları reddetti.\n\n## Mahkeme kararının gerekçeleri ve detaylar\n\nABD Dış Bölge Temyiz Mahkemesi'nde görülen davada çoğunluk görüşünü kaleme alan Yargıç Gregory Katsas, bakanlığın Claude modellerinin entegrasyonunu ulusal güvenlik riski olarak değerlendirmekte haklı olduğunu belirtti. Kararda, Savunma Bakanı Pete Hegseth'in yetkilerini aşmadığı ve karar verme yetkisinin nihai olarak Başkan ile Savunma Bakanı'nda olduğu vurgulandı. Yargıç Karen LeCraft Henderson ise karara karşı oy kullandı.\n\nMart ayında Savunma Bakanlığı, askeri kullanım müzakerelerinin sonuçsuz kalmasının ardından Anthropic'i tedarik zinciri riski ilan etmişti. Bu karar, ABD ordusunun ve savunma yüklenicilerinin şirketin yapay zeka modellerini kullanmasını engelliyor. Öte yandan şirket, geçtiğimiz ay San Francisco'daki bir federal yargıcın paralel bir atamayı hukuka aykırı bulduğunu hatırlatarak karara saygıyla katılmadıklarını belirtti.\n\n**Neden önemli?** Anthropic sözcüsü, karara karşı temyiz veya yeniden duruşma dahil tüm yasal seçenekleri değerlendirdiklerini ifade ederken, mahkeme kararın hemen yürürlüğe girmesini erteledi.",
+  "category": "politika",
+  "tags": [
+    "Anthropic",
+    "Pentagon",
+    "Claude",
+    "ABD",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Mahkemeden Pentagon'un Anthropic kararına onay",
+  "kicker": "Regülasyon",
+  "hero_stat": "2-1",
+  "hero_stat_label": "temyiz mahkemesi oylaması",
+  "visual_style": "studio",
+  "visual_scene": "a heavy stack of dark grey stone tablets resting on a polished concrete surface, with a thin line of bright blue light cutting horizontally between the top two slabs",
+  "focus_keyword": "Pentagon anthropic karar onama",
+  "seo_title": "Pentagon anthropic karar onama ve temyiz mahkemesi",
+  "meta_description": "ABD temyiz mahkemesi Pentagon'un Anthropic kararını onadı. Claude modellerine yönelik tedarik zinciri riski davasındaki gelişmeleri okuyun.",
+  "seo_slug": "pentagon-anthropic-karar-onama-ve-temyiz-mahkemesi",
+  "image_alt": "Gri taş bloklar arasında süzülen mavi ışık çizgisi ile Pentagon ve Anthropic davasını temsil eden stüdyo görseli",
+  "cover_text": "Anthropic risk",
+  "importance": 8,
+  "triage_reason": "ABD temyiz mahkemesi Anthropic'in tedarik zinciri riski olarak tanınmasını onayladı.",
+  "sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=49845977",
+      "published": "2026-09-25T15:29:25Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "CNBC",
+      "kind": "community",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "published": "2026-09-25T15:29:25Z",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 240 # Comments: 359",
+      "text": "A federal appeals court panel in Washington, D.C., on Friday upheld the Pentagon's blacklisting of Anthropic, dealing a blow to the artificial intelligence company in its months-long battle with the Trump administration.\nThe 2-1 decision rejected Anthropic's argument that the Department of Defense's ban on its Claude models was arbitrary, unauthorized and unconstitutional.\n\"The Department had ample support for its conclusion that the continued integration of Claude into the Department's information systems, by the Department or its contractors, presented a statutorily covered national-security risk,\" Judge Gregory Katsas wrote in the majority opinion for the U.S. Court of Appeals for the District of Columbia, which Judge Neomi Rao joined. Katsas and Rao were appointed by President Donald Trump.\nJudge Karen LeCraft Henderson, who was appointed by former President George H.W. Bush, dissented.\nIn March, the DOD labeled Anthropic a supply chain risk, meaning the company purportedly threatened U.S. national security, after negotiations about how the military could use its Claude AI models spiraled out of control. The designation prevents the U.S. military from using Anthropic's models and blocks defense contractors from using them in their work with the agency.\nAnthropic's relationship with the Trump administration has been fraught ever since, and Trump has repeatedly slammed company's CEO Dario Amodei on social media. Amodei recently drew Trump's ire by calling for an industry wide slowdown, and he was not invited to the glitzy state dinner the White House hosted for Chinese President Xi Jinping on Thursday.\n\"The Trump Administration has stopped AI \"people\" from doing bad, or potentially bad, \"things,\" like Dario (Anthropic!), who is now pretending to be a \"perfect little angel\" - and we will continue to do so!,\" Trump wrote in a post on Truth Social on Monday.\nAnthropic sued the Trump administration in U.S. District Court in San Francisco and in the D.C. Circuit Appeals Court in March, seeking to reverse its blacklisting. The DOD relied on two distinct designations to justify its supply chain risk action, which meant they had to be litigated in two separate courts.\nA San Francisco federal judge ruled last month that one designation was illegal. The ruling Friday by the D.C. appeals court upheld the second designation.\n\"We respectfully disagree with the court's decision,\" an Anthropic spokesperson told CNBC in a statement. \"Another federal court has already held the government's parallel designation unlawful. We remain confident in our position and are considering all options, including further review.\"\nThe appellate panel said it would delay the decision from taking immediate effect to give Anthropic time to petition the same panel for a rehearing or to seek an en banc rehearing of the case, by all of the judges on the D.C. Circuit Court of Appeals. Anthropic could also ask the Supreme Court to take the case.\nBefore the clash between the two sides spilled into the public's view earlier this year, Anthropic served as an early partner across many U.S. agencies, including the DOD. Anthropic signed a $200 million contract with the Pentagon in July of 2025, but as the company began negotiating Claude's deployment on the DOD's GenAI.mil AI platform that September, talks collapsed.\nThe DOD wanted Anthropic to grant the military unfettered access to its models across all lawful purposes, while Anthropic wanted assurance that its technology would not be used for fully autonomous weapons or domestic mass surveillance. They were unable to come to an agreement, and Defense Secretary Pete Hegseth accused Anthropic of attempting to \"to seize veto power over the operational decisions of the United States military.\"\nKatsas said Friday that Hegseth raised the \"deeply sobering\" idea that \"overly constrained\" AI models could shut down unexpectedly, as well as the potential that Claude might be \"subject to manipulation.\" While Anthropic refuted those claims, Katsas said decision-making authority ultimately rests with Trump and Hegseth.\n\"In our Republic, it is the President and the Secretary of War who must determine how best to balance the competing risks,\" Katsas wrote. \"In doing so here, the Secretary did not transgress any limits on his authority under the Supply Chain Security Act or the Constitution.\""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 135
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
