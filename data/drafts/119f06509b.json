@@ -1,0 +1,70 @@
+{
+  "id": "119f06509b",
+  "status": "pending",
+  "created_at": "2026-09-27T02:01:54Z",
+  "title": "Google Gemini e-ticaret özelliğini Flipkart ile Hindistan'da test ediyor",
+  "summary": "Google, Gemini ve AI Mode üzerinden Flipkart ürünlerinin doğrudan satın alınmasını sağlayan yapay zeka tabanlı e-ticaret özelliğini Hindistan'da test etmeye başladı.",
+  "body": "Google, Hindistan'da Google Gemini e-ticaret altyapısını test ederek kullanıcıların Gemini ve AI Mode üzerinden Flipkart ürünlerini doğrudan satın almasını sağlıyor. TechCrunch'ın 27 Eylül'deki haberine göre teknoloji devi, Walmart bünyesindeki e-ticaret platformu Flipkart ile iş birliği yaparak kullanıcıların yapay zeka arayüzünden ayrılmadan sipariş vermesini mümkün kılıyor.\n\n## Google Gemini e-ticaret altyapısı nasıl çalışıyor?\n\nTest kapsamında kullanıcılar, Gemini veya AI Mode arayüzünde seçili Flipkart ürünlerini incelediklerinde bir \"Satın Al\" butonu görüyor. Bu butona basıldığında kullanıcı, yapay zeka arayüzünü terk etmeden Flipkart markalı ödeme ekranına yönlendiriliyor.\n\nErken aşamadaki testlerin şu anda kısıtlı sayıda kullanıcıya açık olduğu; akıllı telefonlar, elektronik cihazlar ve mobil aksesuarlar gibi belirli kategorileri kapsadığı bildiriliyor. Arama sonuçlarında Amazon gibi rakip platformların ürünleri de listelenmeye devam ederken, bu listelemelerde henüz doğrudan satın alma seçeneği sunulmuyor. Google'ın özelliği Ekim ayında, Hindistan'daki alışveriş sezonu öncesinde daha geniş kitlelere ulaştırmayı hedeflediği ifade ediliyor.\n\n## Universal Commerce Protocol ve yatırımlar\n\nGoogle, yapay zeka sistemlerinin tüccarlarla etkileşime girmesini kolaylaştırmak amacıyla bu yılın başlarında Universal Commerce Protocol (UCP) adını verdiği açık standardı duyurmuştu. Şirket bu protokolle kullanıcıların Google destekli bir ödeme altyapısıyla satın alma yapacağını öngörmüştü. Ancak Flipkart ile yapılan son testte doğrudan Flipkart'ın kendi ödeme akışı kullanılıyor.\n\nTeknoloji devinin Flipkart ile ilişkisi yalnızca teknik ortaklıkla sınırlı kalmıyor. Google, 2024 yılında gerçekleşen yatırım turunda e-ticaret şirketine yaklaşık **350 milyon dolar** yatırarak azınlık hissesi satın almıştı. Bir Google sözcüsü TechCrunch'a yaptığı açıklamada, kullanıcıların işletmeleri keşfetmesini ve onlarla bağlantı kurmasını kolaylaştıracak yeni deneyimleri her zaman test ettiklerini dile getirdi.\n\n**Neden önemli?** Yapay zeka asistanlarının sadece ürün tavsiye eden araçlar olmaktan çıkıp doğrudan ticari işlemleri tamamlayan platformlara dönüşmesi, e-ticaret sektöründe yeni bir rekabet dönemini başlatıyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Flipkart",
+    "Walmart",
+    "e-ticaret",
+    "Hindistan"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Gemini üzerinden doğrudan alışveriş test ediliyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "350 milyon $",
+  "hero_stat_label": "Flipkart'a yapılan yatırım",
+  "visual_style": "diorama",
+  "visual_scene": "a miniature isometric scene of a glowing glass shopping cart filled with tiny translucent smartphone models, sitting on a smooth matte pastel surface alongside a small folded paper box",
+  "focus_keyword": "Google Gemini e-ticaret",
+  "seo_title": "Google Gemini e-ticaret özelliğini Flipkart ile test ediyor",
+  "meta_description": "Google, Gemini ve AI Mode üzerinden Flipkart ürünlerinin doğrudan satın alınmasını sağlayan Google Gemini e-ticaret özelliğini Hindistan'da test ediyor.",
+  "seo_slug": "google-gemini-e-ticaret-ozelligini-flipkart-ile-test-ediyor",
+  "image_alt": "Minyatür cam alışveriş arabası ve kutu: Google'ın Gemini üzerinden Flipkart alışveriş özelliğini temsil eden görsel",
+  "cover_text": "Gemini",
+  "importance": 6,
+  "triage_reason": "Google, Hindistan'da Gemini ve AI Mode üzerinden Walmart-Flipkart entegrasyonu ile alışveriş testleri başlatıyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-27T01:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published": "2026-09-27T01:30:00Z",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "text": "Google has started testing a way for shoppers in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode, as the search giant looks to expand its AI services from product discovery into transactions.\nUsers in the test see a “Buy” button on select Flipkart product listings appearing in Gemini and Google’s AI Mode, which takes them directly to a Flipkart checkout flow without leaving the AI interface, according to people familiar with the matter and an experience seen by TechCrunch.\nThe early test is limited to some users and a small selection of products, including smartphones, electronics, and mobile accessories, the people told TechCrunch. Other users continue to see regular product listings from Flipkart in Gemini and AI Mode without the option to buy them directly from the AI interface.\nGoogle plans to roll out the experience more broadly later in October, ahead of India’s festive shopping season, one of the people said.\nThe test comes as Google and rivals including OpenAI are adding commerce capabilities to their AI offerings, striving to move beyond answering shopping queries and recommending products to playing a more direct role in online purchases.\nAsked about the Flipkart test, a Google spokesperson told TechCrunch the company is “always testing new features and experiences to help people discover and connect with businesses more easily.” The company regularly runs experiments and has no further details to share, the spokesperson added.\nGoogle has separately been building technology aimed at making purchases possible through its AI services. Earlier this year, it introduced the Universal Commerce Protocol (UCP) as an open standard designed to let AI agents interact with retailers across the shopping journey, including checkout. Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The company has since expanded UCP with other capabilities, including allowing shoppers to transfer items to a retailer’s site to complete a purchase.\nThe Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier. It brings up a Flipkart-branded checkout flow when a user taps the Buy button. It is not clear what technology powers the test.\nEarlier this month, Google said Flipkart was among the merchants partnering with it to bring what it calls “agentic” shopping experiences to consumers in India, but it had not disclosed details of the test or its rollout timeline.\nNotably, Google has a financial relationship with Flipkart — alongside its technology partnership with the e-commerce company. It invested about $350 million in the e-commerce company in 2024 as part of a funding round led by the U.S. retailer, taking a minority stake.\nIndia, the world’s second-largest internet market with more than a billion internet subscribers, sees Flipkart and Amazon compete fiercely for online shoppers. That competition intensifies further during the country’s festive season, when e-commerce companies roll out some of their biggest sales and promotions of the year.\nFor now, the Buy option is not appearing across all retailers surfaced by Google’s AI services. In the experience seen by TechCrunch, listings from rivals including Amazon appeared alongside Flipkart products but did not offer the option to purchase directly through the AI interface.\nFlipkart did not immediately respond to an email requesting for comment."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 146
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
