@@ -1,0 +1,69 @@
+{
+  "id": "b329272d38",
+  "status": "pending",
+  "created_at": "2026-09-27T20:41:14Z",
+  "title": "Dario Amodei Donald Trump ile Beyaz Saray'da bir araya geliyor",
+  "summary": "Anthropic CEO'su Dario Amodei, yapay zeka güvenliği konusundaki görüş ayrılıklarının ardından ABD Başkanı Donald Trump ile akşam yemeğinde buluşuyor.",
+  "body": "Anthropic CEO'su **Dario Amodei Donald Trump** ile 27 Eylül akşamı Beyaz Saray'da gerçekleşecek akşam yemeğinde ilk kez baş başa bir araya geliyor. Axios tarafından duyurulan ve TechCrunch'ın doğruladığı görüşme, iki ismin yapay zeka politikaları konusunda farklı tutumlar sergilediği bir döneme denk geliyor.\n\n## Dario Amodei Donald Trump görüşmesinin arka planı\n\nAmodei ile Trump arasındaki buluşma, tarafların yapay zeka güvenliği konusundaki zıt yaklaşımlarının hemen ardından gerçekleşiyor. Dario Amodei kısa süre önce yapay zeka geliştirme süreçlerinin yavaşlatılmasını veya en azından daha temkinli adımlarla ilerletilmesini öneren bir plan paylaşmıştı. Buna karşın Donald Trump, yapay zekaya yönelik eleştirileri Demokratların bir aldatmacası olarak nitelendirmiş ve teknolojiyi \"süper zeka\" olarak yeniden adlandırmak istediğini belirtmişti.\n\n## Pentagon gerilimi ve hukuki süreç\n\nGörüşme, Anthropic ile Trump yönetimi arasındaki tek temas noktası değil. Bu yılın başlarında ABD Savunma Bakanlığı (Pentagon), Anthropic'in geliştirdiği teknolojilerin kullanımına **güvenlik sınırları** getirme girişimlerine karşılık şirketi tedarik zinciri riski listesine dahil etmişti. Anthropic bu karara karşı başlattığı hukuki mücadeleyi sürdürürken, yönetim içerisindeki bazı diğer yetkililerin şirkete karşı daha ılımlı bir yaklaşım sergilediği belirtiliyor.\n\n**Neden önemli?** Yapay zeka güvenliği ve askeri kullanım sınırlamaları konusunda şirketiyle hükümet arasında süren hukuki gerilimlerin ortasında gerçekleşen bu temas, ABD yönetiminin önde gelen model üreticileriyle kuracağı regülasyon diyaloğunun seyrini etkileyebilir.",
+  "category": "politika",
+  "tags": [
+    "Anthropic",
+    "Dario Amodei",
+    "Donald Trump",
+    "Beyaz Saray",
+    "yapay zeka güvenliği"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Dario Amodei Trump ile Beyaz Saray'da buluşuyor",
+  "kicker": "Beyaz Saray",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "Two heavy, distinct chairs carved from polished dark marble facing each other across a stark white stone table, illuminated by a single warm overhead beam of light in a minimalist room.",
+  "focus_keyword": "Dario Amodei Donald Trump",
+  "seo_title": "Dario Amodei Donald Trump ile Beyaz Saray'da buluşuyor",
+  "meta_description": "Anthropic CEO'su Dario Amodei Donald Trump ile Beyaz Saray'da akşam yemeğinde bir araya geliyor. Güvenlik tartışmaları ve detaylar haberimizde.",
+  "seo_slug": "dario-amodei-donald-trump-beyaz-saray-gorusmesi",
+  "image_alt": "Beyaz mermer masa etrafında karşılıklı duran iki sandalye: Dario Amodei ve Donald Trump görüşmesini temsil eden görsel",
+  "cover_text": "Anthropic",
+  "importance": 7,
+  "triage_reason": "Anthropic CEO'su ile ABD Başkanının birebir görüşmesi politika ve sektör ilişkileri açısından önemlidir.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-27T20:34:28Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published": "2026-09-27T20:34:28Z",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "text": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he’s set to have dinner with President Donald Trump at the White House.\nAxios first broke the news of Amodei’s dinner plans, which were subsequently confirmed by other publications.\nThis will be the first one-on-one meeting between the two men, who recently found themselves on opposite sides of the AI safety debate. Amodei released a plan to slow AI development (or at least proceed with more caution), while Trump has insisted, without evidence, that the AI backlash is a Democratic hoax; he also wants to rebrand the technology as “super intelligence.”\nEven before the current back-and-forth, Amodei and Anthropic have to had a fraught relationship with Trump’s administration. Earlier this year, the Pentagon designated Anthropic a supply-chain risk in response to the company’s attempt to put guardrails around the use of its technology (Anthropic has been fighting the designation in court), although other administration officials have been friendlier."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 150
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
