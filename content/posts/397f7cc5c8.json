@@ -1,0 +1,58 @@
+{
+  "id": "397f7cc5c8",
+  "created_at": "2026-09-28T19:44:38Z",
+  "title": "Shopify tarayıcı tabanlı yapay zeka ajanlarına ödeme yetkisi verdi",
+  "summary": "Shopify, tarayıcı tabanlı yapay zeka ajanlarının ürün arama ve sepete eklemenin ötesine geçerek doğrudan ödeme işlemlerini tamamlamasına olanak tanıyan yeni araçlar sundu.",
+  "body": "E-ticaret platformu Shopify, 28 Eylül 2026 itibarıyla tarayıcı tabanlı yapay zeka ajanlarının satıcı sitelerinde doğrudan alışveriş yapabilmelerine imkan tanıyan yeni bir güncellemeyi duyurdu. Şirket, bu adımla birlikte söz konusu ajanların ürün keşfi ve sepet yönetimi süreçlerinin ötesine geçerek ödeme sürecini de yönetebilmelerini sağlıyor.\n\n## WebMCP ile gelişmiş ticaret yetenekleri\n\nShopify, tarayıcı içinde çalışan ajanlar için tasarlanan WebMCP (Web Model Context Protocol) standardına destek vererek ödeme süreçlerini kolaylaştırıyor. Şirket tarafından kullanıma sunulan üç yeni araç sayesinde ajanlar; ödeme ekranlarını inceleyebiliyor, müşteri adresi veya teslimat seçeneği gibi detayları güncelleyebiliyor ve kullanıcının onayıyla işlemleri sonuçlandırabiliyor. Shopify'ın **Universal Commerce Protocol** (UCP) altyapısı üzerinden çalışan bu sistem, ekran görüntüsü alma veya sayfa kazıma gibi yöntemlere duyulan ihtiyacı ortadan kaldırarak işlemleri daha güvenilir kılıyor.\n\n## Ajanlar ve ekosistem entegrasyonu\n\nShopify çatısı altındaki **agentic commerce** (ajan tabanlı ticaret) biriminden ürün yöneticisi Gil Greenberg'in belirttiğine göre, bu araçlar uygun olan tüm Shopify satıcıları için kullanıma açılıyor. Mevcut durumda Muse ve Instinct gibi yapay zeka ajanları, Shopify ile doğrudan iş birliği yaparak bu sistemden faydalanmaya başladı. Shopify, tarayıcı içi ajanların alışveriş süreçlerini bir insan gibi HTML sayfalarında gezinerek değil, doğrudan tanımlı API araçları üzerinden gerçekleştirmesini hedefliyor.\n\n**Neden önemli?** Amazon gibi bazı perakendecilerin aksine Shopify'ın bu politikası, yapay zeka ajanlarının internet üzerindeki ekonomik faaliyetlerini resmileştiren ve kolaylaştıran bir standart oluşturma eğilimini destekliyor.",
+  "category": "urunler",
+  "tags": [
+    "Shopify",
+    "yapay zeka ajanları",
+    "e-ticaret",
+    "WebMCP"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Shopify yapay zeka ajanlarına ödeme yetkisi tanıdı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "3",
+  "hero_stat_label": "yeni araç",
+  "visual_style": "studio",
+  "visual_scene": "a series of sleek, metallic geometric forms representing digital nodes connecting seamlessly, illuminated by soft cool-toned light on a matte grey surface, reflecting a sense of structured data flow.",
+  "focus_keyword": "yapay zeka ajanları",
+  "seo_title": "Shopify'da yapay zeka ajanları ile ödeme dönemi",
+  "meta_description": "Shopify, tarayıcı tabanlı yapay zeka ajanlarının ürün arama ve sepet yönetiminin yanı sıra artık doğrudan ödeme yapmalarına imkan tanıyan araçları duyurdu.",
+  "seo_slug": "shopify-yapay-zeka-ajanlari-odeme-yetkisi",
+  "image_alt": "Shopify sistemindeki dijital ödeme akışını temsil eden birbirine bağlı metalik düğüm yapıları.",
+  "cover_text": "Shopify",
+  "importance": 6,
+  "triage_reason": "Shopify, yapay zeka ajanlarının kullanıcı onayıyla ödeme yapmasını sağlayan desteğini genişletti.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T19:33:57Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 184
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "shopify-yapay-zeka-ajanlari-odeme-yetkisi",
+  "published_at": "2026-09-28T19:44:50Z",
+  "publish_mode": "auto"
+}
