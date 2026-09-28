@@ -1,0 +1,68 @@
+{
+  "id": "dd51c987cf",
+  "status": "pending",
+  "created_at": "2026-09-28T21:21:40Z",
+  "title": "GPT-6 Astra vergi çalışma kitaplarında önceki nesle göre iki kat daha hızlı",
+  "summary": "OpenAI'ın açıklamasına göre GPT-6 Astra, karmaşık vergi görevlerinde GPT-5.6 Sol modeline kıyasla yüzde 50 daha az süre harcıyor.",
+  "body": "OpenAI'ın duyurusuna göre muhasebe süreçlerini otomatikleştiren yapay zeka ajanları geliştiren Basis, GPT-6 Astra modelini kullanarak vergi çalışma kitaplarını iki kat daha hızlı tamamlamaya başladı. Yapılan testler, yeni modelin karmaşık görevlerde niyet anlamlandırma ve işlem süresi açısından önceki sürümlere göre önemli avantajlar sunduğunu gösterdi.\n\n## Karmaşık testlerde performans artışı\n\nBasis, elli sekmeden oluşan karmaşık bir vergi çalışma kitabını tamamlama görevinde GPT-6 Astra ile GPT-5.6 Sol modellerini karşılaştırdı. Şirketin verilerine göre yeni model, bu kapsamlı görevi önceki modele kıyasla yüzde 50 daha kısa sürede bitirdi. Yapılan iç değerlendirmelerde ise genel başarı skorlarında yaklaşık yüzde 20 oranında bir artış kaydedildi.\n\n## Dinamik muhakeme ve maliyet avantajı\n\nOpenAI'ın aktardığına göre model, görevin ilerleyişine bağlı olarak muhakeme miktarını dinamik biçimde ayarlayabiliyor. Zor adımlarda hesaplama kapasitesini artıran, kolay aşamalarda ise düşüren sistem, önbelleği korumaya devam ediyor. Bu yapı maliyetleri ve yanıt sürelerini aşağı çekiyor.\n\n* Görev başlangıcında daha doğru kararlar alma\n* Daha az hata düzeltme süresi ve verimli token kullanımı\n* Geniş bağlam üzerinden beklentileri çıkarma yeteneği\n\n**Neden önemli?** GPT-6 Astra'nın kullanıcı niyetini daha derinlemesine kavraması, ajanların şablonlara uyma, birincil kaynaklara danışma ve kendi çalışmalarını denetleme süreçlerinde daha az açık talimatla çalışabilmesini sağlıyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "GPT-6 Astra",
+    "GPT-5.6 Sol",
+    "Basis"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "GPT-6 Astra vergi işlemlerinde iki kat daha hızlı",
+  "kicker": "Model güncellemesi",
+  "hero_stat": "%50",
+  "hero_stat_label": "daha hızlı tamamlama süresi",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "GPT-6 Astra",
+  "seo_title": "GPT-6 Astra vergi çalışma kitaplarında daha hızlı",
+  "meta_description": "OpenAI duyurusuna göre GPT-6 Astra modeli, vergi çalışma kitaplarını önceki nesle göre iki kat daha hızlı tamamlıyor ve maliyetleri düşürüyor.",
+  "seo_slug": "gpt-6-astra-vergi-calisma-kitaplarinda-iki-kat-daha-hizli",
+  "image_alt": "Buzlu cam küplerden oluşan soyut bir yapının üst katmanındaki sıcak ışık yansıması",
+  "cover_text": "GPT-6 Astra",
+  "importance": 7,
+  "triage_reason": "Yeni model sürümü GPT-6 Astra'nın performans testleri ve kıyaslamaları yapay zeka gündemi için önemlidir.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T00:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "2026-09-28T00:00:00Z",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "text": "Basis completes a tax workbook 2x faster with GPT‑6 Astra\nGPT‑6 Astra took 50% less time to finish complex tasks vs. GPT‑5.6 Sol and showed a deeper understanding of user intent.\nWorkbook test\n50%\nLess time to complete a 50-tab tax workbook vs. Sol in Basis’s test.\nInternal evaluations\n20%\nApproximate improvement in Basis’s internal evaluation scores.\nBasis(opens in a new window) builds AI agents to automate much of the manual work that accountants do each day, helping them shift their time from repetitive tasks to strategic work. The company’s research focuses on agents that can reliably complete long tasks, and with GPT‑6 Astra, it’s seeing a stronger understanding of what accountants want to accomplish.\n“GPT-6 Astra does a better job of really understanding the intent of the user and the problem.”\nBasis compared GPT‑6 Astra and GPT‑5.6 Sol on a complicated tax workbook with 50 tabs. The task was to complete the workbook accurately and reliably, and GPT‑6 Astra was markedly faster.\n“GPT-6 Astra is able to complete that workbook in half the time that GPT-5.6 Sol is able to.”\nBasis also noted that GPT‑6 Astra makes better decisions at the start of a task, helping Basis’s agents take a more direct path through the work with less time spent correcting mistakes. Troyanovsky says that also makes the model more efficient in its use of tokens.\nBasis also has GPT‑6 Astra adjust how much reasoning it uses as a task progresses, dialing up computation when a step is difficult, and using less when a step is easier. The model can make these adjustments while keeping its cache intact. Troyanovsky says this helps reduce cost and response time, making long-running tasks more economical for Basis and its customers.\nBasis saw about a 20% improvement in its internal evaluation scores with GPT‑6 Astra, driven by better understanding of user intent, including when to ask questions, flag assumptions, and follow instructions.\nBasis evaluates how its agents work and their final answers, including whether they follow templates, consult primary sources for tax questions, and check their own work. GPT‑6 Astra can infer these expectations from a broader context, with fewer explicit instructions.\nThat reduces the need for Basis to write rules for individual situations and gives the team more confidence that its agents can handle situations beyond those covered in internal tests."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 190
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
