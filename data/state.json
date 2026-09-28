@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-28T14:51:18Z",
+  "last_collect": "2026-09-28T15:06:00Z",
   "last_summary_date": "2026-09-27",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:53Z",
+      "last_ok": "2026-09-28T15:05:58Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 333,
+      "fails": 334,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-28T14:50:54Z",
+      "last_ok": "2026-09-28T15:05:59Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
-      "last_ok": "2026-09-28T14:20:55Z",
-      "count": 20,
-      "last_error": "ReadTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=20)"
+      "fails": 0,
+      "last_ok": "2026-09-28T15:06:00Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -134,8 +133,8 @@
     },
     "2026-09-28": {
       "expired": 2,
-      "tok_in": 24215,
-      "tok_out": 5620,
+      "tok_in": 25439,
+      "tok_out": 5785,
       "cost_usd": 0.0,
       "drafts": 5,
       "published": 3,
@@ -148,6 +147,37 @@
   "indexnow_queue": [],
   "last_build": "2026-09-28T14:25:31Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "OpenAI halts training of most advanced models",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 10,
+        "category": "sirketler",
+        "reason": "Sektör lideri OpenAI'ın en güçlü modellerinin eğitimini durdurması yapay zeka dünyasında kritik bir gelişme."
+      },
+      "items": [
+        {
+          "key": "9604c75b1ec05c7e",
+          "source": "Webrazzi",
+          "kind": "media",
+          "credit": "Webrazzi",
+          "url": "https://webrazzi.com/2026/09/28/openai-en-gelismis-modellerinin-egitimini-gecici-olarak-durdurdu/",
+          "via": null,
+          "via_url": "https://webrazzi.com/2026/09/28/openai-en-gelismis-modellerinin-egitimini-gecici-olarak-durdurdu/#comments",
+          "title": "OpenAI, en gelişmiş modellerinin eğitimini geçici olarak durdurdu",
+          "summary": "OpenAI, yapay zeka ajanlarının beklenmedik davranışlarına ilişkin incelemelerini sürdürürken en yetenekli modellerinin eğitim çalışmalarını geçici olarak durdurdu. Şirketin aldığı karar, model eğitimi...",
+          "published": "2026-09-28T14:30:00Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-09-28T15:06:10Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
