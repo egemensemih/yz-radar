@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-28T17:22:29Z",
+  "last_collect": "2026-09-28T17:38:12Z",
   "last_summary_date": "2026-09-27",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 343,
+      "fails": 344,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:10Z",
+      "last_ok": "2026-09-28T17:38:07Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:22:29Z",
+      "last_ok": "2026-09-28T17:38:12Z",
       "count": 20
     }
   },
@@ -133,80 +133,53 @@
     },
     "2026-09-28": {
       "expired": 2,
-      "tok_in": 41615,
-      "tok_out": 10123,
+      "tok_in": 48357,
+      "tok_out": 11963,
       "cost_usd": 0.0,
-      "drafts": 9,
-      "published": 5,
-      "auto": 5
+      "drafts": 11,
+      "published": 7,
+      "auto": 7
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-28T17:31:22Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/floridadan-chatgpt-icin-insan-gibi-davranma-yasagi-talebi/",
+    "https://egemensemih.github.io/yz-radar/haber/openai-matematik-dunyasi-ile-iletisim-sorunu/"
+  ],
+  "last_build": "2026-09-28T17:45:17Z",
   "build_sig": "1006e235604846f4",
   "queue": [
     {
       "story": {
         "item_ids": [
-          "i2"
+          "i1"
         ],
-        "topic": "Florida seeks ban on ChatGPT human attributes",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "politika",
-        "reason": "Florida Başsavcılığı'nın OpenAI'ın ChatGPT'ye insani özellikler vermesini engelleme girişimi hukuki açıdan dikkat çekici."
-      },
-      "items": [
-        {
-          "key": "c7778bb70327bc40",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-          "via": null,
-          "via_url": null,
-          "title": "Florida seeks a ban on ChatGPT acting like a person",
-          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
-          "published": "2026-09-28T17:00:23Z",
-          "html_source": false,
-          "tid": "i2"
-        }
-      ],
-      "at": "2026-09-28T17:09:24Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i3"
-        ],
-        "topic": "OpenAI mathematics breakthroughs and announcement issues",
+        "topic": "Google deprecates Gemini Gems in favor of skills",
         "ai_related": true,
         "duplicate_of": "",
         "importance": 6,
-        "category": "modeller",
-        "reason": "OpenAI'ın matematik alanındaki yapay zeka ilerlemeleri ve iletişim stratejilerine dair eleştirel bir değerlendirme."
+        "category": "urunler",
+        "reason": "Google, Gemini Gems ozelligini sonlandirarak yeni becerilere odaklaniyor."
       },
       "items": [
         {
-          "key": "a73fc28622279f28",
-          "source": "The Verge",
+          "key": "32712da4bf898a6e",
+          "source": "TechCrunch",
           "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
           "via": null,
           "via_url": null,
-          "title": "OpenAI keeps bulldozing mathematicians",
-          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]",
-          "published": "2026-09-28T17:00:00Z",
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+          "published": "2026-09-28T17:29:50Z",
           "html_source": false,
-          "tid": "i3"
+          "tid": "i1"
         }
       ],
-      "at": "2026-09-28T17:09:24Z"
+      "at": "2026-09-28T17:39:09Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"

@@ -1,0 +1,59 @@
+{
+  "id": "b0438c7cb6",
+  "created_at": "2026-09-28T17:41:09Z",
+  "title": "OpenAI matematik dünyası ile ilişkilerini düzeltmek için AGMAI ile çalışıyor",
+  "summary": "OpenAI'ın yeni matematiksel buluşlarını yönetmek amacıyla kurulan bağımsız danışma kurulu AGMAI, şirketin iletişim tarzı nedeniyle tartışmaların odağında yer alıyor.",
+  "body": "OpenAI, matematik dünyasıyla gerilen ilişkilerini onarmak ve henüz yayımlanmamış modellerinin elde ettiği yeni matematiksel sonuçları koordine etmek amacıyla bağımsız bir danışma grubu olan AGMAI ile bir araya geldi. 21 Eylül'de duyurulan Matematik ve Yapay Zeka Danışma Grubu (AGMAI), aralarında Fields Madalyası sahibi Terence Tao'nun da bulunduğu dokuz seçkin matematikçiden oluşuyor. Grup, OpenAI'dan bağımsız olarak faaliyet göstereceğini ve diğer yapay zeka laboratuvarlarına da danışmanlık yapabileceğini belirtti.\n\n## AGMAI’nın bağımsızlık tartışması\n\nOpenAI'ın duyuru biçimi, topluluk içinde AGMAI'nın şirket tarafından atanan bir yapı olup olmadığına dair kafa karışıklığına yol açtı. The Verge’e açıklamalarda bulunan AGMAI üyesi ve matematik profesörü Martin Hairer, grubun OpenAI’dan herhangi bir finansal veya teknik destek almadığını vurguladı. Hairer, şirketin duyuru dilinin grubun bağımsızlık algısını güçlendirme konusunda etkisiz kaldığını ifade ederek, \"The way they phrased their announcement didn’t really help\" dedi.\n\n## Bekleyen matematiksel buluşlar\n\nOpenAI, daha önce Navier-Stokes gibi önemli matematik problemlerinde yaşanan iletişim krizlerinin ardından, bu kez daha kontrollü bir süreç yürütmeyi hedefliyor. Şirket,内部 modellerinin halihazırda matematiğin farklı alanlarında 100’den fazla açık problemi çözdüğünü bildirdi. Bu durum, akademik dünyada büyük bir beklenti ve endişe yaratırken, bağımsız matematikçiler OpenAI'ın \"çözülmüş problem\" duyurularını akademik geleneklere uygun bulmadıklarını belirterek eleştiriyor.\n\n**Neden önemli?** Yapay zeka şirketlerinin bilimsel bulguları açıklama biçimi, akademik camia ile aralarındaki güven ilişkisi üzerinde belirleyici bir etkiye sahip. OpenAI'ın henüz yayımlanmamış yüksek kapasiteli modelleri, matematik alanında köklü değişimleri beraberinde getirme potansiyeli taşıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "AGMAI",
+    "yapay-zeka",
+    "matematik",
+    "Terence Tao"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI ve matematikçiler arasında yeni danışma grubu",
+  "kicker": "Kurumsal gelişme",
+  "hero_stat": "100",
+  "hero_stat_label": "çözülmüş matematik problemi",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of smooth, ivory-colored geometric shapes and polyhedra arranged on a neutral gray surface, with soft light casting long, precise shadows to represent the intersection of mathematical theory and artificial intelligence.",
+  "focus_keyword": "OpenAI matematik dünyası",
+  "seo_title": "OpenAI matematik dünyası ile ilişkilerini düzeltiyor",
+  "meta_description": "OpenAI'ın matematiksel buluşlarını yönetmek için kurulan AGMAI, bağımsızlık tartışmaları ve şirketin iletişim tarzı ile gündeme geldi.",
+  "seo_slug": "openai-matematik-dunyasi-ile-iletisim-sorunu",
+  "image_alt": "Soyut geometrik şekillerden oluşan ve matematiksel çözüm süreçlerini temsil eden heykelimsi bir kompozisyon",
+  "cover_text": "AGMAI",
+  "importance": 6,
+  "triage_reason": "OpenAI'ın matematik alanındaki yapay zeka ilerlemeleri ve iletişim stratejilerine dair eleştirel bir değerlendirme.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 173
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "openai-matematik-dunyasi-ile-iletisim-sorunu",
+  "published_at": "2026-09-28T17:41:10Z",
+  "publish_mode": "auto"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "c6c7537c88",
+  "created_at": "2026-09-28T17:40:20Z",
+  "title": "Florida'dan OpenAI'a ChatGPT'nin insan gibi davranmasına karşı tedbir talebi",
+  "summary": "Florida Başsavcılığı, OpenAI'ın ChatGPT'de birinci şahıs zamirleri kullanmasını ve insan taklidi yapmasını engellemek için mahkemeye başvurdu.",
+  "body": "Florida Başsavcısı James Uthmeier, Florida'nın yapay zeka şirketine açtığı güvenlik davasının ardından mahkemenin OpenAI'ın ChatGPT'ye yanlış insan özellikleri kazandırmasını engellemesini talep etti. The Verge'in aktardığına göre, başsavcılık yapay zeka botunun birinci şahıs zamirleri kullanması ve duygu taklidi yapmasının kullanıcıları güvenilir bir arkadaş olduğuna dair yanıltıcı bir güven hissine yönlendirdiğini belirtiyor. Başsavcı Uthmeier, bu durumun kullanıcıların etkileşimini artırmak ve şirketin eğitim verilerine katkı sağlamak amacıyla yapıldığını savunuyor.\n\n## Mahkeme başvurusunun detayları\n\nBaşsavcılığın mahkeme dosyasında ayrıca, Hugging Face, Avustralya hükümet web siteleri ve ABD hükümet sitelerindeki son güvenlik olaylarına atıfta bulunularak, OpenAI'ın üçüncü taraflarca onaylanmış güvenlik korumaları olmadan yeni yapay zeka modelleri geliştirmesinin engellenmesi isteniyor. Dosyada araştırmacıların ve eski OpenAI çalışanlarının yapay zeka güvenliği konusundaki uyarılarına da yer verildi. Florida Başsavcılığı, şirketin ürünü güvenli olarak pazarlamaması, insan gibi davranmaktan vazgeçmesi ve çocuklara satış yapmaması gerektiğini ifade ediyor. OpenAI ise söz konusu iddialara yönelik yorum talebine hemen yanıt vermedi.\n\n## Gençlere yönelik kullanım ve korumalar\n\nGeçtiğimiz ay OpenAI, varsayılan olarak ek kısıtlamalar içeren ChatGPT for Teens sürümünü kullanıma sunmuştu. Şirket bu sürümü duyururken araca erişimin gelişimsel aşamaları yansıtan korumalarla gelmesi gerektiğini, gerçek dünya ilişkilerini güçlendirmesini ve zaman içinde sağlıklı kullanımını desteklemesi gerektiğini belirtmişti.\n\n**Neden önemli?** Florida Başsavcılığı'nın hukuki adımı, yapay zeka botlarının insan özellikleri taklit etmesinin kullanıcı güvenliği ve etkileşim tasarımı üzerindeki potansiyel etkilerini yargı gündemine taşıyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Florida",
+    "James Uthmeier",
+    "ChatGPT for Teens"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Florida'dan ChatGPT için insan gibi davranma yasağı talebi",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte ceramic sculpture of a human silhouette contour dissolving into clean geometric blocks, resting on a flat grey stone surface under soft neutral lighting",
+  "focus_keyword": "ChatGPT insan gibi davranma",
+  "seo_title": "Florida'dan ChatGPT için insan gibi davranma yasağı talebi",
+  "meta_description": "Florida Başsavcılığı, OpenAI'ın ChatGPT'de insan özellikleri ve birinci şahıs zamirleri kullanmasını engellemek için mahkemeye başvurdu.",
+  "seo_slug": "floridadan-chatgpt-icin-insan-gibi-davranma-yasagi-talebi",
+  "image_alt": "Gri taş zemin üzerinde insan siluetinin geometrik bloklara dönüştüğü mat seramik heykel",
+  "cover_text": "ChatGPT",
+  "importance": 7,
+  "triage_reason": "Florida Başsavcılığı'nın OpenAI'ın ChatGPT'ye insani özellikler vermesini engelleme girişimi hukuki açıdan dikkat çekici.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T17:00:23Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 170
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "floridadan-chatgpt-icin-insan-gibi-davranma-yasagi-talebi",
+  "published_at": "2026-09-28T17:40:32Z",
+  "publish_mode": "auto"
+}
