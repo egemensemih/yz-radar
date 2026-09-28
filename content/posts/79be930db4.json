@@ -1,0 +1,58 @@
+{
+  "id": "79be930db4",
+  "created_at": "2026-09-28T18:00:57Z",
+  "title": "Google, Gemini Gems özelliğini kaldırarak yerine skills sistemini getiriyor",
+  "summary": "Google, kullanıcıların kendi yapay zeka asistanlarını oluşturmasını sağlayan Gems özelliğini sonlandırarak, tüm verileri otomatik olarak skills yapısına taşıyacağını duyurdu.",
+  "body": "Google, Gemini platformunda yer alan özelleştirilebilir asistanlar Gems özelliğini sonlandırma kararı aldı. TechCrunch'ın aktardığına göre, kullanıcıların belirli görevler için oluşturduğu bu asistanlar, 17 Kasım 2026 itibarıyla yeni **skills** (yetenekler) sistemine dönüştürülecek. Şirket, kullanıcıların mevcut Gems üzerinde yaptığı çalışmaların kaybolmayacağını ve bu içeriklerin yeni formata otomatik olarak taşınacağını belirtti.\n\n## Yeni dönemde skills sistemi\n2024 yılında kullanıma sunulan Gems, kullanıcıların yapay zekaya tekrarlayan talimatlar vermeden belirli görevleri yerine getirmesini sağlamak amacıyla geliştirilmişti. Öğrenme koçu, kodlama yardımcısı veya editör gibi hazır seçeneklerin yanı sıra kullanıcılar kendi ihtiyaçlarına göre özel asistanlar da tasarlayabiliyordu. Google, bu dönüşüm süreci boyunca Gems özelliğinin 17 Kasım'a kadar aktif kalmaya devam edeceğini ifade etti.\n\n## Kullanım deneyimi değişiyor\nSistem tamamen değiştiğinde, kullanıcılar oluşturdukları bu yeteneklere erişmek için farklı bir arayüzle karşılaşacak. Yeni yapıda, bir **Gemini** görev dizisi içerisinde ilgili yeteneği seçmek için klavyeden eğik çizgi (/) karakterini girmek gerekecek. Uzmanlar, Meta'nın Muse ve Instinct gibi daha bütünleşik yapay zeka ajanlarının yaygınlaştığı bir dönemde Google'ın bu hamlesinin, platform stratejisini daha kompakt hale getirme çabası olduğunu değerlendiriyor.\n\n**Neden önemli?** Şirketin yeni bir özelliği ana arayüzünde ön plana çıkarıp kısa süre sonra başka bir formata dönüştürmesi, Google'ın AI stratejisindeki değişken yapıyı ve kullanıcı deneyimi konusundaki arayışını bir kez daha gözler önüne seriyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "yapay zeka",
+    "yazılım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Gemini'da Gems dönemi bitiyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of smooth, interconnected ceramic blocks being gently rearranged by an invisible force on a clean, neutral surface, with small geometric shapes shifting positions to form a new, cohesive structure.",
+  "focus_keyword": "Gemini Gems",
+  "seo_title": "Gemini Gems kalkıyor: Google'dan yeni skills sistemi",
+  "meta_description": "Google, Gemini platformunda yer alan Gems özelliğini sonlandırarak yerine skills sistemine geçiş yapacağını duyurdu. İşte değişimle ilgili bilmeniz gerekenler.",
+  "seo_slug": "google-gemini-gems-ozelligini-kaldiriyor",
+  "image_alt": "Soyut seramik blokların yeniden düzenlenmesini temsil eden minimalist bir görsel yapı.",
+  "cover_text": "Gemini",
+  "importance": 6,
+  "triage_reason": "Google, Gemini Gems ozelligini sonlandirarak yeni becerilere odaklaniyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T17:29:50Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 176
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-gemini-gems-ozelligini-kaldiriyor",
+  "published_at": "2026-09-28T18:01:00Z",
+  "publish_mode": "auto"
+}
