@@ -145,9 +145,7 @@
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [
-    "https://egemensemih.github.io/yz-radar/haber/google-gemini-gems-ozelligini-kaldiriyor/"
-  ],
+  "indexnow_queue": [],
   "last_build": "2026-09-28T18:05:08Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
