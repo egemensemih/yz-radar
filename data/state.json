@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-28T15:51:20Z",
+  "last_collect": "2026-09-28T16:05:48Z",
   "last_summary_date": "2026-09-27",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 337,
+      "fails": 338,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-28T15:50:53Z",
+      "last_ok": "2026-09-28T16:05:44Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
-      "last_ok": "2026-09-28T15:21:01Z",
-      "count": 20,
-      "last_error": "ReadTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=20)"
+      "fails": 0,
+      "last_ok": "2026-09-28T16:05:48Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -134,8 +133,8 @@
     },
     "2026-09-28": {
       "expired": 2,
-      "tok_in": 28462,
-      "tok_out": 6625,
+      "tok_in": 29799,
+      "tok_out": 6905,
       "cost_usd": 0.0,
       "drafts": 6,
       "published": 3,
@@ -148,6 +147,37 @@
   "indexnow_queue": [],
   "last_build": "2026-09-28T15:25:37Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "DetectifAI deepfake detection startup",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "sirketler",
+        "reason": "Deepfake tespitine odaklanan yeni bir girişim ve ürün gelişimi."
+      },
+      "items": [
+        {
+          "key": "e2b386d85c6d294b",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+          "via": null,
+          "via_url": null,
+          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+          "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+          "published": "2026-09-28T15:00:00Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-09-28T16:05:55Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
