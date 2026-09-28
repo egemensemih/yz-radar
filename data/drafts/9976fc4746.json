@@ -38,10 +38,20 @@
       "via": null,
       "via_url": "https://webrazzi.com/2026/09/28/openai-en-gelismis-modellerinin-egitimini-gecici-olarak-durdurdu/#comments",
       "published": "2026-09-28T14:30:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/#comments",
+      "published": "2026-09-28T16:43:18Z"
     }
   ],
   "source_keys": [
-    "Webrazzi"
+    "Webrazzi",
+    "Ars Technica"
   ],
   "source_texts": [
     {
