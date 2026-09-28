@@ -1,0 +1,58 @@
+{
+  "id": "97320cbe25",
+  "created_at": "2026-09-28T20:52:16Z",
+  "title": "Amd, fei-fei li'nin kurduğu world labs'i 8,2 milyar dolara satın alıyor",
+  "summary": "AMD, fiziksel gerçekliği anlamayı amaçlayan derin öğrenme modelleri geliştiren World Labs'i 8,2 milyar dolar karşılığında satın alacağını duyurdu.",
+  "body": "AMD'nin World Labs satın alması, çip üreticisi ile yapay zeka dünyasının önde gelen isimlerinden biri arasında gerçekleşen dev bir anlaşma olarak duyuruldu. TechCrunch'ın aktardığına göre, iki şirketin yaptığı açıklamada, fiziksel gerçekliği anlamaya odaklanan derin öğrenme modelleri geliştiren World Labs 8,2 milyar dolar karşılığında AMD bünyesine katılıyor. Anlaşmanın yıl sonundan önce düzenleyici onayına tabi olarak tamamlanması bekleniyor.\n\n## Fei-fei li amd bünyesine katılıyor\n\nStanford Üniversitesi bilgisayar bilimi profesörü ve yapay zeka öncülerinden olan Fei-Fei Li, anlaşma sonrasında AMD'ye **yönetici başkan yardımcısı** ve **baş bilim insanı** olarak katılacak. Li, 2024 yılında metin ötesindeki verileri anlayabilen ve fizik temelli bir yapay zeka hedefleyen World Labs'i kurmuştu. Şirket, eğlence deneyimleri ve robot eğitimi için simüle edilmiş ortamlar yaratma amacıyla ilk ürünü olan Marble'ı tanıtmıştı.\n\n## Donanım ve model entegrasyonu\n\nWorld Labs tarafından yapılan açıklamada, yapay zeka geliştirmenin model araştırmaları, sistemler ve hesaplama arasında yakın iş birliği gerektirdiği belirtildi. AMD ise bu hamlenin, World Labs gibi öncü iş yüklerini anlamanın çip üretim yol haritasını şekillendireceğini ifade etti. İki şirket arasında geçtiğimiz yıl bir çıkarım optimizasyonu ve eğitim ortaklığı kurulmuştu.\n\n**Neden önemli?** Bu satın alma, AMD'nin yapay zeka odaklı çipler için bir ekosistem oluşturma konusunda rakibi Nvidia ile rekabet etmesine yardımcı olmayı hedefliyor; çünkü dünya modelleri otonom araçlar ve robotik platformların geliştirilmesinde kritik önem taşıyor.",
+  "category": "sirketler",
+  "tags": [
+    "AMD",
+    "World Labs",
+    "Fei-Fei Li",
+    "Nvidia"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Amd, world labs'i 8,2 milyar dolara satın alıyor",
+  "kicker": "Satın alma",
+  "hero_stat": "8,2 milyar $",
+  "hero_stat_label": "satın alma bedeli",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "world labs",
+  "seo_title": "Amd, world labs'i 8,2 milyar dolara satın alıyor",
+  "meta_description": "AMD, fiziksel gerçekliği anlamayı amaçlayan derin öğrenme modelleri geliştiren Fei-Fei Li'nin şirketi World Labs'i 8,2 milyar dolara satın alıyor.",
+  "seo_slug": "amd-world-labsi-8-2-milyar-dolara-satin-aliyor",
+  "image_alt": "Buzlu cam küplerden yükselen grafik: AMD'nin World Labs satın almasını temsil eden görsel",
+  "cover_text": "World Labs",
+  "importance": 10,
+  "triage_reason": "AMD'nin World Labs'i 8.2 milyar dolara satın alması büyük bir yapay zeka ve şirket birleşmesi haberidir.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T20:39:33Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 187
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "amd-world-labsi-8-2-milyar-dolara-satin-aliyor",
+  "published_at": "2026-09-28T20:52:19Z",
+  "publish_mode": "auto"
+}
