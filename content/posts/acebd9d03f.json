@@ -1,0 +1,59 @@
+{
+  "id": "acebd9d03f",
+  "created_at": "2026-09-28T17:24:23Z",
+  "title": "DetectifAI, akıllı telefonlar için yapay zeka ses tespit aracı geliştirdi",
+  "summary": "TechCrunch'ın aktardığına göre San Francisco merkezli DetectifAI, akıllı telefonlarda doğrudan çalışan ve seslerin yapay zeka tarafından üretilip üretilmediğini anında inceleyen kompakt modeller geliştiriyor.",
+  "body": "TechCrunch'ın aktardığına göre, **DetectifAI** adlı San Francisco merkezli girişim, akıllı telefonların işletim sistemleri içinde doğrudan çalışabilen ve yapay zeka ses tespiti yapan kompakt modeller tasarlıyor. Kurucu Tarini Padmanabhuni'nin büyükbabasının yapay zeka destekli bir dolandırıcılık vakasıyla karşılaşmasının ardından temelleri atılan girişim, seslerin yapay zeka ürünü olup olmadığını çağrılar ve sesli mesajlar sırasında anlık olarak saptamayı hedefliyor.\n\n## Cihaz içinde çalışan yapay zeka teknolojisi\n\nMevcut sesli tespit ürünleri bulutta, uzak sunucularda çalıştığı için telefon üreticileri bunları doğrudan cihazlarına entegre edemiyor. Büyük bulut modellerini küçültmek yerine işe sıfırdan küçük modeller tasarlayarak başladıklarını belirten DetectifAI, bu sayede ses verilerinin cihazdan hiç çıkmamasını sağlıyor. Şirket, yazılım geliştirme kiti aracılığıyla ilk olarak telefon üreticilerine satış yapmayı ve bu teknolojiyi işletim sistemlerine yerleşik bir özellik olarak sunmayı planlıyor.\n\n## Erken aşama gelirler ve kurumsal kullanım\n\nGirişimin mevcut durumda erken aşama gelir elde ettiğini belirten Padmanabhuni, Hindistan'daki finans kuruluşları için ayda 100 binden fazla çağrıyı yönettiklerini ifade ediyor. Bu çağrılarda borç tahsilatı yapan yapay zeka ajanları için derin sahte ses tespiti ve hoparlör doğrulama işlemleri gerçekleştiriliyor. Öte yandan şirket, Josh Constine ve Manohar Kamath gibi isimlerden küçük bir tohum yatırımı aldı.\n\n**Neden önemli?** FBI verilerine göre geçen yıl Amerikalılar yapay zeka odaklı dolandırıcılıklardan yaklaşık 900 milyon dolar kaybederken, DetectifAI bu tür dolandırıcılıklarla mücadele için telefon üreticilerine lisanslama modeliyle yerleşik bir savunma mekanizması sunuyor.",
+  "category": "sirketler",
+  "tags": [
+    "DetectifAI",
+    "Tarini Padmanabhuni",
+    "yapay zeka",
+    "dolandırıcılık",
+    "ses tespiti"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "DetectifAI'dan akıllı telefonlar için ses tespiti",
+  "kicker": "Yapay zeka güvenliği",
+  "hero_stat": "%24",
+  "hero_stat_label": "dolandırıcılık artışı",
+  "visual_style": "studio",
+  "visual_scene": "a single smooth sculpture of an acoustic wave carved from matte obsidian stone, standing upright on a pale gray surface with soft natural light coming from the side",
+  "focus_keyword": "yapay zeka ses tespiti",
+  "seo_title": "DetectifAI akıllı telefonlar için yapay zeka ses tespiti",
+  "meta_description": "TechCrunch'ın haberine göre DetectifAI, akıllı telefonlarda doğrudan çalışan ve sesli dolandırıcılıkları önleyen kompakt yapay zeka modelleri geliştiriyor.",
+  "seo_slug": "detectifai-akilli-telefonlar-icin-yapay-zeka-ses-tespiti",
+  "image_alt": "Mat siyah taştan oyulmuş akustik dalga heykeli, yumuşak ışık altındaki stüdyo ortamında duruyor",
+  "cover_text": "DetectifAI",
+  "importance": 7,
+  "triage_reason": "Deepfake tespitine odaklanan yeni bir girişim ve ürün gelişimi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T15:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 166
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "detectifai-akilli-telefonlar-icin-yapay-zeka-ses-tespiti",
+  "published_at": "2026-09-28T17:24:32Z",
+  "publish_mode": "auto"
+}

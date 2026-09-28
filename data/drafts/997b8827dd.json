@@ -1,0 +1,68 @@
+{
+  "id": "997b8827dd",
+  "status": "pending",
+  "created_at": "2026-09-28T17:27:18Z",
+  "title": "Anthropic'in Claude ajanlarının biyoloji keşfi tartışma yarattı",
+  "summary": "Anthropic'in moleküler biyoloji laboratuvarında Claude ajanları tarafından yapılan ilk keşif açıklaması, biyologlar arasında tartışma ve şüpheyle karşılandı.",
+  "body": "Anthropic tarafından yakın zamanda kurulan moleküler biyoloji laboratuvarında görev yapan Claude ajanları, 21 saatlik bir çalışmanın ardından ilk keşfini gerçekleştirdiğini duyurdu. MIT Technology Review'un aktardığına göre, 950 ajandan oluşan sistem, bilinen bir enzimi çevreleyen ve daha önce kataloglanmamış tekrar eden bir desen tespit etti. Şirket, bu bulgunun CRISPR teknolojisinin gelişimine benzer nitelikte olduğunu öne sürdü.\n\n## Biyologlardan gelen eleştiriler\n\nBu duyuru, bilim dünyasında farklı tepkilere yol açtı. İlaç üreticisi Eli Lilly'nin CEO'su ve başkanı tarafından da desteklenen viral bir paylaşımda bulunan biyologlar, gen kümelerindeki tekrarları bulmanın işin kolay kısmı olduğunu ve asıl zorluğun sistemin ne işe yaradığını çözmek olduğunu belirtti. Biyologlar, bu durumun bir keşiften ziyade laboratuvar iş yükünü hafifleten rutin bir veri taraması olduğunu savundu.\n\n## Tartışmalar ve sahiplenme iddiaları\n\nKonuya dair tartışmalar, Kopenhag Üniversitesi'nden biyolog Mario Rodríguez Mestre'nin açıklamalarıyla daha da büyüdü. The New York Times'ın haberine göre Mestre, kendi ekibinin bu deseni çoktan keşfettiğini ve Claude ile yaptığı sohbetlerden yola çıkılmış olabileceğini belirtti. Anthropic bu iddiayı reddetse de Mestre, Claude kullanmayı bırakacağını açıkladı. Benzer şekilde, OpenAI'ın yakın zamanda matematik alanında çözdüğü duyurulan bir milyon dolarlık problem de benzer şüphe ve tartışmaların hedefi oldu.\n\n**Neden önemli?** Yapay zeka şirketlerinin sistemlerini sadece birer araştırma aracı olarak değil, doğrudan keşif yapan özneler olarak konumlandırması, gerçek bilimsel ilerlemelere karşı kamuoyunda ve uzmanlar arasında şüpheciliğin artmasına neden oluyor.",
+  "category": "arastirma",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "OpenAI",
+    "CRISPR"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Claude ajanlarının biyoloji keşfi tartışma yarattı",
+  "kicker": "Araştırma",
+  "hero_stat": "950",
+  "hero_stat_label": "ajan",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "Claude ajanları",
+  "seo_title": "Claude ajanlarının biyoloji keşfi bilim dünyasını böldü",
+  "meta_description": "Anthropic'in Claude ajanları tarafından biyoloji alanında yapıldığı duyurulan ilk keşif, biyologlar arasında tartışma ve şüphe yarattı.",
+  "seo_slug": "anthropic-claude-ajanlari-biyoloji-kesfi-tartisma",
+  "image_alt": "Buzlu cam küplerden oluşan soyut bir yapıyı temsil eden görsel",
+  "cover_text": "Claude",
+  "importance": 7,
+  "triage_reason": "Anthropic'in moleküler biyoloji laboratuvarı kurması ve yapay zeka ile bilimsel keşif üzerine önemli bir analiz.",
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "title": "When can we say AI made a scientific discovery?",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T17:03:16Z"
+    }
+  ],
+  "source_keys": [
+    "MIT Technology Review"
+  ],
+  "source_texts": [
+    {
+      "credit": "MIT Technology Review",
+      "kind": "media",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "published": "2026-09-28T17:03:16Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+      "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.\nLast Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report. And this AI-powered lab, the company said, had made its first discovery.\nTo understand what Anthropic says its system did, imagine you’re flipping through a library of millions of DNA sequences, amassed as scientists sequence more and more of the living world. One step toward a breakthrough might be finding a peculiar sequence that encodes an interesting enzyme, perhaps. Then you’d need to figure out what that enzyme does and, eventually, how to manipulate it to do something useful.\nWhat Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. But if you read through Anthropic’s announcement, which calls this pattern “reminiscent” of what led to the gene-editing technology CRISPR that “has already transformed science and medicine,” it sounds as if this army of agents really found something of note.\nThese claims have angered some biologists. A viral post from one, subsequently endorsed by the chair and CEO of the drugmaker Eli Lilly, said that “finding a weird cluster of genes and repeats is often the easy part. The hard part, and where the real discoveries come from, is figuring out what the system actually does.” The agents helped with some laboratory grunt work, in other words. But a discovery it is not.\nIt’s a reminder that even if AI does something impressive—like finding a pattern in a mass of biological data that would be difficult to perceive with human eyes alone—the result itself may not constitute a breakthrough for science. What is novel for AI may be routine, unsurprising, or simply not that consequential to a biologist.\nMuddying the issue further, Mario Rodríguez Mestre, a biologist at the University of Copenhagen, said over the weekend that his team had already discovered this particular pattern, the New York Times reported. Mestre, who regularly chatted with Claude in his work, wondered whether Anthropic’s team had learned from his conversations. Anthropic denies this, but Mestre says he’s stopping all use of Claude anyway.\nPart of the problem here is that AI companies aren’t presenting their systems simply as tools scientists can use, like microscopes or supercomputers. They’re insisting that the AI systems are making discoveries themselves. To some, that approach is incompatible with how science actually works, with new knowledge more typically emerging from collaboration and an ever-growing arsenal of tools.\nIt’s also making people more skeptical of genuine progress when it happens. Whittling 200,000 candidates down to a few worth exploring is no small feat; it is legitimate scientific work. The fact that a general-purpose chatbot could do that work is notable, even if humans helped steer it and ultimately ran the experiments. But once the standard is whether Claude itself made a discovery, all that becomes evidence for one side or the other in a debate that has only two answers: breakthrough or bust.\nOnce we’re judging AI by whether it has made a discovery, it’s also tempting to shift the goalposts even after it really does seem to notch a win. Earlier this month, OpenAI said its own team agents had cracked a million-dollar problem in mathematics. But a couple of weeks later, nearly every AI skeptic in my feed was sharing an article asking whether it was the math problem that really mattered.\nTo be clear, the piece did not argue that OpenAI’s solution was wrong. Instead, it argued that the particular result may not be the one mathematicians care most about. Throw in the accusation by a mathematician that the models may have used some of his work without credit, and people are left thinking either OpenAI cheated or the solution wasn’t important anyway. Or both.\nThat’s part of what concerns Lucas Harrington, the biologist who wrote the post critiquing Anthropic’s announcement. He closed with a suggestion: AI companies, he said, should “set the bar high now, so that when an AI actually discovers a fundamentally new biological mechanism, everyone appreciates how big a deal it is.” But as OpenAI’s Sam Altman and Anthropic’s Dario Amodei race to one-up each other, raising the bar for scientific breakthroughs by AI might be the last thing on their minds.\nDeep Dive\nArtificial intelligence\nA fundamental flaw leaves LLMs strikingly vulnerable to attack\nIt makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.\nAI’s recursive self-improvement might not come so quickly after all\nAI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 169
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: MIT Technology Review"
+}

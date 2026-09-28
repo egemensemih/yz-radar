@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-28T17:07:47Z",
+  "last_collect": "2026-09-28T17:22:29Z",
   "last_summary_date": "2026-09-27",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 342,
+      "fails": 343,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:46Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-28T17:07:47Z",
+      "last_ok": "2026-09-28T17:22:10Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 4,
-      "last_ok": "2026-09-28T16:05:48Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-09-28T17:22:29Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -134,81 +133,23 @@
     },
     "2026-09-28": {
       "expired": 2,
-      "tok_in": 34556,
-      "tok_out": 8232,
+      "tok_in": 41615,
+      "tok_out": 10123,
       "cost_usd": 0.0,
-      "drafts": 7,
-      "published": 4,
-      "auto": 4
+      "drafts": 9,
+      "published": 5,
+      "auto": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-28T17:15:38Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/detectifai-akilli-telefonlar-icin-yapay-zeka-ses-tespiti/"
+  ],
+  "last_build": "2026-09-28T17:31:22Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i2"
-        ],
-        "topic": "DetectifAI deepfake detection startup",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "sirketler",
-        "reason": "Deepfake tespitine odaklanan yeni bir girişim ve ürün gelişimi."
-      },
-      "items": [
-        {
-          "key": "e2b386d85c6d294b",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-          "via": null,
-          "via_url": null,
-          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-          "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-          "published": "2026-09-28T15:00:00Z",
-          "html_source": false,
-          "tid": "i2"
-        }
-      ],
-      "at": "2026-09-28T16:05:55Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Anthropic molecular biology lab and AI scientific discovery",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "arastirma",
-        "reason": "Anthropic'in moleküler biyoloji laboratuvarı kurması ve yapay zeka ile bilimsel keşif üzerine önemli bir analiz."
-      },
-      "items": [
-        {
-          "key": "eea3badab1c03a5d",
-          "source": "MIT Technology Review",
-          "kind": "media",
-          "credit": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-          "via": null,
-          "via_url": null,
-          "title": "When can we say AI made a scientific discovery?",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-          "published": "2026-09-28T17:03:16Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-09-28T17:09:24Z"
-    },
     {
       "story": {
         "item_ids": [
