@@ -1,0 +1,58 @@
+{
+  "id": "b4a192b08e",
+  "created_at": "2026-09-28T17:10:26Z",
+  "title": "Meta kurumsal yapay zeka platformunu duyurdu ve MongoDB CEO'sunu transfer etti",
+  "summary": "Meta, şirketlere yönelik yapay zeka hizmetlerini genişletmek amacıyla Meta Enterprise Platform'u duyururken, yeni girişimin başına MongoDB CEO'su Chirantan Desai'yi getirdi.",
+  "body": "Meta Enterprise Platform adı verilen yeni girişim, 28 Eylül Pazartesi günü yapılan duyuruyla birlikte şirketin yapay zeka ürünlerini kurumsal müşterilere ve işletmelere ulaştırmayı hedefliyor. TechCrunch'ın aktardığına göre sosyal medya devi, bu yeni hamleyi yönetmesi için veritabanı yazılımı devi MongoDB'nin CEO'su Chirantan “CJ” Desai'yi transfer etti.\n\n## Kurumsal yapay zeka adımları\n\nMeta'nın bu yeni hamlesi, ay başında bireysel kullanıcılar için sunulan ve e-posta gönderme ile seyahat rezervasyonu gibi görevleri yerine getirebilen **Muse** isimli kişisel yapay zeka asistanının ivmesi üzerine kuruluyor. Şirketin açıklamasına göre yeni platform; Muse, Meta Business Agent, Muse API ve Muse Code dahil olmak üzere tüm teknoloji yığınını işletmelere ve geliştiricilere sunmaya odaklanacak.\n\n## MongoDB cephesindeki gelişmeler\n\nChirantan Desai'nin ani ayrılık haberi sonrasında MongoDB hisseleri yüzde 17'den fazla değer kaybetti. Veritabanı üreticisi, yönetim kurulu kalıcı bir yer bulana kadar bu görevi daha önce de yürütmüş olan Dev Ittycheria'yı geçici genel müdür olarak atadığını açıkladı.\n\n**Neden önemli?** Meta Enterprise Platform'un kurulması ve Chirantan Desai'nin göreve getirilmesi, şirketin yapay zekaya yaptığı büyük yatırımlardan finansal getiri elde etme çabasının bir parçası olarak öne çıkıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Meta",
+    "MongoDB",
+    "Chirantan Desai",
+    "Muse"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta kurumsal yapay zeka platformunu başlattı",
+  "kicker": "Kurumsal hamle",
+  "hero_stat": "%17",
+  "hero_stat_label": "MongoDB hisse düşüşü",
+  "visual_style": "studio",
+  "visual_scene": "a single dark gray monolithic slab of stone standing vertically on a polished reflective surface, with a precise slice cut cleanly through its center revealing a warm inner glow",
+  "focus_keyword": "Meta kurumsal yapay zeka",
+  "seo_title": "Meta kurumsal yapay zeka platformunu başlattı",
+  "meta_description": "Meta, şirketlere yapay zeka çözümleri sunmak için Meta Enterprise Platform'u duyurdu ve MongoDB CEO'sunu transfer etti.",
+  "seo_slug": "meta-kurumsal-yapay-zeka-platformunu-duyurdu",
+  "image_alt": "Gri monolitik bir taş blok ve içindeki sıcak ışığı yansıtan stüdyo ortamı",
+  "cover_text": "Meta Enterprise",
+  "importance": 8,
+  "triage_reason": "Meta kurumsal yapay zeka platformunu duyurdu ve MongoDB CEO'sunu transfer etti.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T16:52:38Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 163
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "meta-kurumsal-yapay-zeka-platformunu-duyurdu",
+  "published_at": "2026-09-28T17:10:38Z",
+  "publish_mode": "auto"
+}

@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-28T16:51:31Z",
+  "last_collect": "2026-09-28T17:07:47Z",
   "last_summary_date": "2026-09-27",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:30Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 1230
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 341,
+      "fails": 342,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:46Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-28T16:51:31Z",
+      "last_ok": "2026-09-28T17:07:47Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 3,
+      "fails": 4,
       "last_ok": "2026-09-28T16:05:48Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -134,19 +134,21 @@
     },
     "2026-09-28": {
       "expired": 2,
-      "tok_in": 30962,
-      "tok_out": 7042,
+      "tok_in": 34556,
+      "tok_out": 8232,
       "cost_usd": 0.0,
-      "drafts": 6,
-      "published": 3,
-      "auto": 3
+      "drafts": 7,
+      "published": 4,
+      "auto": 4
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-28T16:29:56Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/meta-kurumsal-yapay-zeka-platformunu-duyurdu/"
+  ],
+  "last_build": "2026-09-28T17:15:38Z",
   "build_sig": "1006e235604846f4",
   "queue": [
     {
@@ -178,6 +180,96 @@
         }
       ],
       "at": "2026-09-28T16:05:55Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Anthropic molecular biology lab and AI scientific discovery",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "arastirma",
+        "reason": "Anthropic'in moleküler biyoloji laboratuvarı kurması ve yapay zeka ile bilimsel keşif üzerine önemli bir analiz."
+      },
+      "items": [
+        {
+          "key": "eea3badab1c03a5d",
+          "source": "MIT Technology Review",
+          "kind": "media",
+          "credit": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "via": null,
+          "via_url": null,
+          "title": "When can we say AI made a scientific discovery?",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+          "published": "2026-09-28T17:03:16Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-09-28T17:09:24Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "Florida seeks ban on ChatGPT human attributes",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "politika",
+        "reason": "Florida Başsavcılığı'nın OpenAI'ın ChatGPT'ye insani özellikler vermesini engelleme girişimi hukuki açıdan dikkat çekici."
+      },
+      "items": [
+        {
+          "key": "c7778bb70327bc40",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+          "via": null,
+          "via_url": null,
+          "title": "Florida seeks a ban on ChatGPT acting like a person",
+          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
+          "published": "2026-09-28T17:00:23Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-09-28T17:09:24Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i3"
+        ],
+        "topic": "OpenAI mathematics breakthroughs and announcement issues",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "modeller",
+        "reason": "OpenAI'ın matematik alanındaki yapay zeka ilerlemeleri ve iletişim stratejilerine dair eleştirel bir değerlendirme."
+      },
+      "items": [
+        {
+          "key": "a73fc28622279f28",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "via": null,
+          "via_url": null,
+          "title": "OpenAI keeps bulldozing mathematicians",
+          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]",
+          "published": "2026-09-28T17:00:00Z",
+          "html_source": false,
+          "tid": "i3"
+        }
+      ],
+      "at": "2026-09-28T17:09:24Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
