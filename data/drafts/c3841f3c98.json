@@ -1,0 +1,68 @@
+{
+  "id": "c3841f3c98",
+  "status": "pending",
+  "created_at": "2026-09-28T22:05:50Z",
+  "title": "Nvidia yapay zeka çipi satışı Çin pazarında artabilir",
+  "summary": "Ars Technica'nın aktardığına göre, Çin'in bazı büyük teknoloji firmalarının Nvidia çip ithalatını artırmayı değerlendirdiği bildiriliyor.",
+  "body": "Nvidia yapay zeka çipi satışı için Çin cephesinde yeni bir hareketlilik yaşanıyor. Ars Technica'nın The Information kaynaklarına dayandırdığı habere göre, Çin yönetimi bazı büyük yapay zeka firmalarının gelecek yıl milyonlarca Nvidia çipi ithal etmesine izin vermeyi değerlendiriyor.\n\n## Çin pazarında çip planları\n\nÇin'in teknoloji denetim birimi olan Sanayi ve Bilgi Teknolojileri Bakanlığı, Alibaba ve ByteDance gibi şirketlerden Nvidia tarafından üretilen RTX Pro 5500 çiplerini satın alma planlarını paylaşmalarını talep etti. Söz konusu donanımlar her ne kadar oyun odaklı olsa da, Çinli yetkililerin bu ürünlerin sunucularda nasıl değerlendirileceğine dair detay istediği belirtiliyor. Bu hamlenin, ülkenin en çok talep gören yapay zeka modellerini desteklemek amacıyla atıldığı ifade ediliyor.\n\n## Siyasi gelişmeler ve eleştiriler\n\nDonald Trump ile Çin Devlet Başkanı Xi Jinping arasında gerçekleşen son zirvede yapay zeka düzenlemeleri ve ihracat kontrolleri doğrudan ele alınmadı. Ticaret ateşkesi iki aylığına uzatılırken, uzmanlar ABD'nin olası yeni kontrollerinin Çin'in nadir toprak elementleri ihracatını kesmesiyle sonuçlanabileceğini öngörüyor. Öte yandan, ABD Başkanı Donald Trump'ın yapay zeka konularında Nvidia CEO'su Jensen Huang'ın görüşlerine başvurduğu belirtiliyor.\n\n**Neden önemli?** Dünyanın en değerli şirketi konumundaki Nvidia'nın CEO'sunun artan etkisi, ABD'de bazı eleştirmenlerin tepkisini çekiyor ve şirketin kâr odaklı yaklaşımının teknoloji risklerinin göz ardı edilmesine yol açabileceği endişelerini beraberinde getiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Alibaba",
+    "ByteDance",
+    "Jensen Huang"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia çipleri Çin pazarında yer bulabilir",
+  "kicker": "Donanım",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a matte black microchip resting on a rough concrete surface, surrounded by fine gray dust particles under a single sharp spotlight from above",
+  "focus_keyword": "Nvidia yapay zeka çipi",
+  "seo_title": "Nvidia yapay zeka çipi satışı Çin pazarında artabilir",
+  "meta_description": "Ars Technica'nın haberine göre Çin, büyük yapay zeka firmalarının Nvidia yapay zeka çipi ithal etmesine izin vermeyi değerlendiriyor.",
+  "seo_slug": "nvidia-yapay-zeka-cipi-satisi-cin-pazarinda-artabilir",
+  "image_alt": "Beton zemin üzerinde duran siyah renkli bir yarı iletken çip",
+  "cover_text": "Nvidia çipleri",
+  "importance": 6,
+  "triage_reason": "Nvidia'nın Çin çip satışları ve Trump politikaları üzerine jeopolitik ve politika odaklı değerlendirme.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/#comments",
+      "published": "2026-09-28T21:49:10Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "published": "2026-09-28T21:49:10Z",
+      "summary": "On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect. However, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing…",
+      "text": "On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect.\nHowever, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing controls and allowing some of its biggest AI firms to import perhaps millions more of Nvidia’s banned chips over the next year.\nSources familiar with China’s talks told The Information that China’s tech oversight arm, the Ministry of Industry and Information Technology, asked Alibaba and ByteDance to share plans to buy Nvidia’s RTX Pro 5500 chips. Although these are gaming chips, China asked firms to detail how they plan to use them, with expectations that chips could be put into servers to help power the country’s most in-demand AI models.\nIncreasingly, Trump looks to Nvidia CEO Jensen Huang for advice on AI, but not everybody agrees that what’s good for Nvidia is good for the United States.\nAlready the world’s most valuable company, Nvidia would obviously profit enormously in a world where risks are downplayed, and both countries’ priorities remain powering rapid developments in frontier AI without pumping the brakes. Some critics worry that Nvidia’s profit motivations may be steering Trump’s thinking at a pivotal moment when it may matter how well a president actually understands the risks of a new technology."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 194
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
