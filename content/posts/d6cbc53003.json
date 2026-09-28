@@ -1,0 +1,58 @@
+{
+  "id": "d6cbc53003",
+  "created_at": "2026-09-28T18:11:31Z",
+  "title": "Anthropic, yeni yapay zeka modeli Sonnet 5.5 modelini duyurdu",
+  "summary": "Anthropic, önceki sürüme göre %30 daha hızlı çalışan ve maliyet verimliliği sunan orta segment yapay zeka modeli Sonnet 5.5'i kullanıma sundu.",
+  "body": "Anthropic, yapay zeka pazarındaki rekabetin yoğunlaştığı bir dönemde, orta segment modeli olan Sonnet 5.5'i tanıttı. TechCrunch'ın aktardığına göre, bu yeni model özellikle kod yazma ve ofis dokümanları hazırlama gibi günlük görevlerde daha yüksek performans ve hız sunmak üzere tasarlandı. Şirket, Sonnet 5.5'in önceki sürümüne kıyasla yüzde 30 daha hızlı çalıştığını ve düşük maliyetli ajanlı kullanım (agentic deployment) konusunda önemli avantajlar sağladığını belirtti. \n\n## Performans ve yetenekler\n\nAnthropic tarafından paylaşılan bilgilere göre, modelin öne çıkan temel özelliği işlem hızı ve ekonomik kullanımı. Şirketin kıyaslamaları, Sonnet 5.5'in kodlama odaklı ajanlı görevlerde Opus 5.5'ten daha iyi sonuç verdiğini gösteriyor; bu durumun, modelin maliyet sınırlarını aşmadan birden fazla ajan oluşturabilme yeteneğinden kaynaklandığı ifade ediliyor. Ayrıca, modelin siber güvenlik yetenekleri de geliştirildi. Anthropic, Sonnet 5.5'in Fable ve Opus modelleriyle aynı siber güvenlik protokollerine tabi tutulan ilk Sonnet modeli olduğunu vurguluyor. \n\n## Gelecek planları\n\nŞirket ürün yelpazesini genişletmeye devam ederken, en küçük model serisi olan Haiku'nun yeni bir sürümünü önümüzdeki haftalarda çıkarmayı planladığını duyurdu. Pazardaki rekabet ise hız kesmiyor; geçtiğimiz hafta OpenAI, Sol ve Luna modellerinin güncellenmiş versiyonlarını piyasaya sürmüş, Meta ise akıllı gözlüklerinde kullanılacak yeni bir model duyurmuştu.\n\n**Neden önemli?** Anthropic, Sonnet 5.5 ile özellikle kurumsal ve bireysel kullanıcılar için hız ve maliyet dengesini optimize ederek, model hiyerarşisinde daha yetenekli Opus modellerinin siber güvenlik standartlarını orta segment ürünlerine taşımış oldu.",
+  "category": "modeller",
+  "tags": [
+    "Anthropic",
+    "Sonnet 5.5",
+    "Opus",
+    "yapay zeka modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten yeni model: Sonnet 5.5",
+  "kicker": "Yeni model",
+  "hero_stat": "%30",
+  "hero_stat_label": "daha hızlı",
+  "visual_style": "sculpture",
+  "visual_scene": "A balanced composition of sleek, matte-grey geometric shapes arranged on a polished obsidian surface. One central, slightly taller pillar represents the core architecture, surrounded by smaller, translucent light-blue shards that reflect subtle movement, illustrating the enhanced speed and agility of the new model.",
+  "focus_keyword": "Sonnet 5.5",
+  "seo_title": "Sonnet 5.5 duyuruldu: Anthropic'in yeni modeli",
+  "meta_description": "Anthropic, daha hızlı ve maliyet dostu olan yeni yapay zeka modeli Sonnet 5.5'i tanıttı. Modelin siber güvenlik ve kodlama yeteneklerini keşfedin.",
+  "seo_slug": "anthropic-yeni-yapay-zeka-modeli-sonnet-5-5-duyurdu",
+  "image_alt": "Soyut gri ve mavi geometrik formlardan oluşan teknolojik bir yapı",
+  "cover_text": "Sonnet 5.5",
+  "importance": 8,
+  "triage_reason": "Anthropic'in orta segment yeni modeli Sonnet 5.5'i duyurması önemli bir yapay zeka gelişmesidir.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 180
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-yeni-yapay-zeka-modeli-sonnet-5-5-duyurdu",
+  "published_at": "2026-09-28T18:11:43Z",
+  "publish_mode": "auto"
+}
