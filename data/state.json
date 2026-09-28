@@ -145,10 +145,7 @@
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [
-    "https://egemensemih.github.io/yz-radar/haber/instinct-yapay-zeka-10-milyar-dolar-degerleme/",
-    "https://egemensemih.github.io/yz-radar/haber/nvidia-yapay-zeka-guvenligi-platformu/"
-  ],
+  "indexnow_queue": [],
   "last_build": "2026-09-28T14:10:17Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
