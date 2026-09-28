@@ -1,0 +1,58 @@
+{
+  "id": "efe5177c7c",
+  "created_at": "2026-09-28T21:36:03Z",
+  "title": "Modal Labs 750 milyon dolarlık yatırım turuna hazırlanıyor",
+  "summary": "Yapay zeka çıkarım altyapısı sağlayıcısı Modal Labs, 15,75 milyar dolar değerleme üzerinden 750 milyon dolarlık yeni yatırım turunu tamamlamak üzere.",
+  "body": "Yapay zeka çıkarım altyapısı sağlayıcısı Modal Labs, 750 milyon dolarlık yeni bir yatırım turunu sonuçlandırmaya hazırlanıyor. TechCrunch tarafından paylaşılan bilgilere göre, Accel liderliğinde yürütülen bu finansman süreciyle birlikte şirketin piyasa değerlemesinin 15,75 milyar dolara ulaşması bekleniyor. Modal Labs, henüz dört ay önce 355 milyon dolarlık bir yatırım turunu 4,65 milyar dolar değerleme ile tamamlamıştı.\n\n## Çıkarım hizmetlerine yönelik talep artışı\n\nModal Labs, geliştiricilerin sunucu yönetimiyle uğraşmadan yapay zeka modellerini eğitmesine ve çalıştırmasına olanak tanıyan bir altyapı sunuyor. Şirketin hizmet verdiği müşteriler arasında Suno, Ramp, Substack ve Cognition gibi kuruluşlar yer alıyor. Sektördeki çıkarım —eğitilmiş bir yapay zeka modelinin çıktı üretmesi süreci— hizmetlerine yönelik talebin hızla arttığı gözlemlenirken, şirket Mayıs ayı itibarıyla yıllık 300 milyon doları aşan bir gelir hacmine ulaştığını belirtmişti.\n\n## Güvenlik süreci ve pazar görünümü\n\nŞirket, geçtiğimiz Temmuz ayında yaşanan bir güvenlik olayıyla gündeme gelmişti. Modal Labs CTO'su Akshat Bubna, yaşanan veri ihlalinin şirketin sistemlerinden değil, bir müşterinin kodundaki bir açıktan kaynaklandığını belirterek, \"Modal’ın platformu hiçbir şekilde tehlikeye atılmadı\" açıklamasında bulunmuştu. Sektör genelinde Baseten, Fireworks ve Fal gibi diğer çıkarım odaklı girişimlerin de yüksek değerlemelerle yatırım arayışında olduğu bildiriliyor.\n\n**Neden önemli?** Modal Labs'in değerlemesinin dört ay içinde üç katına çıkması, yapay zeka modellerinin çalıştırılması için gerekli olan altyapı hizmetlerine yönelik piyasa iştahının devam ettiğini ve çıkarım sağlayıcıların bu ekosistemdeki stratejik rollerinin güçlendiğini gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Modal Labs",
+    "yapay zeka altyapısı",
+    "yatırım",
+    "çıkarım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Modal Labs 750 milyon dolarlık yatırım alıyor",
+  "kicker": "Yatırım turu",
+  "hero_stat": "15,75 milyar $",
+  "hero_stat_label": "şirket değerlemesi",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of smooth, matte-finish resin blocks arranged in a spiraling formation, suggesting rapid growth and stability. The objects are neutral in color, lit with soft, cool-toned directional light from the side, creating long shadows on a clean, grey matte background. No text or digital elements.",
+  "focus_keyword": "Modal Labs yatırım",
+  "seo_title": "Modal Labs yatırım turunda 15,75 milyar dolar değerlemeye…",
+  "meta_description": "Altyapı sağlayıcısı Modal Labs, 750 milyon dolarlık yatırım turu ile değerlemesini 15,75 milyar dolara taşıyor. Sektördeki son gelişmeleri inceleyin.",
+  "seo_slug": "modal-labs-yatirim-15-milyar-dolar",
+  "image_alt": "Modal Labs yatırım haberini temsil eden soyut mimari formlar.",
+  "cover_text": "Modal Labs",
+  "importance": 8,
+  "triage_reason": "Modal Labs yüksek değerlemeyle büyük bir yatırım turu gerçekleştiriyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T21:29:18Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 191
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "modal-labs-yatirim-15-milyar-dolar",
+  "published_at": "2026-09-28T21:36:29Z",
+  "publish_mode": "auto"
+}
