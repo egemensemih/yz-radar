@@ -1,0 +1,70 @@
+{
+  "id": "1c305333b1",
+  "status": "pending",
+  "created_at": "2026-09-28T19:26:40Z",
+  "title": "OpenAI yeni yapay zeka ajanı Aeon modelini duyurmaya hazırlanıyor",
+  "summary": "The Verge'ün aktardığına göre OpenAI, yaklaşan DevDay etkinliğinde Aeon adını taşıyan yeni 7/24 çalışan yapay zeka ajanını tanıtabilir.",
+  "body": "OpenAI yeni yapay zeka ajanı Aeon ile sektördeki rekabette öne geçmeyi hedefliyor. The Verge'ün aktardığına göre, şirketin yaklaşan DevDay etkinliğinde tanıtılması beklenen Aeon platformu; Meta, Google ve diğer rakiplerin pazar payı kazandığı 7/24 çalışan kişisel asistan pazarında yeni bir dönemin kapısını aralayabilir.\n\n## Rekabet kızışıyor\n\nYapay zeka ajanları seyahat rezervasyonu yapma, market alışverişi, randevu planlama ve sunum hazırlama gibi birçok alanda kullanıcıların hayatını kolaylaştırmayı amaçlıyor. Sektörde Meta'nın Muse modeli App Store listelerinde zirveye yerleşirken, Google'ın Gemini Spark platformu ise Dropbox, Uber ve Spotify gibi çok sayıda dış servis ortağıyla entegre biçimde çalışıyor. Öte yandan OpenAI'ın bünyesinde OpenClaw'ın yaratıcısı Peter Steinberger'in yer aldığı biliniyor.\n\n## GPT-6 Astra beklentisi\n\nOpenAI başkanı Greg Brockman'ın basın toplantısında yapay genel zeka dönemine girildiğine dair açıklamalarının ardından şirketin en son sınır modeli GPT-6 Astra'nın beklentileri oldukça yüksek. Astra modelinin, Aeon gibi yeni duyurulması beklenen sistemlerin siber güvenlik, yazılım mühendisliği ve bilimsel araştırma yeteneklerini güçlendirmesi bekleniyor.\n\n**Neden önemli?** OpenAI, Meta ve Google gibi devlerin pazar payına sahip olduğu tüketici odaklı yapay zeka ajanları alanında Aeon platformuyla rekabete katılmaya hazırlanıyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "Meta",
+    "Google",
+    "Peter Steinberger"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber, The Verge tarafından yayımlanan söylenti ve kulis bilgilerine dayanmaktadır.",
+  "short_title": "OpenAI yeni yapay zeka ajanı Aeon'u duyurabilir",
+  "kicker": "Yeni model",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single frosted glass monolith standing upright on a dark slate surface, with a subtle warm amber light emanating from its core, casting soft shadows in a minimalist studio setting.",
+  "focus_keyword": "yapay zeka ajanı Aeon",
+  "seo_title": "OpenAI yeni yapay zeka ajanı Aeon modelini duyurabilir",
+  "meta_description": "The Verge'ün aktardığına göre OpenAI, yaklaşan DevDay etkinliğinde Aeon adlı yeni yapay zeka ajanı platformunu tanıtmaya hazırlanıyor.",
+  "seo_slug": "openai-yeni-yapay-zeka-ajani-aeon-modelini-duyuruyor",
+  "image_alt": "Karanlık bir zeminde duran ve içinden sıcak ışık yayan buzlu cam monolit, Aeon yapay zeka ajanı haberini temsil ediyor.",
+  "cover_text": "Aeon",
+  "importance": 7,
+  "triage_reason": "OpenAI'ın yaklaşan geliştirici etkinliğinde duyuracağı yeni ajan teknolojileri sektörel beklentileri şekillendiriyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "title": "OpenAI’s AI agents need to catch up",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T18:45:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "OpenAI’s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "published": "2026-09-28T18:45:00Z",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]",
+      "text": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it’s fallen behind in one of the industry’s hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon — its answer to Meta’s Muse, SpaceX’s Grok Bot, OpenClaw, and many more.\nOpenAI’s AI agents need to catch up\nA rumored new ‘Aeon’ platform could be entering a crowded market of 24/7 assistants.\nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy to set up as Meta’s Muse, and as simple to chat with as the up-and-coming Instinct. Conversely, it would aim to solve the serious security risks that have plagued agents since the rise of OpenClaw and only continued with Muse.\nAI agents — platforms capable of booking travel, buying groceries, scheduling appointments, helping with work presentations, and more — have been an industry goal for years. OpenAI demoed an agentic API feature at the 2024 DevDay and released early versions of consumer-facing AI agents, focused on computer use and research, in mid-2025. It was only late last year with OpenClaw, however, that agents went from proof of concept to practical success. Since then, the race has only accelerated, while OpenAI’s visible progress around agents has lagged.\nAt this point, OpenAI’s primary competitor for agentic AI is likely Meta. Since its release earlier this month, Muse has topped the App Store charts and garnered 600,000 daily active users in the US, according to Apptopia. Early reviews put it in the category of useful but slightly creepy. Another contender is Instinct, whose eponymous agent has made waves for its ease of use — including the fact that users can communicate with it over iMessage and many other chat apps. And then there’s Gemini Spark, Google’s own horse in the race, which is also a 24/7-running, consumer-facing agent, with upwards of 30 external service partners, like Dropbox, Uber, and Spotify.\nCompeting AI agents are, according to some accounts, filling out paperwork for doctor visits, canceling subscriptions, organizing group trips, booking activities, setting up DMV appointments, paying bills, and more — paying off the expectations tech companies set years ago. But security concerns abound, particularly when agents are given more autonomy. At least one known (now patched) vulnerability allowed attackers to take control of accounts, and users have complained that Muse gave out a home address without permission and read private messages, though individual anecdotes can be hard to verify.\nAs of now, little is known about Aeon\nAs of right now, little is known about Aeon. The rare thing we do know is that OpenAI currently employs the creator of OpenClaw, Peter Steinberger, who is very likely lending his expertise.\nOpenAI has set expectations high for its DevDay announcements. The company has been hyping up its latest frontier model, GPT-6 Astra, as the moment around which artificial general intelligence arrives — “I think it’s not unreasonable to feel that we are now in the AGI era,” OpenAI president Greg Brockman said during a press briefing earlier this month. Astra would likely underpin whatever agent it announces, which should ostensibly make something like Aeon more powerful at cybersecurity tasks, software engineering, scientific research, and computer use.\nBut OpenAI is at a disadvantage in some other ways. Muse integrates with other Meta services used by billions of people, for instance, and Gemini Spark connects to Google’s wide range of enterprise and personal services. At OpenAI’s past annual events, it’s tried to bridge the gap — like last year, when OpenAI heavily pushed the new ChatGPT Apps SDK, allowing controls for other apps, like Zillow, Spotify, and Canva, to surface within the chatbot experience.\nAeon could be simply one of several things announced at OpenAI’s event. Other rumors include potential updates on the AI hardware device(s) the company is building with famed ex-Apple designer Jony Ive, a potential advancement of GPT-6 (like Astra 6.1, for instance), a hardware update, and maybe even more AGI claims. A continuously running AI agent would tie a lot of this together, which is why it’s likely OpenAI’s next big bet, particularly as the company says goodbye to “side quests.” The question is how it’ll stack up against OpenAI’s cheap, heavily integrated competitors’ agents, particularly under the immense pressure of its upcoming IPO."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 183
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
