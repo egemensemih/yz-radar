@@ -1,0 +1,59 @@
+{
+  "id": "455aec37ba",
+  "created_at": "2026-09-28T14:05:39Z",
+  "title": "Instinct yapay zeka girişimi 10 milyar dolar değerlemeye ulaştı",
+  "summary": "AI asistanı Instinct, 1 milyar dolarlık yeni yatırım turuyla değerlemesini 10 milyar dolara taşıdı. Şirket, kişisel görevleri otonom şekilde yerine getiren yapay zeka ajanları geliştiriyor.",
+  "body": "Instinct yapay zeka girişimi, yatırım turunda 1 milyar dolar fon alarak şirket değerlemesini 10 milyar dolara yükselttiğini duyurdu. Sequoia Capital, Benchmark Capital ve Coatue gibi önemli yatırımcıların katıldığı bu Seri C finansman turu, şirketin bir ay önceki 2,5 milyar dolarlık değerlemesinden sonra gerçekleşen hızlı bir büyüme hamlesi olarak dikkat çekiyor.\n\n## Kişisel yapay zeka ajanları ne yapabilir?\n\nAğustos 2026'da davetiye usulüyle kullanıma sunulan Instinct, sadece sorulara yanıt vermekle kalmayan, kullanıcılar adına somut işlemler gerçekleştirebilen bir asistan olma hedefiyle tasarlandı. Platform, kullanıcıların seyahat planları oluşturma, restoran rezervasyonu yapma, fatura ödeme ve abonelik iptali gibi günlük işlerini yönetebiliyor. Şirket kısa süre önce, çevrim içi rezervasyon seçeneği sunmayan yerler için telefon aramaları yapabilen \"concierge\" özelliğini ve kullanıcıların asistanlarının birbirleriyle iletişim kurmasını sağlayan \"güvenilir kişi ağı\" sistemini devreye aldı.\n\n## Rekabet ve gizlilik kaygıları\n\nInstinct, hızla büyüyen pazar payına rağmen Meta'nın Muse adlı yapay zeka asistanı ile ciddi bir rekabetle karşı karşıya. Muse, Instagram ve Facebook gibi platformlarla entegre çalışarak mesaj takibi ve sosyal ağ yönetimi gibi ek avantajlar sunuyor. Muse'un aksine bir mobil uygulaması bulunmayan Instinct, iletişimini SMS ve mesajlaşma üzerinden yürütüyor. Öte yandan, Instinct'in kullanıcıların kişisel verilerine erişimi, başlangıçta gizlilik politikası üzerinden tartışmalara yol açmıştı; şirket, gelen tepkiler üzerine bu politikayı güncelledi.\n\n**Neden önemli?** Instinct'in kısa sürede ulaştığı yüksek değerleme, tüketicilerin karmaşık günlük görevleri otomatikleştirebilen yapay zeka arayışındaki hızlı değişimi ve bu alandaki yoğun yatırımcı ilgisini yansıtıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Instinct",
+    "Meta",
+    "Muse",
+    "yatirim",
+    "yapay-zeka-ajanlari"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Instinct 10 milyar dolarlık değerlemeye ulaştı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "10 milyar $",
+  "hero_stat_label": "şirket değerlemesi",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of smooth, matte ceramic spheres connected by thin, metallic filaments arranged in a balanced, floating mobile structure inside a dimly lit room, suggesting connectivity and complex personal task management.",
+  "focus_keyword": "Instinct yapay zeka",
+  "seo_title": "Instinct yapay zeka girişimi 10 milyar dolar değerleme aldı",
+  "meta_description": "Kişisel görevleri yöneten Instinct yapay zeka girişimi, 1 milyar dolarlık yeni yatırımla değerlemesini 10 milyar dolara yükseltti.",
+  "seo_slug": "instinct-yapay-zeka-10-milyar-dolar-degerleme",
+  "image_alt": "Soyut metalik kürelerden oluşan dengeli bir yapay zeka ağını temsil eden heykel.",
+  "cover_text": "Instinct",
+  "importance": 9,
+  "triage_reason": "Yapay zeka ajanı geliştiren bir şirketin aldığı çok yüksek tutarlı yatırım.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-09-28T13:38:48Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 153
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "instinct-yapay-zeka-10-milyar-dolar-degerleme",
+  "published_at": "2026-09-28T14:05:57Z",
+  "publish_mode": "auto"
+}
