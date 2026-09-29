@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-29T05:05:38Z",
+  "last_collect": "2026-09-29T05:20:49Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:46Z",
       "count": 1234
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:46Z",
       "count": 11
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 869
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 365,
+      "fails": 366,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:47Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-09-29T05:05:38Z",
+      "last_ok": "2026-09-29T05:20:49Z",
       "count": 20
     }
   },
@@ -141,20 +141,22 @@
       "auto": 11
     },
     "2026-09-29": {
-      "tok_in": 19963,
-      "tok_out": 5770,
+      "tok_in": 23922,
+      "tok_out": 6860,
       "cost_usd": 0.0,
-      "drafts": 5,
-      "published": 1,
-      "auto": 1,
+      "drafts": 6,
+      "published": 2,
+      "auto": 2,
       "expired": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-09-29T04:55:39Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/anthropic-halka-arz-izahnamesi-riskler-ve-mali-veriler/"
+  ],
+  "last_build": "2026-09-29T05:25:24Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
