@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T09:06:34Z",
+  "last_collect": "2026-10-29T09:21:21Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:13Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:33Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 381,
+      "fails": 382,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:34Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:06:34Z",
+      "last_ok": "2026-10-29T09:21:14Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 3,
+      "fails": 4,
       "last_ok": "2026-09-29T08:20:58Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -152,10 +152,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 23797,
-      "tok_out": 10857,
+      "tok_in": 29323,
+      "tok_out": 12659,
       "cost_usd": 0.0,
-      "drafts": 6,
+      "drafts": 8,
       "published": 2,
       "auto": 2
     }
@@ -167,66 +167,6 @@
   "last_build": "2026-10-29T09:11:43Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i56"
-        ],
-        "topic": "Nvidia and AMD to invest $4 billion in Meta",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 8,
-        "category": "sirketler",
-        "reason": "Nvidia ve AMD'nin Meta'ya toplam 4 milyar dolarlık yatırım yapacak olması."
-      },
-      "items": [
-        {
-          "key": "2bd5a2731a8c07e0",
-          "source": "Webrazzi",
-          "kind": "media",
-          "credit": "Webrazzi",
-          "url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/",
-          "via": null,
-          "via_url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/#comments",
-          "title": "Nvidia ve AMD, Meta'ya toplam 4 milyar dolar yatırım yapacak",
-          "summary": "Nvidia ve AMD, Meta ile yapay zeka alanındaki iş birliklerini genişletirken şirkete toplam 4 milyar dolarlık yatırım yapmaya hazırlanıyor. Nvidia, 3 milyar dolarlık Meta hissesi satın almayı planlarke...",
-          "published": "2026-10-28T07:00:00Z",
-          "html_source": false,
-          "tid": "i56"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i18"
-        ],
-        "topic": "Anthropic invests $100M to train 10,000 engineers",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "sirketler",
-        "reason": "Yapay zeka yetenek açığını kapatmak için 100 milyon dolarlık eğitim yatırımı."
-      },
-      "items": [
-        {
-          "key": "bc371631f4a4bebb",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/claude-frontier-academy",
-          "via": null,
-          "via_url": null,
-          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i18"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [

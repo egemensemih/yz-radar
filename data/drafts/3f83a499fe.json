@@ -1,0 +1,69 @@
+{
+  "id": "3f83a499fe",
+  "status": "pending",
+  "created_at": "2026-10-29T09:24:54Z",
+  "title": "Nvidia ve AMD yatırımı ile Meta altyapısını güçlendiriyor",
+  "summary": "Nvidia ve AMD, Meta'nın büyük ölçekli veri merkezi projelerini desteklemek amacıyla şirketten toplam 4 milyar dolarlık hisse satın almayı planlıyor.",
+  "body": "Nvidia ve AMD, Meta ile yapay zeka altyapısına yönelik ortaklıklarını genişleterek şirkete toplam 4 milyar dolarlık hisse yatırımı yapmaya hazırlanıyor. 28 Ekim'de aktarılan planlara göre gerçekleşecek bu Nvidia ve AMD yatırımı, Meta'nın yeni nesil işlemci ve sunucu teknolojilerine erişimini teminat altına alırken devasa altyapı projelerinin finansmanına katkı sağlayacak.\n\n## Nvidia ve AMD yatırımı veri merkezlerini finanse edecek\n\nSöz konusu hisse alımları, Meta'nın veri merkezi yatırımlarını karşılamak üzere hazırladığı ve toplam büyüklüğü 95 milyar dolara kadar çıkabilecek kapsamlı hisse satış planının bir parçası olarak yürütülüyor. Anlaşma uyarınca Nvidia 3 milyar dolarlık, AMD ise 1 milyar dolarlık Meta hissesi almayı hedefliyor. Sürece Broadcom'un da ilgi gösterdiği ve üç çip üreticisinin toplam yatırımının 5 milyar dolara ulaşabileceği belirtiliyor.\n\nMeta'nın iki aşamalı finansman planının ilk etabında 35 milyar dolarlık kaynak yaratılması öngörülüyor. Bu tutarın yaklaşık üçte ikisi adi hisse satışıyla, geri kalanı ise adi hisseye dönüşebilir menkul kıymetlerle toplanacak. Şirket, 2027 yılının başında devreye girecek ikinci aşamayla zaman içinde 60 milyar dolarlık ek hisse satışı yapmayı planlıyor.\n\n## Donanım ve yazılım entegrasyonu derinleşiyor\n\nFinansal ortaklığın karşılığında Meta, her iki üreticinin donanım ve ağ çözümlerini veri merkezlerinde daha geniş ölçekte devreye alacak:\n\n- Meta, Muse model ailesinin eğitimi ve çıkarımı için Nvidia'nın **Vera Rubin** platformu ile Vera merkezi işlemcilerini kullanacak; altyapıyı Spectrum-X Ethernet ve BlueField-4 veri işleme birimleriyle destekleyecek.\n- AMD tarafında ise şirketin yeni **Helios** sunucu sistemleri Meta altyapısında test edilmeye başlandı ve yakın dönemde yaygın kullanıma geçilecek.\n- Meta, kendi iş yükleri için AMD Instinct mimarisine dayalı özel bir grafik işlemci kullanırken gelecekteki MI500 serisi sistemlerin geliştirilmesine ve altıncı nesil EPYC işlemcilerin yaygınlaşmasına katkı sağlayacak.\n- Yazılım katmanında ise PyTorch, Triton ve ROCm optimizasyonlarıyla yapay zeka operasyonlarının toplam sahip olma maliyetinin düşürülmesi hedefleniyor.\n\n**Neden önemli?** Yapay zeka modellerinin artan bilgi işlem talebi, bulut devleri ile donanım tedarikçilerini yalnızca müşteri-satıcı ilişkisinde tutmayıp doğrudan sermaye ve ortak mimari geliştirmeye dayalı stratejik ittifaklara yönlendiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Meta",
+    "Nvidia",
+    "AMD",
+    "Broadcom",
+    "veri merkezleri"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia ve AMD'den Meta'ya 4 milyar dolar",
+  "kicker": "Donanım ortaklığı",
+  "hero_stat": "4 milyar $",
+  "hero_stat_label": "toplam hisse yatırımı",
+  "visual_style": "sculpture",
+  "visual_scene": "three interlocking geometric monolithic blocks made of dark polished titanium, frosted glass, and brushed copper, resting firmly on an architectural slate pedestal under focused overhead studio lighting",
+  "focus_keyword": "Nvidia ve AMD yatırımı",
+  "seo_title": "Nvidia ve AMD yatırımı: Meta'ya 4 milyar dolar",
+  "meta_description": "Nvidia ve AMD yatırımı ile Meta'ya 4 milyar dolarlık sermaye aktarılıyor. Yapay zeka veri merkezleri ve sunucu ortaklığının tüm ayrıntıları haberimizde.",
+  "seo_slug": "nvidia-ve-amd-yatirimi-metaya-4-milyar-dolar",
+  "image_alt": "Büyük altyapı iş birliğini simgeleyen interlocking metal ve cam prizmatik heykeller",
+  "cover_text": "Meta",
+  "importance": 8,
+  "triage_reason": "Nvidia ve AMD'nin Meta'ya toplam 4 milyar dolarlık yatırım yapacak olması.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/",
+      "title": "Nvidia ve AMD, Meta'ya toplam 4 milyar dolar yatırım yapacak",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/#comments",
+      "published": "2026-10-28T07:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Nvidia ve AMD, Meta'ya toplam 4 milyar dolar yatırım yapacak",
+      "url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/",
+      "published": "2026-10-28T07:00:00Z",
+      "summary": "Nvidia ve AMD, Meta ile yapay zeka alanındaki iş birliklerini genişletirken şirkete toplam 4 milyar dolarlık yatırım yapmaya hazırlanıyor. Nvidia, 3 milyar dolarlık Meta hissesi satın almayı planlarke...",
+      "text": "Nvidia ve AMD, Meta ile yapay zeka alanındaki iş birliklerini genişletirken şirkete toplam 4 milyar dolarlık yatırım yapmaya hazırlanıyor. Nvidia, 3 milyar dolarlık Meta hissesi satın almayı planlarken AMD'nin yatırımı 1 milyar dolar olacak. Anlaşmalar kapsamında Meta da iki şirketin işlemci, ağ ve sunucu teknolojilerinin kullanımını artıracak.\nHisse alımları, Meta'nın veri merkezi yatırımlarını finanse etmek için hazırladığı, toplam büyüklüğü 95 milyar dolara kadar ulaşabilecek hisse satışının parçası olacak. Meta, Nvidia ve AMD'nin yanı sıra Broadcom'un da hisse alımına ilgi gösterdiğini açıklamıştı. Üç çip şirketinin toplam yatırımının 5 milyar dolara ulaşması beklenirken Broadcom'un ne kadarlık hisse alacağı ayrıca duyurulmadı.\nMeta'nın finansman planının ilk aşamasında toplam 35 milyar dolarlık işlem gerçekleştirilmesi öngörülüyor. Bu tutarın yaklaşık üçte ikisinin adi hisse satışından, kalan bölümünün ise daha sonra adi hisseye dönüşecek menkul kıymetlerden sağlanması planlanıyor. Şirket, ardından 2027'nin başında başlayacak ve zaman içinde gerçekleştirilecek satışlarla 60 milyar dolara kadar ek kaynak toplamayı hedefliyor. Elde edilecek finansman, Meta'nın büyük ölçekli yapay zeka veri merkezlerinin inşasında kullanılacak.\nNvidia ile genişletilen ortaklık, Meta'nın Muse yapay zeka asistanı ve aynı adı taşıyan model ailesinin eğitim ve çıkarım performansına odaklanıyor. Şirketler, modellerin çalıştırıldığı altyapıdan yazılım iş akışlarına kadar farklı katmanlarda optimizasyon yaparak performansı artırmayı ve toplam sahip olma maliyetini düşürmeyi amaçlıyor. Meta, bu kapsamda Nvidia'nın Vera Rubin platformu ile Vera merkezi işlemcilerinin kullanımını genişletecek.\nİş birliğinin bir diğer ayağını veri merkezlerindeki ağ altyapısı oluşturuyor. Meta, Nvidia'nın Spectrum-X Ethernet çözümleri ve BlueField-4 veri işleme birimlerinin kullanımını artırmayı planlıyor. Bu teknolojiler, yapay zeka sistemleri arasındaki veri iletişiminin yanı sıra ağ, depolama ve güvenlik işlemlerinin yürütülmesinde kullanılıyor. Taraflar ayrıca yapay zeka ajanlarının güvenli biçimde çalıştırılmasına yönelik OpenShell Reference Architecture üzerinden yeni iş birliği olanaklarını değerlendirecek.\nAMD ile yapılan anlaşma ise işlemcilerden grafik işlemcilere, ağ teknolojilerinden yazılıma uzanan mevcut ortaklığı genişletiyor. AMD'nin açıklamasına göre ilk Helios sunucu sistemleri Meta'nın altyapısına yerleştirildi ve test edilmeye başlandı. Şirketler, bu ilk kurulumların ardından yakın dönemde daha geniş çaplı kullanıma geçmeyi planlıyor. Meta ayrıca kendi iş yükleri için optimize edilmiş, AMD Instinct mimarisine dayanan özel bir grafik işlemci kullanacak. Bu çalışmaların AMD'nin gelecekteki MI500 serisi ve yeni nesil sunucu sistemlerinin geliştirilmesine de katkı sağlaması bekleniyor.\nMeta'nın AMD teknolojilerini kullanımı yeni sistemlerle sınırlı değil. Şirket, altyapısında farklı nesillerden milyonlarca EPYC işlemci kullanırken altıncı nesil EPYC işlemcilerin de öncü müşterileri arasında yer alıyor. AMD'nin Instinct grafik işlemcileri ise Meta'nın model eğitimi, sıralama ve öneri sistemlerinde kullanılıyor. Ortaklığın yazılım tarafında PyTorch, Triton ve ROCm üzerinde yürütülen çalışmalar da büyük ölçekli yapay zeka iş yüklerinin daha verimli çalıştırılmasını hedefliyor.\nGörsel: ChatGPT"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 211
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
