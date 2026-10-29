@@ -1,0 +1,59 @@
+{
+  "id": "1d06679ebf",
+  "created_at": "2026-10-29T14:47:21Z",
+  "title": "Wabi yeni yatırımla 1,25 milyar dolar değerlemeye ulaştı",
+  "summary": "Mini uygulamalar oluşturan kişisel yapay zeka ajanı Wabi, yeni yatırım turunda 55 milyon dolar toplayarak 1,25 milyar dolar değerlemeye ulaştı.",
+  "body": "TechCrunch'ın aktardığına göre, kullanıcıların yönlendirmelerle mini uygulamalar oluşturmasını sağlayan Wabi yeni yatırım turunda 55 milyon dolar topladı. Şirketin kurucusu Eugenia Kuyda daha önce Replika adlı yapay zeka arkadaşı girişimini de kurmuştu. Geçtiğimiz ay bir yön değişikliğine giderek yapay zeka mesajlaşma uygulaması olacağını duyuran Wabi, artık kendisini bir kişisel ajan olarak tanımlıyor.\n\n## Yeni nesil kişisel ajan\n\nWabi'nin yeni versiyonu, kullanıcıların işlerini halletmesi için gereken arayüzleri oluşturabilen kişisel bir yapay zeka ajanı olarak görev yapıyor. Şirketin açıklamalarına göre bu sistem şu alanlarda mini uygulamalar geliştirmek amacıyla kullanılabiliyor:\n\n* Yemek planlaması\n* Yerel restoran takibi ve buluşma gecesi planlama\n* Fitness programları hazırlama\n* Özelleştirilmiş bilgi yarışması oyunları tasarlama\n\nIVP genel ortağı Alex Lim, yatırım turuyla ilgili açıklamasında Eugenia Kuyda'nın yapay zekanın geleceği konusunda benzersiz bir sezgiye sahip olduğunu belirtti. IVP'nin liderlik ettiği bu yatırım turuna Andreessen Horowitz (a16z), Forerunner, Amazon Alexa Fund ve aralarında Tobi Lütke ile Marc Benioff'un da bulunduğu çok sayıda iş insanı katıldı.\n\n**Neden önemli?** Yapay zeka ajanları pazarının hızla büyüdüğü bu dönemde gelen 55 milyon dolarlık bu finansman, yatırımcıların Wabi'nin yeni yönelimine güvendiğini gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Wabi",
+    "Eugenia Kuyda",
+    "IVP",
+    "Replika",
+    "Andreessen Horowitz"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Wabi 1,25 milyar dolar değerlemeye ulaştı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "1,25 milyar $",
+  "hero_stat_label": "şirket değerlemesi",
+  "visual_style": "studio",
+  "visual_scene": "a sculptural arrangement of matte white ceramic blocks shaped like miniature building facades, with a single slender column of polished brass rising through the center, soft neutral shadows against a warm stone backdrop",
+  "focus_keyword": "Wabi değerleme",
+  "seo_title": "Wabi yeni yatırım turunda 1,25 milyar dolar değerlemeye ulaştı",
+  "meta_description": "Kişisel yapay zeka ajanı Wabi, yeni yatırım turunda 55 milyon dolar toplayarak değerlemesini 1,25 milyar dolara çıkardı.",
+  "seo_slug": "wabi-yeni-yatirimla-1-25-milyar-dolar-degerlemeye-ulasti",
+  "image_alt": "Minimalist beyaz seramik bloklar ve merkezinde parlayan pirinç sütun ile Wabi değerleme artışını simgeleyen stüdyo görseli",
+  "cover_text": "Wabi",
+  "importance": 7,
+  "triage_reason": "Yapay zeka asistanı geliştiren Wabi, 1.25 milyar dolar değerlemeye ulaşarak unicorn oldu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T14:35:26Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 241
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "wabi-yeni-yatirimla-1-25-milyar-dolar-degerlemeye-ulasti",
+  "published_at": "2026-10-29T14:47:24Z",
+  "publish_mode": "auto"
+}
