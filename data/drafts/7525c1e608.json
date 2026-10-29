@@ -1,0 +1,69 @@
+{
+  "id": "7525c1e608",
+  "status": "pending",
+  "created_at": "2026-10-29T12:36:08Z",
+  "title": "Hugging Face, Apple platformları için yeni açık ses ve karar modellerini duyurdu",
+  "summary": "Hugging Face, Apple platformlarında yerel olarak çalışan açık kaynaklı konuşma tanıma ve karar verme paketleri olan AnySpeechRecognizer ile AnyDecisionModel'i duyurdu.",
+  "body": "Hugging Face'in duyurusuna göre, Apple platformları için geliştirilen **AnySpeechRecognizer** ve AnyDecisionModel adlı iki yeni açık kaynak paket bugün itibarıyla yayımlandı. Bu yeni araçlar, geliştiricilere Swift API'leri üzerinden konuşma tanıma ve karar verme süreçlerinde farklı motor seçenekleri sunuyor.\n\n## AnySpeechRecognizer neler sunuyor?\n\nAnySpeechRecognizer, Apple'ın yeni konuşmadan metne dönüştürme API'sini temel alırken geliştiricilere farklı tanıma motorları seçme imkânı tanıyor. Paket, **NVIDIA** tarafından geliştirilen Parakeet ve Alibaba'nın Qwen3-ASR modellerini Core ML üzerinde yerel olarak çalıştırabiliyor. Ayrıca Apple'ın çerçevesinde yer almayan konuşmacı ayrımı (speaker diarization) modülü de NVIDIA'nın Streaming Sortformer modeli aracılığıyla sisteme ekleniyor.\n\n## Karar modelleri ve teknik detaylar\n\nAnyDecisionModel ise metin üretmek yerine olasılıkları kullanarak evet-hayır, çoktan seçmeli ve derecelendirme ölçeğindeki soruları yanıtlıyor. Bu model cihaz üzerinde MLX, Core AI veya llama.cpp ile ya da Jev ve Ollama üzerinden çalışabiliyor. Modellerin indirme boyutları Parakeet için yaklaşık 600 MB, canlı kodlayıcı için 590 MB, Qwen3-ASR için 0,9 ile 2,4 GB ve Sortformer için yaklaşık 250 MB olarak açıklandı.\n\n**Neden önemli?** Açık kaynaklı ses ve karar modellerinin Apple platformlarına entegre edilmesi, geliştiricilerin cihaz üzerinde daha esnek, özelleştirilebilir ve alternatif motorlara sahip ses tanıma uygulamaları geliştirmesine olanak tanıyor.",
+  "category": "modeller",
+  "tags": [
+    "Hugging Face",
+    "Nvidia",
+    "Apple",
+    "Alibaba",
+    "Core ML"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Hugging Face'ten Apple için açık ses ve karar modelleri",
+  "kicker": "Yeni model",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte obsidian monolith standing upright on a pale concrete surface, intersected by a thin, glowing filament of warm white light that splits into multiple subtle pastel rays, casting soft shadows in a minimalist architectural room",
+  "focus_keyword": "AnySpeechRecognizer",
+  "seo_title": "Hugging Face Apple için AnySpeechRecognizer modelini duyurdu",
+  "meta_description": "Hugging Face, Apple platformları için geliştirilen AnySpeechRecognizer ve AnyDecisionModel açık kaynak paketlerini duyurdu.",
+  "seo_slug": "hugging-face-anyspeechrecognizer-ve-anydecisionmodel-duyurdu",
+  "image_alt": "Mat siyah bir monolit üzerinde yayılan zarif ışık çizgileriyle Hugging Face'in yeni açık ses modellerini temsil eden stüdyo…",
+  "cover_text": "AnySpeechRecognizer",
+  "importance": 7,
+  "triage_reason": "Hugging Face'in Apple platformlarına yönelik açık kaynaklı yeni ses ve karar modelleri duyurması önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T00:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Hugging Face"
+  ],
+  "source_texts": [
+    {
+      "credit": "Hugging Face",
+      "kind": "official",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "published": "2026-10-29T00:00:00Z",
+      "summary": "",
+      "text": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms\nLanguage models can do a lot. They write, summarize, translate, and call tools. But they're only a small part of what machine learning can do.\nSay a customer calls your support line. First, you want to know what they said (speech recognition). Then, you want to decide where to send them (decision). You could hand both to a language model, but there are models built for each that are better, faster, and less expensive.\nIn our AnyLanguageModel 1.0 recap, we looked at a year of local and hosted models in Swift. With AnyLanguageModel and swift-huggingface now on their 1.x releases, we're extending the same approach to speech and decisions: familiar Swift APIs with a choice of model.\nToday we're announcing two packages:\n- AnySpeechRecognizer implements Apple's new speech-to-text API with a choice of recognition engine, including NVIDIA's Parakeet and Alibaba's Qwen3-ASR running locally on Core ML, and adds speaker diarization to track who speaks when.\n- AnyDecisionModel answers yes-or-no, multiple-choice, and rating-scale questions with typed results and probabilities. It derives each answer from the model's probabilities instead of generating text, using a model on your device with MLX, Core AI, or llama.cpp, or a decision model from Jev or Ollama.\nBoth packages can download open models from the Hugging Face Hub and run them on device.\nComputers have been transcribing speech for decades,\nand in the past few years, they've gotten very good at it.\nApple platforms already have an API for it.\nmacOS 26 and iOS 26 introduced SpeechAnalyzer,\nApple's new speech-to-text API.\nYou add modules such as SpeechTranscriber and SpeechDetector to an analyzer,\ngive it a file or a stream of audio buffers,\nand read results from async sequences as they arrive.\nAssetInventory installs the models,\nso your app decides when downloads happen.\nIt's a well-designed API, but the only engine behind it is Apple's. AnySpeechRecognizer keeps the API and lets you choose the engine:\n- import Speech\n+ import AnySpeechRecognizer\nThe package mirrors SpeechAnalyzer, SpeechTranscriber, DictationTranscriber,\nSpeechDetector, and AssetInventory,\nwith Apple's Speech framework as the default engine.\nIf your code uses that shared API, changing the import is enough.\nTo use Parakeet instead,\nchange only how you create the transcriber:\nlet transcriber = SpeechTranscriber(\n    model: ParakeetSpeechModel(variant: .v3),\n    transcriptionOptions: [],\n    reportingOptions: [.volatileResults],\n    attributeOptions: [.audioTimeRange]\n)\nThe steps for installing assets, running the analyzer, and reading results stay the same. The README has a complete example and lists the differences from Apple's framework.\nParakeet v3 is NVIDIA's Parakeet TDT 0.6B v3. It's a polyglot: it recognizes 25 European languages and works out which one it's hearing, so you don't pass a locale.\nParakeet Ultra is Moondream's post-trained take on v3. It was more accurate in most of our measurements.\nParakeet Unified is NVIDIA's English-only Parakeet.\nAll three Parakeets run on the package's own Core ML runtime, which supports file and live input, volatile results, word timing, and word confidence.\nQwen3-ASR is Alibaba's speech model, in 0.6B and 1.7B sizes. It recognizes 30 languages and 22 Chinese dialects, including Mandarin, Cantonese, Japanese, and Korean, which Parakeet doesn't cover. It detects the language automatically, or you can set one:\nlet transcriber = SpeechTranscriber(\n    model: QwenSpeechModel(variant: .large, language: Locale.Language(identifier: \"yue\")),\n    transcriptionOptions: [],\n    reportingOptions: [],\n    attributeOptions: []\n)\nQwen3-ASR gives one final result for each segment of up to 40 seconds, without volatile results, word timing, or confidence. It runs on the GPU and is slower than Parakeet, so it's better suited to transcribing files than live input.\nTo add another engine, implement SpeechRecognitionModel for its configuration\nand SpeechRecognitionExecutor for one module's session.\nThe README includes a small provider\nthat reports placeholder text to help you get started.\nTo run these models in apps, we converted them to Core ML and published them on the Hub:\nEach repository records its source checkpoint and a checksum for every file, and the package pins it to a fixed revision. The Parakeet repositories add an 8-second encoder for live input, which cuts live analysis time by about a third at the cost of a somewhat higher word error rate. The repository also has the conversion workflows, most of which follow FluidInference's mobius scripts, and checks each conversion against the original model.\nDownloads happen only when your app asks for them: about 600 MB for each Parakeet, plus about 590 MB for the live encoder, 0.9 to 2.4 GB for Qwen3-ASR, and about 250 MB for Sortformer. Files go in the standard Hugging Face cache, so a Mac app outside the sandbox shares them with Python and other Hugging Face tools.\nWhen you transcribe a conversation,\nyou often want to know who said what.\nThat's speaker diarization,\nand Apple's Speech framework doesn't have a module for it,\nso AnySpeechRecognizer adds one.\nSpeakerDiarizer runs NVIDIA's\nStreaming Sortformer\non Core ML alongside an Apple or Parakeet transcriber,\non the same timeline:\nlet diarizer = SpeakerDiarizer(model: SortformerDiarizationModel())\nif let request = try await AssetInventory.assetInstallationRequest(\n    supporting: [transcriber, diarizer]\n) {\n    try await request.downloadAndInstall()\n}\nlet analyzer = SpeechAnalyzer(modules: [transcriber, diarizer])\nThe diarizer tracks up to four speakers,\neven when they talk over each other.\nA SpeakerTimeline collects its results\nand attributes each timed word to a speaker,\nso you can print a transcript by speaker turn.\nLike image support in AnyLanguageModel,\nthis goes beyond what Apple's API offers today.\nThe diarizer uses Sortformer v2 by default. You can also choose v2.1, which NVIDIA trained with more meeting data and which was more accurate on meetings in our measurements, too.\nWe measured the package with its hear command-line tool\non an M4 Max Mac Studio with macOS 27.0.1.\nHere are the word error rates on LibriSpeech files of 3 to 8 minutes:\nParakeet transcribes an hour of audio in about 20 to 40 seconds from a file, or about 1.5 to 2.5 minutes live, with about 100 MB of memory once Core ML has compiled the model. Qwen3-ASR is much slower and needs a few gigabytes of memory. Meetings are hard for everyone: on AMI recordings, where people talk over each other, every engine we tested had a word error rate above 23%.\nThese numbers come from one machine and a few datasets,\nso measure with your own hardware and audio.\nhear evaluate works on your own files,\nand the repository's natural-speech-eval.py tool\nreproduces these measurements.\nSo far, we've tested only on macOS 27, not on an iPhone.\nNext, we'd like to add more engin"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 236
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hugging Face"
+}
