@@ -41,10 +41,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-10-29T16:42:32Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T18:29:12Z"
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Ars Technica"
   ],
   "source_texts": [
     {

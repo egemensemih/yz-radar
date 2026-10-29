@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T18:16:00Z",
+  "last_collect": "2026-10-29T18:31:09Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 405,
+      "fails": 406,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:52Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:15:53Z",
+      "last_ok": "2026-10-29T18:31:07Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-29T18:16:00Z",
+      "last_ok": "2026-10-29T18:31:09Z",
       "count": 20
     }
   },
@@ -151,10 +151,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 137668,
-      "tok_out": 41890,
+      "tok_in": 142917,
+      "tok_out": 42953,
       "cost_usd": 0.0,
-      "drafts": 37,
+      "drafts": 38,
       "published": 10,
       "auto": 10
     }
@@ -166,36 +166,6 @@
   "last_build": "2026-10-29T17:50:50Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Real-time monitoring needed for AI agent actions",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "Yapay zeka ajanlarının güvenlik testlerindeki tehlikeli davranışları ve gerçek zamanlı denetim ihtiyacı inceleniyor."
-      },
-      "items": [
-        {
-          "key": "0c49eb4fc30298f0",
-          "source": "MIT Technology Review",
-          "kind": "media",
-          "credit": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-          "via": null,
-          "via_url": null,
-          "title": "We urgently need to monitor AI agents’ actions in real time",
-          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-          "published": "2026-10-29T10:11:12Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-29T10:37:02Z"
-    },
     {
       "story": {
         "item_ids": [
