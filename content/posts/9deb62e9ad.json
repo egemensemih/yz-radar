@@ -1,0 +1,58 @@
+{
+  "id": "9deb62e9ad",
+  "created_at": "2026-10-29T19:31:24Z",
+  "title": "Deepgram, ses altyapısı şirketi Daily'yi bünyesine kattı",
+  "summary": "Ses yapay zekası sektörünün önde gelen isimlerinden Deepgram, açık kaynaklı Pipecat altyapısının geliştiricisi Daily'yi satın aldığını duyurdu.",
+  "body": "Ses yapay zekası alanındaki konsolidasyon hamlelerine bir yenisi eklendi. TechCrunch'ın aktardığına göre, ses altyapısı şirketi Deepgram, popüler açık kaynaklı ses ve video altyapısı Pipecat'in üreticisi olan **Daily**'yi satın aldığını duyurdu. Taraflar anlaşmanın finansal detaylarını paylaşmazken, Pipecat'in tamamen açık kaynak kalmaya devam edeceğini belirtti.\n\n## Pipecat ve gerçek zamanlı altyapı\n\nGünlük sesli ve görüntülü görüşmeler için barındırılan altyapı sunan Daily, GPT-4'ün çıkış döneminde yapay zeka ile insan iletişimini deneyerek Pipecat çerçevesini geliştirmişti. Pipecat; konuşmadan metne dönüştürme, büyük dil modelleri ve metinden konuşmaya dönüştürme gibi bileşenleri yöneterek gecikmeyi azaltan bir çerçeve olarak biliniyor. Deepgram CEO'su Scott Stephenson, bu satın almanın geliştiricilerin farklı modelleri ve bir bağlam veri yolunu (context bus) entegre ederek uçtan uca konuşma sistemleri inşa etmesine olanak tanıyacağını ifade etti. Daily'nin kurucu ortağı Kwindla Kramer ise Deepgram'ın Pipecat'i sonsuza dek açık kaynaklı ve bağımsız tutma taahhüdünün bu kararda belirleyici olduğunu vurguladı.\n\n## Yeni açık protokol: RCS\n\nSatın alma hamlesiyle birlikte Deepgram, Pipecat ekibiyle birlikte geliştirdiği **Real-Time Context Standard (RCS)** adlı açık protokolü de tanıttı. Ses ajanları için tasarlanan bu protokol; ses akışındaki fısıltı gibi bağlamları, dil modeline iletilecek yönergeleri ve yanıtın nasıl ses çıkarması gerektiğine dair kılavuzları meta verilerle tanımlıyor. İki şirket geçmişte 2016 yılında aynı Y Combinator grubunda yer almıştı.\n\n**Neden önemli?** Ses yapay zekası sektörü, hem model hem de altyapı tarafında büyük yatırımlar ve ortaklıklarla hızla büyümeye devam ederken, bu satın alma Deepgram'ın gerçek zamanlı ses ve video altyapısındaki konumunu güçlendiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Deepgram",
+    "Daily",
+    "Pipecat",
+    "Y Combinator"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Deepgram, Pipecat üreticisi Daily'yi satın aldı",
+  "kicker": "Şirket birleşmesi",
+  "hero_stat": "62 milyon $",
+  "hero_stat_label": "Daily toplam yatırım",
+  "visual_style": "studio",
+  "visual_scene": "a single block of translucent frosted glass shaped like an abstract sound wave, resting on a matte dark stone surface, with soft warm light passing through it",
+  "focus_keyword": "Deepgram Daily satın alması",
+  "seo_title": "Deepgram, ses altyapısı Pipecat üreticisi Daily'yi satın aldı",
+  "meta_description": "Ses yapay zekası şirketi Deepgram, popüler açık kaynaklı Pipecat altyapısının geliştiricisi Daily'yi satın aldı. Detaylar YZ Radar'da.",
+  "seo_slug": "deepgram-daily-satin-almasi",
+  "image_alt": "Buzlu cam blok şeklinde soyut bir ses dalgası heykeli ve koyu renkli taş zemin",
+  "cover_text": "Deepgram Daily",
+  "importance": 6,
+  "triage_reason": "Deepgram'ın ses altyapısını güçlendirmek için Daily'yi satın alması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T13:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 263
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "deepgram-daily-satin-almasi",
+  "published_at": "2026-10-29T19:31:27Z",
+  "publish_mode": "auto"
+}
