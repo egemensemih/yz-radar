@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T08:35:45Z",
+  "last_collect": "2026-10-29T08:52:20Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 379,
+      "fails": 380,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:35:45Z",
+      "last_ok": "2026-10-29T08:52:15Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-09-29T08:20:58Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -152,94 +152,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 12227,
-      "tok_out": 7076,
+      "tok_in": 18951,
+      "tok_out": 9032,
       "cost_usd": 0.0,
-      "drafts": 2
+      "drafts": 4,
+      "published": 1,
+      "auto": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T08:42:53Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/microsoft-azure-geliri-ilk-kez-aciklandi/"
+  ],
+  "last_build": "2026-10-29T08:57:14Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i55"
-        ],
-        "topic": "Google DeepMind introduces Genie 4 interactive world model",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 9,
-        "category": "modeller",
-        "reason": "Google DeepMind'ın gerçek zamanlı etkileşimli dünya modeli Genie 4'ü duyurması."
-      },
-      "items": [
-        {
-          "key": "98ec8f3a15b3aa85",
-          "source": "Webrazzi",
-          "kind": "media",
-          "credit": "Webrazzi",
-          "url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/",
-          "via": null,
-          "via_url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/#comments",
-          "title": "Google, ses üretebilen ve gerçek zamanlı yönlendirilebilen dünya modeli Genie 4'ü tanıttı",
-          "summary": "Google DeepMind, gerçek zamanlı etkileşimli simülasyonlar oluşturan yeni dünya modeli Genie 4’ü duyurdu. Araştırma ön izlemesi kapsamında sınırlı bir test grubuna açılan model, daha gerçekçi görseller...",
-          "published": "2026-10-28T08:00:00Z",
-          "html_source": false,
-          "tid": "i55"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i27",
-          "i31"
-        ],
-        "topic": "Microsoft reports record quarterly revenue driven by cloud and AI",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 8,
-        "category": "sirketler",
-        "reason": "Microsoft'un rekor gelir ve Azure gelirlerini açıklaması."
-      },
-      "items": [
-        {
-          "key": "1134b6a1764aac4f",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-          "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-          "published": "2026-10-28T21:58:32Z",
-          "html_source": false,
-          "tid": "i27"
-        },
-        {
-          "key": "0ef91bd8c8c1525a",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-          "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-          "published": "2026-10-28T21:25:30Z",
-          "html_source": false,
-          "tid": "i31"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -1143,32 +1072,32 @@
     {
       "story": {
         "item_ids": [
-          "i64"
+          "i2"
         ],
-        "topic": "Researchers grow frustrated with OpenAI's approach to breakthrough research",
+        "topic": "Anthropic introduces Life Sciences Verification Program",
         "ai_related": true,
         "duplicate_of": "",
         "importance": 6,
-        "category": "arastirma",
-        "reason": "Araştırmacıların OpenAI'ın bilimsel bulguları paylaşım politikalarından duyduğu rahatsızlık."
+        "category": "sirketler",
+        "reason": "Yasam bilimleri alaninda yeni yapay zeka dogrulama programi duyurusu."
       },
       "items": [
         {
-          "key": "2df56fbd08a37523",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "key": "819f22112f1be3fa",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/life-sciences-verification-program",
           "via": null,
           "via_url": null,
-          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-          "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
-          "published": "2026-10-27T20:48:58Z",
-          "html_source": false,
-          "tid": "i64"
+          "title": "Introducing the Life Sciences Verification Program",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i2"
         }
       ],
-      "at": "2026-10-29T08:36:00Z"
+      "at": "2026-10-29T08:52:21Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"

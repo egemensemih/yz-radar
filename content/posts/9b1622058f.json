@@ -1,0 +1,68 @@
+{
+  "id": "9b1622058f",
+  "created_at": "2026-10-29T08:53:05Z",
+  "title": "Microsoft ilk kez Azure gelirini açıkladı: 33,2 milyar dolar",
+  "summary": "Microsoft, Temmuz-Eylül döneminde Azure gelirinin 33,2 milyar dolara ulaştığını ilk kez net olarak açıkladı. Şirketin toplam geliri ise 92,3 milyar dolara çıktı.",
+  "body": "Microsoft ilk kez Azure gelirini dolar cinsinden kamuoyuyla paylaşarak Temmuz-Eylül döneminde **33,2 milyar dolar** gelir elde edildiğini duyurdu. TechCrunch'ın aktardığına göre, daha önce yalnızca büyüme oranları veya yaklaşık ifadeler kullanan şirket, bu hamleyle yatırımcıların bulut biriminin performansını rakipleriyle doğrudan karşılaştırmasına olanak tanıdı.\n\n## Rekor gelir ve bulut büyümesi\n\nŞirket tarafından yapılan açıklamaya göre Microsoft, son 10 çeyrektir üst üste rekor gelir açıklamaya devam ediyor. Temmuzu kapsayan çeyrekte toplam gelir %19 artışla 92,3 milyar dolara ulaşırken, net gelir %32 artışla 36,6 milyar dolara çıktı. Microsoft CFO'su Amy Hood'un daha önce öngördüğü %44 ile %45'lik büyüme tahminini aşan Azure, yıllık bazda %48 büyüme kaydetti.\n\n## Yeni segmentler ve rakip kıyaslamaları\n\nAlphabet'in açıkladığı verilere göre aynı dönemde Google Cloud 30,7 milyar dolar gelir elde etti. Bu sonuçla Azure, Google Cloud'u az bir farkla geride bırakırken, Google Cloud'un gelirini yaklaşık iki katına çıkardığı belirtildi. Microsoft ayrıca iş raporlama yapısını değiştirerek \"Agents and Infra\" ve \"Devices and Consumer\" olmak üzere iki yeni segment tanıttı. Azure'un da yer aldığı Agents and Infra segmenti 76,8 milyar dolar gelir getirdi.\n\n**Neden önemli?** Azure gelirinin ilk kez net olarak açıklanması, şirketlerin bulut ve yapay zeka altyapı yarışındaki finansal performanslarının daha şeffaf bir şekilde kıyaslanmasını sağlıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "Azure",
+    "Google Cloud",
+    "Alphabet",
+    "OpenAI"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Microsoft Azure geliri ilk kez açıklandı",
+  "kicker": "Finansal sonuçlar",
+  "hero_stat": "33,2 milyar $",
+  "hero_stat_label": "Azure çeyreklik geliri",
+  "visual_style": "studio",
+  "visual_scene": "a dense cluster of polished basalt pillars rising from a dark slate surface, illuminated by a single warm overhead beam that catches the fine crystalline edges",
+  "focus_keyword": "Microsoft Azure geliri",
+  "seo_title": "Microsoft Azure geliri ilk kez açıklandı: 33,2 milyar dolar",
+  "meta_description": "Microsoft ilk kez Azure gelirini dolar cinsinden açıklayarak 33,2 milyar dolara ulaştığını duyurdu. Şirket son çeyrekte rekor kırdı.",
+  "seo_slug": "microsoft-azure-geliri-ilk-kez-aciklandi",
+  "image_alt": "Karanlık bir zemin üzerinde yükselen cilalı bazalt sütunlar, Microsoft'un bulut gelirini temsil eden stüdyo görseli",
+  "cover_text": "Azure 33,2B $",
+  "importance": 8,
+  "triage_reason": "Microsoft'un rekor gelir ve Azure gelirlerini açıklaması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T21:58:32Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T21:25:30Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 204
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "microsoft-azure-geliri-ilk-kez-aciklandi",
+  "published_at": "2026-10-29T08:53:06Z",
+  "publish_mode": "auto"
+}

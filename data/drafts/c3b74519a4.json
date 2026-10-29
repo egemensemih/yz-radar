@@ -1,0 +1,69 @@
+{
+  "id": "c3b74519a4",
+  "status": "pending",
+  "created_at": "2026-10-29T08:52:49Z",
+  "title": "Google Genie 4 gerçek zamanlı ses ve simülasyon yetenekleriyle duyuruldu",
+  "summary": "Google DeepMind, ses üretebilen ve doğal dil komutlarıyla gerçek zamanlı yönlendirilebilen yeni dünya modeli Genie 4'ü sınırlı bir test grubunun erişimine açtı.",
+  "body": "Google DeepMind, gerçek zamanlı ve etkileşimli simülasyonlar oluşturabilen yeni dünya modeli **Google Genie 4** duyurusunu gerçekleştirdi. 28 Ekim'de araştırma ön izlemesi kapsamında sınırlı bir test grubuna sunulan model, görsel üretimin yanı sıra eş zamanlı ses üretimi ve doğal dil komutlarıyla sahneleri yönlendirme imkanı veriyor.\n\n## Google Genie 4 neler sunuyor?\nGenie 4, kullanıcıların simülasyon akarken kamera açısını değiştirmelerine, hava koşullarını ayarlamalarına veya ortama yeni karakterler eklemelerine olanak tanıyor. Model, oluşturulan sahneye uygun çevresel sesleri, müzikleri ve etkileşimli diyalogları anlık olarak üretebiliyor. Aerodinamik ile çarpışma gibi fiziksel etkileşimlerde ve insan hareketlerinin simülasyonunda ilerleme kaydeden model, sahne tutarlılığını iki dakikaya kadar koruyabiliyor. Bu süre, önceki versiyonun sunduğu sınırın iki katına denk geliyor.\n\n## Gemini entegrasyonu ve sınırlılıklar\nGeliştirilme sürecinde Gemini ailesinin yeteneklerinden faydalanılan modelde, **Gemini Omni** simülasyonların gerçek dünyadaki görünüm ve davranışlarla uyumunu destekliyor. Diğer Gemini modelleri ise mantıksal akıl yürütme ve sürekliliğin korunması görevlerini üstleniyor. Modelin film yapımı, oyun geliştirme ve robotik eğitim ortamlarında kullanılması hedefleniyor. Test kullanıcıları, ön görselleştirme ve hızlı prototipleme süreçlerinde modeli değerlendiriyor.\n\nHenüz deneysel aşamada olan Genie 4'te simülasyon süresi uzadıkça veya karmaşık değişiklikler yapıldıkça görsel ayrıntılarda bozulmalar yaşanabiliyor. Google, üretilen tüm içeriklere tespit edilebilirlik sağlayan SynthID filigranının ekleneceğini bildiriyor. Modelin yakında Project Genie üzerinden Google AI Ultra abonelerine, ayrıca Gemini API ve Google AI Studio erken erişim ortaklarına açılması planlanıyor.\n\n**Neden önemli?** Dünya modellerinin ses ve fiziksel etkileşim boyutunu eş zamanlı simüle edebilmesi, yapay zeka ajanları ile sanal içerik üretimi için daha bütünleşik test ortamları oluşturulmasını kolaylaştırıyor.",
+  "category": "modeller",
+  "tags": [
+    "Google DeepMind",
+    "Genie 4",
+    "Gemini Omni",
+    "dünya modelleri",
+    "Google AI Studio"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google, gerçek zamanlı dünya modeli Genie 4'ü tanıttı",
+  "kicker": "Yeni model",
+  "hero_stat": "2 dakika",
+  "hero_stat_label": "sahne tutarlılığı süresi",
+  "visual_style": "sculpture",
+  "visual_scene": "An abstract arrangement of translucent glass spheres and smooth metallic ribbons swirling in a weightless space, with subtle gradients of soft teal and warm amber light casting gentle shadows across a clean, neutral background.",
+  "focus_keyword": "Google Genie 4",
+  "seo_title": "Google Genie 4 duyuruldu: Ses ve simülasyon yetenekleri",
+  "meta_description": "Google Genie 4 duyuruldu. Yeni dünya modeli gerçek zamanlı ses üretimi, doğal dil komutları ve iki dakikalık sahne tutarlılığı sunuyor.",
+  "seo_slug": "google-genie-4-dunya-modelini-duyurdu",
+  "image_alt": "Süzülen cam ve metalik şekiller: Google Genie 4 dünya modelini temsil eden soyut görsel",
+  "cover_text": "Genie 4",
+  "importance": 9,
+  "triage_reason": "Google DeepMind'ın gerçek zamanlı etkileşimli dünya modeli Genie 4'ü duyurması.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/",
+      "title": "Google, ses üretebilen ve gerçek zamanlı yönlendirilebilen dünya modeli Genie 4'ü tanıttı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/#comments",
+      "published": "2026-10-28T08:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Google, ses üretebilen ve gerçek zamanlı yönlendirilebilen dünya modeli Genie 4'ü tanıttı",
+      "url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/",
+      "published": "2026-10-28T08:00:00Z",
+      "summary": "Google DeepMind, gerçek zamanlı etkileşimli simülasyonlar oluşturan yeni dünya modeli Genie 4’ü duyurdu. Araştırma ön izlemesi kapsamında sınırlı bir test grubuna açılan model, daha gerçekçi görseller...",
+      "text": "Google DeepMind, gerçek zamanlı etkileşimli simülasyonlar oluşturan yeni dünya modeli Genie 4’ü duyurdu. Araştırma ön izlemesi kapsamında sınırlı bir test grubuna açılan model, daha gerçekçi görsellerin yanı sıra simülasyonla eş zamanlı ses üretimi ve doğal dil komutlarıyla sahneleri yönlendirme özellikleri sunuyor.\nGenie 4 ile kullanıcılar, simülasyon devam ederken kamera açısını değiştirebiliyor, hava koşullarına müdahale edebiliyor veya sahneye yeni karakterler ekleyebiliyor. Model, oluşturduğu ortama uygun çevresel sesleri, müziği ve etkileşimli diyalogları da anlık olarak üretiyor. Böylece kullanıcıların müdahaleleri, sahnenin hem görsel hem de işitsel akışını şekillendirebiliyor.\nGoogle’a göre yeni model, fiziksel etkileşimlerin ve insan hareketlerinin simülasyonunda da ilerleme kaydediyor. Aerodinamik ve çarpışma gibi olayların daha gerçekçi modellenmesi hedeflenirken, karakterler çevrelerine daha doğal tepkiler verebiliyor.Paylaşılan bilgilere göre Genie 4, sahne tutarlılığını iki dakikaya kadar koruyabiliyor; bu süre önceki modelin sınırının iki katına karşılık geliyor.\nModelin geliştirilmesinde Gemini ailesinin yeteneklerinden de yararlanılıyor. Gemini Omni, simülasyonların gerçek dünyadaki görünüm ve davranışlarla uyumunu desteklerken, diğer Gemini modelleri tutarlılığın ve sürekliliğin korunmasına yardımcı olan akıl yürütme görevlerini üstleniyor.\nGenie 4’ün kullanım alanları arasında film yapımı, oyun geliştirme ve eğitim öne çıkıyor. Google’ın birlikte çalıştığı test kullanıcıları, modeli film sahnelerini önceden görselleştirmek ve farklı kamera, ışık ya da diyalog seçeneklerini hızla denemek için değerlendiriyor. Oyun geliştiricileri ise fikirlerini keşfedilebilir prototiplere dönüştürmeyi test ediyor. Robotlar ve yapay zeka ajanları için eğitim ortamları oluşturmak da şirketin üzerinde durduğu alanlar arasında.\nBununla birlikte Genie 4 henüz deneysel aşamada. Simülasyon uzadıkça veya art arda karmaşık değişiklikler yapıldıkça görsel ayrıntılar ve nesnelerin sürekliliği bozulabiliyor. Karmaşık fiziksel etkileşimler, ses doğruluğu ve okunabilir metin üretimi de geliştirilmeye devam ediyor. Google, modelin ürettiği tüm video ve seslere yapay zeka üretimi içeriklerin tanınmasını sağlayan SynthID filigranının ekleneceğini belirtiyor.\nGenie 4’ün yakında Project Genie üzerinden Google AI Ultra abonelerine, ayrıca Gemini API ve Google AI Studio’nun erken erişim ortaklarına sunulması planlanıyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 203
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
