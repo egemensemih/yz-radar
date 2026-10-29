@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T09:52:34Z",
+  "last_collect": "2026-10-29T10:07:19Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:07Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 384,
+      "fails": 385,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:08Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:52:34Z",
+      "last_ok": "2026-10-29T10:07:09Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-10-29T09:52:34Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -151,96 +152,24 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 43338,
-      "tok_out": 16533,
+      "tok_in": 49795,
+      "tok_out": 18326,
       "cost_usd": 0.0,
-      "drafts": 12,
-      "published": 3,
-      "auto": 3
+      "drafts": 14,
+      "published": 5,
+      "auto": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T09:57:24Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/google-chrome-gelismis-otomatik-doldurma/",
+    "https://egemensemih.github.io/yz-radar/haber/google-connected-apps-platform-duyuruldu/"
+  ],
+  "last_build": "2026-10-29T10:13:19Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i40",
-          "i42"
-        ],
-        "topic": "Chrome's AI autofill integrates with Gmail to extract details",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "urunler",
-        "reason": "Google Chrome'un yapay zeka destekli otomatik doldurma özelliğinin Gmail entegrasyonu kazanması."
-      },
-      "items": [
-        {
-          "key": "5e4098babe95c0f8",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-          "via": null,
-          "via_url": null,
-          "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-          "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-          "published": "2026-10-28T17:00:00Z",
-          "html_source": false,
-          "tid": "i40"
-        },
-        {
-          "key": "cca2247626bb8061",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-          "via": null,
-          "via_url": null,
-          "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-          "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
-          "published": "2026-10-28T17:00:00Z",
-          "html_source": false,
-          "tid": "i42"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i41"
-        ],
-        "topic": "Google opens Gemini and Search developer platform to more apps",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "urunler",
-        "reason": "Google'ın geliştiriciler için Gemini ve Arama entegrasyon platformunu açması."
-      },
-      "items": [
-        {
-          "key": "a01db71b034ce352",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-          "via": null,
-          "via_url": null,
-          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-          "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-          "published": "2026-10-28T17:00:00Z",
-          "html_source": false,
-          "tid": "i41"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [

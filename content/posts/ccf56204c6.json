@@ -1,0 +1,57 @@
+{
+  "id": "ccf56204c6",
+  "created_at": "2026-10-29T10:09:12Z",
+  "title": "Google, yapay zeka asistanları için Connected Apps Platform'unu duyurdu",
+  "summary": "Google, işletmelerin ve geliştiricilerin uygulamalarını Gemini ve Google Search ile bağlamasını sağlayan Connected Apps Platform'unu tanıttı.",
+  "body": "Google, işletmelerin uygulamalarını yapay zeka deneyimlerine bağlamasını kolaylaştıran **Connected Apps Platform**'unu duyurdu. TechCrunch'ın aktardığına göre, platform sayesinde kullanıcılar üçüncü taraf servisleri güvenli bir şekilde birbirine bağlayarak arama ve yapay zeka araçları üzerinden doğrudan işlem yapabilecek.\n\n## Geliştiriciler için yeni platform\n\nGoogle'ın açıklamasına göre, ABD'deki geliştiriciler için beta aşamasında ön izlemeye açılan sistem, uygulamaların Gemini ve arama ürünlerinde kullanılabilmesini sağlıyor. Geliştiriciler bulut barındırmalı bir **Model Context Protocol** (MCP) sunucusu veya AppFunctions API'lerini kullanarak uygulamalarını kaydedebiliyor, test edebiliyor ve Google Connected Console üzerinden sunabiliyor.\n\nCanlıya alınan uygulamalar için geliştiriciler trafik, gecikme ve hata oranlarını takip edebilirken; doğrulanmış logoları ve hesapları üzerinden marka kimliklerini de koruyabiliyor. Platforma katılmak isteyen ABD'li geliştiriciler şu an için bekleme listesine kaydolabiliyor; Google geniş çaplı çıkış tarihini henüz paylaşmadı.\n\n## Mevcut entegrasyonlar ve arama entegrasyonu\n\nTechCrunch'ın belirttiğine göre, Google'ın Gemini uygulamasında halihazırda Adobe, Experian, Localiza ve Peloton gibi ortaklardan gelenlerin de aralarında bulunduğu 50'den fazla bağlı uygulama yer alıyor. Bu uygulamalar önümüzdeki haftalarda Google Search üzerine de taşınacak. Arama tarafında halihazırda Instacart, Canva, YouTube Music ve Yahoo Fantasy Football gibi az sayıda entegrasyon bulunuyor. Öte yandan meditasyon uygulaması Calm da hem Gemini hem de Search üzerinde yakında yer alacak yeni ortaklar arasında duyuruldu.\n\n**Neden önemli?** Connected Apps Platform'u, kullanıcıların alışkanlıklarını tekil uygulamalardan yapay zeka sağlayıcılarına kaydırabileceği ajan tabanlı web döneminde işletmelerin görünürlüğünü artırmayı hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Google Search"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google'dan Connected Apps Platform",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "50",
+  "hero_stat_label": "bağlı uygulama",
+  "visual_style": "studio",
+  "visual_scene": "a series of interconnected ceramic blocks resting on a smooth concrete surface, with delicate fine threads of light bridging the gaps between each modular shape",
+  "focus_keyword": "Connected Apps Platform",
+  "seo_title": "Google Connected Apps Platform ile yapay zekayı genişletiyor",
+  "meta_description": "Google, işletmelerin uygulamalarını arama ve Gemini ile bağlamasını sağlayan Connected Apps Platform'unu beta olarak duyurdu.",
+  "seo_slug": "google-connected-apps-platform-duyuruldu",
+  "image_alt": "Birbirine bağlı modüler seramik bloklar ve aralarındaki ışık çizgileriyle Google Connected Apps Platform'u temsil eden görsel",
+  "cover_text": "Connected Apps",
+  "importance": 7,
+  "triage_reason": "Google'ın geliştiriciler için Gemini ve Arama entegrasyon platformunu açması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 222
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-connected-apps-platform-duyuruldu",
+  "published_at": "2026-10-29T10:09:13Z",
+  "publish_mode": "auto"
+}

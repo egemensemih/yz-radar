@@ -1,0 +1,68 @@
+{
+  "id": "af13fd9a7a",
+  "created_at": "2026-10-29T10:08:48Z",
+  "title": "Google Chrome gelismis otomatik doldurma ozelligini duyurdu",
+  "summary": "Google, Chrome tarayicisi icin Gemini ve Personal Intelligence destekli gelismis otomatik doldurma ozelligini kullanima sundugunu acikladi.",
+  "body": "Google Chrome gelismis otomatik doldurma ozelligi, kullanicilarin ceza ve form islemlerini kolaylastirmak icin dogrudan Gmail mesajlarindan bilgi alabilmesini saglayan yeni bir guncelleme aldi. TechCrunch ve The Verge tarafindan aktirilan bilgilere gore sirket, kullanicilarin internet uzerindeki formlari doldururken ucus onay numarasi, siparis numarasi, uye kimligi, kargo takip bilgisi, adres ve telefon numarasi gibi detaylari Gmail iceriginden eslestirebilecegini duyurdu.\n\n## Gemini ve Personal Intelligence entegrasyonu\n\nGoogle tarafindan yapilan aciklamalara gore bu yeni yetenek, daha once Google Hesaplari ve Google Wallet servislerindeki isim, pasaport numarasi ve e-posta adresi gibi verileri kullanan gelismis otomatik doldurma altyapisinin bir genislemesi olarak sunuluyor. Gemini ile Personal Intelligence altyapisini kullanan ozellik, kullanicilarin onay e-postalarini veya gonderi guncellemelerini manuel olarak aramasinin onune gecmeyi amacliyor. Hassas verilerin sifrelenmis olarak saklandigi belirtilirken, ozelligin Chrome ayarlari uzerinden acilip kapatilabilecegi ifade ediliyor.\n\n## Erisim ve kullanilabilirlik\n\n- Ozellik, ABD'deki kullanicilar icin masaustu surumun yani sira iOS ve Android platformlarinda da erisime aciliyor.\n- Kullanicilarin bu gelismis onerilerden yararlanabilmesi icin tarayicilarinda Personal Intelligence ozelliginin etkin olmasi gerekiyor.\n- Sistem hakkindaki tum erisim tercihleri ve veri yonetimi yine Chrome ayarlari uzerinden yapilabiliyor.\n\n**Neden önemli?** Google, Chrome'un bu yeni yapay zeka entegrasyonuyla kullanicilarin tarayici ekosisteminde kalmasini saglayacak pratik araclar sunmayi hedeflerken, kisisel verilerin sifrelenmesi ve kullanici kontrolune odaklaniyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Chrome",
+    "Gemini",
+    "Gmail"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Chrome'un otomatik doldurma ozelligine Gmail destegi",
+  "kicker": "Urun guncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte obsidian monolith resting on a light grey surface, intersected by a glowing thin line of warm amber light, minimalist composition with soft shadows",
+  "focus_keyword": "Google Chrome gelismis otomatik doldurma",
+  "seo_title": "Google Chrome gelismis otomatik doldurma ozelligini duyurdu",
+  "meta_description": "Google Chrome tarayicisi, Gemini ve Personal Intelligence destegiyle Gmail uzerinden form doldurma ozelligini ABD'de kullanima sundugunu acikladi.",
+  "seo_slug": "google-chrome-gelismis-otomatik-doldurma",
+  "image_alt": "Gri zemin uzerinde duran minimalist siyah bir blok ve uzerinde parlayan ince amber cizgi",
+  "cover_text": "Chrome AI",
+  "importance": 7,
+  "triage_reason": "Google Chrome'un yapay zeka destekli otomatik doldurma özelliğinin Gmail entegrasyonu kazanması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T17:00:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 219
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-chrome-gelismis-otomatik-doldurma",
+  "published_at": "2026-10-29T10:09:01Z",
+  "publish_mode": "auto"
+}
