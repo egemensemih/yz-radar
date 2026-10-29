@@ -1,0 +1,59 @@
+{
+  "id": "0968048ca2",
+  "created_at": "2026-10-29T09:53:16Z",
+  "title": "Google arama reklamları küresel pazara açılıyor",
+  "summary": "Google, çekirdek arama reklam gelirlerindeki yavaşlamanın ardından yapay zeka destekli arama deneyimi içindeki reklamları küresel pazarlara taşıyor.",
+  "body": "Google arama reklamları, şirketin çekirdek arama reklamcılığı büyümesindeki yavaşlamayı aşmak amacıyla küresel pazarlara genişletiliyor. TechCrunch'ın aktardığına göre Alphabet'in üçüncü çeyrek kazanç toplantısında yapılan duyuru, yapay zeka özelliklerinin yeni gelir fırsatları yaratma çabasının bir parçası olarak öne çıkıyor.\n\n## Küresel genişleme ve yapay zeka modu\n\nAlphabet 28 Ekim'de açıkladığı finansal sonuçlarda 127,6 milyar dolar gelir bildirdi ve bu rakam yıllık bazda yüzde 25 artış gösterdi. Ancak Google Arama gelirlerindeki büyüme üçüncü çeyrekte yüzde 12'ye gerileyerek ikinci çeyrekteki yüzde 17'lik ve ilk çeyrekteki yüzde 19'luk büyümenin altında kaldı. Bu yavaşlama hisselerin yüzde 8 düşmesine yol açtı. Google'ın baş ticari sorumlusu Philipp Schindler yatırımcılara yaptığı açıklamada, reklamları AI Modu içindeki yapay zeka özetlerinde daha fazla kullanıcıya ve sorguya ölçeklendirdiklerini belirtti. Schindler, ABD'deki çok turlu reklamların yanı sıra monetizasyon ayak izini ilk kez uluslararası pazarlara taşıdıklarını ifade etti.\n\n## Kullanım alışkanlıkları ve arama trendleri\n\nGoogle CEO'su Sundar Pichai arama sorgularının son beş yılın en hızlı yıllık büyüme oranına ulaştığını kaydetti. Pichai'nin aktardığına göre AI Modu'ndaki sorgular geleneksel aramalara kıyasla ortalama üç kat daha uzun ve küresel olarak her beş AI Modu aramasından biri ses, görsel veya belge içeriyor. Ayrıca şirket aylık 50 milyar görsel arama sınırını aştı. Google Services bölümü 96,3 milyar dolar gelir elde ederken, Google Cloud geliri yüzde 103 artışla 30,7 milyar dolara ulaştı.\n\n**Neden önemli?** Çekirdek arama reklamlarındaki büyüme yavaşlarken, Google'ın yapay zeka arama deneyimlerine reklam yerleştirmeyi küreselleştirmesi, şirketin yeni nesil yapay zeka özelliklerini doğrudan bir gelir modeline dönüştürme stratejisinde kritik bir eşik oluşturuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Google",
+    "Alphabet",
+    "Gemini 4 Argon",
+    "Google Cloud",
+    "Pixel 11"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google arama reklamları küresel pazara açılıyor",
+  "kicker": "Finansal sonuçlar",
+  "hero_stat": "127,6 milyar $",
+  "hero_stat_label": "üçüncü çeyrek geliri",
+  "visual_style": "studio",
+  "visual_scene": "a series of translucent glass panels overlapping at precise angles, catching soft daylight, with thin streams of fine sand flowing between the vertical layers like data streams",
+  "focus_keyword": "Google arama reklamları",
+  "seo_title": "Google arama reklamları küresel pazarlara genişliyor",
+  "meta_description": "Google, çekirdek arama reklamlarındaki yavaşlama nedeniyle yapay zeka destekli arama deneyimi içindeki reklamları uluslararası pazarlara taşıyor.",
+  "seo_slug": "google-arama-reklamlari-kuresel-pazara-aciliyor",
+  "image_alt": "Üst üste binen şeffaf cam panellerin arasından süzülen ince kum akışını gösteren stüdyo ortamındaki soyut görsel",
+  "cover_text": "Google AI Ads",
+  "importance": 7,
+  "triage_reason": "Google'ın yapay zeka arama reklamlarını küresel olarak genişletmesi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T21:48:37Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 216
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-arama-reklamlari-kuresel-pazara-aciliyor",
+  "published_at": "2026-10-29T09:53:17Z",
+  "publish_mode": "auto"
+}

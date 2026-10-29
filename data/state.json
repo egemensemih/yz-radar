@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T09:38:36Z",
+  "last_collect": "2026-10-29T09:52:34Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 383,
+      "fails": 384,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:34Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:38:36Z",
+      "last_ok": "2026-10-29T09:52:34Z",
       "count": 20
     }
   },
@@ -151,81 +151,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 38321,
-      "tok_out": 14766,
+      "tok_in": 43338,
+      "tok_out": 16533,
       "cost_usd": 0.0,
-      "drafts": 10,
-      "published": 2,
-      "auto": 2
+      "drafts": 12,
+      "published": 3,
+      "auto": 3
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T09:11:43Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/google-arama-reklamlari-kuresel-pazara-aciliyor/"
+  ],
+  "last_build": "2026-10-29T09:57:24Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i23"
-        ],
-        "topic": "OpenAI and ServiceNow expand enterprise workflow partnership",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "sirketler",
-        "reason": "OpenAI ve ServiceNow kurumsal iş akışları için ortaklıklarını büyütüyor."
-      },
-      "items": [
-        {
-          "key": "75e2017ed4c5a2ec",
-          "source": "OpenAI",
-          "kind": "official",
-          "credit": "OpenAI",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "via": null,
-          "via_url": null,
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "published": "2026-10-28T13:15:00Z",
-          "html_source": false,
-          "tid": "i23"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i28"
-        ],
-        "topic": "Google expands AI Search ads globally amid strong earnings",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "urunler",
-        "reason": "Google'ın yapay zeka arama reklamlarını küresel olarak genişletmesi."
-      },
-      "items": [
-        {
-          "key": "9b7dd4a7a6853f5d",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-          "via": null,
-          "via_url": null,
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-          "published": "2026-10-28T21:48:37Z",
-          "html_source": false,
-          "tid": "i28"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -387,36 +329,6 @@
           "published": "2026-10-27T23:34:27Z",
           "html_source": false,
           "tid": "i58"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i60"
-        ],
-        "topic": "Delaware plan proposes letting AI agents run entire businesses",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "politika",
-        "reason": "Delaware'de yapay zeka ajanlarının şirketleri yasal olarak yönetmesine izin verme planı."
-      },
-      "items": [
-        {
-          "key": "0419fa07eb025d9c",
-          "source": "Ars Technica",
-          "kind": "media",
-          "credit": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-          "via": null,
-          "via_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/#comments",
-          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-          "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-          "published": "2026-10-27T21:50:04Z",
-          "html_source": false,
-          "tid": "i60"
         }
       ],
       "at": "2026-10-29T08:36:00Z"
@@ -837,36 +749,6 @@
           "published": "2026-10-27T22:55:41Z",
           "html_source": false,
           "tid": "i59"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i61"
-        ],
-        "topic": "Bank of America warns customers against sharing passwords with AI",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "Bank of America'nın müşterilerini yapay zeka ajanlarına şifre vermemeleri konusunda uyarması."
-      },
-      "items": [
-        {
-          "key": "7afb98bf1433db02",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-          "via": null,
-          "via_url": null,
-          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-          "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-          "published": "2026-10-27T21:44:34Z",
-          "html_source": false,
-          "tid": "i61"
         }
       ],
       "at": "2026-10-29T08:36:00Z"
