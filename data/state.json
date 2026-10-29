@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T21:01:11Z",
+  "last_collect": "2026-10-29T21:15:58Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:09Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:09Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:09Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 409,
+      "fails": 410,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:49Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T21:01:10Z",
+      "last_ok": "2026-10-29T21:15:50Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-10-29T19:31:13Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-10-29T21:15:58Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -160,10 +159,10 @@
       "auto": 12
     },
     "2026-10-30": {
-      "tok_in": 6587,
-      "tok_out": 1930,
+      "tok_in": 9831,
+      "tok_out": 2787,
       "cost_usd": 0.0,
-      "drafts": 2,
+      "drafts": 3,
       "published": 1,
       "auto": 1
     }
@@ -175,36 +174,6 @@
   "last_build": "2026-10-29T21:01:38Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Hugging Face announces Project ProtoStar for AI-ready public science",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "arastirma",
-        "reason": "Kamu tarafından finanse edilen bilimsel verileri yapay zekaya hazır hale getirmeyi amaçlayan yeni bir proje."
-      },
-      "items": [
-        {
-          "key": "e1c742c1d925baf7",
-          "source": "Hugging Face",
-          "kind": "official",
-          "credit": "Hugging Face",
-          "url": "https://huggingface.co/blog/announcing-project-protostar",
-          "via": null,
-          "via_url": null,
-          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "summary": "",
-          "published": "2026-10-29T00:00:00Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-29T15:16:30Z"
-    },
     {
       "story": {
         "item_ids": [
