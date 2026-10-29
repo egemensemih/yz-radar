@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T15:01:21Z",
+  "last_collect": "2026-10-29T15:16:09Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:52Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
-      "count": 893
+      "last_ok": "2026-10-29T15:15:53Z",
+      "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 397,
+      "fails": 398,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:32Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:33Z",
+      "last_ok": "2026-10-29T15:15:53Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-29T14:46:34Z",
+      "last_ok": "2026-10-29T15:16:09Z",
       "count": 20
     }
   },
@@ -151,10 +151,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 104748,
-      "tok_out": 33381,
+      "tok_in": 108762,
+      "tok_out": 34508,
       "cost_usd": 0.0,
-      "drafts": 29,
+      "drafts": 30,
       "published": 7,
       "auto": 7
     }
@@ -166,36 +166,6 @@
   "last_build": "2026-10-29T14:51:30Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i38"
-        ],
-        "topic": "Microsoft ending Copilot support on smart TVs",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "urunler",
-        "reason": "Microsoft'un akıllı televizyonlarda Copilot desteğini sonlandırması."
-      },
-      "items": [
-        {
-          "key": "238a740f5b9d30cb",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft is ending Copilot support on smart TVs",
-          "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
-          "published": "2026-10-28T18:36:26Z",
-          "html_source": false,
-          "tid": "i38"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -405,6 +375,36 @@
         }
       ],
       "at": "2026-10-29T14:03:55Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Hugging Face announces Project ProtoStar for AI-ready public science",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Kamu tarafından finanse edilen bilimsel verileri yapay zekaya hazır hale getirmeyi amaçlayan yeni bir proje."
+      },
+      "items": [
+        {
+          "key": "e1c742c1d925baf7",
+          "source": "Hugging Face",
+          "kind": "official",
+          "credit": "Hugging Face",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "via": null,
+          "via_url": null,
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "summary": "",
+          "published": "2026-10-29T00:00:00Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-29T15:16:30Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"

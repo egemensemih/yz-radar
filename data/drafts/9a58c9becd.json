@@ -1,0 +1,71 @@
+{
+  "id": "9a58c9becd",
+  "status": "pending",
+  "created_at": "2026-10-29T15:17:25Z",
+  "title": "Microsoft, Copilot akıllı TV desteğini durduruyor",
+  "summary": "Microsoft, LG ve Samsung akıllı televizyonlarda yer alan Copilot yapay zeka asistanı desteğini 2026 yılı içinde tamamen sonlandırma kararı aldı.",
+  "body": "Microsoft, akıllı televizyonlarda sunduğu **Copilot akıllı TV desteği** uygulamasını 2026 yılı içinde durdurma kararı aldı. Windows Central editörü Zac Bowden'ın LG webOS işletim sistemli televizyonunda karşılaştığı sistem bildirimiyle ortaya çıkan gelişme, teknoloji devinin yapay zeka stratejisindeki yön değişimini göz önüne seriyor. LG ve Samsung gibi önde gelen televizyon üreticilerinin CES 2025 fuarında duyurduğu bu entegrasyon, yaklaşık iki yıllık bir sürenin ardından tüm cihazlarda son buluyor.\n\n## Ekranlarda beliren sonlandırma bildirimi\nLG televizyon sahiplerinin ekranında beliren sistem uyarısında, Microsoft'un yakın zamanda tüm akıllı televizyonlardaki Copilot işlevselliğini sonlandırma kararı aldığı ifade edildi. Ekrandaki bildirimde, \"Microsoft yakın zamanda tüm TV'lerdeki Copilot işlevselliği desteğini sonlandırmaya karar verdi\" ifadesine yer verildi. Açıklamaya göre sonlandırma işlemi 2026 yılı içerisinde Microsoft'un belirleyeceği takvime göre tamamlanacak.\n\nKarar öncesinde LG, geçtiğimiz Aralık ayında webOS işletim sistemine silinemeyen bir Microsoft Copilot kısayolu eklediği için kullanıcıların tepkisini çekmişti. Uygulama kısayolunun kullanıcı onayı olmadan eklenmesine yönelik çevrim içi eleştirilerin ardından LG, bu simgenin silinebilmesine imkan tanıyan bir değişiklik yapmak durumunda kalmıştı.\n\n## Copilot akıllı TV desteği neden sona eriyor?\nSamsung ve LG akıllı televizyonlarda yer alan **Microsoft Copilot**, kullanıcıların sohbet edebildiği, ekranda izledikleri içerikler hakkında sorular sorabildiği veya dizi ve film önerileri alabildiği yapay zeka destekli bir yardımcı olarak tasarlanmıştı. Ancak teknoloji devi, bu yılın başlarında sohbet, otonom yazılım aracıları ve kodlama yeteneklerini tek bir platformda birleştiren yeni bir Copilot süper uygulamasını kullanıma sundu. Şirket bu hamleyle Copilot servisinin konumlandırmasını ev içi dijital sohbet yardımcısından kurumsal ve bireysel üretkenlik aracına doğru kaydırdı.\n\n**Neden önemli?** Microsoft'un televizyon tarafındaki desteği çekmesi, büyük teknoloji firmalarının yapay zekayı tüm tüketici cihazlarına entegre etme dalgasından sonra daha net iş senaryolarına ve üretkenlik araçlarına odaklanmaya başladığını gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Microsoft",
+    "Copilot",
+    "LG",
+    "Samsung",
+    "akıllı TV"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Karar resmi bir PR duyurusu yerine LG TV'deki sistem bildirimine ve Windows Central/The Verge haberlerine dayanmaktadır.",
+  "short_title": "Microsoft, akıllı TV'lerde Copilot'u kapatıyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A dark smart television sitting on a polished surface in a quiet room, with a subtle glowing blue ribbon of light slowly fragmenting and dissolving into fine mist",
+  "focus_keyword": "Copilot akıllı TV desteği",
+  "seo_title": "Copilot akıllı TV desteği sonlandırılıyor",
+  "meta_description": "Microsoft, akıllı TV'lerde sunduğu Copilot akıllı TV desteğini 2026 içinde sonlandırıyor. Kararın detayları ve arka planı YZ Radar'da.",
+  "seo_slug": "microsoft-copilot-akilli-tv-destegini-durduruyor",
+  "image_alt": "Karanlık bir televizyon ekranı önünde dağılan mavi ışık şeridi: Copilot TV desteğinin sona ermesini simgeleyen görsel",
+  "cover_text": "Copilot",
+  "importance": 6,
+  "triage_reason": "Microsoft'un akıllı televizyonlarda Copilot desteğini sonlandırması.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T18:36:26Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "published": "2026-10-28T18:36:26Z",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+      "text": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft’s Copilot, the company is ending support for the AI assistant’s functionality on all TVs this year, according to a report by Windows Central.\nMicrosoft is ending Copilot support on smart TVs\nA notification on LG TVs reveals that Copilot functionality is soon going away on all TVs.\nThe news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central’s Zac Bowden’s webOS-powered LG TV earlier today. “Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feature on your TV is no longer available and may stop functioning shortly,” the notification explains. It doesn’t specify exactly when Copilot will stop working on smart TVs, but says the feature is “scheduled for discontinuation during 2026” and a specific date is “subject to Microsoft’s timeline.”\nLast December, LG faced backlash after an update to webOS added an unremovable Microsoft Copilot shortcut to their TVs that opened the AI assistant’s web app in a browser. LG eventually decided to allow the shortcut to be deleted following many users expressing their frustration online with it being added without their approval.\nMicrosoft Copilot primarily served as a friendly AI-powered companion on Samsung and LG smart TVs that users could chat with, ask questions about what was currently on screen, or get recommendations for TV shows and movies. But earlier this year, Microsoft introduced a new Copilot “super app” that bundled multiple AI capabilities including chat, agents, and coding into a single interface as part of a push towards positioning Copilot more as a business and productivity tool, and less as a digital companion."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 244
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
