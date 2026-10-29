@@ -1,0 +1,59 @@
+{
+  "id": "5808328374",
+  "created_at": "2026-10-29T19:01:22Z",
+  "title": "Google Gemini yeni dosya oluşturma ve düzenleme özellikleri kazandı",
+  "summary": "Google Gemini, kullanıcıların sohbet ekranından ayrılmadan Google Docs ve PDF gibi çeşitli dosya formatlarını doğrudan oluşturmasına ve düzenlemesine olanak tanıyan yeni özellikler sundu.",
+  "body": "Google Gemini dosya düzenleme yetenekleri, The Verge'ün aktardığına göre tüm Gemini kullanıcıları için erişime açıldı. Bu yenilik sayesinde kullanıcılar, sohbet penceresinden çıkmadan PDF, Google Docs, Google Sheets, sunumlar, Markdown dosyaları, TXT dosyaları ve kodları doğrudan üretebiliyor, önizleyebiliyor ve düzenleyebiliyor.\n\n## Doğrudan sohbet içinde dosya yönetimi\n\nDaha önce Google, Gemini içinde dosya oluşturma ve indirme desteğini yılın başlarında kullanıma sunmuştu. Yeni güncellemeyle birlikte kullanıcılar, oluşturdukları dosyaları uygulamadan ayrılmadan değiştirebiliyor.\n\nGoogle'ın açıklamasına göre belgeler tam ekran modunda genişletilebiliyor. Ayrıca dosyalardaki metinler vurgulanarak Gemini'a sorular yöneltilebiliyor veya değişiklik yapması için komut verilebiliyor. Örneğin, bir tabloyu seçip Gemini'dan onu grafiğe dönüştürmesi istenebiliyor.\n\n## Platform desteği ve benzer özellikler\n\nYenilikçi özelliklerin platform desteği konusunda bazı sınırlar bulunuyor. PDF önizleme ve düzenleme işlemleri hem web hem de mobil sürümde çalışırken, diğer tüm dosya biçimleri şimdilik yalnızca web sürümünde yer alıyor.\n\nKullanıcılar daha önce Google'ın Workspace uygulamalarındaki entegrasyonlar aracılığıyla Gemini'ı kullanabiliyordu. Benzer bir hamle yılın başında rakip şirketten gelmiş; Anthropic, kullanıcıların Claude sohbetleri içinde belge ve sunum oluşturup düzenlemesine olanak tanıyan bir özellik duyurmuştu.\n\n**Neden önemli?** Doğrudan sohbet arayüzü içinde kapsamlı dosya düzenleme ve dönüştürme imkânı sunulması, kullanıcıların harici uygulamalar arasında geçiş yapmadan verimlilik kazanmasını hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Google Docs",
+    "Anthropic",
+    "Claude"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Gemini için doğrudan dosya düzenleme",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist matte white desk with a smooth translucent glass tablet showing abstract digital document layers floating slightly above its surface, soft natural light casting subtle shadows",
+  "focus_keyword": "Google Gemini dosya düzenleme",
+  "seo_title": "Google Gemini dosya düzenleme ve oluşturma özellikleri",
+  "meta_description": "Google Gemini dosya düzenleme özellikleri ile kullanıcılar sohbet ekranından ayrılmadan Google Docs ve PDF belgelerini doğrudan oluşturup düzenleyebiliyor.",
+  "seo_slug": "google-gemini-dosya-duzenleme-ve-olusturma-ozellikleri",
+  "image_alt": "Buzlu cam tablet üzerinde yüzen dijital belge katmanlarını temsil eden minimalist stüdyo görseli",
+  "cover_text": "Gemini Docs",
+  "importance": 7,
+  "triage_reason": "Google, Gemini sohbetleri içine doğrudan dosya düzenleme ve oluşturma özellikleri ekledi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T18:45:31Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 260
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "google-gemini-dosya-duzenleme-ve-olusturma-ozellikleri",
+  "published_at": "2026-10-29T19:01:32Z",
+  "publish_mode": "auto"
+}
