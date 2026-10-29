@@ -1,0 +1,58 @@
+{
+  "id": "7789598a3d",
+  "created_at": "2026-10-29T16:02:11Z",
+  "title": "Teksas'ta veri merkezlerine karşı halk tepkisi seçimlerin gündeminde",
+  "summary": "The Verge'ün aktardığına göre, Teksas'ta hızla yayılan veri merkezleri su, enerji ve vergi muafiyetleri nedeniyle halkın yoğun tepkisiyle karşılaşıyor.",
+  "body": "The Verge'ün aktardığına göre, Teksas'ta hızla yayılan veri merkezleri su, enerji ve vergi muafiyetleri nedeniyle halkın yoğun tepkisiyle karşılaşıyor. Yapay zeka modellerini desteklemek amacıyla kurulan bu dev tesisler, eyalette yaklaşan ara seçimlerin en önemli siyasi tartışmalarından biri haline geldi. Yapılan bir ankete göre Teksas seçmeninin yüzde 57'si veri merkezlerinin inşasına karşı çıkarken, bu oran Cumhuriyetçiler, Demokratlar ve bağımsızlar arasında geniş bir kesimi birleştiriyor.\n\n## Teksas'ta veri merkezleri neden tepki çekiyor?\n\nEyaletteki NAACP Başkanı Gary Bledsoe'nun ifadelerine göre, bölge sakinleri su tüketimi, vergi teşvikleri ve artan elektrik talebini karşılamak için inşa edilen yeni enerji santralleri konusunda büyük endişe duyuyor. Teksas'ta veri merkezi elektrik talebinin 2030 yılına kadar neredeyse on kat artabileceği tahmin ediliyor. Houston Advanced Research Center verilerine göre, geçen yıl yaklaşık 25 milyar galon su tüketen bu tesislerin su kullanımının 2030 yılına kadar eyalet toplamının yüzde 2,7'sine ulaşabileceği öngörülüyor.\n\n## Siyasi dengeler ve We the People Texas koalisyonu\n\nTepkilerin ardından farklı siyasi görüşlerden gruplar bir araya gelerek We the People Texas koalisyonunu kurdu. San Marcos şehri Teksas'ta veri merkezlerini yasaklayan ilk yerleşim yeri olurken, eyalet genelinde birçok projeye karşı hukuki ve toplumsal mücadele yürütülüyor. Vali Greg Abbott ve diğer adaylar, artan elektrik faturaları ve çevresel kaygılar nedeniyle seçmenlerin tepkisini çeken bu sektörle aralarına mesafe koymaya çalışıyor.\n\n**Neden önemli?** Teksas, yapay zeka altyapısı için sağlanan geniş vergi muafiyetleri ve 26 gigavatlık mevcut kapasitesiyle sektörün merkezlerinden biri konumundayken, yaşanan toplumsal ve siyasi direnç gelecekteki büyüme planlarını riske sokuyor.",
+  "category": "politika",
+  "tags": [
+    "Teksas",
+    "veri merkezi",
+    "yapay zeka",
+    "Greg Abbott"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Teksas'ta veri merkezlerine halk tepkisi büyüyor",
+  "kicker": "Regülasyon",
+  "hero_stat": "%57",
+  "hero_stat_label": "veri merkezi karşıtı seçmen",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "veri merkezleri",
+  "seo_title": "Teksas'ta veri merkezleri halkın tepkisini çekiyor",
+  "meta_description": "The Verge haberine göre Teksas'ta hızla yayılan veri merkezleri su, enerji ve vergi muafiyetleri nedeniyle halkın yoğun tepkisiyle karşılaşıyor.",
+  "seo_slug": "teksasta-veri-merkezleri-tepki-cekiyor",
+  "image_alt": "Buzlu cam küplerden oluşan grafik ve Teksas'taki veri merkezi tartışmalarını temsil eden görsel",
+  "cover_text": "Veri Merkezleri",
+  "importance": 6,
+  "triage_reason": "Teksas'ta yerel halkın veri merkezi projelerine karşı artan tepkileri.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "title": "Voters in Texas agree: They hate data centers",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T12:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 248
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "teksasta-veri-merkezleri-tepki-cekiyor",
+  "published_at": "2026-10-29T16:02:20Z",
+  "publish_mode": "auto"
+}

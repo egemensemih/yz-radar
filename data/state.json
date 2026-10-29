@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T15:45:45Z",
+  "last_collect": "2026-10-29T16:01:09Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:08Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:08Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 399,
+      "fails": 400,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:31:01Z",
+      "last_ok": "2026-10-29T16:01:09Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-10-29T15:31:04Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -151,51 +152,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 111045,
-      "tok_out": 35374,
+      "tok_in": 116271,
+      "tok_out": 36410,
       "cost_usd": 0.0,
-      "drafts": 31,
-      "published": 8,
-      "auto": 8
+      "drafts": 32,
+      "published": 9,
+      "auto": 9
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T15:36:03Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/teksasta-veri-merkezleri-tepki-cekiyor/"
+  ],
+  "last_build": "2026-10-29T16:06:26Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i50"
-        ],
-        "topic": "Texas voters express strong opposition to expanding data centers",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "donanim",
-        "reason": "Teksas'ta yerel halkın veri merkezi projelerine karşı artan tepkileri."
-      },
-      "items": [
-        {
-          "key": "cf5c3f4a43986183",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-          "via": null,
-          "via_url": null,
-          "title": "Voters in Texas agree: They hate data centers",
-          "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
-          "published": "2026-10-28T12:00:00Z",
-          "html_source": false,
-          "tid": "i50"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -375,6 +348,36 @@
         }
       ],
       "at": "2026-10-29T15:16:30Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Microsoft workforce impact from AI adoption",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Microsoft CEO'sunun açıklamalarına dayanan, yapay zekanın iş gücü büyüklüğüne etkisini ele alan analiz haberi."
+      },
+      "items": [
+        {
+          "key": "169aca9d9c2aff8c",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "via": null,
+          "via_url": null,
+          "title": "Microsoft’s AI future has fewer jobs",
+          "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+          "published": "2026-10-29T16:00:00Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-29T16:01:38Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
