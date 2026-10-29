@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T16:15:53Z",
+  "last_collect": "2026-10-29T16:31:26Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:08Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:08Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 400,
+      "fails": 401,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:06Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T16:01:09Z",
+      "last_ok": "2026-10-29T16:31:07Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-10-29T15:31:04Z",
       "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "last_error": "ConnectTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150 (Caused by ConnectTimeoutError(<HTTPSCon"
     }
   },
   "day_counts": {
@@ -152,10 +152,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 116271,
-      "tok_out": 36410,
+      "tok_in": 120757,
+      "tok_out": 37737,
       "cost_usd": 0.0,
-      "drafts": 32,
+      "drafts": 33,
       "published": 9,
       "auto": 9
     }
@@ -376,6 +376,36 @@
         }
       ],
       "at": "2026-10-29T16:01:38Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i3"
+        ],
+        "topic": "Dream secures 17M funding from a16z for construction AI world models",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "İnşaat sektörü için yapay zeka dünya modelleri geliştiren Dream'in yatırım turu."
+      },
+      "items": [
+        {
+          "key": "4dcfcc0d194323eb",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+          "via": null,
+          "via_url": null,
+          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+          "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+          "published": "2026-10-29T16:21:00Z",
+          "html_source": false,
+          "tid": "i3"
+        }
+      ],
+      "at": "2026-10-29T16:31:52Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
