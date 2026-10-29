@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T15:16:09Z",
+  "last_collect": "2026-10-29T15:31:04Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:52Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 398,
+      "fails": 399,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:15:53Z",
+      "last_ok": "2026-10-29T15:31:01Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-29T15:16:09Z",
+      "last_ok": "2026-10-29T15:31:04Z",
       "count": 20
     }
   },
@@ -151,51 +151,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 108762,
-      "tok_out": 34508,
+      "tok_in": 111045,
+      "tok_out": 35374,
       "cost_usd": 0.0,
-      "drafts": 30,
-      "published": 7,
-      "auto": 7
+      "drafts": 31,
+      "published": 8,
+      "auto": 8
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T14:51:30Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/meta-yeni-ticari-kosullarini-erteledi/"
+  ],
+  "last_build": "2026-10-29T15:36:03Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i43"
-        ],
-        "topic": "Meta likely to delay new business terms amid publisher AI backlash",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "Meta'nın veri eğitimi tepkileri nedeniyle yeni iş şartlarını ertelemesi."
-      },
-      "items": [
-        {
-          "key": "b358f24cec5bcae3",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-          "via": null,
-          "via_url": null,
-          "title": "Meta says it’ll probably delay its controversial new business terms again",
-          "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
-          "published": "2026-10-28T16:15:30Z",
-          "html_source": false,
-          "tid": "i43"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [

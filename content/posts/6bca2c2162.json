@@ -1,0 +1,58 @@
+{
+  "id": "6bca2c2162",
+  "created_at": "2026-10-29T15:31:43Z",
+  "title": "Meta yeni ticari koşullarını süresiz olarak erteleyebilir",
+  "summary": "Meta, yapay zeka eğitimi endişeleri nedeniyle yayıncılardan gelen tepkiler üzerine yeni ticari koşullarının yürürlük tarihini belirsiz bir süre erteledi.",
+  "body": "Meta yeni ticari koşullarını süresiz olarak erteleyebilir. Şirket, yapay zeka modellerinin eğitimi konusunda yayıncılardan gelen yoğun tepkilerin ardından, 20 Kasım'da yürürlüğe girmesi planlanan güncellenmiş iş kurallarını erteleme kararı aldı.\n\n## Yapay zeka eğitimi endişeleri\n\nBaşlangıçta 30 Ekim'de yürürlüğe girmesi beklenen yeni kurallar, Meta'nın Facebook ve Instagram üzerindeki haber sitelerinden veri toplayarak kendi yapay zeka modellerini eğitebileceği algısını yaratmıştı. Şirket daha sonra politikasında değişikliğe giderek 'eğitim' ifadesini metinden çıkardı. Ancak hukuk uzmanları, mevcut güncellemelerin bu olasılığı tamamen ortadan kaldırmadığını savunmaya devam ediyor. Bu belirsizlik, yayıncıların ve sektör temsilcilerinin itirazlarını sürdürmesine neden oldu.\n\n## Sektörel ve politik tepkiler\n\nMeta iletişim başkanı Andy Stone, X üzerinden yaptığı açıklamada, sektör temsilcileriyle kapsamlı bir istişare yapılmadan herhangi bir politika değişikliğine gitmeyi planlamadıklarını belirtti. İstişare sürecinin 20 Kasım tarihinden daha uzun sürebileceğini ifade eden Stone, bu durumda yeni koşulların uygulanmasının süresiz olarak durdurulacağını bildirdi. Mevcut süreçte şu adımlar öne çıkıyor:\n\n* News/Media Alliance gibi kuruluşların resmi itirazları dikkate alınıyor.\n* ABD Senatosu'ndan çeşitli isimler, söz konusu kuralların içerik üreticilerini mağdur edebileceği gerekçesiyle düzenlemenin geri çekilmesini talep etti.\n* Mevcut ticari anlaşmalar ve kurallar, süreç tamamlanana kadar geçerliliğini korumaya devam edecek.\n\n**Neden önemli?** Meta'nın bu geri adımı, büyük teknoloji şirketlerinin veri kullanımı üzerindeki denetim ve yayıncılarla olan hukuk mücadelesinde kritik bir dönüm noktasını temsil ediyor.",
+  "category": "sirketler",
+  "tags": [
+    "Meta",
+    "yapay zeka",
+    "yayıncılık",
+    "sosyal medya"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta ticari koşullarda ertelemeye gidiyor",
+  "kicker": "Şirket kararı",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A neat pile of thick legal documents on a dark oak table, with a heavy brass seal resting on top. Next to the papers, a single vintage fountain pen lies beside a half-empty ceramic inkwell, casting long shadows under dim, warm light.",
+  "focus_keyword": "Meta yeni ticari koşulları",
+  "seo_title": "Meta yeni ticari koşulları için erteleme kararı aldı",
+  "meta_description": "Meta, yapay zeka eğitimi tartışmaları üzerine yeni ticari koşullarının yürürlük tarihini belirsiz bir süre ertelediğini duyurdu.",
+  "seo_slug": "meta-yeni-ticari-kosullarini-erteledi",
+  "image_alt": "Masa üzerinde duran resmi evraklar ve bir mühür, Meta'nın ticari koşullarını temsil ediyor.",
+  "cover_text": "Meta",
+  "importance": 6,
+  "triage_reason": "Meta'nın veri eğitimi tepkileri nedeniyle yeni iş şartlarını ertelemesi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T16:15:30Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 245
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "meta-yeni-ticari-kosullarini-erteledi",
+  "published_at": "2026-10-29T15:31:55Z",
+  "publish_mode": "auto"
+}
