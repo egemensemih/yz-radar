@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T10:07:19Z",
+  "last_collect": "2026-10-29T10:22:49Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:07Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 385,
+      "fails": 386,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:08Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:07:09Z",
+      "last_ok": "2026-10-29T10:22:47Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-10-29T09:52:34Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-10-29T10:22:49Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -152,10 +151,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 49795,
-      "tok_out": 18326,
+      "tok_in": 54763,
+      "tok_out": 20204,
       "cost_usd": 0.0,
-      "drafts": 14,
+      "drafts": 16,
       "published": 5,
       "auto": 5
     }
@@ -167,66 +166,6 @@
   "last_build": "2026-10-29T10:13:19Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i47"
-        ],
-        "topic": "xAI buys out Mississippi homeowners near data center",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "donanim",
-        "reason": "xAI'ın veri merkezi gürültü şikayetleri ve dava tehditleri nedeniyle evleri satın alması."
-      },
-      "items": [
-        {
-          "key": "f010b1f4f0325865",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-          "via": null,
-          "via_url": null,
-          "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-          "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
-          "published": "2026-10-28T14:44:00Z",
-          "html_source": false,
-          "tid": "i47"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i54"
-        ],
-        "topic": "ChatGPT adds iCloud Mail and Calendar integrations",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "urunler",
-        "reason": "OpenAI'ın ChatGPT için Apple iCloud Mail ve Takvim entegrasyonlarını sunması."
-      },
-      "items": [
-        {
-          "key": "fd3b86fca18e57d9",
-          "source": "Webrazzi",
-          "kind": "media",
-          "credit": "Webrazzi",
-          "url": "https://webrazzi.com/2026/10/28/chatgpt-icloud-mail-ve-takvim-entegrasyonlarini-kullanima-sundu/",
-          "via": null,
-          "via_url": "https://webrazzi.com/2026/10/28/chatgpt-icloud-mail-ve-takvim-entegrasyonlarini-kullanima-sundu/#comments",
-          "title": "ChatGPT, iCloud Mail ve Takvim entegrasyonlarını kullanıma sundu",
-          "summary": "OpenAI, ChatGPT’ye Apple’ın e-posta ve takvim hizmetleri için iki yeni eklenti eklediğini X hesabında paylaşarak duyurdu. iCloud Mail ve iCloud Takvim entegrasyonları sayesinde kullanıcılar, sohbet ro...",
-          "published": "2026-10-28T09:00:00Z",
-          "html_source": false,
-          "tid": "i54"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
