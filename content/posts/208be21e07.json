@@ -1,0 +1,57 @@
+{
+  "id": "208be21e07",
+  "created_at": "2026-10-29T09:07:13Z",
+  "title": "Microsoft OpenAI geliri üçüncü çeyrekte 10 milyar dolara ulaştı",
+  "summary": "Microsoft, OpenAI ile ticari anlaşmalarından üçüncü çeyrekte 10 milyar dolar gelir elde etti. Bu miktar şirketin toplam çeyreklik gelirinin yüzde 11'ini oluşturdu.",
+  "body": "Microsoft'un 28 Ekim'de kamuoyuna açıklanan resmi finansal bildirimine göre, şirketin **Microsoft OpenAI geliri** 30 Eylül'de sona eren çeyrekte 10 milyar dolara ulaştı. Bu rakam, teknoloji devinin aynı dönemde elde ettiği 92,3 milyar dolarlık toplam çeyreklik gelirin yaklaşık yüzde 11'ini temsil ediyor. Şirketler ticari pazarda rekabetlerini artırsa da aralarındaki finansal bağların güçlü kalmaya devam ettiği görülüyor.\n\n## Microsoft OpenAI geliri nasıl dağılıyor?\n\nMicrosoft, OpenAI ile yapılan gelir paylaşımı ödemeleri ve ticari anlaşmalardan 2026 mali yılının tamamında 24,1 milyar dolar gelir sağladı. Son çeyrekteki ivmeyle birlikte, OpenAI kaynaklı yıllık gelir oranının 40 milyar dolar seviyesine yaklaşabileceği öngörülüyor. TechCrunch'ın aktardığına göre şirket, bu gelirlerin ne kadarının Azure bulut altyapısı hizmetlerinden, ne kadarının ise gelir paylaşımı ödemelerinden kaynaklandığını detaylandırmadı.\n\nAyrıca Microsoft, Eylül sonu itibarıyla OpenAI'dan alacak hanesinde **7,2 milyar dolar** ödenmemiş tutar bulunduğunu bildirdi. Haziran sonunda 6 milyar dolar olan bu miktar, OpenAI'ın önceki işlemlerden doğan borçlarını kapsıyor.\n\n## Ortaklık şartları ve hisse yapısındaki değişim\n\nİki şirket arasındaki finansal yapı ve ortaklık koşulları şu detayları barındırıyor:\n\n* OpenAI, 13 milyar dolardan fazla yatırım yapan Microsoft ile gelirinin yaklaşık yüzde 20'sini paylaşıyor.\n* Nisan 2026'da yapılan anlaşma kapsamında OpenAI, farklı bulut sağlayıcılarıyla çalışsa bile 2030 yılına kadar Microsoft ile gelir paylaşımını sürdürecek.\n* Ekim 2025'te varılan anlaşmayla OpenAI, ek 250 milyar dolarlık Azure hizmeti satın alma taahhüdünde bulundu.\n\nÖte yandan Microsoft'un OpenAI üzerindeki mülkiyet hissesi kademeli olarak gerilemeye devam ediyor. Haziran ayında yaklaşık yüzde 25 olan hisse oranı, Eylül itibarıyla yüzde 24 seviyesine düştü.\n\n**Neden önemli?** İki şirket yapay zeka ürünlerinde giderek daha doğrudan rekabet etse de, OpenAI'ın ticari büyümesi Microsoft'un finansal sonuçlarına doğrudan ve önemli bir katkı sağlamayı sürdürüyor.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "OpenAI",
+    "Azure"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Microsoft OpenAI'dan 10 milyar dolar gelir elde etti",
+  "kicker": "Finansal rapor",
+  "hero_stat": "10 milyar $",
+  "hero_stat_label": "çeyreklik OpenAI geliri",
+  "visual_style": "still_life",
+  "visual_scene": "A modern glass paperweight on a dark polished wood desk reflecting soft ambient light, next to a subtle brass balance scale holding clear quartz crystals on each side",
+  "focus_keyword": "microsoft openai geliri",
+  "seo_title": "Microsoft OpenAI geliri 10 milyar dolara ulaştı",
+  "meta_description": "Microsoft OpenAI geliri çeyreklik dönemde 10 milyar dolara ulaşarak şirketin 92,3 milyar dolarlık toplam gelirinin yaklaşık yüzde 11'ini oluşturdu.",
+  "seo_slug": "microsoft-openai-geliri-10-milyar-dolar-oldu",
+  "image_alt": "Karanlık ahşap masa üzerindeki cam ağırlık ve pirinç terazi: Microsoft'un OpenAI gelirlerini simgeleyen editoryal görsel",
+  "cover_text": "Microsoft",
+  "importance": 8,
+  "triage_reason": "Microsoft'un OpenAI ortaklığından 10 milyar dolar gelir elde ettiğini açıklaması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T21:34:30Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 207
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "microsoft-openai-geliri-10-milyar-dolar-oldu",
+  "published_at": "2026-10-29T09:07:23Z",
+  "publish_mode": "auto"
+}

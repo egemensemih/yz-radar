@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T08:52:20Z",
+  "last_collect": "2026-10-29T09:06:34Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:33Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 380,
+      "fails": 381,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:34Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T08:52:15Z",
+      "last_ok": "2026-10-29T09:06:34Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
+      "fails": 3,
       "last_ok": "2026-09-29T08:20:58Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -152,81 +152,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 18951,
-      "tok_out": 9032,
+      "tok_in": 23797,
+      "tok_out": 10857,
       "cost_usd": 0.0,
-      "drafts": 4,
-      "published": 1,
-      "auto": 1
+      "drafts": 6,
+      "published": 2,
+      "auto": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T08:57:14Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/microsoft-openai-geliri-10-milyar-dolar-oldu/"
+  ],
+  "last_build": "2026-10-29T09:11:43Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i29"
-        ],
-        "topic": "Microsoft records $10 billion in revenue from OpenAI partnership",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 8,
-        "category": "sirketler",
-        "reason": "Microsoft'un OpenAI ortaklığından 10 milyar dolar gelir elde ettiğini açıklaması."
-      },
-      "items": [
-        {
-          "key": "f9d1493b929c42b6",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-          "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-          "published": "2026-10-28T21:34:30Z",
-          "html_source": false,
-          "tid": "i29"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i49"
-        ],
-        "topic": "Guidewire acquires AI startup Hyperexponential for $1.7 billion",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 8,
-        "category": "sirketler",
-        "reason": "Guidewire'ın yapay zeka sigorta girişimi Hyperexponential'ı 1.7 milyar dolara satın alması."
-      },
-      "items": [
-        {
-          "key": "a28de6feabbe43a1",
-          "source": "Webrazzi",
-          "kind": "media",
-          "credit": "Webrazzi",
-          "url": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
-          "via": null,
-          "via_url": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/#comments",
-          "title": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
-          "summary": "Sigorta teknolojileri şirketi Guidewire, sigorta şirketlerinin riskleri değerlendirmesine ve fiyat belirlemesine yardımcı olan Hyperexponential'ı 1,7 milyar dolara satın alıyor. Guidewire, satın almay...",
-          "published": "2026-10-28T13:00:00Z",
-          "html_source": false,
-          "tid": "i49"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
