@@ -1,0 +1,58 @@
+{
+  "id": "91984b6caa",
+  "created_at": "2026-10-29T17:46:29Z",
+  "title": "Meta'dan yapay zeka odaklı evcil hayvan uygulaması Waddle World",
+  "summary": "Meta, kullanıcılarla sohbet eden ve çizimler üreten yapay zeka destekli sanal evcil hayvan uygulaması Waddle World'ü sessizce kullanıma sundu.",
+  "body": "Meta, kullanıcıların sanal evcil hayvanlarla sohbet edebildiği ve konuşmaları görselleştirmek için çizimler üretebildiği Waddle World adlı yapay zeka odaklı evcil hayvan uygulaması yayınladı. Sosyal medya danışmanı Matt Navarra tarafından fark edilen uygulama, Apple ve Play Store listelemelerinde bir evcil hayvan kisvesi altında günlük bir günlük olarak tanımlanıyor. Kaynaklara göre Waddle World, kullanıcılara yazmak yerine konuşma imkanı sunan 16 bitlik sanal bir dünya sunuyor.\n\n## Waddle World uygulamasının özellikleri\n\nApple ve Play Store açıklamalarına göre uygulama, kullanıcılara bakkaliye ürünlerini istifleme veya kelime oyunları gibi rahatlatıcı oyunlar oynama imkanı tanıyor. Meta'nın bu yeni uygulamasında sanal evcil hayvanlar kullanıcılarla sohbet edebiliyor ve sohbetleri resmetmek için karalamalar oluşturabiliyor. Uygulamanın mağaza açıklamalarında, baskı veya skor takibi barındırmayan, kullanıcıların tanışabileceği sıcak bir kaçış alanı olduğu ifade ediliyor.\n\n## Erişilebilirlik ve diğer uygulamalar\n\nUygulama mağazalarında ücretsiz olarak listelenen **Waddle World**, The Verge'ün aktardığı bilgilere göre şu anda yalnızca Filipinler'deki yetişkin kullanıcıların erişimine açık durumda. Meta'nın ayrıca **Style Sketch** adında yapay zeka tabanlı bir moda uygulamasını Endonezya, Singapur ve Tayland'da sessizce kullanıma sunduğu belirtiliyor. Şirketin bu yeni uygulamaları ABD veya diğer bölgelerde sunup sunmayacağı ise henüz bilinmiyor.\n\n**Neden önemli?** Meta, Muse yapay zeka ajanı için küçük Charm cihazları ve maskotlar geliştirdiği bir dönemde, Waddle World ve Style Sketch gibi farklı coğrafyalarda sessizce yayınlanan bu uygulamalarla yapay zeka tabanlı tüketici deneyimlerini genişletmeye devam ediyor.",
+  "category": "urunler",
+  "tags": [
+    "Meta",
+    "Waddle World",
+    "Style Sketch",
+    "Muse"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta'dan yapay zeka evcil hayvan uygulaması Waddle World",
+  "kicker": "Yeni uygulama",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a tiny pixelated digital creature sculpted from matte ceramic on a neutral surface, soft warm lighting casting gentle shadows",
+  "focus_keyword": "Waddle World",
+  "seo_title": "Meta'dan yapay zeka evcil hayvan uygulaması Waddle World",
+  "meta_description": "Meta, kullanıcıların sohbet edebildiği ve çizimler üretebildiği yapay zeka odaklı evcil hayvan uygulaması Waddle World'ü sessizce kullanıma sundu.",
+  "seo_slug": "meta-yapay-zeka-evcil-hayvan-uygulamasi-waddle-world",
+  "image_alt": "Mat seramikten yapılmış piksel tarzı sanal canlıyı temsil eden stüdyo ortamı",
+  "cover_text": "Waddle World",
+  "importance": 6,
+  "triage_reason": "Meta'nın sanal evcil hayvan sohbet uygulaması Waddle World'ü sessizce yayınlaması.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T11:27:30Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 254
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "meta-yapay-zeka-evcil-hayvan-uygulamasi-waddle-world",
+  "published_at": "2026-10-29T17:46:41Z",
+  "publish_mode": "auto"
+}

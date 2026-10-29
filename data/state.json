@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T17:31:05Z",
+  "last_collect": "2026-10-29T17:45:52Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
-      "count": 1335
+      "last_ok": "2026-10-29T17:45:49Z",
+      "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 403,
+      "fails": 404,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:32Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T17:16:33Z",
+      "last_ok": "2026-10-29T17:45:50Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 4,
+      "fails": 5,
       "last_ok": "2026-10-29T15:31:04Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -152,51 +152,23 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 128176,
-      "tok_out": 39803,
+      "tok_in": 132494,
+      "tok_out": 40928,
       "cost_usd": 0.0,
-      "drafts": 35,
-      "published": 9,
-      "auto": 9
+      "drafts": 36,
+      "published": 10,
+      "auto": 10
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T17:06:27Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/meta-yapay-zeka-evcil-hayvan-uygulamasi-waddle-world/"
+  ],
+  "last_build": "2026-10-29T17:50:50Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i53"
-        ],
-        "topic": "Meta quietly launches Waddle World AI pet journal app",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "urunler",
-        "reason": "Meta'nın sanal evcil hayvan sohbet uygulaması Waddle World'ü sessizce yayınlaması."
-      },
-      "items": [
-        {
-          "key": "4683a3b03315c3bb",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-          "via": null,
-          "via_url": null,
-          "title": "Meta quietly launched an ‘AI pet journal’ app",
-          "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
-          "published": "2026-10-28T11:27:30Z",
-          "html_source": false,
-          "tid": "i53"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -406,6 +378,36 @@
         }
       ],
       "at": "2026-10-29T16:31:52Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "OpenAI updated Model Spec",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "OpenAI'ın yapay zeka davranışlarını yönlendiren Model Spec belgesini güncellemesi."
+      },
+      "items": [
+        {
+          "key": "7bf0065ceb1646f5",
+          "source": "OpenAI",
+          "kind": "official",
+          "credit": "OpenAI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "via": null,
+          "via_url": null,
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "published": "2026-10-29T17:00:00Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-29T17:46:11Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
