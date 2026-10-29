@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T11:05:37Z",
+  "last_collect": "2026-10-29T11:20:49Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:48Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:48Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:48Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:48Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 388,
+      "fails": 389,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:56Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:57Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-29T10:50:57Z",
+      "last_ok": "2026-10-29T11:20:49Z",
       "count": 20
     }
   },
@@ -151,10 +151,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 67851,
-      "tok_out": 23869,
+      "tok_in": 71086,
+      "tok_out": 24797,
       "cost_usd": 0.0,
-      "drafts": 20,
+      "drafts": 21,
       "published": 6,
       "auto": 6
     }
@@ -166,36 +166,6 @@
   "last_build": "2026-10-29T10:41:35Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i11"
-        ],
-        "topic": "Anthropic prepares safety measures for 2026 US midterms",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "ABD ara seçimleri için yapay zeka güvenlik önlemleri."
-      },
-      "items": [
-        {
-          "key": "18177a36d83526b9",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/2026-us-midterms",
-          "via": null,
-          "via_url": null,
-          "title": "Preparing for the 2026 US midterms",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i11"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -462,36 +432,6 @@
           "published": "2026-10-28T11:27:30Z",
           "html_source": false,
           "tid": "i53"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i59"
-        ],
-        "topic": "Data center boom drives innovation for US power grid",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "donanim",
-        "reason": "Veri merkezlerinin enerji talebinin elektrik şebekesi yeniliklerini tetiklemesi."
-      },
-      "items": [
-        {
-          "key": "a81d0c1c06b00a4c",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-          "via": null,
-          "via_url": null,
-          "title": "The data center boom has an upside: innovation for the US grid",
-          "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-          "published": "2026-10-27T22:55:41Z",
-          "html_source": false,
-          "tid": "i59"
         }
       ],
       "at": "2026-10-29T08:36:00Z"

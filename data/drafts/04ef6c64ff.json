@@ -1,0 +1,69 @@
+{
+  "id": "04ef6c64ff",
+  "status": "pending",
+  "created_at": "2026-10-29T11:20:59Z",
+  "title": "Anthropic, ABD ara seçimleri öncesinde Claude için seçim güvenlik önlemlerini güçlendirdi",
+  "summary": "Anthropic, ABD ara seçimleri yaklaşırken Claude yapay zeka modelinin siyasi tarafsızlık test sonuçlarını paylaştı ve yeni güvenlik önlemlerini duyurdu.",
+  "body": "Anthropic'in duyurusuna göre şirket, ABD ara seçimleri yaklaşırken yapay zeka asistanı **Claude** için seçim güvenliği önlemlerini ve tarafsızlık değerlendirmelerini güçlendirdi. Yapılan açıklamada, ABD'deki Claude.ai kullanıcılarının genel konuşmaları içinde politika ve kamu politikası gibi konuların yaklaşık %5,75'lik bir oran oluşturduğu, seçimler veya oy verme süreçleriyle ilgili sorguların ise yaklaşık %0,51 seviyesinde yer aldığı belirtildi.\n\n## Güvenilir bilgi kaynakları ve tarafsızlık testleri\n\nŞirketin aktardığına göre, Claude kullanıcıları oy verme yerleri veya kayıt işlemleri hakkında soru sorduğunda, Democracy Works kuruluşunun tarafsız kaynağı olan TurboVote bağlantısını içeren bir banner gösterilmeye devam ediyor. Ay ilerledikçe Claude, ABD'deki kullanıcılar için bu resmi oylama bilgilerini doğrudan yanıtlarına entegre etmeye başlayacak ve seçim gecesi ile sonrasındaki günlerde güncel oy sayım sonuçlarını sunacak. Anthropic, Claude Opus 5.5, Sonnet 5.5 ve Haiku 5.5 modellerinin siyasi tarafsızlık değerlendirmelerinde %99 skor elde ettiğini ve bugüne kadarki en dengeli sürümler olduğunu bildirdi.\n\n## Bağımsız değerlendirmeler ve model iyileştirmeleri\n\nBağımsız kuruluşlar tarafından gerçekleştirilen testlerde modelin güçlü yanıtlar verdiği görülürken, bazı eksiklikler de tespit edildi. Future of Free Speech ve Collective Intelligence Project, Claude'un talepleri nadiren reddettiğini ancak bazen istenmeyen karşı argümanlar eklediğini, Foundation for American Innovation ise Claude Sonnet 4.5 modelinin sağ eğilimli argümanları yumuşatmaya daha meyilli olduğunu belirtti. Anthropic, doğrudan evet-hayır sorularına verilen yanıtları iyileştirdiklerini ve tarafsızlığı artırmak üzere çalışmalarını sürdürdüklerini kaydetti.\n\n**Neden önemli?** Anthropic'in güncellediği kullanım politikaları; seçmenleri yanıltmayı, yanlış bilgi yaymayı veya yetkili kurumları taklit etmeyi yasaklarken, kampanyaların Claude'u basın açıklaması taslağı hazırlama gibi meşru işler için nasıl kullanabileceğine dair kılavuzlar sunuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "Claude Opus 5.5",
+    "Claude Sonnet 5.5",
+    "Claude Haiku 5.5"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten Claude için seçim güvenliği adımları",
+  "kicker": "Regülasyon",
+  "hero_stat": "%99",
+  "hero_stat_label": "tarafsızlık skoru",
+  "visual_style": "studio",
+  "visual_scene": "a single smooth porcelain sculpture shaped like an open book with softly folded pages, casting a gentle shadow on a warm neutral surface",
+  "focus_keyword": "Claude seçim güvenliği",
+  "seo_title": "Anthropic, Claude için seçim güvenlik önlemlerini artırdı",
+  "meta_description": "Anthropic, ABD ara seçimleri yaklaşırken Claude yapay zeka modelinin siyasi tarafsızlık test sonuçlarını ve yeni güvenlik önlemlerini paylaştı.",
+  "seo_slug": "anthropic-claude-secim-guvenligi-onlemlerini-artirdi",
+  "image_alt": "Porselen bir kitap heykelini temsil eden stüdyo ortamındaki görsel",
+  "cover_text": "Claude",
+  "importance": 6,
+  "triage_reason": "ABD ara seçimleri için yapay zeka güvenlik önlemleri.",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    }
+  ],
+  "source_keys": [
+    "Anthropic"
+  ],
+  "source_texts": [
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Preparing for the 2026 US midterms",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "published": null,
+      "summary": "",
+      "text": "Earlier this year, we shared an update on our election safeguards, which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information.\nBelow, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms.\nHow people use Claude for elections and politics\nOur goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude in these contexts. To do this, we used Anthropic Insights to develop a new analysis of 250,000 conversations over the course of a recent one-week period.1\nToday, conversations that touch broadly on politics, public policy, or social issues account for about 5.75% of all conversations in the United States on Claude.ai, our consumer app. This includes people turning to Claude to follow the news, conduct academic or professional research on public policy, learn about candidates, and navigate government services. About 0.51% of all conversations are specifically about elections or voting. As we get closer to Election Day, we expect the share of political and election-related queries to increase.\nThis sample suggests people rarely ask Claude whom or what to vote for. These kinds of requests showed up in about 0.01% of US Claude conversations. More often, we observed people asking Claude questions that could help them reach their own conclusions, like where candidates stand on a particular issue. Requests that violated our election integrity policies were even less common, appearing in about 0.002% of conversations.2\nConnecting people to trusted sources\nAhead of Election Day, we've added two ways for people to get reliable information directly in their conversations with Claude. As we shared in April, when people ask Claude.ai about voter registration, polling places, or election dates, we’ll continue to display a banner linking to TurboVote, a nonpartisan resource from Democracy Works.\nLater this month, Claude will start drawing official voting information from Democracy Works into its responses on Claude.ai for users in the US. Someone asking where to vote or what ID to bring to their polling place will now get an answer specific to their state, without leaving the conversation. These responses draw on publicly available information that Democracy Works collects from state and local election sources.\nAdditionally, Claude will begin showing up-to-date results on election night and in the days that follow, so that when people ask for current vote counts or election results, they'll be shown the latest official numbers directly in their conversation.\nMeasuring and preventing political bias\nWhen people ask Claude about politics, they should get accurate and evenhanded answers that don't favor any particular political viewpoint. That’s why we test our models extensively for political bias before every model launch. Claude Opus 5.5, Sonnet 5.5, and Haiku 5.5 are our most evenhanded to date, scoring 99% on our political evenhandedness evaluation. Our latest models also engage more readily with political discussions and decline fewer requests, so people can get the information they came for. We're continuing to refine these evaluations, and also looking beyond them for new ways to pressure-test how our models handle political topics.\nAs part of that effort, we asked three independent groups to review how Claude handles free expression, each from a different angle with different methodologies. The Future of Free Speech, an independent think tank at Vanderbilt University, tested Claude on hundreds of requests on contentious topics, and the Foundation for American Innovation compared how Claude responded to matched prompts from the left and right, ranging from mainstream policy debates to more extreme scenarios. On both of these evaluations, most of the responses were rated as strong, engaging substantively with requests. The Collective Intelligence Project surveyed more than 2,000 people in the US, UK, and India in developing an evaluation. Through a three-stage process, participants proposed principles for handling sensitive topics, ranging from health to politics, identified topics to test, and helped develop criteria for judging model responses. CIP synthesized this input and tested for agreement across demographic and cultural groups to establish shared principles.\nThese evaluations also identified areas where Claude still falls short. The Future of Free Speech and the Collective Intelligence Project both found that Claude rarely refused requests, but sometimes added unsolicited caveats and counterarguments, such as inserting an opposing view into an advocacy email. And the Foundation for American Innovation found that Claude Sonnet 4.5 didn’t always hedge evenly, and was more likely to soften arguments for right-leaning positions.\nWe're addressing this in a few ways. We've improved how Claude responds to direct yes-or-no questions and requests for shorter answers, where we found its answers could be less balanced. We're also using these findings to improve when and how Claude adds caveats or counterarguments, so it treats requests from across the political spectrum more consistently. And we're continuing to improve how we test for uneven hedging, building on existing evaluations that use matched prompts from the left and right. More broadly, we're working to expand our political bias evaluations to better reflect real conversations and to cover candidates and voting questions as well as policy issues.\nHow we define misuse\nOur Usage Policy prohibits using Claude to deceive voters or disrupt elections, from spreading false information about candidates or how to vote, to impersonating election officials or trying to suppress turnout. Each year, we update the policy to reflect our models’ evolving capabilities and feedback from our customers. This year’s update, which we announced last week, clarifies what our election rules cover and what they don't, and adds new examples to help people understand where the lines fall.\nWe know many political campaigns use Claude for legitimate, everyday tasks, so we recently published a guide to help them understand where these policies apply. It covers the many ways campaigns can put Claude to work, such as drafting press statements and fundraising emails, prepping for debates, analyzing turnout data, and building voter outreach materials. It also spells out what’s prohibited, such as using Claude to create fake social media profiles that pose as real people, mass-producing comments to inflate a campaign’s engagement, or writing content for news sites and pages that falsely claim to be independent.\nTesting and strengthening our defenses\nWe deploy automated classifiers that are trained to detect election-related abuse. To see how these safeguards hold up in practice, we partnered with the Institute for Strate"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 233
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Anthropic"
+}
