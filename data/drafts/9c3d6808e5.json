@@ -1,0 +1,69 @@
+{
+  "id": "9c3d6808e5",
+  "status": "pending",
+  "created_at": "2026-10-29T14:05:13Z",
+  "title": "Legora hukuk süreçlerini yapay zeka ile dönüştürüyor",
+  "summary": "Stockholm merkezli Legora, hukuk ekipleri için geliştirdiği yapay zeka tabanlı işletim sistemiyle sözleşme inceleme sürelerini ve operasyonel verimliliği artırıyor.",
+  "body": "Stockholm merkezli Legora, hukuk ekiplerinin iş akışlarını dijitalleştiren ve yapay zeka destekli bir \"hukuk işletim sistemi\" sunan platformuyla hukuk sektöründeki süreçleri dönüştürüyor. OpenAI modelleri ve kodlama ajanları üzerine inşa edilen platform, avukatların üzerindeki iş yükünü azaltarak daha katma değerli çalışmalara odaklanmalarını sağlamayı hedefliyor. OpenAI'ın duyurusuna göre, Legora'nın geliştirdiği teknoloji, kurum içi hukuk ekiplerinin NDA (gizlilik sözleşmesi) inceleme süreçlerinde harcadığı zamanı %95'ten fazla oranında azaltıyor.\n\n## Hukukta yapay zeka verimliliği\n\nLegora'nın kurucu ortağı ve CEO'su Max Junestrand, sistemin amacını \"her türlü hukuki işin platform üzerinden yürütülebilmesi\" olarak tanımlıyor. Özellikle Fortune 100 ölçeğindeki bir müşteride yapılan uygulamada, sözleşme tamamlama süresi %90 hızlanırken, dış hukuk ve inceleme maliyetlerinde 20 milyon doların üzerinde tasarruf sağlandığı belirtiliyor. Şirketin verilerine göre, bu sistem sayesinde avukat başına haftalık 9,5 saatlik çalışma süresi kazanılıyor.\n\n## Geliştirme süreçlerinde kodlama ajanları\n\nLegora, yapay zekayı yalnızca sunduğu hizmette değil, kendi mühendislik süreçlerinde de aktif olarak kullanıyor. CTO Jacob Lauritzen, kodlama ajanlarının hata tespiti ve yazılım geliştirme süreçlerini hızlandırdığını vurguluyor. Mühendislik ekipleri, karmaşık sorunları çözmek için milyonlarca satır log verisini tarayarak dakikalar içinde çözüm üretebiliyor. Bu yaklaşım, yeni fikirlerin hızlı bir şekilde prototiplenmesine ve ürün geliştirme döngüsünün kısalmasına olanak tanıyor.\n\n**Neden önemli?** Hukuk gibi zaman odaklı ve hata payı düşük alanlarda yapay zeka ajanlarının kullanımı, standart doküman inceleme süreçlerinin ötesine geçerek avukatların daha geniş kapsamlı analizler yapmasına olanak tanıyor. Gelecekte, daha otonom çalışan ajanlarla milyonlarca sayfalık sözleşmelerin gece boyunca analiz edilmesi ve insan-yapay zeka iş birliğinin anlık etkileşime dönüşmesi hedefleniyor.",
+  "category": "urunler",
+  "tags": [
+    "Legora",
+    "OpenAI",
+    "hukuk",
+    "yazılım",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Legora hukuk süreçlerini hızlandırıyor",
+  "kicker": "Yapay zeka",
+  "hero_stat": "9,5 saat",
+  "hero_stat_label": "avukat başına kazanç",
+  "visual_style": "sculpture",
+  "visual_scene": "A balanced scale made of brushed aluminum, where one side is piled with light-absorbing matte black stone cubes, while the other holds a glowing, translucent crystalline structure that seems to be unfolding like paper.",
+  "focus_keyword": "Legora hukuk",
+  "seo_title": "Legora hukuk iş akışlarını yapay zeka ile hızlandırıyor",
+  "meta_description": "Legora, hukuk ekiplerinin NDA inceleme ve sözleşme süreçlerini yapay zeka modelleriyle nasıl hızlandırdığını duyurdu. Hukukta yapay zeka verimliliği.",
+  "seo_slug": "legora-hukuk-sureclerini-yapay-zeka-ile-donusturuyor",
+  "image_alt": "Soyut bir terazi üzerinde yükselen kristal yapı, Legora'nın hukuk teknolojilerindeki dönüşümünü simgeliyor.",
+  "cover_text": "Legora",
+  "importance": 6,
+  "triage_reason": "Legora'nın hukuki işler için OpenAI tabanlı ajan işletim sistemi geliştirmesi.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/legora",
+      "title": "Legora is building the agentic operating system for legal work",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T09:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00Z",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "text": "Legora is building the agentic operating system for legal work\nPowered by OpenAI models and coding agents, Legora helps legal teams move faster, broaden analysis and focus on higher-value work.\n95%+\nreduction in Legora legal-team time spent reviewing NDAs\n90%\nfaster contract turnaround for a Fortune 100 customer\n9.5 hours\nreturned per lawyer, per week\nFounded in Stockholm in 2023, Legora(opens in a new window) is building what CEO and co-founder Max Junestrand calls “the agentic operating system for legal work”: bringing AI into the workflows lawyers rely on every day.\nThe company started with the insight that legal teams are unusually time crunched, meaning some valuable work doesn’t get done. Think of the junior lawyer told to review an impossible number of contracts overnight and only able to focus on a fraction.\nLegora can provide those services “on tap”, which is why Junestrand’s ambition is that every piece of legal work in the world should run on his platform. OpenAI has been part of that journey from the beginning: the release of GPT‑3.5 was the moment many of the legal use cases the founding team had been experimenting with became possible. Today, OpenAI is a key model provider for Legora, powering core workflows across its legal AI platform, from agentic legal work to large-scale document review. Legora builds on new OpenAI model capabilities as they become available, translating advances in intelligence into what lawyers can accomplish with its product.\nLegora’s use of AI goes beyond the product it sells, and has expanded its use of ChatGPT Work, Codex and dots across its own teams. OpenAI’s technology is becoming part of both the product Legora builds for its customers as well as shaping how the company itself operates. “It’s incredibly important to me that we stay as AI-native as possible,” confirms Junestrand.\nFor Jacob Lauritzen, CTO at Legora, coding agents have changed how quickly the engineering team can develop new ideas. Instead of researching one possible solution and committing engineering time before knowing whether it’s the right path, teams can prototype many approaches at once. “We can explore 20 solutions at the same time and, within days, pick the one we know will be the best.”\nThe same approach changes how Legora responds when something goes wrong. Previously, diagnosing a product issue could mean several engineers investigating different possible causes over a number of hours. Coding agents can now search millions of lines of logs and pursue many possible explanations simultaneously, sometimes taking Legora from bug report to working fix in around five minutes.\nCustomers, of course, don’t see the engineering efficiency itself. But they do experience the results: problems can be resolved faster, feedback can reach product teams sooner, and new ideas can be tested with customers earlier in the development cycle.\nLegora’s own legal team experiences the same transformation its product is designed to create for customers. General Counsel Emma Kadri Bergström points to the example of NDAs. Her team analysed the agreements they had historically signed and built a playbook that allows Legora to take a first pass at incoming NDAs, highlighting terms that fall outside acceptable parameters.\nBefore the workflow was introduced, Kadri Bergström estimates that reviewing these “boring documents” consumed around 20% of the legal team’s capacity. Today, it’s under 1%.\nThat reclaimed time matters because the company itself is scaling rapidly. In the past year, Kadri Bergström says the business has expanded from three offices to 18, completed three financing rounds and made five acquisitions. The legal team has had to support that growth while remaining closely connected to the business.\nAI has also allowed the team to take on work that might previously have been outsourced or narrowed because of limited capacity. In M&A diligence, for example, agents can begin reviewing contracts and surfacing information across the deal set, with lawyers reviewing and interpreting the output.\n“AI doesn’t just make you faster. It also increases quality.”\nFor Legora’s customers, the opportunity isn’t simply to complete the same work faster. AI has also increased the scope of work that can be taken on.\nAlex Fortescue-Webb, Global Head of Legal Engineering, points to due diligence as an example. In a traditional review, time and cost constraints can force teams to concentrate deeply on only the most valuable contracts. Legora’s Tabular Review workflow can analyse thousands of contracts across multiple questions in minutes, allowing lawyers to apply detailed scrutiny much more broadly.\nThat can alter the quality of the final work. Risks that might previously have sat in contracts outside the manually reviewed subset can now be surfaced for a lawyer to assess.\nThe results are already measurable. Junestrand cites one Fortune 100 customer that has:\n- reduced contract turnaround time by 90%\n- saved more than $20 million on external litigation and diligence\n- returned 9.5 hours per lawyer each week for higher-value work\nThrough the Legora plugin for ChatGPT, legal teams can also use Legora’s capabilities within their ChatGPT conversations.\n- 95%+ reduction in Legora legal-team time spent reviewing NDAs, from ~20% of team capacity to under 1%.\n- 90% faster contract turnaround for one Fortune 100 Legora customer.\n- $20M+ saved on external litigation and diligence for the same customer.\n- 9.5 hours returned per lawyer, per week for higher-value work.\n- Lead by using. When more than 75% of leaders actively use Legora, median usage across the organisation is 3× higher.\n- Start with the problem. Focus on what people need to accomplish, then determine where AI can improve the workflow.\n- Build a network of champions. Internal advocates help turn experimentation into sustained adoption.\n- Be ready to rebuild. As models improve, yesterday’s product assumptions can quickly become outdated.\n- Design for trust. Build evaluation, testing and transparency into the experience from the start.\nFor Legora, the next frontier isn’t just making today’s legal workflows faster. It’s expanding the kinds of work AI can take on, while making collaboration between lawyers and AI increasingly natural.\nJacob Lauritzen sees two advances happening in parallel. First, agents will be able to tackle longer-running tasks that require far greater context and autonomy. He imagines due diligence spanning millions of pages running overnight, with the analysis ready for a lawyer to review when they arrive the next morning.\nAt the same time, increasingly capable models are becoming faster. That opens up a different kind of experience: real-time collaboration where a lawyer and AI can work back and forth on a contract, analysis or piece of advice rather than treating AI as a tool that receives a task and returns an answer.\n“When you blend human and AI, that’s when the output comes out best.”\nThat moving frontier means Lego"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 239
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}

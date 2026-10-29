@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T13:46:07Z",
+  "last_collect": "2026-10-29T14:01:36Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 892
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:16Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 394,
+      "fails": 395,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:02Z",
+      "last_ok": "2026-10-29T14:01:17Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:32:03Z",
+      "last_ok": "2026-10-29T14:01:17Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
+      "fails": 3,
       "last_ok": "2026-10-29T12:35:51Z",
       "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "last_error": "ConnectTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150 (Caused by ConnectTimeoutError(<HTTPSCon"
     }
   },
   "day_counts": {
@@ -152,10 +152,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 90282,
-      "tok_out": 29925,
+      "tok_in": 95336,
+      "tok_out": 31027,
       "cost_usd": 0.0,
-      "drafts": 26,
+      "drafts": 27,
       "published": 6,
       "auto": 6
     }
@@ -167,36 +167,6 @@
   "last_build": "2026-10-29T13:45:22Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i25"
-        ],
-        "topic": "Legora builds agentic legal operating system using OpenAI",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "urunler",
-        "reason": "Legora'nın hukuki işler için OpenAI tabanlı ajan işletim sistemi geliştirmesi."
-      },
-      "items": [
-        {
-          "key": "41c97fe8dc29ac4a",
-          "source": "OpenAI",
-          "kind": "official",
-          "credit": "OpenAI",
-          "url": "https://openai.com/index/legora",
-          "via": null,
-          "via_url": null,
-          "title": "Legora is building the agentic operating system for legal work",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "published": "2026-10-28T09:30:00Z",
-          "html_source": false,
-          "tid": "i25"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -406,6 +376,36 @@
         }
       ],
       "at": "2026-10-29T13:32:13Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "IBM Granite Switch 4.1.1 open model update",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "acik-kaynak",
+        "reason": "IBM'in açık kaynak Granite Switch 4.1.1 model güncellemesi Hugging Face'te yayımlandı."
+      },
+      "items": [
+        {
+          "key": "f3538b6fb36f4f58",
+          "source": "Hugging Face",
+          "kind": "official",
+          "credit": "Hugging Face",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "via": null,
+          "via_url": null,
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "summary": "",
+          "published": "2026-10-29T13:37:07Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-29T14:03:55Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
