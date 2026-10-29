@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T20:45:48Z",
+  "last_collect": "2026-10-29T21:01:11Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:09Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:09Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:09Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 408,
+      "fails": 409,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:01Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T19:31:02Z",
+      "last_ok": "2026-10-29T21:01:10Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-10-29T19:31:13Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -157,45 +158,25 @@
       "drafts": 40,
       "published": 12,
       "auto": 12
+    },
+    "2026-10-30": {
+      "tok_in": 6587,
+      "tok_out": 1930,
+      "cost_usd": 0.0,
+      "drafts": 2,
+      "published": 1,
+      "auto": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-29T20:39:43Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/thrive-holdings-adt-satin-almasi/"
+  ],
+  "last_build": "2026-10-29T21:01:38Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "IBM Granite Switch 4.1.1 open model update",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "acik-kaynak",
-        "reason": "IBM'in açık kaynak Granite Switch 4.1.1 model güncellemesi Hugging Face'te yayımlandı."
-      },
-      "items": [
-        {
-          "key": "f3538b6fb36f4f58",
-          "source": "Hugging Face",
-          "kind": "official",
-          "credit": "Hugging Face",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-          "via": null,
-          "via_url": null,
-          "title": "Granite Switch 4.1.1 — Update models like you update software",
-          "summary": "",
-          "published": "2026-10-29T13:37:07Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-29T14:03:55Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -315,6 +296,66 @@
         }
       ],
       "at": "2026-10-29T17:46:11Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Reddit shifts strategy as AI search transforms web traffic",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Yapay zeka arama trendlerinin web trafiğini dönüştürmesiyle Reddit strateji değiştiriyor."
+      },
+      "items": [
+        {
+          "key": "1e09943a421e9246",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+          "via": null,
+          "via_url": null,
+          "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+          "published": "2026-10-29T20:08:31Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-29T21:01:13Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "Rivian expands VW joint venture to include AI assistant",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Rivian ve VW ortaklığı yapay zeka asistanı entegrasyonu ile genişletiliyor."
+      },
+      "items": [
+        {
+          "key": "7587406daf7d14d3",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+          "via": null,
+          "via_url": null,
+          "title": "Rivian expands joint venture with VW to include AI assistant",
+          "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+          "published": "2026-10-29T20:05:47Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-10-29T21:01:13Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
