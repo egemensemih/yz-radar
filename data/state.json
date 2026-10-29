@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-09-29T08:20:58Z",
+  "last_collect": "2026-10-29T08:35:45Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
-      "count": 1235
+      "last_ok": "2026-10-29T08:35:45Z",
+      "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
-      "count": 11
+      "last_ok": "2026-10-29T08:35:45Z",
+      "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
-      "count": 869
+      "last_ok": "2026-10-29T08:35:45Z",
+      "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 378,
+      "fails": 379,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-09-29T08:20:53Z",
+      "last_ok": "2026-10-29T08:35:45Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-09-29T08:20:58Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -148,14 +149,1027 @@
       "published": 2,
       "auto": 2,
       "expired": 2
+    },
+    "2026-10-29": {
+      "expired": 11,
+      "tok_in": 12227,
+      "tok_out": 7076,
+      "cost_usd": 0.0,
+      "drafts": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-09-29T08:35:15Z",
+  "last_build": "2026-10-29T08:42:53Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i55"
+        ],
+        "topic": "Google DeepMind introduces Genie 4 interactive world model",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 9,
+        "category": "modeller",
+        "reason": "Google DeepMind'ın gerçek zamanlı etkileşimli dünya modeli Genie 4'ü duyurması."
+      },
+      "items": [
+        {
+          "key": "98ec8f3a15b3aa85",
+          "source": "Webrazzi",
+          "kind": "media",
+          "credit": "Webrazzi",
+          "url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/",
+          "via": null,
+          "via_url": "https://webrazzi.com/2026/10/28/google-ses-uretebilen-ve-gercek-zamanli-yonlendirilebilen-dunya-modeli-genie-4u-tanitti/#comments",
+          "title": "Google, ses üretebilen ve gerçek zamanlı yönlendirilebilen dünya modeli Genie 4'ü tanıttı",
+          "summary": "Google DeepMind, gerçek zamanlı etkileşimli simülasyonlar oluşturan yeni dünya modeli Genie 4’ü duyurdu. Araştırma ön izlemesi kapsamında sınırlı bir test grubuna açılan model, daha gerçekçi görseller...",
+          "published": "2026-10-28T08:00:00Z",
+          "html_source": false,
+          "tid": "i55"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i27",
+          "i31"
+        ],
+        "topic": "Microsoft reports record quarterly revenue driven by cloud and AI",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 8,
+        "category": "sirketler",
+        "reason": "Microsoft'un rekor gelir ve Azure gelirlerini açıklaması."
+      },
+      "items": [
+        {
+          "key": "1134b6a1764aac4f",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "via": null,
+          "via_url": null,
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+          "published": "2026-10-28T21:58:32Z",
+          "html_source": false,
+          "tid": "i27"
+        },
+        {
+          "key": "0ef91bd8c8c1525a",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+          "via": null,
+          "via_url": null,
+          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+          "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+          "published": "2026-10-28T21:25:30Z",
+          "html_source": false,
+          "tid": "i31"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i29"
+        ],
+        "topic": "Microsoft records $10 billion in revenue from OpenAI partnership",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 8,
+        "category": "sirketler",
+        "reason": "Microsoft'un OpenAI ortaklığından 10 milyar dolar gelir elde ettiğini açıklaması."
+      },
+      "items": [
+        {
+          "key": "f9d1493b929c42b6",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "via": null,
+          "via_url": null,
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+          "published": "2026-10-28T21:34:30Z",
+          "html_source": false,
+          "tid": "i29"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i49"
+        ],
+        "topic": "Guidewire acquires AI startup Hyperexponential for $1.7 billion",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 8,
+        "category": "sirketler",
+        "reason": "Guidewire'ın yapay zeka sigorta girişimi Hyperexponential'ı 1.7 milyar dolara satın alması."
+      },
+      "items": [
+        {
+          "key": "a28de6feabbe43a1",
+          "source": "Webrazzi",
+          "kind": "media",
+          "credit": "Webrazzi",
+          "url": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+          "via": null,
+          "via_url": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/#comments",
+          "title": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
+          "summary": "Sigorta teknolojileri şirketi Guidewire, sigorta şirketlerinin riskleri değerlendirmesine ve fiyat belirlemesine yardımcı olan Hyperexponential'ı 1,7 milyar dolara satın alıyor. Guidewire, satın almay...",
+          "published": "2026-10-28T13:00:00Z",
+          "html_source": false,
+          "tid": "i49"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i56"
+        ],
+        "topic": "Nvidia and AMD to invest $4 billion in Meta",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 8,
+        "category": "sirketler",
+        "reason": "Nvidia ve AMD'nin Meta'ya toplam 4 milyar dolarlık yatırım yapacak olması."
+      },
+      "items": [
+        {
+          "key": "2bd5a2731a8c07e0",
+          "source": "Webrazzi",
+          "kind": "media",
+          "credit": "Webrazzi",
+          "url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/",
+          "via": null,
+          "via_url": "https://webrazzi.com/2026/10/28/nvidia-ve-amd-metaya-toplam-4-milyar-dolar-yatirim-yapacak/#comments",
+          "title": "Nvidia ve AMD, Meta'ya toplam 4 milyar dolar yatırım yapacak",
+          "summary": "Nvidia ve AMD, Meta ile yapay zeka alanındaki iş birliklerini genişletirken şirkete toplam 4 milyar dolarlık yatırım yapmaya hazırlanıyor. Nvidia, 3 milyar dolarlık Meta hissesi satın almayı planlarke...",
+          "published": "2026-10-28T07:00:00Z",
+          "html_source": false,
+          "tid": "i56"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i18"
+        ],
+        "topic": "Anthropic invests $100M to train 10,000 engineers",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "sirketler",
+        "reason": "Yapay zeka yetenek açığını kapatmak için 100 milyon dolarlık eğitim yatırımı."
+      },
+      "items": [
+        {
+          "key": "bc371631f4a4bebb",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "via": null,
+          "via_url": null,
+          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i18"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i21"
+        ],
+        "topic": "NVIDIA releases RTX Spark laptops with agent tools",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "donanim",
+        "reason": "NVIDIA'nın Blackwell tabanlı yeni RTX Spark dizüstü bilgisayarları ve ajan araçlarını duyurması."
+      },
+      "items": [
+        {
+          "key": "36eb3dda48d9ab1e",
+          "source": "NVIDIA",
+          "kind": "official",
+          "credit": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+          "via": null,
+          "via_url": null,
+          "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+          "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+          "published": "2026-10-28T15:00:46Z",
+          "html_source": false,
+          "tid": "i21"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i22",
+          "i46"
+        ],
+        "topic": "NVIDIA releases Nemotron 3.5 Transcribe open model",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "acik-kaynak",
+        "reason": "NVIDIA'nın çok dilli açık kaynak transkripsiyon modeli Nemotron 3.5'i yayınlaması."
+      },
+      "items": [
+        {
+          "key": "7ae8eb20550eee76",
+          "source": "Hugging Face",
+          "kind": "official",
+          "credit": "Hugging Face",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "via": null,
+          "via_url": null,
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "summary": "",
+          "published": "2026-10-28T14:58:17Z",
+          "html_source": false,
+          "tid": "i22"
+        },
+        {
+          "key": "d9d3119199806147",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+          "via": null,
+          "via_url": null,
+          "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+          "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+          "published": "2026-10-28T15:00:00Z",
+          "html_source": false,
+          "tid": "i46"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i23"
+        ],
+        "topic": "OpenAI and ServiceNow expand enterprise workflow partnership",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "sirketler",
+        "reason": "OpenAI ve ServiceNow kurumsal iş akışları için ortaklıklarını büyütüyor."
+      },
+      "items": [
+        {
+          "key": "75e2017ed4c5a2ec",
+          "source": "OpenAI",
+          "kind": "official",
+          "credit": "OpenAI",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "via": null,
+          "via_url": null,
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "published": "2026-10-28T13:15:00Z",
+          "html_source": false,
+          "tid": "i23"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i28"
+        ],
+        "topic": "Google expands AI Search ads globally amid strong earnings",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "urunler",
+        "reason": "Google'ın yapay zeka arama reklamlarını küresel olarak genişletmesi."
+      },
+      "items": [
+        {
+          "key": "9b7dd4a7a6853f5d",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "via": null,
+          "via_url": null,
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+          "published": "2026-10-28T21:48:37Z",
+          "html_source": false,
+          "tid": "i28"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i40",
+          "i42"
+        ],
+        "topic": "Chrome's AI autofill integrates with Gmail to extract details",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "urunler",
+        "reason": "Google Chrome'un yapay zeka destekli otomatik doldurma özelliğinin Gmail entegrasyonu kazanması."
+      },
+      "items": [
+        {
+          "key": "5e4098babe95c0f8",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+          "via": null,
+          "via_url": null,
+          "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+          "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+          "published": "2026-10-28T17:00:00Z",
+          "html_source": false,
+          "tid": "i40"
+        },
+        {
+          "key": "cca2247626bb8061",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+          "via": null,
+          "via_url": null,
+          "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+          "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+          "published": "2026-10-28T17:00:00Z",
+          "html_source": false,
+          "tid": "i42"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i41"
+        ],
+        "topic": "Google opens Gemini and Search developer platform to more apps",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "urunler",
+        "reason": "Google'ın geliştiriciler için Gemini ve Arama entegrasyon platformunu açması."
+      },
+      "items": [
+        {
+          "key": "a01db71b034ce352",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "via": null,
+          "via_url": null,
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+          "published": "2026-10-28T17:00:00Z",
+          "html_source": false,
+          "tid": "i41"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i47"
+        ],
+        "topic": "xAI buys out Mississippi homeowners near data center",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "donanim",
+        "reason": "xAI'ın veri merkezi gürültü şikayetleri ve dava tehditleri nedeniyle evleri satın alması."
+      },
+      "items": [
+        {
+          "key": "f010b1f4f0325865",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+          "via": null,
+          "via_url": null,
+          "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+          "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
+          "published": "2026-10-28T14:44:00Z",
+          "html_source": false,
+          "tid": "i47"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i54"
+        ],
+        "topic": "ChatGPT adds iCloud Mail and Calendar integrations",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "urunler",
+        "reason": "OpenAI'ın ChatGPT için Apple iCloud Mail ve Takvim entegrasyonlarını sunması."
+      },
+      "items": [
+        {
+          "key": "fd3b86fca18e57d9",
+          "source": "Webrazzi",
+          "kind": "media",
+          "credit": "Webrazzi",
+          "url": "https://webrazzi.com/2026/10/28/chatgpt-icloud-mail-ve-takvim-entegrasyonlarini-kullanima-sundu/",
+          "via": null,
+          "via_url": "https://webrazzi.com/2026/10/28/chatgpt-icloud-mail-ve-takvim-entegrasyonlarini-kullanima-sundu/#comments",
+          "title": "ChatGPT, iCloud Mail ve Takvim entegrasyonlarını kullanıma sundu",
+          "summary": "OpenAI, ChatGPT’ye Apple’ın e-posta ve takvim hizmetleri için iki yeni eklenti eklediğini X hesabında paylaşarak duyurdu. iCloud Mail ve iCloud Takvim entegrasyonları sayesinde kullanıcılar, sohbet ro...",
+          "published": "2026-10-28T09:00:00Z",
+          "html_source": false,
+          "tid": "i54"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i58"
+        ],
+        "topic": "Parents sue OpenAI alleging ChatGPT coached daughter off medication",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "politika",
+        "reason": "OpenAI'a karşı açılan trajik dava ve yapay zeka güvenliği tartışmaları."
+      },
+      "items": [
+        {
+          "key": "a2f907c053dad857",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "via": null,
+          "via_url": null,
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+          "published": "2026-10-27T23:34:27Z",
+          "html_source": false,
+          "tid": "i58"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i60"
+        ],
+        "topic": "Delaware plan proposes letting AI agents run entire businesses",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "politika",
+        "reason": "Delaware'de yapay zeka ajanlarının şirketleri yasal olarak yönetmesine izin verme planı."
+      },
+      "items": [
+        {
+          "key": "0419fa07eb025d9c",
+          "source": "Ars Technica",
+          "kind": "media",
+          "credit": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "via": null,
+          "via_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/#comments",
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+          "published": "2026-10-27T21:50:04Z",
+          "html_source": false,
+          "tid": "i60"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i4"
+        ],
+        "topic": "Anthropic expands AI for Science initiative",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Anthropic'in bilimsel araştırmalar için AI programını genişletmesi."
+      },
+      "items": [
+        {
+          "key": "c517821d0281c4fa",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "via": null,
+          "via_url": null,
+          "title": "AI for Science expands to foundations and research institutions",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i4"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i5"
+        ],
+        "topic": "Anthropic expands partnership with GSA for government use of Claude",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Anthropic'in ABD devlet kurumlarıyla ortaklığını genişletmesi."
+      },
+      "items": [
+        {
+          "key": "31f854764086b8ec",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "via": null,
+          "via_url": null,
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i5"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i7"
+        ],
+        "topic": "Anthropic donates Agent Skills to Agentic AI Foundation",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "acik-kaynak",
+        "reason": "Agent Skills teknolojisinin vakfa bağışlanması."
+      },
+      "items": [
+        {
+          "key": "cc012b1e3b750154",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "via": null,
+          "via_url": null,
+          "title": "Donating Agent Skills to the Agentic AI Foundation",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i7"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i11"
+        ],
+        "topic": "Anthropic prepares safety measures for 2026 US midterms",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "ABD ara seçimleri için yapay zeka güvenlik önlemleri."
+      },
+      "items": [
+        {
+          "key": "18177a36d83526b9",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/2026-us-midterms",
+          "via": null,
+          "via_url": null,
+          "title": "Preparing for the 2026 US midterms",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i11"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i12"
+        ],
+        "topic": "Anthropic opens Singapore office and signs MOU",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Anthropic'in Singapur ofisini açması ve mutabakat imzalaması."
+      },
+      "items": [
+        {
+          "key": "f2bde108f64c5a7a",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/singapore-office-opening",
+          "via": null,
+          "via_url": null,
+          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i12"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i13"
+        ],
+        "topic": "Anthropic strengthens defenses against distillation attacks",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Model distilasyon saldırılarına karşı güvenlik önlemleri."
+      },
+      "items": [
+        {
+          "key": "8441dda466a0cda9",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/distillation-defenses",
+          "via": null,
+          "via_url": null,
+          "title": "Strengthening our defenses against distillation attacks",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i13"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i14"
+        ],
+        "topic": "Anthropic introduces Cyber Mission",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Siber güvenlik odaklı yeni girişim."
+      },
+      "items": [
+        {
+          "key": "77b3f0b977bcd0cf",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "via": null,
+          "via_url": null,
+          "title": "Introducing the Anthropic Cyber Mission",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i14"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i19"
+        ],
+        "topic": "Barclays scales Claude to upgrade operations",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Barclays'in operasyonları için Claude'u ölçeklendirmesi."
+      },
+      "items": [
+        {
+          "key": "8a78d74aef0967c5",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/barclays-scales-claude",
+          "via": null,
+          "via_url": null,
+          "title": "Barclays scales Claude to upgrade operations and improve client experience",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i19"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i25"
+        ],
+        "topic": "Legora builds agentic legal operating system using OpenAI",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Legora'nın hukuki işler için OpenAI tabanlı ajan işletim sistemi geliştirmesi."
+      },
+      "items": [
+        {
+          "key": "41c97fe8dc29ac4a",
+          "source": "OpenAI",
+          "kind": "official",
+          "credit": "OpenAI",
+          "url": "https://openai.com/index/legora",
+          "via": null,
+          "via_url": null,
+          "title": "Legora is building the agentic operating system for legal work",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "published": "2026-10-28T09:30:00Z",
+          "html_source": false,
+          "tid": "i25"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i38"
+        ],
+        "topic": "Microsoft ending Copilot support on smart TVs",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Microsoft'un akıllı televizyonlarda Copilot desteğini sonlandırması."
+      },
+      "items": [
+        {
+          "key": "238a740f5b9d30cb",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+          "via": null,
+          "via_url": null,
+          "title": "Microsoft is ending Copilot support on smart TVs",
+          "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+          "published": "2026-10-28T18:36:26Z",
+          "html_source": false,
+          "tid": "i38"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i43"
+        ],
+        "topic": "Meta likely to delay new business terms amid publisher AI backlash",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "Meta'nın veri eğitimi tepkileri nedeniyle yeni iş şartlarını ertelemesi."
+      },
+      "items": [
+        {
+          "key": "b358f24cec5bcae3",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+          "via": null,
+          "via_url": null,
+          "title": "Meta says it’ll probably delay its controversial new business terms again",
+          "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
+          "published": "2026-10-28T16:15:30Z",
+          "html_source": false,
+          "tid": "i43"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i50"
+        ],
+        "topic": "Texas voters express strong opposition to expanding data centers",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "donanim",
+        "reason": "Teksas'ta yerel halkın veri merkezi projelerine karşı artan tepkileri."
+      },
+      "items": [
+        {
+          "key": "cf5c3f4a43986183",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+          "via": null,
+          "via_url": null,
+          "title": "Voters in Texas agree: They hate data centers",
+          "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
+          "published": "2026-10-28T12:00:00Z",
+          "html_source": false,
+          "tid": "i50"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i53"
+        ],
+        "topic": "Meta quietly launches Waddle World AI pet journal app",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Meta'nın sanal evcil hayvan sohbet uygulaması Waddle World'ü sessizce yayınlaması."
+      },
+      "items": [
+        {
+          "key": "4683a3b03315c3bb",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+          "via": null,
+          "via_url": null,
+          "title": "Meta quietly launched an ‘AI pet journal’ app",
+          "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+          "published": "2026-10-28T11:27:30Z",
+          "html_source": false,
+          "tid": "i53"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i59"
+        ],
+        "topic": "Data center boom drives innovation for US power grid",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "donanim",
+        "reason": "Veri merkezlerinin enerji talebinin elektrik şebekesi yeniliklerini tetiklemesi."
+      },
+      "items": [
+        {
+          "key": "a81d0c1c06b00a4c",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+          "via": null,
+          "via_url": null,
+          "title": "The data center boom has an upside: innovation for the US grid",
+          "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+          "published": "2026-10-27T22:55:41Z",
+          "html_source": false,
+          "tid": "i59"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i61"
+        ],
+        "topic": "Bank of America warns customers against sharing passwords with AI",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "Bank of America'nın müşterilerini yapay zeka ajanlarına şifre vermemeleri konusunda uyarması."
+      },
+      "items": [
+        {
+          "key": "7afb98bf1433db02",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+          "via": null,
+          "via_url": null,
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+          "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+          "published": "2026-10-27T21:44:34Z",
+          "html_source": false,
+          "tid": "i61"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i64"
+        ],
+        "topic": "Researchers grow frustrated with OpenAI's approach to breakthrough research",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Araştırmacıların OpenAI'ın bilimsel bulguları paylaşım politikalarından duyduğu rahatsızlık."
+      },
+      "items": [
+        {
+          "key": "2df56fbd08a37523",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "via": null,
+          "via_url": null,
+          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
+          "published": "2026-10-27T20:48:58Z",
+          "html_source": false,
+          "tid": "i64"
+        }
+      ],
+      "at": "2026-10-29T08:36:00Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }

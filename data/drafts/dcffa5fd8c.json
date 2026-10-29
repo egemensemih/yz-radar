@@ -1,0 +1,107 @@
+{
+  "id": "dcffa5fd8c",
+  "status": "pending",
+  "created_at": "2026-10-29T08:38:50Z",
+  "title": "Google DeepMind siber güvenlik odaklı Gemini 4 Carbon modelini duyurdu",
+  "summary": "Google DeepMind, Gemini 4 Argon'dan iki hafta sonra siber güvenlik, kodlama ve ajansal görevlerde üstün performans sunan yeni frontier modeli Gemini 4 Carbon'u duyurdu.",
+  "body": "Google DeepMind, 28 Ekim'de yayınladığı duyuruyla siber güvenlik ve karmaşık kodlama süreçlerine odaklanan yeni frontier modeli **Gemini 4 Carbon**'u tanıttı. Gemini 4 Argon'un yayınlanmasından iki hafta sonra duyurulan model, uzun süreli mühendislik görevlerini kesintisiz yürütme yeteneğiyle öne çıkıyor. Google, yeni modeli ilk aşamada kısıtlı bir siber güvenlik uzmanı grubuna sunuyor.\n\n## Gemini 4 Carbon performans testlerinde ne sunuyor?\n\nGoogle DeepMind'ın verilerine göre model, v5.0 Artificial Analysis Intelligence Index sıralamasında 59 puanla birinci sıraya yerleşti. Yapılan değerlendirmelerde GPT-6 Astra ve Claude Opus 5.5 gibi rakip modellerin önüne geçen model, siber güvenlik savunma döngüsünün farklı aşamalarında şu sonuçları elde etti:\n\n* Yazılım açıklarını tespit etmeyi ölçen SEC-bench Pro testinde %88,2 başarı oranı\n* Açıkların kullanılabilirliğini doğrulayan ExploitGym testinde %54,8 skor\n* Kod yamama performansını değerlendiren CWE-bench testinde %71,0 başarı oranı\n\nBunun yanı sıra model, WebDev Arena sıralamasında 89 puanlık bir artış göstererek dördüncü sıraya yükseldi. İç testlerde Chrome ekibi, modelin yüksek kaliteli yama üretmede rakip modellere kıyasla 10 kattan fazla daha iyi performans gösterdiğini bildirdi.\n\n## Güvenlik önlemleri ve erişim planı\n\nModel, güvenlik tarafında dolaylı komut enjeksiyonu saldırılarına karşı %100 direnç göstererek Gray Swan testlerinde %0,0 saldırı başarı oranına ulaştı. Google, modelin temelsiz iddialar üretme oranını Argon'a kıyasla yarı yarıya düşürdüğünü açıkladı.\n\nGemini 4 Carbon, ABD hükümetinin model öncesi test süreçleri kapsamında aşamalı olarak kullanıma sunulacak. **Fairwind Programı** aracılığıyla erişimi güvenilir ortaklara genişletmeyi planlayan şirket; geliştiriciler, işletmeler ve genel kullanıcılar için kitle erişimini daha sonra açacak. Modelin fiyatlandırması ise Argon ile aynı kalarak 1 milyon girdi tokenı için 2 dolar, 1 milyon çıktı tokenı için 10 dolar olarak belirlendi.\n\n**Neden önemli?** Yapay zeka modellerinin siber güvenlik ve karmaşık yazılım geliştirme süreçlerindeki rolü artarken, Google'ın yayın hızı büyük dil modelleri arasındaki rekabeti tırmandırıyor. Modelin güvenlik açıklarını tespit etme ve kapatma yetenekleri, siber savunma araçlarının geleceği açısından kritik bir adım kabul ediliyor.",
+  "category": "modeller",
+  "tags": [
+    "Google DeepMind",
+    "Gemini 4 Carbon",
+    "Gemini 4 Argon",
+    "büyük dil modelleri",
+    "siber güvenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google'dan siber güvenlik odaklı Gemini 4 Carbon",
+  "kicker": "Yeni model",
+  "hero_stat": "%88,2",
+  "hero_stat_label": "güvenlik açığı tespiti",
+  "visual_style": "sculpture",
+  "visual_scene": "A sleek geometric sculpture made of dark charcoal ceramic and translucent frosted glass, interlocking seamlessly on a smooth stone pedestal under focused minimalist lighting, representing complex code structures and defensive security barriers.",
+  "focus_keyword": "gemini 4 carbon",
+  "seo_title": "Google yeni yapay zeka modeli Gemini 4 Carbon'u duyurdu",
+  "meta_description": "Google DeepMind, siber güvenlik ve kodlama yetenekleriyle öne çıkan yeni frontier modeli Gemini 4 Carbon'u duyurdu. Detaylar ve test sonuçları.",
+  "seo_slug": "google-gemini-4-carbon-modelini-duyurdu",
+  "image_alt": "Koyu tonda seramik ve buzlu camdan geometrik heykel: Google'ın Gemini 4 Carbon duyurusunu temsil eden görsel",
+  "cover_text": "Gemini 4 Carbon",
+  "importance": 10,
+  "triage_reason": "Google'ın siber güvenlik ve kodlamada iddialı yeni sınır modeli Gemini 4 Carbon'u duyurması.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T17:00:58Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-28T20:03:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/#comments",
+      "published": "2026-10-28T18:47:27Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind",
+    "The Verge",
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google DeepMind",
+      "kind": "official",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published": "2026-10-28T17:00:58Z",
+      "summary": "",
+      "text": "Gemini 4 Carbon: our next frontier model\nToday, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\nCarbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching. On internal benchmarks, Carbon drives a strong uplift in generating secure code, and in live coding environments with our own teams it shows reduced misalignment and fabrication rates.\nBuilding on Gemini 4 Argon, which was launched two weeks ago, Carbon illustrates the pace at which we’re pushing the frontier forward. Our researchers and models are working hand in hand to advance capabilities faster, while strengthening our safeguards in tandem.\nWe're taking a deliberate approach to rollout and are actively engaged in the U.S. government’s voluntary process for pre-release model testing. Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners through our Fairwind Program. We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible.\nGemini 4 Carbon will launch at the same introductory price 1 as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\nImproving coding and reasoning for challenging, long-horizon tasks\nDesigned to take on much harder, long-horizon engineering problems, Carbon is built for sustained agentic workflows. Internally, our teams have seen Carbon run for days to persist through dead ends to tackle complex, multi-step engineering tasks like root-causing and patching subtle bugs across large codebases and low-level systems.\nBuilding on user feedback, we focused on improving model performance across a variety of domains, including coding, agentic, and scientific tasks, as well as full-stack web development and multimodal understanding. With improved quality of output and artifacts in web development, Carbon jumps +89 elo points to land at #4 (1768) on WebDev Arena.\nState-of-the-art cybersecurity performance to help build secure systems\nGemini 4 Carbon delivers a significant leap in cybersecurity capabilities. It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.\nOur teams are already seeing strong gains in cyberdefense. On internal benchmarks, Carbon achieves more than 2x uplift in success rate for generating secure code over Argon. As another example, the Chrome team has reported that Carbon performed more than 10X better than another lab's large frontier model when generating high quality patches. Wiz, our leading Cloud security platform, also observes Carbon leading on benchmarks for web penetration testing, a core capability for Wiz's Scan for Good initiative.\nCarbon excels across key external benchmarks (evaluated without guardrails):\n- Finding real vulnerabilities: Core to cybersecurity defense is finding real vulnerabilities. Carbon achieves a state-of-the-art 88.2% on SEC-bench Pro, autonomously uncovering complex flaws buried in real-world software.\n- Validating risk through exploitation: To prioritize which vulnerabilities to remediate first or remediate at all, cyber defenders increasingly rely on models to check which vulnerabilities are exploitable. Carbon sets a new state-of-the-art on the popular exploitation benchmark ExploitGym (54.8%).\n- Patching at the root cause: Ultimately after identifying the vulnerabilities, fixing the root cause is a critical step in the cybersecurity defense lifecycle. Carbon reaches 71.0% on Collinear’s CWE-bench, turning validated findings directly into working code fixes.\nAdvancing frontier model safety & security\nGemini 4 Carbon builds on the same multi-layered safety and security stack of Argon — combining model training, real-time misuse defenses, prompt-injection resilience, and chain-of-thought monitoring. In particular, we made significant strides in model alignment with Argon, and reported its propensities to behave in an aligned way in our Safety and Security report. With Carbon, we challenged ourselves to go a step further on alignment, and trained the model to respond to complex or high-pressure tasks in the right way.\n- Reducing shortcuts and loophole exploitation: With Carbon, we further mitigated shortcut attempts in training while ensuring high-quality coding performance. Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4% — all while improving overall accuracy. In live coding environments with our internal teams, we observed that high-severity misalignment alerts dropped by almost 80%.\n- Greater transparency and honesty: In our internal testing, Carbon cuts unsupported claims by approximately 2x over Argon. It puts methodological caveats directly into the deliverable or withholds blocked actions with a clear list of what remains required, rather than fabricating or hedging around missing evidence.\n- Improved collaboration with the user in the face of ambiguity: Rather than guessing or forcing a path forward, Carbon retrieves the relevant sources and surfaces discrepancies to the user before acting — as a result, users should observe a much better collaborative experience with Carbon.\n- Following through without overstepping: Carbon simultaneously reduced overreach by 26% and under-service by 29% resulting in much more reliable execution of multi-step plans end-to-end while respecting project constraints and staying strictly within scope.\n- Resisting prompt injection: While Argon previously led the Gray Swan’s Indirect Prompt Injection (IPI) Benchmark in prompt injection resistance with a very low 0.7% attack success rate, Carbon achieves 0.0% — resisting every evaluated attack attempt.\nComing soon to developers, businesses, and consumers\nPushing the frontier forward requires moving fast while remaining deliberate about deployment. With Gemini 4 Carbon, our goal is to deliver meaningful leaps in software engineering and cybersecurity defense without compromising on safety or reliability. We’re eager to see how the initial cohort of cyber defenders use this model and we look forward to bringing Carbon to developers, businesses, and consumers soon."
+    },
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00Z",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+      "text": "Google has released its latest frontier model, Gemini 4 Carbon, offering “significant gains” in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon’s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nGoogle launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\nGemini 4 Carbon is outperforming the top models from OpenAI and Anthropic on some benchmarks.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It’s currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program.\nThe company says Carbon reflects the “pace at which we’re pushing the frontier forward,” coming with a “significant leap” in cyberdefense that makes it better at finding vulnerabilities and generating secure code. Carbon currently holds the number one spot on SEC-bench Pro, a benchmark that measures an AI model’s ability to discover real-world bugs, and ExploitGym, which measures how a model can turn a vulnerability into exploits.\nGoogle says Gemini 4 Carbon is built for completing longer tasks, adding that its internal teams have seen it “run for days to persist through dead ends to tackle complex, multi-step engineering tasks.” It’s also better at avoiding shortcuts, resisting prompt injection attacks, and collaborating with users, according to Google. Carbon is supposed to offer more “transparency and honesty” as well, by cutting “unsupported claims” by two times when compared to Argon.\nIt will launch at the same competitive introductory price as Argon, at $2 per million input tokens and $10 per million output tokens."
+    },
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27Z",
+      "summary": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let…",
+      "text": "It’s almost like Google’s got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon, Google has announced Gemini 4 Carbon. This isn’t the Flash model equivalent we’ve been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while.\nStop me if you’ve heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It’s so capable, in fact, that Google can’t let you use it just yet.\nGemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a “significant leap” in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating “high-quality” patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena, now ranking at number four on the leaderboard.\nGoogle has some numbers to support these vague assessments (below), showing Carbon at the top of the charts. Google positions Carbon as a totally new model, but for all we know, it could be a post-training upgrade of Argon. The two models have a lot in common, but Carbon does best Argon by slim margins in every test Google has given it. Its new model also beats GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1 in almost every test. Benchmarks don’t tell the whole story, of course, and it’s notable that every frontier model scores in the same neighborhood in these tests. The gap between Carbon and the competition is just a few points."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 202
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google DeepMind, Ars Technica"
+}
