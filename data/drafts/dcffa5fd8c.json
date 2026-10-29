@@ -57,12 +57,22 @@
       "via": null,
       "via_url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/#comments",
       "published": "2026-10-28T18:47:27Z"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "Gemini 4 Carbon",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50276792",
+      "published": "2026-10-28T17:01:23Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
     "The Verge",
-    "Ars Technica"
+    "Ars Technica",
+    "Hacker News"
   ],
   "source_texts": [
     {

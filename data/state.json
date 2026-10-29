@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T09:21:21Z",
+  "last_collect": "2026-10-29T09:38:36Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:13Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 891
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 382,
+      "fails": 383,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T09:21:14Z",
+      "last_ok": "2026-10-29T09:38:34Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 4,
-      "last_ok": "2026-09-29T08:20:58Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-10-29T09:38:36Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -152,10 +151,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 29323,
-      "tok_out": 12659,
+      "tok_in": 38321,
+      "tok_out": 14766,
       "cost_usd": 0.0,
-      "drafts": 8,
+      "drafts": 10,
       "published": 2,
       "auto": 2
     }
@@ -167,81 +166,6 @@
   "last_build": "2026-10-29T09:11:43Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i21"
-        ],
-        "topic": "NVIDIA releases RTX Spark laptops with agent tools",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "donanim",
-        "reason": "NVIDIA'nın Blackwell tabanlı yeni RTX Spark dizüstü bilgisayarları ve ajan araçlarını duyurması."
-      },
-      "items": [
-        {
-          "key": "36eb3dda48d9ab1e",
-          "source": "NVIDIA",
-          "kind": "official",
-          "credit": "NVIDIA",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-          "via": null,
-          "via_url": null,
-          "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-          "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-          "published": "2026-10-28T15:00:46Z",
-          "html_source": false,
-          "tid": "i21"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i22",
-          "i46"
-        ],
-        "topic": "NVIDIA releases Nemotron 3.5 Transcribe open model",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "acik-kaynak",
-        "reason": "NVIDIA'nın çok dilli açık kaynak transkripsiyon modeli Nemotron 3.5'i yayınlaması."
-      },
-      "items": [
-        {
-          "key": "7ae8eb20550eee76",
-          "source": "Hugging Face",
-          "kind": "official",
-          "credit": "Hugging Face",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "via": null,
-          "via_url": null,
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "summary": "",
-          "published": "2026-10-28T14:58:17Z",
-          "html_source": false,
-          "tid": "i22"
-        },
-        {
-          "key": "d9d3119199806147",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-          "via": null,
-          "via_url": null,
-          "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-          "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-          "published": "2026-10-28T15:00:00Z",
-          "html_source": false,
-          "tid": "i46"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
