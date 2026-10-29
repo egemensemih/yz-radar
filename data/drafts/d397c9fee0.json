@@ -66,10 +66,20 @@
       "via": null,
       "via_url": null,
       "published": null
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T13:30:00Z"
     }
   ],
   "source_keys": [
-    "Anthropic"
+    "Anthropic",
+    "The Verge"
   ],
   "source_texts": [
     {

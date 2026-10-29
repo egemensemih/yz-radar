@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-29T13:18:47Z",
+  "last_collect": "2026-10-29T13:32:04Z",
   "last_summary_date": "2026-09-28",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 1334
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:40Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 892
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:41Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:41Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:41Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 393,
+      "fails": 394,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:41Z",
+      "last_ok": "2026-10-29T13:32:02Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-29T13:05:41Z",
+      "last_ok": "2026-10-29T13:32:03Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-10-29T12:35:51Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -152,10 +152,10 @@
     },
     "2026-10-29": {
       "expired": 11,
-      "tok_in": 85672,
-      "tok_out": 28541,
+      "tok_in": 90282,
+      "tok_out": 29925,
       "cost_usd": 0.0,
-      "drafts": 25,
+      "drafts": 26,
       "published": 6,
       "auto": 6
     }
@@ -167,36 +167,6 @@
   "last_build": "2026-10-29T12:45:21Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i19"
-        ],
-        "topic": "Barclays scales Claude to upgrade operations",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "urunler",
-        "reason": "Barclays'in operasyonları için Claude'u ölçeklendirmesi."
-      },
-      "items": [
-        {
-          "key": "8a78d74aef0967c5",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/barclays-scales-claude",
-          "via": null,
-          "via_url": null,
-          "title": "Barclays scales Claude to upgrade operations and improve client experience",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i19"
-        }
-      ],
-      "at": "2026-10-29T08:36:00Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -406,6 +376,36 @@
         }
       ],
       "at": "2026-10-29T10:37:02Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i3"
+        ],
+        "topic": "Deepgram acquires Daily",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Deepgram'ın ses altyapısını güçlendirmek için Daily'yi satın alması."
+      },
+      "items": [
+        {
+          "key": "d0e2301d55a343cc",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "via": null,
+          "via_url": null,
+          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+          "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+          "published": "2026-10-29T13:00:00Z",
+          "html_source": false,
+          "tid": "i3"
+        }
+      ],
+      "at": "2026-10-29T13:32:13Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
