@@ -1,0 +1,59 @@
+{
+  "id": "96f7c69518",
+  "created_at": "2026-10-30T04:01:44Z",
+  "title": "Amazon AWS yatırımı ile 1 trilyon dolar gelir hedefliyor",
+  "summary": "Amazon CEO'su Andy Jassy, AWS'nin yapay zeka altyapısına yönelik devasa yatırımlarla yıllık 1 trilyon dolar gelire ulaşabileceğini duyurdu. Şirket 2026'da 220 milyar dolar harcamayı planlıyor.",
+  "body": "Amazon, yapay zeka altyapısını büyütmek amacıyla **Amazon AWS yatırımı** bütçesini artırarak bulut bilişim birimini yıllık 1 trilyon dolar gelire ulaştırmayı hedefliyor. Amazon CEO'su Andy Jassy, 29 Ekim'deki kazanç toplantısında şirketin 2026 yılı için yaklaşık 220 milyar dolar nakit sermaye harcaması planladığını açıkladı. Bu bütçenin büyük bölümünün bulut altyapısı sağlayıcısı Amazon Web Services (AWS) için kullanılacağı belirtildi.\n\n## Amazon AWS yatırımı ve Wall Street tepkisi\n\nAndy Jassy, harcamaların 2027 yılında da anlamlı bir şekilde artacağını dile getirdi. Yatırımcıların ve Wall Street analistlerinin yüksek harcamalar ile kâr marjları konusundaki sorularını yanıtlayan CEO, yapay zeka odaklı küresel bulut talebinin tarihi bir fırsat sunduğunu belirtti. Jassy toplantıda, \"Sektör lideri olmaya devam etmek için yatırım yapmaya devam edeceğiz\" ifadesini kullandı.\n\nYatırımcıların sermaye harcamalarına ilişkin endişeleri nedeniyle Amazon hisseleri borsa kapanışı sonrası işlemlerde yaklaşık %6 oranında düşüş yaşadı. Ancak AWS, üst üste altıncı çeyrekte de istikrarlı bir büyüme sergileyerek son çeyrek gelirlerini geçen yılın aynı dönemine göre %39 artırdı.\n\n## Yıllık 1 trilyon dolar gelir hedefi\n\nMevcut durumda AWS'nin yıllıklandırılmış gelir hızı 184 milyar dolar seviyesinde bulunuyor. Jassy, kurumsal yapay zeka benimsenmesinin henüz çok başında olunduğunu vurgulayarak AWS'nin 2027 ve 2028 yıllarında %40'ın üzerinde büyüyebileceğini öngördü. Şirket yönetimi, bu büyüme ivmesiyle birlikte AWS'nin önümüzdeki 5 ila 10 yıl içinde yıllık 1 trilyon dolar gelire ulaşabileceğine inanıyor.\n\nBulut pazarındaki bu tablo sadece Amazon ile sınırlı değil. Microsoft da yakın zamanda bulut bilişim biriminin etkisiyle rekor gelirler elde ettiğini açıklarken yapay zeka altyapısına yönelik büyük yatırımlar yapmayı sürdürüyor.\n\n**Neden önemli?** Yapay zeka servislerinin gerektirdiği devasa altyapı ihtiyacı, teknoloji devlerinin sermaye harcamalarını rekor seviyelere çıkararak bulut bilişim sektörünün ölçeğini kökten değiştiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Amazon",
+    "Amazon Web Services",
+    "AWS",
+    "Andy Jassy",
+    "bulut bilişim"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Amazon'dan 220 milyar dolarlık AWS yatırımı",
+  "kicker": "Yatırım planı",
+  "hero_stat": "220 milyar $",
+  "hero_stat_label": "2026 sermaye harcaması",
+  "visual_style": "sculpture",
+  "visual_scene": "A sprawling grid of translucent obsidian pillars rising at varied heights from a reflective metallic surface, illuminated from within by subtle warm gold light channels running through the core of each pillar, creating a quiet architectural structure.",
+  "focus_keyword": "Amazon AWS yatırımı",
+  "seo_title": "Amazon AWS yatırımı: 1 trilyon dolar gelir hedefi",
+  "meta_description": "Amazon AWS yatırımı kapsamında 2026'da 220 milyar dolar harcayacak. CEO Andy Jassy, bulut biriminin 1 trilyon dolarlık gelire ulaşabileceğini açıkladı.",
+  "seo_slug": "amazon-aws-yatirimi-1-trilyon-dolar-hedefi",
+  "image_alt": "Siyah zemin üzerinde yükselen devasa şeffaf cam sütunlar: Amazon'un 220 milyar dolarlık altyapı yatırımını temsil eden görsel",
+  "cover_text": "Amazon AWS",
+  "importance": 7,
+  "triage_reason": "Amazon CEO'su AWS'nin yapay zeka bulut liderliği için devasa harcamalar yapacağını açıkladı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T23:42:22Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 271
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "amazon-aws-yatirimi-1-trilyon-dolar-hedefi",
+  "published_at": "2026-10-30T04:01:55Z",
+  "publish_mode": "auto"
+}
