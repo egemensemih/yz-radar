@@ -1,0 +1,69 @@
+{
+  "id": "25e8aa3b68",
+  "status": "pending",
+  "created_at": "2026-10-30T13:35:32Z",
+  "title": "OpenAI matematik alanındaki keşiflerini yayınlamaya devam edecek",
+  "summary": "OpenAI CEO'su Sam Altman, matematikçilerin yaşadığı zorluklara rağmen şirketin yapay zeka ile elde ettiği matematiksel keşifleri kamuoyuyla paylaşmayı sürdüreceğini söyledi.",
+  "body": "OpenAI Üst Yöneticisi Sam Altman, şirketinin **OpenAI matematik** alanındaki yapay zeka destekli keşiflerini yayınlamayı durdurmayacağını açıkladı. \"Cheeky Pint\" podcast programında konuşan Altman, yapay zeka modelleri tarafından üretilen yoğun bilgi akışı nedeniyle araştırmacıların zorlandığını kabul etti. Ancak Altman, temel bilimsel keşiflerin kamuoyuyla paylaşılması gerektiğini ve insanlığın evrenin işleyişini anlama hakkının bu süreçteki aksaklıklardan daha ağır bastığını dile getirdi.\n\n## OpenAI matematik alanına yüz milyonlarca dolar harcadı\n\nAltman'ın aktardığı bilgilere göre OpenAI, matematik problemlerinin çözümüne yüz milyonlarca dolar bütçe ayırdı. Bu harcamaların arasında, matematiğin ünlü Milenyum Ödüllü problemlerinden biri olan Navier-Stokes denklem çözümü için yapılan yaklaşık 10 milyon dolarlık yatırım da yer alıyor.\n\nAltman, modellerin sınırlarını test etmek amacıyla şirket içerisinde \"Model Name-Hold My Beer\" adında bir Slack kanalı kurulduğunu belirtti. Çalışanların en zorlu problemleri modellere yönlendirdiği bu sürecin bir dönem kontrolden çıktığını kabul eden Altman, bunun modellerin kapasitesini anlamak için gerekli ve kasıtlı bir yaklaşım olduğunu savundu.\n\n## Araştırmacıların eleştirileri ve açıklanmayan keşifler\n\nOpenAI sadece bir ay içinde yüzlerce matematiksel sonuç yayınladı. Ancak The Verge'e konuşan araştırmacılar, yetersiz kaynak gösterimi, eksik bağlam ve yetersiz doğrulama süreçleri nedeniyle yayınları incelemekte zorlandıklarını aktarıyor. Akademisyenler, şirketin hızlı yayın temposu karşısında bulguları kontrol etme yükünün kendi üzerlerinde kalmasından şikayet ediyor.\n\nŞirket yakın zamanda matematik, fizik ve bilgisayar bilimlerinde üç büyük gelişme duyurdu. Fakat modern parçacık fiziğinin matematiksel temelini oluşturan **Yang-Mills teorisi** ile ilgili ayrıntılar henüz kamuoyuyla paylaşılmadı. OpenAI, bu bilgilerin tutulmasını uzman bir danışman grubunun tavsiyesine bağlarken, Altman ellerinde henüz yayınlanmamış çok sayıda matematiksel keşif bulunduğunu doğruladı.\n\n**Neden önemli?** Yapay zeka laboratuvarlarının bilimsel problemlere ayırdığı devasa finansal ve teknolojik kaynaklar, akademik araştırmacıların kendi çalışma alanlarında bütçe açısından geride kalma endişelerini derinleştiriyor.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "Sam Altman",
+    "Navier-Stokes",
+    "Yang-Mills teorisi",
+    "büyük dil modelleri"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Sam Altman'dan matematik açıklaması",
+  "kicker": "Araştırma",
+  "hero_stat": "10 milyon $",
+  "hero_stat_label": "Navier-Stokes harcaması",
+  "visual_style": "studio",
+  "visual_scene": "A solitary geometric obsidian dodecahedron resting on a polished dark marble pedestal inside a minimalist studio, illuminated by a sharp focused spotlight creating dramatic linear shadows on a smooth concrete floor.",
+  "focus_keyword": "OpenAI matematik",
+  "seo_title": "OpenAI matematik keşiflerini yayınlamayı sürdürecek",
+  "meta_description": "OpenAI CEO'su Sam Altman, araştırmacıların eleştirilerine rağmen OpenAI matematik alanındaki keşiflerini yayınlamayı sürdüreceklerini açıkladı.",
+  "seo_slug": "openai-matematik-kesiflerini-yayinlamaya-devam-edecek",
+  "image_alt": "Karanlık bir stüdyoda sergilenen keskin geometrik nesne ve OpenAI matematik araştırmalarını temsil eden minimalist görsel",
+  "cover_text": "OpenAI",
+  "importance": 6,
+  "triage_reason": "Sam Altman, OpenAI'ın matematik odaklı yapay zeka modellerinin araştırmacılar üzerindeki etkisini savundu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T13:01:14Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14Z",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "text": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping — and hints there could be much more to come from the company’s stockpile of discoveries.\nSam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\nAltman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve.\n“I think, on net, the world deserves to understand how the universe works,” Altman said during an episode of the Cheeky Pint podcast released Thursday. “But I do have empathy for the method.”\nHis comments mark one of the first times the OpenAI chief has directly acknowledged the company’s impact on mathematicians, following a string of genuinely impressive AI-generated results whose chaotic, poorly communicated rollouts have left researchers bewildered and struggling to keep up, even amid widespread excitement about AI’s potential as a tool for discovery.\nAltman argued that the public’s right to new scientific knowledge “outweighs” the disruption caused by OpenAI’s releases, though he acknowledged the company needs to improve how it communicates its findings. “I feel unequivocal on this point: Humanity deserves fundamental knowledge, and we should not be sitting on a major fundamental science discovery,” he said. “The world deserves that.”\nMathematicians speaking to The Verge have repeatedly criticized OpenAI for how it announces its results, citing inadequate attribution, little context, and insufficient verification. Researchers say this has left them doing the painstaking work of checking and making sense of their findings even as the company presses ahead with more. This month alone, OpenAI has released hundreds of mathematical results, often with little more than brief writeups that researchers have described as poorly written and hard to follow.\nYet OpenAI is now facing criticism for doing precisely what Altman says it should not be: sitting on potentially significant findings. Mathematicians and scientists speaking to The Verge this week said they are frustrated by what they see as OpenAI’s gatekeeping of research, following the announcement of three major breakthroughs in mathematics, physics, and computer science. Details for one of the claimed results — involving Yang-Mills theory, the mathematical foundations of modern particle physics — have not been released publicly. OpenAI says it is due to the recommendations of a hand-picked group of experts it consulted on how best to release it. The practice runs directly counter to the advice of a previous group of mathematicians the company consulted, but forms part of what the company says is a new approach to communicating its findings.\nOn the podcast, Altman hints that OpenAI is sitting on many more mathematical discoveries than it has made public, too. Asked whether the company has more than the hundreds of proofs they have already released, Altman replied: “We do. Of course.”\nAltman also acknowledged that OpenAI’s pursuit of mathematical problems did “get out of control” for a short period of time, but said that was deliberate and necessary to probe the limits of its AI models. He described an internal Slack channel called “Model Name-Hold My Beer,” where employees “were just throwing that at the hardest problems they could” to see how the models would perform.\nAltman also estimated that OpenAI has spent in the order of hundreds of millions of dollars tackling mathematical problems, including around $10 million — “maybe a little more” — on its Navier-Stokes solution, one of mathematics’s legendary Millennium Prize problems. The spending offers a glimpse of the vast resources AI labs are bringing to bear on scientific problems, raising concerns among researchers that they may be priced out of their own fields.\nIt looks like mathematicians and other researchers hoping for a breather may be out of luck."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 293
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
