@@ -1,0 +1,57 @@
+{
+  "id": "e70d23e76c",
+  "created_at": "2026-10-30T21:55:49Z",
+  "title": "Intel hisse düşüşü hükümet hissesinin değerini düşürdü",
+  "summary": "Intel'in zayıf dördüncü çeyrek beklentileri açıklaması ve hisselerinin değer kaybetmesi, hükümetin payında milyarlarca dolarlık erimeye yol açtı.",
+  "body": "TechCrunch'ın aktardığına göre, yonga devi Intel hisseleri zayıf dördüncü çeyrek beklentilerinin açıklanmasının ardından Cuma günü sert bir düşüş yaşayarak yaklaşık yüzde 28 değer kaybetti.\n\n## Dördüncü çeyrek beklentileri ve finansal baskı\n\nCNBC'nin haberine göre bu düşüş, Trump yönetiminin bir yıl önce aldığı yüzde 10'luk hissenin değerinden 12 milyar dolar sildi. Intel, dördüncü çeyrekte 15 milyar ila 16 milyar dolar gelir beklediğini duyururken, analistler bu rakamın 17 milyar dolar civarında olmasını bekliyordu. Şirket ayrıca brüt kâr marjının yüzde 43'ten yüzde 37'ye gerileyeceğini ve yoğun yatırımlar nedeniyle pozitif nakit akışı beklenmediğini bildirdi. Yapay zeka endüstrisinin bellek ve diğer bileşenleri tüketmesi, bilgisayar fiyatlarını artırarak kişisel bilgisayar satışlarını olumsuz etkiliyor.\n\n## Veri merkezi büyümesi ve üretim kapasitesi\n\nIntel CEO'su Lip-Bu Tan, artan bellek fiyatları ve bulunabilirlik sorunlarının müşterilerin bilgisayar yavaşlamasına işaret etmesine neden olduğunu belirtti. Diğer yandan, şirketin veri merkezi iş kolundan elde ettiği gelir yıllık bazda yüzde 78 oranında arttı. Ancak şirket, Taiwan Semiconductor Manufacturing Co. ile rekabet edebilmek için fabrikalarına daha fazla kapasite kazandırana ve dış müşteriler çekene kadar bu alanda kısıtlı kalmaya devam ediyor.\n\n**Neden önemli?** Intel hisselerindeki bu düşüş, yapay zeka sektörünün donanım bileşenleri üzerindeki yoğun talebinin geleneksel bilgisayar pazarını ve çip üreticilerinin finansal öngörülerini nasıl etkilediğini ortaya koyuyor.",
+  "category": "donanim",
+  "tags": [
+    "Intel",
+    "Nvidia",
+    "Taiwan Semiconductor…"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Intel hisseleri düştü",
+  "kicker": "Finans",
+  "hero_stat": "12 milyar $",
+  "hero_stat_label": "hükümet payındaki düşüş",
+  "visual_style": "studio",
+  "visual_scene": "a single heavy metallic block resting on a dark reflective surface, with subtle fractures catching a cool blue light from the side",
+  "focus_keyword": "Intel hisse düşüşü",
+  "seo_title": "Intel hisse düşüşü hükümet payını eritti",
+  "meta_description": "Intel hisselerindeki yüzde 28'lik düşüş, hükümetin ortaklık payından 12 milyar dolar sildi. Şirketin dördüncü çeyrek beklentileri ve detayları.",
+  "seo_slug": "intel-hisse-dususu-hukumet-payini-eritti",
+  "image_alt": "Koyu yansıtıcı yüzey üzerinde duran ve üzerinden mavi ışık sızan ağır metalik blok",
+  "cover_text": "Intel",
+  "importance": 6,
+  "triage_reason": "Yapay zeka sektörünün donanım talebi, PC piyasasını ve Intel'in hisselerini olumsuz etkiliyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T21:54:34Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 310
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "intel-hisse-dususu-hukumet-payini-eritti",
+  "published_at": "2026-10-30T21:55:52Z",
+  "publish_mode": "auto"
+}
