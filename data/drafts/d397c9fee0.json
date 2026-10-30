@@ -84,11 +84,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-10-29T14:00:00Z"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50307219",
+      "published": "2026-10-30T17:27:25Z"
     }
   ],
   "source_keys": [
     "Anthropic",
-    "The Verge"
+    "The Verge",
+    "Hacker News"
   ],
   "source_texts": [
     {
