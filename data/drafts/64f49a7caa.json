@@ -1,0 +1,69 @@
+{
+  "id": "64f49a7caa",
+  "status": "pending",
+  "created_at": "2026-10-30T16:57:56Z",
+  "title": "ABD Adalet Bakanlığı yapay zeka destekli hayalet öğrenci dolandırıcılığını ortaya çıkardı",
+  "summary": "ABD Adalet Bakanlığı, yapay zeka kullanarak yüzlerce sahte kimlikle öğrenci kredisi çeken 'hayalet öğrenci' şebekesine yönelik ilk federal operasyonda beş kişiyi suçladı.",
+  "body": "ABD Adalet Bakanlığı, yapay zeka destekli hayalet öğrenci dolandırıcılığı operasyonu kapsamında beş kişinin suçlandığını duyurdu. Ars Technica'nın aktardığına göre federal yetkililer, yüzlerce Amerikan vatandaşının kimliğini çalarak sahte öğrenci kaydı oluşturan ve öğrenci kredisi toplayan uluslararası bir şebekeyi hedef alan ilk geniş çaplı operasyonu gerçekleştirdi.\n\n## Dolandırıcılık sistemi nasıl işliyor?\n\nAdalet Bakanlığı'nın açıklamasına göre zanlılar, çoğunlukla liseden mezun olup doğrudan iş hayatına atılan ve üniversiteye gitmeyen kişilerin gizli kişisel verilerini satın alıyor. Bu hassas bilgilerle FAFSA (Federal Öğrenci Yardımı Ücretsiz Başvurusu) formlarını dolduran dolandırıcılar, üniversitelere ve toplum kolejlerine kayıt yaptırmaya çalışıyor. Kabul edildikten sonra eğitim masrafları düşüldükten sonra kalan öğrenci kredisi ödemeleri, dolandırıcıların kontrol ettiği banka hesaplarına aktarılıyor. Bakanlık, onlarca Amerikan vatandaşının bu şebeke için para katırı olarak banka hesabı açtığını belirtti.\n\n## Uluslararası operasyon ve el koymalar\n\nVeri analizi yöntemlerinin yardımıyla şüphelileri tespit eden yetkililer, Kenya uyruklu bir şebeke ile bağlantılı olan 750 bin dolardan fazla kripto para birimine el koydu. Adalet Bakanlığı Ulusal Dolandırıcılık Enforcement Bölümü'nden Başsavcı Yardımcısı Colin M. McDonald, bunun Kenya'da gerçekleştirilen kendi türündeki ilk uluslararası el koyma işlemi olduğunu belirtti.\n\n**Neden önemli?** Adalet Bakanlığı, FBI ve Eğitim Bakanlığı yetkilileri tarafından düzenlenen ortak basın toplantısında, yapay zeka araçlarının dolandırıcılık faaliyetlerinde nasıl kullanıldığına dikkat çekilerek bu tür suçlara karşı federal mücadelenin süreceği vurgulandı.",
+  "category": "politika",
+  "tags": [
+    "ABD Adalet Bakanlığı",
+    "FBI",
+    "Kenya",
+    "yapay zeka",
+    "dolandırıcılık"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD'de yapay zeka destekli öğrenci kredisi vurgunu",
+  "kicker": "Federal operasyon",
+  "hero_stat": "750 bin $",
+  "hero_stat_label": "ele geçirilen kripto para",
+  "visual_style": "studio",
+  "visual_scene": "a dense stack of heavy dark blue paper folders resting on a smooth concrete block, illuminated by a single sharp beam of cool white light from above, with a few faint digital grid lines subtly etched into the surface",
+  "focus_keyword": "hayalet öğrenci dolandırıcılığı",
+  "seo_title": "ABD'de yapay zeka destekli hayalet öğrenci dolandırıcılığı",
+  "meta_description": "ABD Adalet Bakanlığı, yapay zeka kullanarak kimlik çalan ve öğrenci kredisi dolandırıcılığı yapan hayalet öğrenci şebekesini ortaya çıkardı.",
+  "seo_slug": "abd-yapay-zeka-hayalet-ogrenci-dolandiriciligi",
+  "image_alt": "Beton zemin üzerinde duran mavi dosyalar ve üzerlerine vuran ışık demeti",
+  "cover_text": "Hayalet ogrenci",
+  "importance": 6,
+  "triage_reason": "ABD Adalet Bakanlığı, yapay zeka kullanarak dersleri geçen hayalet öğrencilere yönelik ilk operasyonu başlattı.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "title": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T16:53:49Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "published": "2026-10-30T16:53:49Z",
+      "summary": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited…",
+      "text": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.\nIn a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals” after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.\n“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”\nAt a press conference, McDonald was joined by FBI and Department of Education officials to explain how the scheme works.\nIt starts with bad actors purchasing personally identifiable information (PII) of Americans—most frequently targeting high school graduates who never attended college and went straight into the workforce.\nOnce they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any money left over is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 298
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
