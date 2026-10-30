@@ -39,10 +39,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50301983",
       "published": "2026-10-30T10:22:51Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T21:09:54Z"
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "Ars Technica"
   ],
   "source_texts": [
     {
