@@ -1,0 +1,56 @@
+{
+  "id": "c58999b4b3",
+  "created_at": "2026-10-30T15:02:06Z",
+  "title": "Papa Leo'dan yapay zeka silahsızlanması ve ölümcül silah yasağı çağrısı",
+  "summary": "Papa Leo XIV, yapay zeka sistemlerinin silahsızlandırılması gerektiğini belirterek Birleşmiş Milletler üyesi devletlere ölümcül otonom silahları yasaklama çağrısı yaptı.",
+  "body": "Papa Leo XIV yaptığı son konuşmada, yapay zeka sistemlerinin silahsızlandırılması gerektiğini belirterek insanlığın bu teknolojinin uygulamalarına yön verme ve bunları reddetme sorumluluğuna sahip olduğunu vurguladı. The Verge'ün aktardığına göre Papa Leo, Cenevre'de gerçekleşecek toplantı öncesinde Birleşmiş Milletler üyesi devletlere ölümcül otonom silahların yasaklanması yönünde somut adımlar atmaları çağrısında bulundu.\n\n## Makineler araçtır, kişi değildir\n\nPapalık adresinde makinelerin birer araç olduğunu ve kişi olmadığını belirten Papa Leo, yapay zeka sistemlerine haklar veya yasal kişilik tanınmasının tehlikelerine karşı uyarıda bulundu. İnsan hayatını, özgürlüğü ve güç kullanımını etkileyen kararların her zaman etkin, bilgili ve sorumlu insan denetimine tabi olması gerektiğini ifade etti. Bu açıklamalar, Papa Leo'nun mayıs ayındaki ilk büyük papalık belgesinde yer alan yapay zeka çağrısıyla aynı doğrultuda bulunuyor.\n\n## Uluslararası standartlar ve hesap verebilirlik\n\nKonuşmasının sonunda uluslararası kurumlara çağrıda bulunan Papa Leo, ortak iyinin korunmasını istedi. Geliştirme ve kullanım kararlarının incelenebilmesi için şu unsurların önemine dikkat çekti:\n\n* Paylaşılan standartlar\n* Bağımsız denetim\n* Hesap verebilirlik için net mekanizmalar\n\n**Neden önemli?** Papa Leo'nun açıklamaları, yapay zeka teknolojilerinin geliştirilmesinde insan denetiminin ve uluslararası denetim mekanizmalarının korunması gerekliliğine dikkat çekiyor.",
+  "category": "politika",
+  "tags": [
+    "Birleşmiş Milletler",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Papa Leo'dan yapay zeka ve otonom silah çağrısı",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single polished bronze sphere resting on a slanted slab of raw white marble, casting a long sharp shadow under soft diffused light",
+  "focus_keyword": "yapay zeka silahsızlanması",
+  "seo_title": "Papa Leo'dan yapay zeka silahsızlanması ve silah yasağı…",
+  "meta_description": "Papa Leo XIV, yapay zeka silahsızlanması çağrısı yaparak Birleşmiş Milletler üyesi devletlerden ölümcül otonom silahları yasaklamasını istedi.",
+  "seo_slug": "papa-leo-yapay-zeka-silahsizlanmasi-cagrisi",
+  "image_alt": "Mermer plaka üzerinde duran bronz küre görseli",
+  "cover_text": "Yapay zeka",
+  "importance": 6,
+  "triage_reason": "Papa XIV. Leo'nun yapay zekanın silahsızlandırılması ve denetlenmesi çağrısı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T14:58:06Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 294
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "papa-leo-yapay-zeka-silahsizlanmasi-cagrisi",
+  "published_at": "2026-10-30T15:02:09Z",
+  "publish_mode": "auto"
+}
