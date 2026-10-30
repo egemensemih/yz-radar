@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-30T05:15:58Z",
+  "last_collect": "2026-10-30T05:31:06Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:12Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 413,
+      "fails": 414,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:13Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:01:13Z",
+      "last_ok": "2026-10-30T05:31:05Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 3,
-      "last_ok": "2026-10-29T21:15:58Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-10-30T05:31:06Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -160,10 +159,10 @@
       "auto": 12
     },
     "2026-10-30": {
-      "tok_in": 20648,
-      "tok_out": 5958,
+      "tok_in": 26136,
+      "tok_out": 7106,
       "cost_usd": 0.0,
-      "drafts": 6,
+      "drafts": 7,
       "published": 3,
       "auto": 3
     }
@@ -172,39 +171,9 @@
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-10-30T04:31:16Z",
+  "last_build": "2026-10-30T05:35:33Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "OpenAI updated Model Spec",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "OpenAI'ın yapay zeka davranışlarını yönlendiren Model Spec belgesini güncellemesi."
-      },
-      "items": [
-        {
-          "key": "7bf0065ceb1646f5",
-          "source": "OpenAI",
-          "kind": "official",
-          "credit": "OpenAI",
-          "url": "https://openai.com/index/updated-model-spec",
-          "via": null,
-          "via_url": null,
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-          "published": "2026-10-29T17:00:00Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-29T17:46:11Z"
-    },
     {
       "story": {
         "item_ids": [
@@ -264,6 +233,36 @@
         }
       ],
       "at": "2026-10-29T21:01:13Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "AI agent swarms in gaming environments",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Yapay zeka ajanlarının oyun ortamlarındaki sürü davranışları üzerine yapılan ilginç bir teknik deneme."
+      },
+      "items": [
+        {
+          "key": "d8eb5a4b641ea994",
+          "source": "Hacker News",
+          "kind": "community",
+          "credit": "labs.ycombinator.com",
+          "url": "https://labs.ycombinator.com/projects/games/index.html",
+          "via": "Hacker News",
+          "via_url": "https://news.ycombinator.com/item?id=50296486",
+          "title": "We ran AI agent swarms in Minecraft and Mindustry",
+          "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 231 # Comments: 75",
+          "published": "2026-10-29T21:40:28Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-10-30T05:31:10Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
