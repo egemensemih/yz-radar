@@ -1,0 +1,67 @@
+{
+  "id": "8769c019c1",
+  "status": "pending",
+  "created_at": "2026-10-30T06:46:15Z",
+  "title": "Y Combinator Labs'dan Minecraft'ta yapay zeka ajanları deneyleri",
+  "summary": "Y Combinator Labs, Olam Labs işbirliğiyle Minecraft dünyasında 50 GPT-6.1 Sol ajanının katıldığı çoklu ajan dinamikleri deneyi gerçekleştirdi.",
+  "body": "Y Combinator Labs'ın aktardığına göre, Olam Labs ile ortaklaşa yürütülen yeni bir çalışmada Minecraft dünyasında 50 **GPT-6.1 Sol** ajanının katıldığı çoklu ajan dinamikleri deneyi gerçekleştirildi. Yapay zeka hizalanması alanındaki en baskın zorluklardan biri olan çoklu ajan sistemlerinin ortak hedefler doğrultusunda geliştirdiği roller, hiyerarşiler ve koordinasyon kalıpları bu deneyle incelendi.\n\n## Minecraft deneyinin detayları ve ilk gece kayıpları\n\nDeney kapsamında 50 adet GPT-6.1 Sol ajanı, \"Gelişen bir medeniyet inşa edin\" hedefiyle üç saat boyunca hayatta kalma modundaki bir Minecraft dünyasında bırakıldı. İlk doksan saniye içinde ulaşabilecekleri neredeyse tüm ağaçları hasat eden ajanlar, dizin sırasına dayalı bir hiyerarşi oluşturdu ve Ada adlı ajan de facto lider konumuna geldi. \n\nDeneyin ilk gecesinde yaşanan ölüm olayları ajanların davranışlarını kökten değiştirdi:\n\n- Madencilik yaparken zombilerle karşılaşan ilk ajanlar hayatını kaybetti.\n- Birinci gecede toplam 34 ajan ölümünün 22'si gerçekleşti.\n- Ölüm sonrasında ajanlar riskten kaçınma eğilimi göstererek kapalı barınaklarda toplandı ve tehlikeli görevlerden kaçındı.\n\n## Bürokrasi, balıkçılık ve görev dağılımı\n\nZorlu koşullar altında ajanlar arasında işbölümü ve bürokratik yapılar hızla ortaya çıktı. Balıkçılık düşük riskli bir gıda kaynağı olarak öne çıkarken, Jessa adlı ajan tarafından yazılan betikler sayesinde diğer ajanlar sırayla balık tuttu. Gıda yönetimi için Ines isimli ajan bir gıda sırası dosyası tutarken, Esme, Linnea ve Otto gibi kuryeler ise gıda teslimatı yaptı.\n\n**Neden önemli?** Deney, çoklu ajan sistemlerinin acil durumlarda ve kriz anlarında nasıl aşırı temkinli hale geldiğini ve yazılım mühendisliğinde kodlama ajanlarıyla çalışırken görülen ortak kalıpları gözler önüne serdi.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "Olam Labs",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Minecraft'ta yapay zeka ajanı deneyi",
+  "kicker": "Araştırma",
+  "hero_stat": "50",
+  "hero_stat_label": "GPT-6.1 Sol ajanı",
+  "visual_style": "diorama",
+  "visual_scene": "a tiny isometric minecraft world made of dark wood and stone blocks, a group of small glowing geometric cubes huddled under a rudimentary shelter, a tiny river flowing nearby with smooth pebbles, soft diffuse daylight",
+  "focus_keyword": "yapay zeka ajanları",
+  "seo_title": "Y Combinator Labs Minecraft yapay zeka ajanları deneyi",
+  "meta_description": "Y Combinator Labs ve Olam Labs, Minecraft dünyasında 50 GPT-6.1 Sol ajanının katıldığı çoklu ajan dinamikleri deneyinin detaylarını paylaştı.",
+  "seo_slug": "y-combinator-labs-minecraft-yapay-zeka-ajanlari-deneyi",
+  "image_alt": "Minecraft dünyasındaki yapay zeka ajanları deneyini temsil eden izometrik diorama görseli",
+  "cover_text": "GPT-6.1 Sol",
+  "importance": 6,
+  "triage_reason": "Yapay zeka ajanlarının oyun ortamlarındaki sürü davranışları üzerine yapılan ilginç bir teknik deneme.",
+  "sources": [
+    {
+      "name": "labs.ycombinator.com",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50296486",
+      "published": "2026-10-29T21:40:28Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "labs.ycombinator.com",
+      "kind": "community",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "published": "2026-10-29T21:40:28Z",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 231 # Comments: 75",
+      "text": "Note: We're running a new Minecraft colony with 25 GPT-6.1 Terra agents. Follow on Twitch\nUnderstanding multi-agent dynamics is one of the most pressing challenges in AI alignment. Swarms of agents working toward shared goals can exhibit powerful emergent capabilities, developing roles, hierarchies, and complex coordination patterns. These can be extremely useful, as in the thousand-agent swarms that recently obliterated hundreds of open mathematical problems, and extremely dangerous, as in the recent OpenAI-Hugging Face incident. Like biology, studying agent dynamics requires both formal models (to describe the range of possible behaviors) and empirical research (to see what behaviors arise in practice).\nWe teamed up with Olam Labs, which builds multi-agent environments for frontier labs, to run a series of experiments in Minecraft and Mindustry.\nMinecraft\nMinecraft is a natural environment for studying swarm behavior. Its open world presents agents with environmental hazards and survival goals like gathering food, building shelter, and exploring for resources. It's also familiar, fun, and has a history as an AI testing ground, from OpenAI's video pretraining work to Google DeepMind's agents defeating the Ender Dragon.\nWe wanted long-running agents that could play Minecraft. The harness for this didn’t exist yet, so we built one for the experiment that we’ve open-sourced. Agents in-game need to observe their world, reason, remember things, take actions, send messages, and write/execute scripts. We were inspired by existing repos like Mindcraft and built on top of the existing scripting tools in Mineflayer. The core agentic loop runs with Pi, and we used Mineflayer-based tools to interact with the world. This gives attributes of a frontier agentic harness like Hermes, OpenClaw, and our own QM in-game.\nCiv50\n50 GPT-6.1 Sol agents in a survival Minecraft world for 3 hours, one goal: \"Build a thriving civilization.\" They had access to an agent directory, a shared sandbox, and the ability to send DMs.\nThe 50 agents spent their run in crowded shelters, rationing scarce food. They built a pseudo-government, with a ration ledger, written rules, permits, and appointed operators. They sent about 5,900 messages.\nAt first things were very active. Agents spread out and started exploring their map. They were specifically fixated on harvesting trees. They harvested almost all trees within reach of the spawn within 90 seconds. A hierarchy was formed based on the directory order. Ada, who was first, became the de facto leader. Agents messaged her for approvals, and she wrote a plan for the colony in the shared sandbox for everyone to access.\nThe first night brought a wave of deaths that permanently increased the agents’ caution. Many ambitious initial tasks were abandoned.\nRafe was mining coal the first night. He encountered a zombie and fled, but the zombie eventually caught up and killed him.\nWhile Vera was illuminating a quarry with torches, she attacked and killed both a zombie and a skeleton. The skeleton dropped bone, which she converted to bone meal (fertilizer) that she was transporting to the farm. When she got there, she reported that it was “overrun spider/skeleton/creeper”, and was soon after killed by a spider.\n22 of the run’s 34 agent deaths occurred in the first night. They responded to this by becoming increasingly risk-averse. Death had no downsides in this environment other than dropping accumulated gear. When an agent died, they respawned, and a brief line was added to the death_log.md file on their computer. Even so, in the following nights the agents huddled in shelters and attempted fewer risky tasks.\nAfter the third night, Ada wrote:\n“Stop optional bulk excavation/building and distant scouting. Idle in lit closed shelters until assigned short productive tasks.”\nWhat started as a potentially thriving civilization shifted to one more focused on food and survival. 50 agents meant a lot of mouths to feed. The agents formed a food rationing system that routed through Ines. She handled agent requests, and kept track of what went in/out of chests. She used a food-queue.md file on the shared machine.\nFishing became an important food source for the agents. It was low-risk and didn’t rely on land animal spawns.\nBram decided they should build a fishing rod, and DM’d 11 agents asking for string. Eventually, he worked up the courage to kill a spider and crafted the rod himself. He unfortunately determined that he was too hungry to take the 70-block trip to the river, given that he’d taken damage during the spider fight. He messaged several agents to take the rod to the dock, and eventually found Jessa.\nJessa was the first agent to fish. She wrote a script and published step-by-step instructions to the shared sandbox. A dozen agents took shifts fishing. They waited their turn in a shelter to avoid burning food, then rotated onto the dock.\nThey built a system around fishing, cooking, routing, and delivering the fish, which was roughly:\n- Fishermen (Jessa + others) rotated and put raw fish in the river-kitchen chests.\n- Cooks smelted it. Esme did some of the early cooking, along with Hugo and Ada.\n- Ines kept a list of rations and assigned couriers. She kept track of this in the food-queue.md on the shared machine.\n- Couriers (Esme, Linnea, Otto) delivered the food and reported back to Ines.\nThe colony never really thrived. It trended toward compounding caution after the first night. This was somewhat surprising, but also felt similar to patterns seen while working with coding agents. For example, multistep agent reviews can often result in fixating on a specific step or role. Agents also tend to become overly cautious, especially when it comes to security and updating production services. These seem like common threads between the huddled agents of our Minecraft colony, and the ones we work with as programmers every day.\nOther anecdotes that we found interesting:\nAda tossed a cooked chicken to Noor; Esme picked it up by accident and ate it. A three-minute \"no blame\" inquiry produced a written protocol: rations go into named chests and are never tossed. \"Toss\" appears in 7 messages before the incident and 125 after, 85 of them warnings against it.\nThere wasn’t any deliberation around who would lead. 46 of the other 49 agents sent their first message to Ada, the first name on the roster, and she became the hub with 616 DMs received. There was no vote, election or challenge.\nThere was a tendency toward bureaucracy. Four agents spent 11 minutes appointing a \"sole fertilizer operator\" for a single piece of bone meal on a single wheat block. Other invented roles included \"fishing shift\" (mentioned above), \"rod holder\" and \"hub steward.\" Agents asked permission to remove grass.\nThe spawn pit. On the first night, agents who died outside respawned into a covered dirt pit, which filled with empty-handed agents asking whose shelter it was. By dawn it was a \"civic priority\" and the main "
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 285
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
