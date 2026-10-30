@@ -1,0 +1,58 @@
+{
+  "id": "fd3a74307f",
+  "created_at": "2026-10-30T05:46:03Z",
+  "title": "Reddit arama trafiğindeki düşüş nedeniyle oturum açma deneyimine geçiyor",
+  "summary": "Yapay zeka odaklı arama trendleri ve azalan arama trafiği karşısında Reddit, platformunu öncelikli olarak oturum açmış kullanıcılara yönelik bir yapıya dönüştürüyor.",
+  "body": "TechCrunch'ın aktardığına göre, yapay zeka destekli aramaların yaygınlaşması ve arama trafiğinin azalması nedeniyle Reddit, öncelikli olarak **oturum açma deneyimine** geçiş yapacağını açıkladı. Şirketin üçüncü çeyrek kazanç toplantısında duyurulan bu stratejik değişim, verilerin yapay zeka tarafından taranmasını korumayı ve model sağlayıcılarıyla lisans anlaşmaları yapmayı hedefliyor. Ekim ayında arama trafiği yönlendirmelerinin haftalık ortalama 1 milyondan fazla düştüğü belirtilirken, bu durumun günlük aktif kullanıcı sayılarını da etkilediği ifade edildi.\n\n## Finansal büyüme ve kullanıcı verileri\n\nGünlük aktif kullanıcı sayısı üçüncü çeyrekte küresel bazda 130,3 milyon seviyesinde yatay seyrederken, ABD'deki günlük aktif kullanıcılar ikinci çeyrekteki 53,2 milyondan üçüncü çeyrekte 50,7 milyona geriledi. Buna karşın Reddit'in gelirleri Wall Street beklentilerini aşarak güçlü bir performans sergiledi. Şirketin geliri yıllık bazda %53 artışla 895 milyon dolara ulaştı, net kârı ise %74 artarak 283 milyon dolar oldu. Reklam gelirleri %54 artışla 847 milyon dolara çıkarken, arayüz dışı veri lisanslama gelirlerini de kapsayan reklam dışı gelirler %35 artış gösterdi.\n\n## Yeni stratejinin detayları\n\nOturum açma zorunluluğuna geçişin aniden gerçekleşmeyeceğini belirten yetkililer, dördüncü çeyrekte ABD dışındaki seçili pazarlarda testlere başlanacağını bildirdi. Şirket, kullanıcıların anonimliğini korumaya devam edeceğini ve anonim gezinme için \"incognito mode\" deneyiminin yeniden inşa edildiğini vurguladı. Konuyla ilgili olarak Reddit kurucu ortağı ve CEO'su **Steve Huffman**, platformun geleceği için bunun doğru bir karar olduğunu belirterek, \"Bunun platformumuz için doğru karar ve işimiz için doğru karar olduğu sonucuna vardım\" dedi.\n\n**Neden önemli?** Yapay zeka özetlerinin ve yapay zeka destekli aramaların geleneksel web trafiğini azaltması, büyük platformları veri koruma ve gelir modellerini yeniden yapılandırmaya yöneltiyor. Reddit'in bu adımı, açık internetin geleceği açısından kritik bir dönüm noktası olarak değerlendiriliyor.",
+  "category": "sirketler",
+  "tags": [
+    "Reddit",
+    "Steve Huffman",
+    "yapay zeka",
+    "arama motoru"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Reddit oturum açma deneyimine geçiyor",
+  "kicker": "Platform güncellemesi",
+  "hero_stat": "130,3 milyon",
+  "hero_stat_label": "küresel günlük aktif kullanıcı",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic dark grey frosted glass monolith standing upright on a pale concrete surface, a single fine line of warm amber light cutting vertically down its center, casting soft shadows",
+  "focus_keyword": "Reddit oturum açma deneyimi",
+  "seo_title": "Reddit trafik düşüşü nedeniyle oturum açma deneyimine geçiyor",
+  "meta_description": "TechCrunch'ın haberine göre Reddit, yapay zeka aramaları ve arama trafiğindeki düşüş nedeniyle öncelikli olarak oturum açma deneyimine geçiyor.",
+  "seo_slug": "reddit-arama-trafigi-dususu-oturum-acma-deneyimi",
+  "image_alt": "Gri buzlu cam monolit ve üzerinde ince amber rengi ışık çizgisi, Reddit'in oturum açma stratejisini temsil ediyor",
+  "cover_text": "Reddit",
+  "importance": 6,
+  "triage_reason": "Yapay zeka arama trendlerinin web trafiğini dönüştürmesiyle Reddit strateji değiştiriyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T20:08:31Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 279
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "reddit-arama-trafigi-dususu-oturum-acma-deneyimi",
+  "published_at": "2026-10-30T05:46:13Z",
+  "publish_mode": "auto"
+}
