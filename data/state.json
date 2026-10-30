@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-30T06:01:09Z",
+  "last_collect": "2026-10-30T06:15:51Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 415,
+      "fails": 416,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:48Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:49Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-10-30T05:45:52Z",
+      "last_ok": "2026-10-30T06:15:51Z",
       "count": 20
     }
   },
@@ -159,51 +159,23 @@
       "auto": 12
     },
     "2026-10-30": {
-      "tok_in": 29123,
-      "tok_out": 8099,
+      "tok_in": 34087,
+      "tok_out": 9031,
       "cost_usd": 0.0,
-      "drafts": 8,
-      "published": 4,
-      "auto": 4
+      "drafts": 9,
+      "published": 5,
+      "auto": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-30T05:50:22Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/rivian-volkswagen-ortakligi-yapay-zeka-asistani/"
+  ],
+  "last_build": "2026-10-30T06:20:11Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i2"
-        ],
-        "topic": "Rivian expands VW joint venture to include AI assistant",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Rivian ve VW ortaklığı yapay zeka asistanı entegrasyonu ile genişletiliyor."
-      },
-      "items": [
-        {
-          "key": "7587406daf7d14d3",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-          "via": null,
-          "via_url": null,
-          "title": "Rivian expands joint venture with VW to include AI assistant",
-          "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-          "published": "2026-10-29T20:05:47Z",
-          "html_source": false,
-          "tid": "i2"
-        }
-      ],
-      "at": "2026-10-29T21:01:13Z"
-    },
     {
       "story": {
         "item_ids": [

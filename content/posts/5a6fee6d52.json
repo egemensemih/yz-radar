@@ -1,0 +1,59 @@
+{
+  "id": "5a6fee6d52",
+  "created_at": "2026-10-30T06:15:59Z",
+  "title": "Rivian ve Volkswagen ortaklığı yapay zeka asistanını kapsayacak şekilde genişliyor",
+  "summary": "Rivian, Volkswagen Grubu ile yürüttüğü ortaklığı yapay zeka asistanı teknolojisini de içerecek şekilde genişlettiğini duyurdu.",
+  "body": "Rivian ve Volkswagen Group ortaklığı yapay zeka asistanını da içine alacak şekilde büyütülüyor. TechCrunch'ın aktardığına göre, yayımlanan üçüncü çeyrek yatırımcı sunumunda Rivian'ın sesli yapay zeka asistanı teknolojisinin unsurlarını Volkswagen Group'a lisanslayacağı açıklandı.\n\n## Yapay zeka asistanı entegrasyonu ve araçlar\n\nRivian'ın açıklamasına göre lisanslama ücretleri, ödeme koşulları veya teknolojiyi kullanacak Volkswagen modelleri henüz paylaşılmadı. Ancak TechCrunch'ın haberinde, küçük dört kapılı hatchback model olan ID EVERY1 aracının, ortaklık kapsamındaki yazılım ve elektrik mimarisini kullanan ilk Volkswagen aracı olabileceği belirtiliyor. Rivian kendi bünyesinde geliştirdiği yapay zeka asistanını daha önce amiral gemisi R1S SUV ve R1T kamyonetinin yanı sıra R2 SUV modeline de entegre etmişti.\n\n## Ortaklığın finansal boyutu ve mimari altyapı\n\n2024 yılında kurulan bağımsız şirket çatısı altındaki ortaklık, daha önce finansal olarak 5,8 milyar dolara çıkarılmıştı. Rivian kurucusu ve CEO'su RJ Scaringe, şirketin araç yazılımını yöneten kendi bünyesindeki yapay zeka altyapısını geliştirdiğini ifade etti. Bu entegrasyon, dikey entegrasyon stratejisinin bir parçası olarak yürütülüyor.\n\n**Neden önemli?** Rivian ile Volkswagen Group arasındaki bu genişleme, Alman otomotiv devinin yazılım odaklı araç çözümlerini güçlendirmesini hedeflerken, iki şirket arasındaki iş birliğinin kapsamını da derinleştiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Rivian",
+    "Volkswagen Group",
+    "RJ Scaringe",
+    "ID EVERY1",
+    "TechCrunch"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Rivian ve VW ortaklığı yapay zeka asistanına genişliyor",
+  "kicker": "Ortaklık güncellemesi",
+  "hero_stat": "5,8 milyar $",
+  "hero_stat_label": "ortaklık değeri",
+  "visual_style": "studio",
+  "visual_scene": "a sleek brushed-aluminum automotive chassis miniature resting on a dark slate surface, illuminated by a thin vertical beam of cool blue light from above, with subtle abstract code patterns etched lightly into the metal frame",
+  "focus_keyword": "Rivian Volkswagen ortaklığı",
+  "seo_title": "Rivian ve Volkswagen ortaklığı yapay zeka asistanını kapsıyor",
+  "meta_description": "Rivian ve Volkswagen Group ortaklığı, Rivian'ın yapay zeka sesli asistan teknolojisini de içerecek şekilde genişletildi.",
+  "seo_slug": "rivian-volkswagen-ortakligi-yapay-zeka-asistani",
+  "image_alt": "Gri zemin üzerinde konumlandırılmış metal otomotiv parçası ve mavi ışık vurgusu",
+  "cover_text": "Rivian VW",
+  "importance": 6,
+  "triage_reason": "Rivian ve VW ortaklığı yapay zeka asistanı entegrasyonu ile genişletiliyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T20:05:47Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 282
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "rivian-volkswagen-ortakligi-yapay-zeka-asistani",
+  "published_at": "2026-10-30T06:16:03Z",
+  "publish_mode": "auto"
+}
