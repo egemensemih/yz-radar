@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-30T04:45:48Z",
+  "last_collect": "2026-10-30T05:01:13Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:12Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 412,
+      "fails": 413,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:00Z",
+      "last_ok": "2026-10-30T05:01:13Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:31:01Z",
+      "last_ok": "2026-10-30T05:01:13Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
+      "fails": 3,
       "last_ok": "2026-10-29T21:15:58Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -160,10 +160,10 @@
       "auto": 12
     },
     "2026-10-30": {
-      "tok_in": 18051,
-      "tok_out": 5000,
+      "tok_in": 20648,
+      "tok_out": 5958,
       "cost_usd": 0.0,
-      "drafts": 5,
+      "drafts": 6,
       "published": 3,
       "auto": 3
     }
@@ -175,36 +175,6 @@
   "last_build": "2026-10-30T04:31:16Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i3"
-        ],
-        "topic": "Dream secures 17M funding from a16z for construction AI world models",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "İnşaat sektörü için yapay zeka dünya modelleri geliştiren Dream'in yatırım turu."
-      },
-      "items": [
-        {
-          "key": "4dcfcc0d194323eb",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-          "via": null,
-          "via_url": null,
-          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-          "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
-          "published": "2026-10-29T16:21:00Z",
-          "html_source": false,
-          "tid": "i3"
-        }
-      ],
-      "at": "2026-10-29T16:31:52Z"
-    },
     {
       "story": {
         "item_ids": [

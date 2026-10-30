@@ -1,0 +1,69 @@
+{
+  "id": "1f788e7eeb",
+  "status": "pending",
+  "created_at": "2026-10-30T05:02:32Z",
+  "title": "Eski Palantir yöneticilerinin girişimi Dream 17 milyon dolar tohum yatırım aldı",
+  "summary": "İnşaat ve mimarlık süreçlerini yapay zeka dünya modelleriyle otomatikleştirmeyi hedefleyen Dream, Andreessen Horowitz liderliğinde 17 milyon dolar tohum yatırım topladı.",
+  "body": "Eski Palantir yöneticileri Andy Elder ve Arjun Mathur tarafından kurulan **Dream**, inşaat sektörüne yönelik yapay zeka dünya modelleri geliştirmek üzere 17 milyon dolarlık tohum yatırım aldığını duyurdu. TechCrunch'ın aktardığına göre Andreessen Horowitz (a16z) liderliğindeki yatırım turuna SV Angel, XYZ ve Zigg Capital gibi yatırım fonları da katıldı.\n\n## İnşaat için dünya modelleri nasıl çalışıyor?\n\nDream, standart büyük dil modellerinin yapısal mantıktan yoksun görsel üretimlerinin ötesine geçmeyi amaçlıyor. Fizik kurallarını ve inşaat standartlarını temel alan girişim, kendi dünya modellerini ABD genelindeki ruhsat arşivlerinden derlenen 100 milyon metrekareden fazla bina verisiyle eğitti. Kuruculardan Andy Elder, geliştirdikleri modelin duvarların içindeki malzemeleri, kirişlerin niteliğini ve taşıyabilecekleri yük miktarını kavrayabildiğini belirtiyor.\n\nŞirket, sıhhi tesisat ve havalandırma (HVAC) gibi iç yapı unsurlarını hesaba katarak hassas tasarımlar üreten bu yaklaşıma **yapısal biliş** adını veriyor. Sistem, Autodesk'in AutoCAD ve Revit gibi geleneksel mimarlık ve mühendislik yazılımlarına alternatif bir yapı sunmayı hedefliyor.\n\n## Sektörde kullanım ve rekabet\n\nGirişim, ürününü şimdiden mimarlık, mühendislik ve inşaat (AEC) profesyonellerine ve gayrimenkul geliştiricilerine sunmaya başladı. Platformun Texas ve California eyaletlerinde yürütülen 10 aktif projede bina tasarımı ve maliyet tahmini süreçlerinde kullanıldığı bildirildi.\n\nSektörde Motif, Snaptrude ve Arcol gibi farklı girişimler de yapay zeka odaklı çözümler geliştiriyor. Ancak Dream kurucuları, tüm binaları anında tasarlayabilen eksiksiz bir dünya modeline sahip tek şirket olduklarını savunuyor.\n\n**Neden önemli?** Artan inşaat maliyetleri karşısında fizik kurallarını ve mühendislik verilerini doğrudan kavrayabilen yapay zeka sistemleri, geleneksel çizim araçlarını geride bırakarak inşaat projelerinin planlama hızını kökten değiştirebilir.",
+  "category": "sirketler",
+  "tags": [
+    "Dream",
+    "Palantir",
+    "Andreessen Horowitz",
+    "dünya modelleri",
+    "üretken yapay zeka"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Dream inşaat yapay zekası için 17 milyon dolar topladı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "17 milyon $",
+  "hero_stat_label": "tohum yatırım",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist architectural cross-section model made of matte terracotta, unpolished stone, and frosted glass, revealing internal load-bearing beams and precise geometric voids, resting on a smooth grey surface under soft studio lighting.",
+  "focus_keyword": "Dream",
+  "seo_title": "Dream inşaat yapay zekası için 17 milyon dolar yatırım aldı",
+  "meta_description": "İnşaat ve mimarlık için dünya modelleri geliştiren Dream, a16z liderliğinde 17 milyon dolar tohum yatırım alarak gizlilik aşamasından çıktı.",
+  "seo_slug": "dream-insaat-yapay-zekasi-icin-17-milyon-dolar-yatirim-aldi",
+  "image_alt": "İnşaat yapay zekası modellemesini temsil eden mimari katmanlı taş ve mat malzeme heykeli",
+  "cover_text": "Dream",
+  "importance": 6,
+  "triage_reason": "İnşaat sektörü için yapay zeka dünya modelleri geliştiren Dream'in yatırım turu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T16:21:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "published": "2026-10-29T16:21:00Z",
+      "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+      "text": "Andy Elder and Arjun Mathur were Stanford roommates who both studied computer science before spending a decade at Palantir. Elder led product design for a team of 800 people building software for U.S. defense and intelligence agencies, while Mathur served as a senior vice president in the company’s commercial practice. When the friends decided to build a startup early last year, there was no question they would do it together.\nDespite having no direct background in architecture, Elder and Mathur were troubled by a growing problem: Fewer buildings are constructed in the U.S. today than a few decades ago, as development costs have surged.\n“We’ve gone from dial-up internet to superintelligent AI, but our ability to build the physical world around us has actually decreased,” Mathur told TechCrunch.\nBelieving AI can boost productivity across the architecture, engineering, and construction (AEC) industry, they set out to build Dream, a startup developing built world models that automate building design and engineering. Dream has emerged from stealth with $17 million in seed funding led by Andreessen Horowitz, alongside other backers, including SV Angel, XYZ, and Zigg Capital. The startup aims to replace cumbersome, outdated AEC tools like Autodesk’s AutoCAD and Revit.\nIf you sit next to an architect or a structural engineer, you’ll notice that they are still “drawing” every piece of their designs part by part on legacy software, Mathur said. “AI really plays no role in that equation.”\nWhile a standard LLM like ChatGPT can generate an image of a building, the result won’t be structurally sound. Dream, by contrast, is grounded in real physics and construction standards. Just as LLMs learn from text, Dream’s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.\n“Our model actually understands what’s within those walls. What materials are used, what the beams are made of, and how much weight they can support,” Elder said.\nThe startup calls its approach “structural cognition” because its model generates structurally precise designs that account for internal building elements like plumbing and HVAC.\nDream has already begun selling its product to AEC professionals and developers, who use the model to conceptualize building designs and estimate overall costs, according to the founders. The platform is already deployed across 10 active projects in Texas and California.\nWhile Dream isn’t the only company attempting to update AEC software with AI — other startups working on this include Motif, Snaptrude, and Arcol — Elder and Mathur claim that they are the only ones that developed a world model that instantly designs whole buildings.\nKimberly Tan, a partner at Andreessen Horowitz, said that while the firm first invested in Dream over a year ago, when the startup model was just an idea, she has been extremely impressed with their progress. “I have not seen anybody take the technical approach,” she said. “They’re doing everything based on their own models.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 277
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
