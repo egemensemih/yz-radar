@@ -1,0 +1,60 @@
+{
+  "id": "64cd8772c6",
+  "created_at": "2026-10-30T20:41:37Z",
+  "title": "Yapay zeka veri kazıma süreçlerine karşı dört şirketten ortak standart",
+  "summary": "OpenAI, Google, Microsoft ve Anthropic, yayıncıların modeller için veri toplanmasını robots.txt üzerinden topluca engellemesine olanak tanıyan ortak bir standardı destekleyeceklerini duyurdu.",
+  "body": "OpenAI, Google, Microsoft ve Anthropic, internet yayıncılarının içeriklerini **yapay zeka veri kazıma** işlemlerinden tek bir kural kümesiyle koruyabilmesini hedefleyen ortak bir standardı benimseyeceklerini açıkladı. The Verge'ün aktardığına göre, Internet Engineering Task Force (IETF) çatısı altında önerilen bu yeni düzenleme, web sitelerinin `robots.txt` dosyası üzerinden tüm bu şirketlere yönelik veri toplama sınırlarını tek bir komutla belirlemesini sağlayacak.\n\n## Yapay zeka veri kazıma tercihlerini tek merkezden yönetme\n\nMevcut sistemde web sitesi sahipleri, her şirketin arama ve model eğitimi botları için ayrı ayrı engelleme kuralı tanımlamak zorunda kalıyordu. Anthropic standartlar teknik lideri Kevin Kelley tarafından IETF kapsamında sunulan \"policy token\" adlı paylaşılan belirteç önerisi, bu dağınık yapıyı sona erdirmeyi amaçlıyor. Siteler bu belirteci `robots.txt` dosyalarına eklediğinde, söz konusu dört şirket ilgili sitenin eğitim amaçlı taranmasını kısıtlayacak.\n\nŞirketler genel prensipte uzlaşsa da Microsoft yayıncılara daha ayrıntılı denetimler sunacağını bildirdi. Microsoft altyapısında siteler, yapay zeka model eğitimi ile modellerin doğrulanmış kaynaklara yönlendirilerek halüsinasyon riskini azaltmasını sağlayan referans alma (**grounding**) süreçleri için ayrı ayrı izin tanımlayabilecek. Şirket, bu tercihlerden bağımsız olarak sitelerin Bing arama sonuçlarında listelenmeye devam edeceğini belirtti.\n\n## Şirketlerin uygulama takvimi\n\nStandart üzerinde uzlaşan şirketlerin uygulamayı devreye alma planları farklı takvimlere dayanıyor:\n\n* Anthropic, bu sinyali halihazırda tanıdığını ve sistemine entegre ettiğini açıkladı.\n* OpenAI, yeni belirteci önümüzdeki aylarda geçerli kılacağını bildirdi.\n* Google ve Microsoft ise standardı gelecek yıl desteklemeye başlayacaklarını duyurdu.\n\n**Neden önemli?** İçerik üreticileri ile yapay zeka şirketleri arasındaki telif ve veri kullanımı anlaşmazlıkları sürerken, sektörün en büyük oyuncularının ortak bir teknik protokolde buluşması, içerik denetiminin tek tek müzakereler yerine küresel bir internet standardı üzerinden yürütülmesinin önünü açıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Google",
+    "Microsoft",
+    "Anthropic",
+    "robots.txt",
+    "IETF"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka kazıma botlarına karşı ortak standart",
+  "kicker": "Veri standardı",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A series of sleek, vertical smoked glass panels aligned in a row, with a warm beam of light filtering through precise geometric slits while tiny brass spheres are stopped at the first barrier, architectural studio lighting.",
+  "focus_keyword": "yapay zeka veri kazıma",
+  "seo_title": "Yapay zeka veri kazıma için robots.txt standardı",
+  "meta_description": "Dört teknoloji devi, sitelerin yapay zeka veri kazıma faaliyetlerine tek komutla izin verip vermemesini sağlayan yeni robots.txt standardını benimsiyor.",
+  "seo_slug": "yapay-zeka-veri-kazima-icin-ortak-standart",
+  "image_alt": "Filtre plakaları arasından geçen ışık huzmelerinin ayrışmasını gösteren minimalist heykel kompozisyonu",
+  "cover_text": "Policy Token",
+  "importance": 7,
+  "triage_reason": "OpenAI, Google, Microsoft ve Anthropic, yapay zeka kazıma işlemlerine karşı yeni bir ortak standardı benimsiyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T20:26:10Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 304
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "yapay-zeka-veri-kazima-icin-ortak-standart",
+  "published_at": "2026-10-30T20:41:45Z",
+  "publish_mode": "auto"
+}
