@@ -1,0 +1,69 @@
+{
+  "id": "229c5979f3",
+  "status": "pending",
+  "created_at": "2026-10-30T12:46:10Z",
+  "title": "Anthropic siber saldırıya uğradı ve geliştirici dizüstü bilgisayarları hedef alındı",
+  "summary": "DoublePulsar platformunun aktardığına göre Anthropic, dünya genelindeki Claude geliştirici dizüstü bilgisayarlarına uzaktan erişim trjanı bulaştıran bir siber saldırıya uğradı.",
+  "body": "Anthropic siber saldırıya uğradı ve dünya genelindeki Claude geliştirici dizüstü bilgisayarları hedef alındı. DoublePulsar.com topluluk sitesinde 30 Ekim 2026 tarihinde yayımlanan bilgilere göre, gerçekleşen bu güvenlik ihlali sonucunda geliştiricilerin cihazlarına uzaktan erişim trjanı (zararlı yazılım) dağıtıldı.\n\n## Geliştirici bilgisayarlarına yönelik saldırı\n\nDoublePulsar'ın aktardığına göre, saldırının ana hedefi Claude geliştiricilerinin kullandığı dizüstü bilgisayarlar oldu. Küresel ölçekte pek çok geliştiriciyi etkileyen bu olayda, sistemlere sızmak amacıyla özel olarak tasarlanmış zararlı yazılım bileşenleri kullanıldı.\n\n## Altyapı ve güvenlik önlemleri\n\nSaldırının ardından güvenlik uzmanları ve ilgili platformlar gelişmeleri yakından takip ederken, Anthropic cephesinden konuya ilişkin atılacak resmi adımlar ve alınacak önlemler merakla bekleniyor. \n\n**Neden önemli?** Küresel çapta yapay zeka geliştiricilerini hedef alan bu tarz siber güvenlik ihlalleri, büyük yapay zeka şirketlerinin altyapı güvenliğini ve tedarik zinciri risklerini doğrudan gündeme getiriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "siber guvenlik"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Kaynak metin yalnızca tek bir topluluk blog gönderisine dayanmaktadır, detaylar sınırlıdır.",
+  "short_title": "Anthropic geliştiricilerine siber saldırı",
+  "kicker": "Güvenlik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a dark matte grey metal laptop resting on a concrete surface, with a single sharp red fiber-optic wire cutting across the keyboard area, casting a faint crimson reflection on the metal chassis.",
+  "focus_keyword": "Anthropic siber saldırı",
+  "seo_title": "Anthropic siber saldırıya uğradı ve geliştiriciler hedef…",
+  "meta_description": "DoublePulsar kaynaklı bilgilere göre Anthropic, dünya genelindeki Claude geliştirici dizüstü bilgisayarlarına uzaktan erişim trjanı yayan bir saldırıya uğradı.",
+  "seo_slug": "anthropic-siber-saldiriya-ugradi",
+  "image_alt": "Koyu renkli metal dizüstü bilgisayar üzerinde kırmızı fiber optik kablonun geçtiği soyut siber güvenlik görseli",
+  "cover_text": "Anthropic",
+  "importance": 8,
+  "triage_reason": "Anthropic geliştirici dizüstü bilgisayarlarını hedef alan küresel zararlı yazılım saldırısı güvenlik açısından kritik önem taşıyor.",
+  "sources": [
+    {
+      "name": "doublepulsar.com",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50301983",
+      "published": "2026-10-30T10:22:51Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "doublepulsar.com",
+      "kind": "community",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "published": "2026-10-30T10:22:51Z",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 197 # Comments: 37",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 291
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
