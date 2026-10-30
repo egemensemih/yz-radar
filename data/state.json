@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-30T04:15:45Z",
+  "last_collect": "2026-10-30T04:31:01Z",
   "last_summary_date": "2026-10-29",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 1337
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 411,
+      "fails": 412,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:10Z",
+      "last_ok": "2026-10-30T04:31:00Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-30T04:01:11Z",
+      "last_ok": "2026-10-30T04:31:01Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-10-29T21:15:58Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -160,51 +160,23 @@
       "auto": 12
     },
     "2026-10-30": {
-      "tok_in": 14628,
-      "tok_out": 4067,
+      "tok_in": 18051,
+      "tok_out": 5000,
       "cost_usd": 0.0,
-      "drafts": 4,
-      "published": 2,
-      "auto": 2
+      "drafts": 5,
+      "published": 3,
+      "auto": 3
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-10-30T04:02:02Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/microsoft-yapay-zeka-yatirimlari-icin-gonullu-ayrilik-teklif/"
+  ],
+  "last_build": "2026-10-30T04:31:16Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Microsoft workforce impact from AI adoption",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Microsoft CEO'sunun açıklamalarına dayanan, yapay zekanın iş gücü büyüklüğüne etkisini ele alan analiz haberi."
-      },
-      "items": [
-        {
-          "key": "169aca9d9c2aff8c",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft’s AI future has fewer jobs",
-          "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
-          "published": "2026-10-29T16:00:00Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-29T16:01:38Z"
-    },
     {
       "story": {
         "item_ids": [

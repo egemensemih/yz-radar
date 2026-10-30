@@ -1,0 +1,57 @@
+{
+  "id": "788644bc44",
+  "created_at": "2026-10-30T04:31:05Z",
+  "title": "Microsoft yapay zeka yatırımları için çalışanlarına gönüllü ayrılık teklif ediyor",
+  "summary": "The Verge'ün aktardığına göre Microsoft, yapay zeka altyapı maliyetlerini karşılamak ve operasyonel giderleri azaltmak amacıyla yaklaşık 60 bin çalışana gönüllü ayrılık teklifi sunuyor.",
+  "body": "Microsoft yapay zeka yatırımları kapsamında iş gücünü yeniden şekillendirirken, ABD, İngiltere, Kanada ve Hindistan'daki yaklaşık 60 bin çalışana gönüllü ayrılık teklifinde bulundu. The Verge'ün aktardığı habere göre bu hamle, şirketin yapay zeka altyapısına olan yatırımlarını azaltmadan personel maliyetlerini düşürme stratejisinin bir parçası olarak hayata geçirildi.\n\n## Yapay zeka maliyetleri ve personel politikası\n\nŞirket CEO'su Satya Nadella'nın yıllar önce belirttiği üzere, **Microsoft** toplam insan kaynakları maliyetlerini düşürürken kalan çalışan başına düşen yapay zeka gücünü ve bütçesini artırmayı hedefliyor. Daha önce yıl başında yaklaşık 9 bin çalışana yönelik sınırlı bir emeklilik teklifi sunulmuş ve bu teklif uygun kişilerin yüzde 30'undan fazlası tarafından kabul edilmişti. Ancak son gönüllü ayrılık teklifinin şartları, kıdeme dayalı nakit tazminat, hızlandırılmış hisse hak edişi ve sağlık sigortası desteği gibi standart kıdem koşullarına benzediği için kabul oranının daha düşük olacağı tahmin ediliyor.\n\n## Departman yapıları ve yönetim\n\nŞirket içindeki bazı eski çalışanlar, Microsoft bünyesinde yıllardır var olan silolara ve katmanlı organizasyon yapılarına dikkat çekerek bu tür küçülmelerin gerekli olduğunu savunuyor. Öte yandan Microsoft tarafında üst düzey ayrılıklar da yaşanıyor. Turn 10 Studios kurucusu ve Forza Motorsport serisinin yaratıcısı **Dan Greenawalt**, Microsoft'taki 27 yıllık kariyerinin ardından emekli olma kararı alarak görevinden ayrılıyor.\n\n**Neden önemli?** Microsoft, yapay zeka çağında operasyonel maliyetlerini optimize etmek amacıyla son yıllarda düzenli işten çıkarmalar gerçekleştirirken, çalışan sayısını ilk kez yıldan yıla düşürerek yaklaşık 223 bin kişiye geriletti. Bu devasa gönüllü ayrılık sürecinin sonuçları, şirketin önümüzdeki dönemdeki stratejik büyümesini ve iş gücü yapısını doğrudan etkileyecek.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "Satya Nadella",
+    "The Verge"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Microsoft'tan 60 bin çalışana gönüllü ayrılık teklifi",
+  "kicker": "İş gücü değişimi",
+  "hero_stat": "60.000",
+  "hero_stat_label": "gönüllü ayrılık teklif edilen…",
+  "visual_style": "studio",
+  "visual_scene": "a neat row of identical minimal ceramic desk objects in soft daylight, with one object slowly lifting upward and dissolving into faint light particles",
+  "focus_keyword": "Microsoft yapay zeka",
+  "seo_title": "Microsoft yapay zeka odaklı küçülme ve gönüllü ayrılık",
+  "meta_description": "Microsoft yapay zeka altyapı maliyetlerini dengelemek amacıyla yaklaşık 60 bin çalışanına gönüllü ayrılık teklif etmeye başladı.",
+  "seo_slug": "microsoft-yapay-zeka-yatirimlari-icin-gonullu-ayrilik-teklif",
+  "image_alt": "Microsoft yapay zeka yatırımlarını ve çalışan değişimini temsil eden soyut masaüstü nesneleri görseli",
+  "cover_text": "Microsoft",
+  "importance": 6,
+  "triage_reason": "Microsoft CEO'sunun açıklamalarına dayanan, yapay zekanın iş gücü büyüklüğüne etkisini ele alan analiz haberi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-29T16:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 274
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "microsoft-yapay-zeka-yatirimlari-icin-gonullu-ayrilik-teklif",
+  "published_at": "2026-10-30T04:31:09Z",
+  "publish_mode": "auto"
+}
