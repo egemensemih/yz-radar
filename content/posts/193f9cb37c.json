@@ -1,0 +1,60 @@
+{
+  "id": "193f9cb37c",
+  "created_at": "2026-10-30T21:25:56Z",
+  "title": "Yapay zeka altyapı yatırımları Wall Street'te endişe yaratıyor",
+  "summary": "TechCrunch'ın aktardığına göre, büyük teknoloji şirketlerinin devasa yapay zeka harcamaları ve artan borçlanmaları yatırımcıları endişelendiriyor.",
+  "body": "Yapay zeka altyapı yatırımları nedeniyle büyük teknoloji şirketlerinin devasa harcamaları, yatırımcılar arasında serbest nakit akışı ve artan borçlar konusunda endişe yaratmaya başladı. TechCrunch'ın aktardığına göre, son iki hafta içinde Alphabet, Amazon, Meta ve Microsoft bu yıl sermaye harcamaları için 740 milyar dolardan fazla kaynak ayıracaklarını açıkladı. Wall Street bu devasa bütçeleri veri merkezleri ve çipler dahil olmak üzere yapay zeka altyapı harcamaları olarak değerlendiriyor.\n\n## Teknoloji devlerinde nakit akışı ve piyasa etkileri\n\nAlphabet, üçüncü çeyrekte 9,1 milyar dolar negatif serbest nakit akışı bildirdi ve bu durum şirketin üst üste ikinci çeyrekte eksiye geçmesi anlamına geldi. Şirketin arama reklamcılığı gelirlerindeki büyümenin yüzde 12'ye yavaşlaması da dikkat çekti. Amazon son 12 ayda 42,4 milyar dolar negatif serbest nakit akışı açıklarken, Meta ise üçüncü çeyrekte 2,1 milyar dolar nakit yaktığını duyurdu. Microsoft, dönemde 18,6 milyar dolar pozitif serbest nakit akışı kaydeden tek büyük oyuncu oldu.\n\n* Nasdaq endeksi cuma günü yüzde 2,9 oranında geriledi.\n* Nvidia hisseleri yüzde 4 oranında düştü.\n* Qualcomm hisseleri yüzde 11 oranında değer kaybetti.\n\n## Borçlanma artıyor ve halka arzlar etkilenebilir\n\nS&P Global Market Intelligence verilerine göre, Microsoft, Alphabet, Amazon, Meta ve Oracle 2026 yılında toplam 326 milyar dolar borçlanarak bu rakamı geçen yılın üç katına çıkardı. Artan bu maliyetler, Anthropic'in yakın zamanda yaptığı halka arz başvurusunu da karmaşıklaştırabilecek faktörler arasında gösteriliyor. Financial Times'ın haberine göre Blackstone, şirketin halka arz sonrası yatırım yapılabilir kredi notu alamayabileceği konusunda yatırımcıları uyardı.\n\n**Neden önemli?** Teknoloji devlerinin yapay zeka altyapısına yönlendirdiği devasa harcamalar ve artan borç yükü, Wall Street'te kârlılık ve serbest nakit akışı endişelerini tetikleyerek teknoloji hisselerinde sert düşüşlere yol açtı.",
+  "category": "sirketler",
+  "tags": [
+    "Alphabet",
+    "Amazon",
+    "Meta",
+    "Microsoft",
+    "Nvidia",
+    "Anthropic"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka altyapı harcamaları borsayı sarstı",
+  "kicker": "Piyasa analizi",
+  "hero_stat": "740 milyar $",
+  "hero_stat_label": "planlanan sermaye harcaması",
+  "visual_style": "studio",
+  "visual_scene": "a towering stack of heavy concrete blocks interspersed with glowing thin glass sheets, casting long dark shadows on a matte gray surface, minimal composition",
+  "focus_keyword": "yapay zeka altyapı yatırımları",
+  "seo_title": "Yapay zeka altyapı yatırımları Wall Street'i endişelendiriyor",
+  "meta_description": "TechCrunch'ın haberine göre büyük teknoloji şirketlerinin devasa yapay zeka altyapı yatırımları Wall Street'te serbest nakit akışı endişesi yarattı.",
+  "seo_slug": "yapay-zeka-altyapi-yatirimlari-wall-street-tedirgin",
+  "image_alt": "Gri yüzey üzerinde yükselen beton bloklar ve cam levhalardan oluşan yapay zeka altyapı yatırımları temalı soyut stüdyo…",
+  "cover_text": "AI BUBBLE",
+  "importance": 7,
+  "triage_reason": "Yapay zeka altyapı yatırımlarındaki milyarlarca dolarlık harcamaların sürdürülebilirliğine dair finansal endişeler.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "title": "Cracks are emerging in the AI spending boom",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T21:17:40Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 307
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "yapay-zeka-altyapi-yatirimlari-wall-street-tedirgin",
+  "published_at": "2026-10-30T21:26:06Z",
+  "publish_mode": "auto"
+}
