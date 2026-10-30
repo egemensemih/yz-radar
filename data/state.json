@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-30T23:10:57Z",
+  "last_collect": "2026-10-30T23:25:39Z",
   "last_summary_date": "2026-10-30",
   "mode_override": null,
   "paused": false,
@@ -168,7 +168,7 @@
       "expired": 3
     },
     "2026-10-31": {
-      "expired": 11,
+      "expired": 12,
       "tok_in": 17457,
       "tok_out": 3578,
       "cost_usd": 0.0,
