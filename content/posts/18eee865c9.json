@@ -1,0 +1,60 @@
+{
+  "id": "18eee865c9",
+  "created_at": "2026-10-30T09:06:54Z",
+  "title": "Wikimedia yapay zeka telif davalarında dengeli bir yaklaşım çağrısı yaptı",
+  "summary": "Wikimedia Foundation, The New York Times ile OpenAI ve Microsoft arasındaki telif davasına müdahil olarak model eğitiminin adil kullanım sayılmasını, içerik kopyalamanın ise lisansa bağlanmasını önerdi.",
+  "body": "Wikipedia'nın çatı kuruluşu Wikimedia Foundation, The New York Times ile OpenAI ve Microsoft arasında süren davaya sunduğu uzman görüşüyle (amicus brief) **Wikimedia yapay zeka telif** tartışmalarında orta yol çağrısında bulundu. Vakıf, büyük dil modellerinin telifli verilerle eğitilmesinin adil kullanım kapsamında değerlendirilmesi gerektiğini, ancak içerikleri kullanıcılara doğrudan aktaran sistemlerin lisans kurallarına uyması gerektiğini savundu.\n\n## Eğitim serbest olmalı, doğrudan kopyalama lisansa bağlanmalı\n\nVakfın mahkemeye sunduğu dilekçede, tarafların benimsediği uç yaklaşımların açık internet ekosistemine zarar verebileceği uyarısı yapıldı. Yayıncıların tamamen haklı bulunması durumunda telif sahiplerinin dönüştürücü ve yenilikçi projeleri engelleyebileceğini belirten Wikimedia, yapay zeka şirketlerinin sınırsız serbesti kazanmasının ise lisans şartlarını anlamsızlaştıracağını vurguladı.\n\nWikimedia'nın önerisine göre, internet sitelerinden veri toplamak ve telifli içeriklerle model eğitmek dönüştürücü olduğu sürece telif ihlali sayılmamalı. Buna karşın, modeller kullanıcı sorgularına yanıt verirken özgün metinleri neredeyse birebir kopyalayıp orijinal kaynağın yerini alıyorsa, bunun adil kullanım sayılmaması ve lisans anlaşması gerektirmesi gerekiyor. Bu durum Wikipedia içerikleri açısından, Creative Commons lisansının atıf ve paylaşım kurallarına uyulmasını zorunlu kılıyor.\n\n## Açık internet ve topluluk dengesi\n\nWikimedia platformları, yapay zeka modelleri için en kritik eğitim kaynakları arasında yer alıyor. Ancak sohbet robotlarının kullanıcıları özgün sitelere yönlendirmeden bilgiyi tüketmesi, Wikipedia'yı ayakta tutan gönüllü toplulukların ziyaretçi kaybetmesine yol açıyor. Vakıf öte yandan, büyük dil modellerinin vandalizm tespiti, kişisel veri ifşasını önleme ve telif ihlallerini yakalama gibi editöryal süreçlerde topluluğa fayda sağladığına dikkat çekiyor.\n\n**Neden önemli?** Wikipedia'nın benimsediği bu denge arayışı, yapay zeka sektörünün kaynak verileri tükenme noktasına getirmeden hem açık bilgi teknolojilerinin gelişimini sürdürmesini hem de içerik üreticilerinin haklarını korumayı hedefliyor.",
+  "category": "politika",
+  "tags": [
+    "Wikimedia Foundation",
+    "Wikipedia",
+    "OpenAI",
+    "Microsoft",
+    "The New York Times",
+    "telif hakları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Wikimedia'dan dengeli telif çağrısı",
+  "kicker": "Telif davası",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A pair of minimalist balanced brass scales resting on a dark slate surface, one pan holding an open book carved from translucent frosted glass, the other holding a glowing geometric prism, illuminated by soft atmospheric studio lighting.",
+  "focus_keyword": "Wikimedia yapay zeka telif",
+  "seo_title": "Wikimedia yapay zeka telif davalarında orta yol istedi",
+  "meta_description": "Wikimedia yapay zeka telif davalarında mahkemeye görüş sundu: Model eğitimi serbest kalmalı ancak doğrudan içerik kopyalama lisansa bağlanmalı.",
+  "seo_slug": "wikimedia-yapay-zeka-telif-davasinda-orta-yol-onerdi",
+  "image_alt": "Terazi üzerinde buzlu camdan bir kitap ve kristal prizma: Wikimedia yapay zeka telif dengesini simgeleyen görsel",
+  "cover_text": "Wikimedia",
+  "importance": 7,
+  "triage_reason": "Wikimedia'nın telif hakkı davalarındaki yaklaşımı yapay zeka eğitim politikalarını doğrudan ilgilendiriyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T09:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 286
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "wikimedia-yapay-zeka-telif-davasinda-orta-yol-onerdi",
+  "published_at": "2026-10-30T09:07:07Z",
+  "publish_mode": "auto"
+}
