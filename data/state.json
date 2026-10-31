@@ -176,6 +176,9 @@
       "drafts": 6,
       "published": 3,
       "auto": 3
+    },
+    "2026-11-01": {
+      "expired": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
