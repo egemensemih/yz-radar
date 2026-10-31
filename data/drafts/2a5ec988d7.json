@@ -1,0 +1,65 @@
+{
+  "id": "2a5ec988d7",
+  "status": "pending",
+  "created_at": "2026-10-31T09:55:58Z",
+  "title": "OpenAI hedeflediği 30 milyar dolar yatırımın yarısından azını topladı",
+  "summary": "The Wall Street Journal'ın aktardığına göre OpenAI, en son yatırım turunda 30 milyar dolarlık hedefinin yarısından daha azını topladı.",
+  "body": "The Wall Street Journal'ın aktardığına göre OpenAI, en son finansman turunda 30 milyar dolarlık hedefinin yarısından daha azını toplamayı başardı. 31 Ekim 2026 tarihinde yayımlanan habere göre şirket, arzulanan büyük sermaye hedefine bu turda ulaşamadı.\n\n## Yatırım turundaki gelişmeler\n\nYapay zeka şirketi OpenAI tarafından yürütülen son fon toplama sürecinde, başlangıçta belirlenen 30 milyar dolarlık devasa hedef geride kaldı. Elde edilen toplam sermaye miktarı, hedeflenen rakamın açık bir şekilde altında kaldı.\n\n**Neden önemli?** Gerçekleşen bu yatırım turu sonuçları, sektörün öncü şirketlerinden biri olan OpenAI'ın büyük ölçekli finansman arayışlarında karşılaştığı mevcut durumu gözler önüne seriyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "Kaynak metin yalnızca başlık ve kısa bir özet bilgisinden ibarettir.",
+  "short_title": "OpenAI hedefinin yarısından azını topladı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "30 milyar $",
+  "hero_stat_label": "hedeflenen yatırım",
+  "visual_style": "studio",
+  "visual_scene": "a heavy slate stone resting on a thin brass scale that tilts unevenly, a small pile of copper coins scattered on one side while the other side remains mostly empty",
+  "focus_keyword": "OpenAI yatırım",
+  "seo_title": "OpenAI hedeflediği 30 milyar dolar yatırımın altında kaldı",
+  "meta_description": "The Wall Street Journal haberine göre OpenAI, en son yatırım turunda 30 milyar dolarlık hedefinin yarısından daha azını topladı.",
+  "seo_slug": "openai-yatirim-hedefinin-altinda-kaldi",
+  "image_alt": "OpenAI yatırım turunu temsil eden terazide dengesiz duran taş ve madeni paralar",
+  "cover_text": "OpenAI",
+  "importance": 9,
+  "triage_reason": "OpenAI'ın devasa fon turunda hedefinin yarısından az toplaması sektörde büyük yankı uyandırdı.",
+  "sources": [
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "title": "OpenAI raises less than half of $30B target",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50312922",
+      "published": "2026-10-31T03:22:44Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Wall Street Journal",
+      "kind": "community",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "published": "2026-10-31T03:22:44Z",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 151 # Comments: 141",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 318
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
