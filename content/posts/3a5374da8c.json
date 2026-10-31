@@ -1,0 +1,60 @@
+{
+  "id": "3a5374da8c",
+  "created_at": "2026-10-31T04:11:47Z",
+  "title": "Apple Intelligence Çin pazarına iOS 27.3 ile geliyor",
+  "summary": "Apple, Apple Intelligence yapay zeka özelliklerini iOS 27.3 güncellemesiyle Çin'deki kullanıcıların erişimine sunacağını duyurdu. İlk beta sürümü 4 Kasım'da yayınlanacak.",
+  "body": "Apple, yapay zeka araç paketi Apple Intelligence Çin pazarına iOS 27.3 güncellemesiyle sunacağını resmi olarak duyurdu. MacRumors ve The Verge tarafından paylaşılan bilgilere göre, şirketin Çin'deki resmi haber odası üzerinden yapılan duyuru doğrultusunda, ilk test aşaması olan iOS 27.3 beta sürümü 4 Kasım tarihinde kullanıcılara açılacak. Güncellemenin tam ve kararlı sürümünün ise Aralık ayında yayımlanması planlanıyor.\n\n## Apple Intelligence Çin sürümünde hangi özellikler var?\n\nTemmuz ayında Çin makamlarından gerekli resmi onayları alan Apple Intelligence, ülkedeki kullanıcılara aşamalı bir lansman takvimiyle ulaştırılacak. 4 Kasım'da sunulacak iOS 27.3 beta sürümü ilk yapay zeka yeteneklerini getirecek olsa da, yeni nesil Siri yapay zeka işlevleri bu ilk lansman paketine dahil edilmedi.\n\nİlk güncelleme paketinde yer alacağı doğrulanan yetenekler şunlardan oluşuyor:\n\n- Bildirim özetleri ve eş zamanlı çeviri imkanı\n- Metinleri yeniden yazma ve yazım denetimi araçları\n- Görsel zeka (visual intelligence) işlevleri\n- Fotoğraflardan istenmeyen nesneleri kaldırma aracı\n\n## Alibaba Qwen modelleri sisteme dahil ediliyor\n\nApple, Çin'deki yasal düzenlemelere ve pazar şartlarına uyum sağlamak amacıyla altyapı tarafında özel adımlar attı. Reuters'ın Ağustos ayında aktardığı habere göre şirket, doğrudan Çin pazarı için özel olarak kendi büyük dil modelini (LLM) eğitti.\n\nBunun yanı sıra şirket, yerel yapay zeka servislerini işletim sistemine entegre etmek için Alibaba ile ortaklık kurdu. Apple'ın duyurusuna göre, bazı kullanıcı deneyimlerinde Alibaba tarafından geliştirilen **Qwen** sohbet robotuna destek verilecek. Bu çalışma modelinin, Apple'ın 2024 yılında iOS işletim sistemine dahil ettiği OpenAI üretimi **ChatGPT** entegrasyonuna benzer bir yapıda olacağı ifade ediliyor.\n\n**Neden önemli?** Çin'deki resmi onay süreçlerinin tamamlanmasının ardından gelen bu adım, Apple'ın kritik önem taşıyan bir pazarda yerel ortaklar ve özelleştirilmiş altyapılarla yapay zeka yarışını sürdürdüğünü gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Apple Intelligence",
+    "iOS 27.3",
+    "Alibaba",
+    "Qwen",
+    "Çin"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple Intelligence iOS 27.3 ile Çin'e geliyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A minimalist ceramic Apple sculpture resting on a polished dark green jade tabletop, surrounded by thin glass sheets reflecting subtle red and gold ambient light, clean macro photography.",
+  "focus_keyword": "apple intelligence çin",
+  "seo_title": "Apple Intelligence Çin pazarına geliyor: iOS 27.3",
+  "meta_description": "Apple, Apple Intelligence Çin lansmanını iOS 27.3 ile başlatıyor. 4 Kasım beta sürümü ve Alibaba Qwen entegrasyonunun detayları haberimizde.",
+  "seo_slug": "apple-intelligence-cin-pazarina-geliyor",
+  "image_alt": "Yeşim taşı yüzey üzerinde seramik elma heykeli ve cam katmanları: Apple Intelligence'ın Çin lansmanını simgeleyen görsel",
+  "cover_text": "Apple Intelligence",
+  "importance": 8,
+  "triage_reason": "Apple Intelligence'ın Çin pazarına giriş yapması büyük bir coğrafi ve ürün genişleme hamlesi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-30T22:32:53Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 314
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-intelligence-cin-pazarina-geliyor",
+  "published_at": "2026-10-31T04:11:59Z",
+  "publish_mode": "auto"
+}
