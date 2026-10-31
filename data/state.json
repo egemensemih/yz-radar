@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-31T04:25:40Z",
+  "last_collect": "2026-10-31T04:40:45Z",
   "last_summary_date": "2026-10-30",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:48Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 1341
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:48Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:48Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 479,
+      "fails": 480,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-10-31T04:10:49Z",
+      "last_ok": "2026-10-31T04:40:45Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-10-30T21:55:43Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-10-31T04:40:45Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -170,10 +169,10 @@
     },
     "2026-10-31": {
       "expired": 21,
-      "tok_in": 21836,
-      "tok_out": 4889,
+      "tok_in": 24480,
+      "tok_out": 6058,
       "cost_usd": 0.0,
-      "drafts": 4,
+      "drafts": 5,
       "published": 3,
       "auto": 3
     }
@@ -184,37 +183,6 @@
   "indexnow_queue": [],
   "last_build": "2026-10-31T04:12:06Z",
   "build_sig": "1006e235604846f4",
-  "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Nvidia considers cosigning loan for Nscale AI data center",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "donanim",
-        "reason": "Nvidia'nın yapay zeka veri merkezi finansmanına destek olması donanım altyapısı açısından önemli bir gelişme."
-      },
-      "items": [
-        {
-          "key": "c6b2d3ea79170b2a",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-          "via": null,
-          "via_url": null,
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-          "published": "2026-10-31T01:20:05Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-10-31T04:10:59Z"
-    }
-  ],
+  "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
 }

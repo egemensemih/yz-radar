@@ -1,0 +1,72 @@
+{
+  "id": "2f31f74494",
+  "status": "pending",
+  "created_at": "2026-10-31T04:42:50Z",
+  "title": "Nvidia Nscale veri merkezi projesinde milyarlarca dolarlık borca kefil olabilir",
+  "summary": "Nvidia, yapay zeka bulut sağlayıcısı Nscale'in Anthropic için Batı Virginia'da inşa edeceği dev veri merkezi kampüsünün milyarlarca dolarlık inşaat borcuna garanti vermeyi planlıyor.",
+  "body": "Nvidia Nscale veri merkezi projesinin finansmanını güvenceye almak amacıyla milyarlarca dolarlık borca kefil olmaya hazırlanıyor. The Information'ın aktardığı ve Bloomberg'in doğruladığı bilgilere göre çip üreticisi, yapay zeka bulut sağlayıcısı Nscale'in Batı Virginia'da kurmayı planladığı dev tesis için kredi garantisi sağlamak üzere görüşmeler yürütüyor. Söz konusu tesis, yapay zeka girişimi Anthropic'in altyapı ihtiyaçlarına hizmet edecek.\n\n## Kalan değer garantisi nasıl işleyecek?\n\nGörüşülen plan kapsamında Nvidia, finans dünyasında **kalan değer garantisi** olarak adlandırılan bir yöntem uygulayacak. Anlaşma yürürlüğe girerse Nscale'in inşaat ve enerji harcamalarındaki borç yükümlülüklerini yerine getirememesi halinde Nvidia devreye girecek. Çip devi, tesisin yönetimini geçici olarak devralıp mülk için yeni bir alıcı ya da kiracı bulunmasına aracılık edecek. Nvidia daha önce bulut sağlayıcılarına yönelik desteklerini çip alımları ve kiralama sözleşmeleriyle sınırlı tutarken, ilk kez inşaat borçlarına bu ölçekte kefil olmayı değerlendiriyor.\n\nNscale'in halka arz başvurusunda yer alan bilgilere göre Anthropic, kampüsün ilk 460 megavatlık binası için 44,6 milyar dolarlık sözleşme imzaladı. İki şirket, yaklaşık 45 milyar dolar değerinde ikinci bir bina için de görüşmelerini sürdürüyor. Kampüste Nvidia'nın yeni nesil **Vera Rubin** mimarisine sahip çiplerinin kullanılması öngörülüyor.\n\n## Yapay zeka altyapısında artan finansman baskısı\n\nHalka arzında 35 milyar dolara kadar değerleme hedefleyen Nscale, projelerini hayata geçirmekte çeşitli güçlüklerle karşılaştı. Şirket ağustos ayında planladığı 500 bin gelişmiş yapay zeka çipinin yalnızca 25 bin kadarını çalıştırabiliyordu. Ayrıca Batı Virginia sahasındaki inşaat atıkları çevredeki evlerde su baskınlarına yol açmış, tesis eylül ayında eyalet onayı alabilmişti. İngiltere'deki bir başka Nscale projesinde ise şebeke elektriğinin 2030'lara ertelenmesi üzerine Microsoft projeden çekilmişti.\n\nNvidia bugüne kadar yeni nesil bulut girişimlerine ve büyük müşterilerine yaklaşık 170 milyar dolarlık yatırım ve kredi desteği sağladı. Bu tutara, eylül ayında Nscale'e taahhüt edilen 1 milyar dolarlık dönüştürülebilir finansman da dahil.\n\n**Neden önemli?** Yatırımcıların devasa altyapı maliyetlerinden endişe duyduğu ve Anthropic'in kredi notunun düşebileceği bir dönemde Nvidia, donanımlarını kullanacak en büyük müşterilerin yatırımlarını kendi bilançosuyla koruma altına almaya çalışıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Nscale",
+    "Anthropic",
+    "Vera Rubin",
+    "veri merkezi",
+    "bulut bilişim"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "The Information ve Bloomberg haberlerine dayanmaktadır; Nvidia ve Nscale henüz resmi bir duyuru yapmamıştır.",
+  "short_title": "Nvidia Nscale'in dev borcuna kefil olmaya hazırlanıyor",
+  "kicker": "Finansman",
+  "hero_stat": "44,6 milyar $",
+  "hero_stat_label": "Anthropic ilk bina sözleşmesi",
+  "visual_style": "sculpture",
+  "visual_scene": "A massive, heavy angled block of raw charcoal basalt teetering slightly, stabilized and supported from underneath by a single polished titanium pillar on a smooth stone floor, dramatic directional side lighting casting stark geometric shadows, representing structural financial support.",
+  "focus_keyword": "Nvidia Nscale veri merkezi",
+  "seo_title": "Nvidia Nscale veri merkezi borcuna kefil olabilir",
+  "meta_description": "Nvidia Nscale veri merkezi projesinde milyarlarca dolarlık borca kefil olmayı planlıyor. Anthropic kampüsüne dair finansman detaylarını keşfedin.",
+  "seo_slug": "nvidia-nscale-veri-merkezi-borc-garantisi",
+  "image_alt": "Ağır bir bazalt bloğun titanyum sütunla desteklendiği heykel: Nvidia'nın Nscale veri merkezi borç garantisini simgeler.",
+  "cover_text": "Nvidia & Nscale",
+  "importance": 7,
+  "triage_reason": "Nvidia'nın yapay zeka veri merkezi finansmanına destek olması donanım altyapısı açısından önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-10-31T01:20:05Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "2026-10-31T01:20:05Z",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "text": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday. Bloomberg later corroborated the report. Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO filing. In essence, the chipmaker would be co-signing a customer’s loans, a sign of how hard the AI industry is working to keep its buildout plans afloat as investors grow jittery about the amounts of money involved.\nThe proposed arrangement would help Nscale secure financing for the electricity and construction costs of its West Virginia campus. Under what’s known as a residual value guarantee, Nvidia would step in if Nscale defaulted on construction payments, temporarily take over the facility, and help find a buyer and new tenant, according to The Information.\nNvidia’s earlier support for cloud providers has mostly covered leases and chip purchases, not construction.\nThe stakes are high for Nscale, which is seeking to go public at a valuation of up to $35 billion despite growing concerns about its ability to deliver on ambitious data center projects.\nAnthropic’s contract with Nscale covers the first 460-megawatt building at Nscale’s West Virginia campus, which is expected to use Nvidia’s next-generation Vera Rubin chips. The companies are also discussing a second deal worth roughly $45 billion for another building.\nNscale has struggled to get its projects off the ground. The company had about 25,000 advanced AI chips running in August, a fraction of the nearly 500,000 it plans to deploy. Its West Virginia campus has run into trouble of its own. Runoff from the construction site has flooded nearby homes more than once. In September, after months of negotiations, the project won state certification.\nThis month, Microsoft pulled out of a planned Nscale site in England after grid power for it was pushed into the 2030s.\nNvidia has been a major financial backer of the sector, extending roughly $170 billion in investments and credit support to neoclouds and large customers, according to The Information. That includes $1 billion in convertible financing committed to Nscale in September.\nNeoclouds, which rent out AI computing power without a cash-rich core business behind them, have come under pressure from investors. Shares of CoreWeave, Nebius, and IREN had each fallen more than 30% in October as of last week, CNBC reported.\nThe proposed guarantee would deepen Nvidia’s financial ties to Nscale while helping secure a major customer for its chips. Anthropic, one of the largest buyers of AI computing power, has spread its infrastructure spending across multiple chipmakers. One investor told The Information that Anthropic’s involvement likely explains Nvidia’s interest in keeping Nscale’s project on track.\nThe discussions also come as Anthropic faces questions about how it will finance its own rapid expansion. The company filed to go public this week, but Blackstone has warned investors that Anthropic may receive a below-investment-grade credit rating after its IPO. A junk rating would raise Anthropic’s borrowing costs and could push it to keep relying on stronger partners to back its debt."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 317
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
