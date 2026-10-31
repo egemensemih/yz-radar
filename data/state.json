@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-10-31T01:55:40Z",
+  "last_collect": "2026-10-31T02:10:49Z",
   "last_summary_date": "2026-10-30",
   "mode_override": null,
   "paused": false,
@@ -181,7 +181,7 @@
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-10-31T01:05:40Z",
+  "last_build": "2026-10-31T02:10:50Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
