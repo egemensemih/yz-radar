@@ -1,0 +1,58 @@
+{
+  "id": "9f7129c90e",
+  "created_at": "2026-11-02T22:19:59Z",
+  "title": "Anthropic, öz yinelemeli yapay zeka gelişimine yaklaştığını duyurdu",
+  "summary": "TechCrunch'ın aktardığına göre Anthropic, S-1A başvurusunda yapay zekanın kendi kendini geliştirme kapasitesine çok yakın olabileceği uyarısında bulundu.",
+  "body": "TechCrunch'ın aktardığına göre yapay zeka şirketi Anthropic, pazartesi günü yayımlanan S-1A mali başvurusunda öz yinelemeli yapay zeka veya **RSI** eşiğine yaklaşmakta olduğu konusunda uyarıda bulundu. Şirket, yapay zekanın kendi kendisini eğitecek kadar güçlenmesinin hem büyük bir potansiyel barındırdığını hem de ciddi güvenlik riskleri taşıdığını belirtti. \n\n## RSI eşiği ve riskler\n\nBaşvurunun risk faktörleri bölümünde, Anthropic'in yapay zekayı araştırma ve geliştirme süreçlerinde halihazırda kullandığı ifade edildi. Şirket, bu sürecin modellerin yeteneklerindeki sıçramaları önceden fark edememelerine yol açabileceğini belirtti. Kaynaklara göre Anthropic, iç tahminlerinin Sorumlu Ölçeklendirme Politikası'nda belirtilen yapay zeka kaynaklı hızlanma tanımını yakında karşılayabileceğini gösterdiğini kaydetti.\n\n## İnsan denetimi ve güvenlik\n\nAnthropic, mevcut modellerinden hiçbirinin henüz bu eşiği aşmadığını vurgularken, gelecekte de insan denetimini koruma taahhüdünde bulundu. Şirket tarafından yapılan açıklamada, \"Claude'u anlamlı bir insan denetimi olmadan sonraki nesil öncü modelleri tasarlamak ve inşa etmek için güvenli bir şekilde kullanabileceğimizi öngörmüyoruz\" denildi. \n\n**Neden önemli?** Anthropic'in S-1A başvurusunda yer alan bu uyarılar, yapay zekanın kendi geliştirme sürecinde rol oynamasının getirdiği güvenlik ve kontrol tartışmalarını resmi bir belgeye taşıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "S-1A",
+    "RSI"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic RSI uyarısı yaptı",
+  "kicker": "Yapay zeka güvenliği",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic block of grey matte stone split vertically by a sharp line of warm amber light, casting subtle shadows on a neutral concrete surface",
+  "focus_keyword": "Anthropic RSI uyarısı",
+  "seo_title": "Anthropic RSI eşiğine yaklaştığını duyurdu",
+  "meta_description": "TechCrunch haberine göre Anthropic, S-1A başvurusunda öz yinelemeli yapay zeka RSI eşiğine yaklaştığı konusunda uyarıda bulundu.",
+  "seo_slug": "anthropic-rsi-uyari-yapti",
+  "image_alt": "Gri mat taş blok üzerinde ince bir ışık çizgisi bulunan stüdyo ortamı görseli",
+  "cover_text": "Anthropic",
+  "importance": 8,
+  "triage_reason": "Anthropic'in yapay zekanın kendi kendini geliştirmesi (RSI) hakkında yaptığı uyarı küresel teknoloji gündemi için oldukça önemli.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-02T22:14:50Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 336
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-rsi-uyari-yapti",
+  "published_at": "2026-11-02T22:20:17Z",
+  "publish_mode": "auto"
+}
