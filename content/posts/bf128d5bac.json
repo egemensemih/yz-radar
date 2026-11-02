@@ -1,0 +1,59 @@
+{
+  "id": "bf128d5bac",
+  "created_at": "2026-11-02T16:31:14Z",
+  "title": "42AI'dan insan davranışını tahmin eden dünya modeli",
+  "summary": "İsrail merkezli yapay zekâ girişimi 42AI, insan davranışlarını ve finansal kararları olasılıksal olarak tahmin edebilen behavioral world model geliştirdiğini duyurdu.",
+  "body": "TechCrunch'ın aktardığına göre, İsrail merkezli 42AI adlı girişim, insan davranışlarını ve karar süreçlerini tahmin edebilen \"behavioral world model\" (davranışsal dünya modeli) geliştirdiğini duyurdu ve 62,5 milyon dolar tohum yatırım aldığını açıkladı. Şirket, kurucu ortaklar Amit Gal-Or ve Ehud Ezra tarafından kuruldu.\n\n## Davranışsal dünya modeli nasıl çalışıyor?\n\nŞirketin açıklamasına göre sistem, kişilerin geçmiş eylemlerini taklit etmek yerine içsel motivasyonlarını ve psikolojik eğilimlerini ölçmeyi hedefliyor. Destek çağrıları, para transferleri ve hisse alım satımları gibi farklı etkileşimleri inceleyen transformer tabanlı model, bu verileri matematiksel özelliklere dönüştürüyor. Kurucu ortaklar, modelin bireylerin belirli durumlarda alacağı kararların olasılık dağılımını çıkardığını ve tahminler için ayrı bir dil modeli kullandığını belirtiyor.\n\n## Finans sektöründe kullanım ve gelecek planları\n\nSistemi ilk olarak finansal aracı kurumlarda test eden girişim, ticaret akışlarında başarı oranına ulaştığını iddia ediyor. 10 büyük aracı kurumla çalışan şirket; oyun, dolandırıcılığın önlenmesi ve siber güvenlik alanlarında da uygulamalar geliştirmeyi hedefliyor. Finansman, üç yıllık süre zarfında kurucular ve Infinity Group tarafından sağlandı.\n\n**Neden önemli?** Şirketin kurucuları, modelin kişisel olarak tanımlanabilir veriye ihtiyaç duymadığını savunurken, teknolojinin öngörü amaçlı kullanımına dair etik kaygılara karşı denetim mekanizmaları ve bir iç etik komitesi işaret ediliyor.",
+  "category": "sirketler",
+  "tags": [
+    "42AI",
+    "Infinity Group",
+    "Amit Gal-Or",
+    "Ehud Ezra",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "42AI'dan davranış tahmin eden dünya modeli",
+  "kicker": "Yeni girişim",
+  "hero_stat": "62,5 milyon $",
+  "hero_stat_label": "tohum yatırım",
+  "visual_style": "studio",
+  "visual_scene": "a smooth dark stone sphere resting inside a precise geometric wireframe cage, casting soft shadows on a matte gray surface",
+  "focus_keyword": "42AI",
+  "seo_title": "42AI insan davranışı tahmin eden modelini duyurdu",
+  "meta_description": "İsrail merkezli 42AI girişimi, insan davranışlarını olasılıksal olarak tahmin eden davranışsal dünya modelini ve 62,5 milyon dolarlık yatırımını açıkladı.",
+  "seo_slug": "42ai-insan-davranisini-tahmin-eden-dunya-modelini-duyurdu",
+  "image_alt": "Karanlık küp ve geometrik kafes yapısı, 42AI şirketinin davranışsal dünya modeli duyurusunu temsil ediyor",
+  "cover_text": "42AI",
+  "importance": 7,
+  "triage_reason": "42AI'ın büyük yatırımla gizlilikten çıkması ve dünya modeli duyurusu önemli bir girişim gelişmesi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-02T16:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 326
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "42ai-insan-davranisini-tahmin-eden-dunya-modelini-duyurdu",
+  "published_at": "2026-11-02T16:31:24Z",
+  "publish_mode": "auto"
+}
