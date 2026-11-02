@@ -37,10 +37,20 @@
       "via": null,
       "via_url": "https://webrazzi.com/2026/11/02/anthropic-claude-un-mevcut-video-oyunlarini-klonlamasini-engelliyor/#comments",
       "published": "2026-11-02T10:30:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/#comments",
+      "published": "2026-11-02T18:05:31Z"
     }
   ],
   "source_keys": [
-    "Webrazzi"
+    "Webrazzi",
+    "Ars Technica"
   ],
   "source_texts": [
     {
