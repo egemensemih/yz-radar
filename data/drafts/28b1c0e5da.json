@@ -1,0 +1,66 @@
+{
+  "id": "28b1c0e5da",
+  "status": "pending",
+  "created_at": "2026-11-02T19:15:57Z",
+  "title": "Anthropic'in yapay zeka maliyeti çalışan maaşlarını geçti",
+  "summary": "Business Insider'ın IPO dosyasına dayandırdığı haberine göre Anthropic, perakende fiyatlarla hesaplanan dahili yapay zeka harcamalarında personel maaşlarını geride bıraktı.",
+  "body": "Anthropic şirketinin IPO (halka arz) dosyasına dayandırılan bilgilere göre, perakende satış fiyatları üzerinden hesaplanan dahili yapay zeka tüketimi personel maaş maliyetlerini aştı. Business Insider'ın aktardığına göre, şirket içi yapay zeka kullanımı bu yılın ocak ayından eylül ayına kadar 250 kattan fazla artış gösterdi.\n\n## Halka arz dosyasındaki detaylar\n\nNisan ayında, şirketin müşterilerine uyguladığı tarifeler üzerinden hesaplanan dahili **Claude** AI tüketimi, hisse senedi ödülleri hariç tutulduğunda aylık personel tazminat maliyetlerini geçti. Bu durum, Anthropic'in yapay zekaya doğrudan nakit olarak maaşlardan daha fazla para harcadığı anlamına gelmiyor; dahili tüketimin perakende fiyatları üzerinden yapılan hesaplama bu sonucu ortaya koyuyor.\n\n## Yazılım geliştirme süreçleri\n\nŞirket tarafından paylaşılan verilere göre eylül ayında yazılımlara eklenen kodların yüzde 90'ından fazlası Claude tarafından yazıldı. Buna paralel olarak şirketin gelirleri de çalışan sayısına kıyasla çok daha hızlı bir büyüme kaydetti.\n\n**Neden önemli?** Anthropic'in paylaştığı bu rakamlar, teknoloji sektöründe yapay zeka token'larının (kullanım birimi) maaş, ikramiye ve hisse senedi ödüllerinin yanına dördüncü bir bileşen olarak eklendiği yeni trendi gözler önüne seriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'in yapay zeka harcamaları maaşları geçti",
+  "kicker": "Şirketler",
+  "hero_stat": "%90",
+  "hero_stat_label": "eklenen kodların oranı",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist dark slate desk holding two balanced brass scales, one side holding a single glowing glass prism, the other holding a small stack of heavy paper sheets, soft diffused studio lighting from the side",
+  "focus_keyword": "Anthropic dahili yapay zeka",
+  "seo_title": "Anthropic'in dahili yapay zeka harcamaları maaşları aştı",
+  "meta_description": "Business Insider'ın IPO dosyasına dayanan haberine göre Anthropic'in perakende fiyatlarla hesaplanan dahili yapay zeka harcamaları çalışan maaşlarını geçti.",
+  "seo_slug": "anthropic-dahili-yapay-zeka-harcamalari-maaslari-asti",
+  "image_alt": "Anthropic'in dahili yapay zeka harcamalarının çalışan maaşlarını geçmesini temsil eden masa üstü ölçek heykeli",
+  "cover_text": "Anthropic",
+  "importance": 6,
+  "triage_reason": "Anthropic'in dahili yapay zeka kullanım maliyeti toplam çalışan maaşlarını geçti.",
+  "sources": [
+    {
+      "name": "businessinsider.com",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50339494",
+      "published": "2026-11-02T16:40:29Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "businessinsider.com",
+      "kind": "community",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "published": "2026-11-02T16:40:29Z",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 155 # Comments: 128",
+      "text": "Here's a remarkable milestone in the AI revolution: Anthropic now spends more on internal AI usage than it does paying employees.\nThe company revealed this in its IPO filing. In April, the value of Claude AI used internally, calculated at prices Anthropic charges customers, exceeded its monthly employee compensation costs, excluding stock awards.\nBy September, that internal AI usage had surged more than 250-fold since January.\nThere's an important distinction here. Anthropic isn't actually spending more cash on AI than salaries. It's valuing its internal AI consumption at retail prices.\nStill, this feels like a watershed moment for the tech industry.\nIn March, I wrote about a new trend: Tech companies are starting to treat AI tokens (the main way to measure usage) as a fourth component of employee compensation, alongside salary, bonuses, and stock awards.\nAnthropic's numbers show why. More than 90% of the code added to its software in September was written by Claude. Meanwhile, revenue has grown vastly faster than headcount.\nFor decades, talented humans were the most valuable resource in Silicon Valley. Now AI is challenging that assumption.\nSign up for the AI Insider newsletter here. Reach out to me via email at abarr@businessinsider.com"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 335
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
