@@ -1,0 +1,59 @@
+{
+  "id": "c9adf7988a",
+  "created_at": "2026-11-02T18:01:24Z",
+  "title": "New York Times ve yayıncılardan Brave'e telif ve yapay zeka davası",
+  "summary": "The New York Times ve bir grup yayıncı, izinsiz yapay zeka kazıma faaliyetleri ve ödeme duvarı atlatma yöntemleri nedeniyle Brave hakkında dava açtı.",
+  "body": "The New York Times ve bir grup yayıncı, gizli telif hakları ihlalleri ve izinsiz veri toplama gerekçesiyle **Brave** tarayıcısının geliştiricisine karşı resmi dava açtı. The Verge'ün aktardığına göre, aralarında New York Daily News, Chicago Tribune ve Orlando Sentinel gibi yayınların da bulunduğu şirketler, Brave Software'in web sitelerinden hukuka aykırı şekilde veri kazıdığını belirtiyor.\n\n## İddialar ve yapay zeka şirketleri bağlantısı\n\nMahkemeye sunulan şikayet dilekçesine göre Brave, kazıdığı web siteleri dizinini paraya dönüştürerek yapay zeka şirketlerine paralı erişim sağladı. Şirketlerin aktardığı bilgilere göre bu dizin; Anthropic, Perplexity, Mistral, xAI ve Cohere dahil olmak üzere birçok yapay zeka şirketi tarafından modelleri eğitmek veya kullanıcı sorgularına yanıt vermek amacıyla kullanıldı.\n\n## Ödeme duvarı atlatma ve izin tartışması\n\nŞikayette, Brave'in yayıncıların sitelerine erişmek için hiçbir zaman izin istemediği ve aksine kullanıcıların ödeme duvarlarını izinsiz aşmasını sağlayan özellikler sunduğu vurgulandı. The New York Times sözcüsü Graham James, Brave'in telif haklarını hiçe saydığını belirterek, şirketin içerikleri izinsiz şekilde alarak dünyanın önde gelen yapay zeka firmalarına sunduğunu ifade etti. Perplexity baş iletişim sorumlusu Jesse Dwyer ise The Verge'e yaptığı açıklamada davanın asılsız olduğunu savundu.\n\n**Neden önemli?** Açılan dava, web tarayıcılarının yapay zeka eğitim süreçlerindeki veri toplama yöntemleri ve ödeme duvarı politikaları nedeniyle yasal hedef haline gelmeye devam ettiğini gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Brave",
+    "Anthropic",
+    "Perplexity",
+    "Mistral",
+    "Cohere"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Brave'e telif ve yapay zeka davası",
+  "kicker": "Yasal süreç",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a thick stack of dark paper documents tied with a red ribbon on a smooth concrete surface, a single sharp metal blade resting diagonally across the corner",
+  "focus_keyword": "Brave yapay zeka davası",
+  "seo_title": "New York Times'tan Brave'e yapay zeka ve telif davası",
+  "meta_description": "The New York Times ve yayıncılar, izinsiz yapay zeka veri kazıma ve ödeme duvarı atlatma iddialarıyla Brave tarayıcısına karşı dava açtı.",
+  "seo_slug": "new-york-times-brave-yapay-zeka-davasi",
+  "image_alt": "Bileme bıçağının yer aldığı resmi yasal evrak destesini temsil eden stüdyo ortamı görseli",
+  "cover_text": "Brave Davası",
+  "importance": 7,
+  "triage_reason": "NYT'nin Brave tarayıcısına karşı yapay zeka kazıma ve ödeme duvarı davası.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-02T17:51:19Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 331
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "new-york-times-brave-yapay-zeka-davasi",
+  "published_at": "2026-11-02T18:01:27Z",
+  "publish_mode": "auto"
+}
