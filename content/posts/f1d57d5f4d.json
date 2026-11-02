@@ -1,0 +1,58 @@
+{
+  "id": "f1d57d5f4d",
+  "created_at": "2026-11-02T23:16:09Z",
+  "title": "Trajectory yapay zeka modeli eğitimi için 45 milyon dolar yatırım aldı",
+  "summary": "Teknik bilgisi olmayan uzmanların yapay zeka modellerini sürekli olarak eğitebilmesini sağlayan Trajectory, Series A turunda 45 milyon dolar yatırım aldı.",
+  "body": "TechCrunch'ın aktardığına göre, yapay zeka modellerinin hatalarından ders çıkararak uzmanlık alanlarında sürekli gelişmesini amaçlayan Trajectory, 45 milyon dolarlık bir Series A yatırım turunu tamamladı. Yaklaşık bir yıl önce kurulan 18 kişilik girişim, Sequoia liderliğinde gerçekleşen bu turda 300 milyon dolar değerlemeye ulaştı. Yatırım turuna Nvidia, Bessemer Venture Partners ve Bain Capital Ventures da katılım gösterdi.\n\n## Sürekli öğrenme yaklaşımı\n\nGünümüzdeki yapay zeka modelleri genellikle uzmanlık gerektiren alanlara uyarlanırken iç araştırma ekiplerine veya pahalı danışmanlara ihtiyaç duyuyor. Kurucu ortak Ronak Malde, temel modelleri yeni bir işe başlayan akıllı bir doktora öğrencisine benzeterek ekonominin asıl değer verdiği kişinin otuz yıllık deneyime sahip çalışan olduğunu belirtti. Trajectory, şirketlerin açık kaynaklı yapay zeka modellerini uygulamalarına bağlayarak geri bildirim toplamasını ve bu bilgileri kullanarak modelleri yeniden eğitmesini sağlıyor. Girişimin kurucu ortaklarından Michael Elabd, eğitim sürecinde insan denetimini korumanın, özerk öz iyileştirmenin yol açabileceği tehlikeli sonuçları önlemek adına daha güvenli bir yaklaşım sunduğunu savunuyor.\n\n## Platformun kullanım alanları ve rekabet\n\nHarvey, Rogo, Decagon, Mercor ve Nvidia gibi şirketler platformu halihazırda kullanırken, girişim post-training platformunu kamuoyuna açık hale getirdi. Şirket, yapay zeka sonrası eğitim süreçlerini otomatikleştiren Thinking Machines Lab, Applied Compute ve Prime Intellect gibi yapılarla rekabet ediyor. Google DeepMind ve Apple geçmişine sahip üç Stanford mezunu tarafından kurulan ekip, arayüz tasarımı sayesinde teknik bilgisi bulunmayan avukat veya doktor gibi uzmanların da modelleri otomatik olarak iyileştirebilmesini hedefliyor.\n\n**Neden önemli?** Trajectory'nin geliştirdiği platform, hukuk ve finans gibi özel alanlarda faaliyet gösteren işletmelerin pahalı mühendislik ekiplerine ihtiyaç duymadan açık kaynaklı yapay zeka modellerini kendi geri bildirimleriyle sürekli eğitebilmesini mümkün kılıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Trajectory",
+    "Sequoia",
+    "Nvidia",
+    "Google DeepMind"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Trajectory 45 milyon dolar yatırım aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "45 milyon $",
+  "hero_stat_label": "Series A yatırımı",
+  "visual_style": "studio",
+  "visual_scene": "a series of smooth ceramic blocks arranged in a rising staircase formation, each block slightly offset, with a soft warm light casting gentle shadows across the minimalist surfaces",
+  "focus_keyword": "Trajectory yapay zeka",
+  "seo_title": "Trajectory yapay zeka modeli eğitimi için yatırım aldı",
+  "meta_description": "Teknik bilgisi olmayan uzmanların yapay zeka modellerini eğitebilmesini sağlayan Trajectory, Sequoia liderliğinde 45 milyon dolar yatırım aldı.",
+  "seo_slug": "trajectory-yapay-zeka-modeli-egitimi-icin-yatirim-aldi",
+  "image_alt": "Yükselen merdiven formunda düzenlenmiş seramik bloklar ve hafif ışıklandırma",
+  "cover_text": "Trajectory",
+  "importance": 6,
+  "triage_reason": "Yapay zeka eğitimini kolaylaştıran girişimin 45 milyon dolar yatırım alması önemli ancak orta ölçekli bir gelişme.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-02T23:13:53Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 339
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "trajectory-yapay-zeka-modeli-egitimi-icin-yatirim-aldi",
+  "published_at": "2026-11-02T23:16:19Z",
+  "publish_mode": "auto"
+}
