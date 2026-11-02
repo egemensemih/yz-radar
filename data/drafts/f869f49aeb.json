@@ -46,11 +46,21 @@
       "via": null,
       "via_url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/#comments",
       "published": "2026-11-02T18:05:31Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-02T18:56:02Z"
     }
   ],
   "source_keys": [
     "Webrazzi",
-    "Ars Technica"
+    "Ars Technica",
+    "The Verge"
   ],
   "source_texts": [
     {
