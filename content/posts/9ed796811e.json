@@ -1,0 +1,58 @@
+{
+  "id": "9ed796811e",
+  "created_at": "2026-11-03T04:31:25Z",
+  "title": "Google, yapay zeka destekli hikaye uygulaması Dreambeans'i Hindistan'a taşıdı",
+  "summary": "Google, deneysel yapay zeka uygulaması Dreambeans'i ABD dışındaki ilk pazarı olan Hindistan'da 13 yerel dil desteğiyle kullanıma sundu.",
+  "body": "TechCrunch'ın aktardığına göre Google, deneysel yapay zeka uygulaması Dreambeans'i ABD dışındaki ilk pazarı olarak Hindistan'da erişime açtı. Android ve iOS platformlarında yer alan uygulama, İngilizceyle birlikte aralarında Hintçe, Pencapça, Tamilce, Telugu dili ve Bengalcenin de bulunduğu 13 yerel dil desteğiyle kullanıcılarla buluştu.\n\n## Dreambeans Hindistan genişlemesi ve özellikleri\n\nİlk olarak haziran ayında tanıtılan Dreambeans; Google Takvim, Gemini, Gmail, Google Fotoğraflar, Arama ve YouTube gibi birbirine bağlı Google servislerindeki verileri kullanıyor. Uygulama, kullanıcıların herhangi bir komut girmesine gerek kalmadan, onların ilgi alanları ve günlük yaşamları hakkında kişiselleştirilmiş, resimli hikayeler üretiyor. Google ürün yöneticisi Gozde Oznur, Hindistan'ın tercih edilmesinde bu ülkeden gelen yoğun ilgi ve Gemini, Gmail ile Google Fotoğraflar gibi servislerin yaygın kullanımının etkili olduğunu belirtti.\n\nSensor Tower verilerine göre uygulama haziran ayındaki çıkışından bu yana ABD'de yaklaşık 55.000 indirme rakamına ulaştı. Bununla birlikte Dreambeans, aralarında Meta'nın Muse, ChatGPT, Grok Bot ve Claude'un yer aldığı genel amaçlı yapay zeka uygulamalarına kıyasla farklı bir odak noktasına sahip bulunuyor ve doğrudan metin tabanlı genel sorgulara yanıt vermiyor.\n\n## Gizlilik endişeleri ve dil sınırlamaları\n\nUygulamanın kullanıcıların Google hesaplarındaki hassas verilere dayanması, gizlilik ve veri erişimi konusunda bazı soru işaretlerini beraberinde getiriyor. Oznur, kullanıcıların istedikleri servisleri Dreambeans'ten koparabileceğini, uygulama içi verilerini silebileceğini ve belirli konuları engelleme talimatı verebileceğini ifade etti. Ayrıca Dreambeans yalnızca kişisel Gmail hesap sahiplerine sunuluyor.\n\nÖte yandan, uygulama birçok yerel dili desteklese de kullanıcılar hikayeler için aynı anda yalnızca tek bir dil seçebiliyor. Bu durum, Hindistan'da yaygın olarak kullanılan ve dillerin karıştırıldığı Hinglish gibi pratikler açısından bir sınırlama yaratabiliyor.\n\n**Neden önemli?** Google, Dreambeans ile kullanıcı verilerini proaktif olarak işleyen kişiselleştirilmiş yapay zeka deneyimlerini ABD dışındaki büyük pazarlara genişleterek yeni bir kitleye ulaşmayı hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "YouTube",
+    "Gmail"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Dreambeans Hindistan'da",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "13",
+  "hero_stat_label": "yerel dil desteği",
+  "visual_style": "studio",
+  "visual_scene": "a smooth pebble of frosted glass resting on a dark slate surface, illuminated by a soft morning light casting long shadows, surrounded by three tiny minimalist ceramic cones",
+  "focus_keyword": "Dreambeans Hindistan",
+  "seo_title": "Google yapay zeka uygulaması Dreambeans'i Hindistan'a getirdi",
+  "meta_description": "Google, kişiselleştirilmiş yapay zeka hikaye uygulaması Dreambeans'i ABD dışındaki ilk pazar olan Hindistan'da 13 yerel dil desteğiyle kullanıma sundu.",
+  "seo_slug": "google-dreambeans-uygulamasini-hindistana-tasiidi",
+  "image_alt": "Buzlu cam çakıl taşı ve seramik objelerle kişiselleştirilmiş yapay zeka hikaye uygulamasını temsil eden stüdyo görseli",
+  "cover_text": "Dreambeans",
+  "importance": 6,
+  "triage_reason": "Google'in yapay zeka hikaye araci Dreambeans Hindistan pazarina genisliyor, bolgesel yeni bir urun adimi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T03:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 344
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "lav",
+    "cover_v": 1
+  },
+  "slug": "google-dreambeans-uygulamasini-hindistana-tasiidi",
+  "published_at": "2026-11-03T04:31:29Z",
+  "publish_mode": "auto"
+}

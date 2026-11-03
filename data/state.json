@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-03T04:15:46Z",
+  "last_collect": "2026-11-03T04:31:20Z",
   "last_summary_date": "2026-11-02",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:30:59Z",
       "count": 1348
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 761,
+      "fails": 762,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-03T04:01:08Z",
+      "last_ok": "2026-11-03T04:31:00Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-11-03T02:16:04Z",
       "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "last_error": "ConnectTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150 (Caused by ConnectTimeoutError(<HTTPSCon"
     }
   },
   "day_counts": {
@@ -194,51 +194,22 @@
       "auto": 2
     },
     "2026-11-03": {
-      "tok_in": 21758,
-      "tok_out": 4997,
+      "tok_in": 24624,
+      "tok_out": 5987,
       "cost_usd": 0.0,
-      "drafts": 4,
-      "published": 2,
-      "auto": 2
+      "drafts": 5,
+      "published": 3,
+      "auto": 3
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-03T03:31:03Z",
-  "build_sig": "1006e235604846f4",
-  "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i3"
-        ],
-        "topic": "Google brings Dreambeans AI storytelling to India",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "urunler",
-        "reason": "Google'in yapay zeka hikaye araci Dreambeans Hindistan pazarina genisliyor, bolgesel yeni bir urun adimi."
-      },
-      "items": [
-        {
-          "key": "4ed35bdfdb651ac6",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-          "via": null,
-          "via_url": null,
-          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-          "published": "2026-11-03T03:30:00Z",
-          "html_source": false,
-          "tid": "i3"
-        }
-      ],
-      "at": "2026-11-03T04:01:10Z"
-    }
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/google-dreambeans-uygulamasini-hindistana-tasiidi/"
   ],
+  "last_build": "2026-11-03T04:31:37Z",
+  "build_sig": "1006e235604846f4",
+  "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
 }
