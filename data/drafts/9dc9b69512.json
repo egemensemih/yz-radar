@@ -1,0 +1,69 @@
+{
+  "id": "9dc9b69512",
+  "status": "pending",
+  "created_at": "2026-11-03T18:32:12Z",
+  "title": "ChatGPT arama hacmi Google'ın yüzde 20'sine ulaştı",
+  "summary": "OpenAI, ChatGPT üzerinden yapılan web aramalarının toplam hacminin Google'ın arama hacminin yüzde 20'sine ulaştığını duyurdu. Şirket, yapay zeka destekli arama ve reklam modellerini geliştirmeye devam ediyor.",
+  "body": "OpenAI tarafından yapılan açıklamaya göre **ChatGPT arama hacmi**, Google'ın ulaştığı toplam arama sorgusu hacminin yüzde 20'sine denk gelen bir seviyeye ulaştı. Şirketin tüketici ürünlerinden sorumlu yöneticisi Adam Fry, 2 Kasım'da düzenlenen basın etkinliğinde bu gelişmeyi paylaştı. OpenAI, bir kullanıcının kelime tanımı veya basit yönlendirmeler yerine ağ aramasıyla sonuçlanan girdilerini arama sorgusu olarak tanımlıyor.\n\n## Arama pazarındaki rekabet ve ChatGPT arama hacmi\nThe Verge'ün haberine göre Fry, Google'ın arama hacmine ilişkin verinin kaynağını belirtmedi. Yine de yüzde 20'lik oran, pazardaki rekabet açısından önemli bir aşamaya işaret ediyor. Karşılaştırma yapmak gerekirse Microsoft CEO'su Satya Nadella, Google'ın 2023 yılındaki antitröst davasında Bing'in on yıldan uzun süren çabalara rağmen pazarda yaklaşık yüzde 3 paya sahip olduğunu söylemişti. Google da aynı davada yapay zekayı pazar dengelerini bozabilecek bir unsur olarak nitelendirmişti.\n\nOpenAI arama altyapısında kendi indeksinin yanı sıra **Microsoft Bing** sisteminden yararlanıyor. Arama pazarında dönüşüm sürerken Google geleneksel site yönlendirmelerini azaltıp AI Overview gibi araçlara yatırım yapıyor. OpenAI ise sohbet yanıtları içinde görsel ve etkileşimli alanlar oluşturan \"Akıllı Arayüz\" yaklaşımına odaklanıyor. Fry bu süreci, kullanıcıların dinamik bir tuvalle iletişim kurması olarak tanımlıyor.\n\n## Reklam modelleri ve halka arz planları\nGelecek yılın başlarında gerçekleşmesi muhtemel bir halka arz sürecine hazırlanan OpenAI, gelir artırma yöntemi olarak reklamları görüyor. Şirket geçen ay ChatGPT içerisinde yalnızca sponsorlu bağlantı veya logo değil, sponsorlu ürün ve hizmetlerin görsellerini de göstermeye başladı. Fry, reklamların kullanıcı deneyimini ya da kullanım oranlarını olumsuz etkilemediğini, kullanıcıların büyük bölümünün ürün içindeki reklamlardan rahatsız olmadığını ifade etti.\n\n**Neden önemli?** Sohbet robotlarının geleneksel arama motorlarının trafiğinden pay alması, dijital bilgiye erişim alışkanlıklarını ve internet reklamcılığının geleceğini doğrudan etkiliyor.",
+  "category": "urunler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Google",
+    "Microsoft Bing",
+    "arama motoru"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ChatGPT arama hacminde Google'ın %20'sine ulaştı",
+  "kicker": "Arama motoru",
+  "hero_stat": "%20",
+  "hero_stat_label": "Google'a oranla arama hacmi",
+  "visual_style": "studio",
+  "visual_scene": "A sleek frosted glass balance scale sitting on a dark matte surface. On one tray rests a heavy solid brass sphere, on the other tray rest five identical smaller brass spheres of equal total weight, bathed in clean spotlighting.",
+  "focus_keyword": "ChatGPT arama hacmi",
+  "seo_title": "ChatGPT arama hacmi Google'ın yüzde 20'sine ulaştı",
+  "meta_description": "OpenAI, ChatGPT arama hacmi oranının Google seviyesinin yüzde 20'sine ulaştığını açıkladı. Şirketin yeni arama ve reklam stratejisi netleşiyor.",
+  "seo_slug": "chatgpt-arama-hacmi-googlein-yuzde-20sine-ulasti",
+  "image_alt": "Buzlu cam terazi ve pirinç küreler: ChatGPT arama hacmi ile Google oranını simgeleyen görsel.",
+  "cover_text": "ChatGPT Search",
+  "importance": 7,
+  "triage_reason": "OpenAI, ChatGPT arama hacminin Google'ın yüzde 20'sine ulaştığını açıkladı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T18:30:42Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "published": "2026-11-03T18:30:42Z",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
+      "text": "In many circles, “Ask Chat” has replaced “Google it,” and that’s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nOpenAI says ChatGPT is catching up to Google in search\nOpenAI says ChatGPT processes one-fifth the volume of search queries as Google.\nAdam Fry, OpenAI’s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\nHaving one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google’s 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it — now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nThe news comes amid an ongoing search engine shake-up, as Google continues to reduce conventional referrals to third-party sites and invests heavily in AI tools — not just AI Overview but also additional generative AI capabilities, including personalized search results with visualizations and charts. But as search queries increasingly route through OpenAI and other AI labs’ services, other companies are investing in the same types of AI-focused search experience, even if they call it something else: for OpenAI, it’s “Intelligent UI,” or creating a visual and interactive interface within a chatbot response. “That’s where the future of this technology goes. You’re talking to a canvas,” Fry said.\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year. OpenAI has defended its ads in the past, and Fry told reporters they hadn’t produced a lasting backlash. “Ads have not negatively impacted the product or the usage of the product,” he said, adding that “most people do not seem to mind ads in the product.”\nOpenAI announced last month that the company would begin introducing images of sponsored products and services in ChatGPT rather than just a company’s name, logo, and a link to its product like before.\n“Ads have maybe shown us that we could be doing this more, actually,” Fry said."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 364
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
