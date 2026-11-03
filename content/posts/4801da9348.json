@@ -1,0 +1,57 @@
+{
+  "id": "4801da9348",
+  "created_at": "2026-11-03T17:01:34Z",
+  "title": "Google yapay zeka özelliklerini reddeden okullarda arama motorunu tamamen kapatacak",
+  "summary": "Google, yapay zeka özelliklerini kabul etmeyen okullarda Google Search erişiminin tamamen kapatılacağını duyurdu.",
+  "body": "Google yapay zeka özelliklerini reddeden okullarda arama motorunu tamamen kapatacağını açıkladı. The New York Times'ın aktardığına göre şirket, eğitim alanındaki güncellemeleri kapsamında yöneticiler açıkça etkinleştirmediği sürece K-12 öğrenci hesapları için arama ve yapay zeka araçlarının devre dışı kalacağını belirtti.\n\n## Gemini ve arama entegrasyonu\n\nGoogle'ın eğitimden sorumlu başkan yardımcısı Chris Phillips, arama ve yapay zeka sistemlerinin derin bir şekilde entegre olduğunu vurgulayarak yöneticilere sadece yapay zeka özelliklerini kapatma seçeneğinin sunulmayacağını ifade etti. Phillips, yapay zeka özelliklerini devre dışı bırakan okulların arama motoruna erişemeyeceğini ve öğrencilerin aramanın kullanılamadığını belirten bir bildirim göreceğini kaydetti. Bu karar, şirketin yapay zeka asistanını 150 milyonun üzerinde öğretmen ve öğrenci tarafından kullanılan Google Classroom uygulamasında varsayılan olarak etkinleştirmesinden aylar sonra geldi.\n\n## Yeni eğitim araçları ve testler\n\nŞirket ayrıca öğrencilerin problem çözmek yerine kestirme yollar bulmasını önlemeye yönelik adımlar atıyor. Bu doğrultuda, öğrencilere rehberlik etmeyi amaçlayan Guided Learning özelliğini arama sonuçlarındaki AI Overviews alanına entegre eden şirket, bu yeni aracı ABD'deki seçili okullarda test etmeye başlayacak.\n\n**Neden önemli?** Okullarda yapay zeka kullanımının öğrencilerin öğrenme yetenekleri üzerindeki etkileri ve düşen test puanları eleştirilirken, milletvekilleri de geçtiğimiz ay Google'ı olası zararlar konusunda sorgulamıştı.",
+  "category": "sirketler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Google Classroom"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google yapay zekayı reddeden okullarda arama motorunu kapatacak",
+  "kicker": "Eğitim teknolojileri",
+  "hero_stat": "150 milyon",
+  "hero_stat_label": "küresel kullanıcı",
+  "visual_style": "studio",
+  "visual_scene": "a matte dark slate tablet resting on a clean wooden desk, a single shaft of cool morning light falling across the blank screen, beside it a small minimalist ceramic block",
+  "focus_keyword": "Google yapay zeka özelliklerini reddeden",
+  "seo_title": "Google yapay zekayı reddeden okullarda aramayı kapatacak",
+  "meta_description": "Google, yapay zeka özelliklerini reddeden K-12 okullarında Google Search erişiminin tamamen kapatılacağını ve Gemini entegrasyonunu duyurdu.",
+  "seo_slug": "google-yapay-zeka-ozelliklerini-reddeden-okullarda-aramayi",
+  "image_alt": "Ahşap masa üzerinde minimalist bir tablet ve yandaki seramik blok ile Google eğitim güncellemelerini temsil eden stüdyo…",
+  "cover_text": "Google Search",
+  "importance": 7,
+  "triage_reason": "Google'ın yapay zeka özelliklerini reddeden okullarda aramayı kapatması eğitim politikaları açısından önemli bir adım.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T17:00:04Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 358
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-yapay-zeka-ozelliklerini-reddeden-okullarda-aramayi",
+  "published_at": "2026-11-03T17:01:46Z",
+  "publish_mode": "auto"
+}
