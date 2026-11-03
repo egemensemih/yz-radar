@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-03T02:01:12Z",
+  "last_collect": "2026-11-03T02:16:04Z",
   "last_summary_date": "2026-11-02",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 1346
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 759,
+      "fails": 760,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:07Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:01:08Z",
+      "last_ok": "2026-11-03T02:15:47Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 5,
-      "last_ok": "2026-11-03T00:45:51Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-03T02:16:04Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -194,10 +193,10 @@
       "auto": 2
     },
     "2026-11-03": {
-      "tok_in": 13342,
-      "tok_out": 2513,
+      "tok_in": 17248,
+      "tok_out": 3797,
       "cost_usd": 0.0,
-      "drafts": 2,
+      "drafts": 3,
       "published": 2,
       "auto": 2
     }
@@ -208,6 +207,37 @@
   "indexnow_queue": [],
   "last_build": "2026-11-03T01:20:55Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "Call to block Anthropic IPO",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "SEC'in Anthropic halka arzını engellemesi gerektiğine dair politika çağrısı."
+      },
+      "items": [
+        {
+          "key": "150a24daa34de3c3",
+          "source": "Hacker News",
+          "kind": "community",
+          "credit": "techpolicy.press",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+          "via": "Hacker News",
+          "via_url": "https://news.ycombinator.com/item?id=50344919",
+          "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+          "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 203 # Comments: 129",
+          "published": "2026-11-02T22:30:47Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-11-03T02:16:06Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
