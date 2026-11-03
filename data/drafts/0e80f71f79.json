@@ -1,0 +1,69 @@
+{
+  "id": "0e80f71f79",
+  "status": "pending",
+  "created_at": "2026-11-03T19:31:35Z",
+  "title": "OpenAI Codex veri paylaşımı ayarının yeniden etkinleştirildiği bildirildi",
+  "summary": "Kullanıcı bildirimlerine göre OpenAI, Codex platformunda model eğitimi için veri paylaşımı ayarını habersizce yeniden etkinleştirdi.",
+  "body": "OpenAI Codex veri paylaşımı ayarının kullanıcıların bilgisi dışında tekrar açıldığı yönündeki iddialar teknoloji topluluğunda gündeme geldi. Hacker News platformunda paylaşılan bilgilere göre, şirket içi veri güvenliği konusunda hassas olan bazı çalışanlar, daha önce kapattıkları veri paylaşımı tercihinin kendiliğinden aktif hale geldiğini fark etti.\n\n## Veri kontrolü ve ayarlar\n\nKullanıcılar, söz konusu durumun ardından hesap ayarlarındaki veri kontrollerini incelemeye başladı. Ayarlar menüsünde yer alan ve modelin herkes için geliştirilmesini amaçlayan seçeneğin bazı hesaplarda yeniden açık duruma geldiği gözlendi.\n\nYetkililer veya şirket cephesinden henüz resmi bir açıklama yapılmazken, benzer durumun daha önceden de rapor edilmiş olduğu belirtiliyor. Şirket politikaları ve gizlilik ayarları konusunda endişe duyan kullanıcıların ilgili kontrol panelini incelemesi öneriliyor.\n\n**Neden önemli?** Veri gizliliği ve fikri mülkiyet güvenliği sağlayan ayarların kullanıcı onayı olmadan değişmesi, kurumsal düzeyde çalışan ekipler için gizlilik riskleri doğurabiliyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "veri gizliligi"
+  ],
+  "confidence": "dusuk",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber topluluk bildirimlerine dayanmaktadır ve resmi bir doğrulama içermemektedir.",
+  "short_title": "Codex veri paylaşımı ayarı yeniden açıldı",
+  "kicker": "Gizlilik ayarları",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a closed matte-black laptop resting on a minimalist concrete desk, next to it a small glowing amber glass sphere casting a soft shadow, clean composition with soft studio lighting",
+  "focus_keyword": "OpenAI Codex veri paylaşımı",
+  "seo_title": "OpenAI Codex veri paylaşımı ayarı yeniden açıldı iddiası",
+  "meta_description": "Kullanıcı bildirimlerine göre OpenAI Codex platformunda veri paylaşımı ve model eğitimi ayarının izinsiz olarak yeniden etkinleştirildiği öne sürüldü.",
+  "seo_slug": "openai-codex-veri-paylasimi-ayari-yeniden-acildi",
+  "image_alt": "OpenAI Codex veri paylaşımı ayarlarındaki değişikliği temsil eden minimal stüdyo ortamında siyah dizüstü bilgisayar ve cam…",
+  "cover_text": "Codex",
+  "importance": 7,
+  "triage_reason": "OpenAI'ın Codex sohbetlerinde model eğitimini sessizce yeniden etkinleştirmesi veri gizliliği tartışması yarattı.",
+  "sources": [
+    {
+      "name": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50352757",
+      "published": "2026-11-03T14:53:41Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "news.ycombinator.com",
+      "kind": "community",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "published": "2026-11-03T14:53:41Z",
+      "summary": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in. You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\". Curious if this is an isolated issue or something more widespread. EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556 EDIT: apparently you…",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 368
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
