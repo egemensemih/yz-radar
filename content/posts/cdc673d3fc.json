@@ -1,0 +1,57 @@
+{
+  "id": "cdc673d3fc",
+  "created_at": "2026-11-03T22:56:09Z",
+  "title": "Anthropic yapay zeka kimliğini doğrulayan FlashProve sistemini duyurdu",
+  "summary": "Anthropic, yapay zeka modellerinin çıktılarının hangi modelden geldiğini kriptografik olarak kanıtlayan açık kaynaklı FlashProve sistemi üzerinde çalışıyor.",
+  "body": "TechCrunch'ın aktardığına göre, Anthropic şirketi bir yapay zeka modelinin belirli bir çıktıyı ürettiğini doğrulamak için **FlashProve** adında açık kaynaklı bir sistem geliştirdiğini açıkladı. 3 Kasım'da yayımlanan bir blog yazısına duyurulan bu sistem, araştırmacıların provable inference olarak adlandırdığı, bir yanıtın gerçekten belirli bir modelden geldiğine dair matematiksel bir garanti sunmayı amaçlıyor. \n\n## FlashProve nasıl çalışıyor?\n\nKriptografik e-posta imzalarına benzer şekilde çalışan sistem, taklitçilerin bir modeli diğeri gibi göstermesini engellemek üzere tasarlandı. Araştırmacılar, bu sayede yapay zeka laboratuvarlarının maliyetleri düşürmek için gizli bir şekilde daha ucuz bir model kullanmasını veya performans sonuçlarını şişirmek için daha pahalı bir modelik ikame etmesinin önüne geçilebileceğini belirtiyor. Sistem, laboratuvarların ticari modellerin iç yapısını gizli tutan **ağırlıklar** verisini sızdırmadan, çıktılarla eşleştirilebilecek bir model parmak izi yayımlamasını gerektiriyor.\n\n## Açık kaynak kod ve gelecek planları\n\nAraştırmacılar sistemin teknik şartnamesini ve çalışan kodlarını **GitHub** üzerinde açık kaynak lisansıyla paylaştı. Yerel bir cihazda doğrulama yapılabilecek kadar hafif tasarlanan sistem üzerinde çalışmalar devam ediyor ve şu an için Anthropic veya başka bir laboratuvarda dağıtılması planlanmıyor.\n\n**Neden önemli?** Anthropic'in paylaştığı bilgilere göre FlashProve, üçüncü tarafların gelişmiş bir model kullandıklarına dair iddialarını doğrulamalarını sağlayarak yapay zeka ekosisteminde güvenilirliğin artırılmasına katkı sunmayı hedefliyor.",
+  "category": "arastirma",
+  "tags": [
+    "Anthropic",
+    "FlashProve",
+    "GitHub"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten yapay zeka kimlik doğrulama sistemi",
+  "kicker": "Araştırma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single block of translucent frosted glass with a precise mathematical watermark etched into its center, soft studio lighting casting subtle shadows on a dark matte surface",
+  "focus_keyword": "FlashProve sistemi",
+  "seo_title": "Anthropic yapay zeka kimliği için FlashProve sistemini duyurdu",
+  "meta_description": "Anthropic, yapay zeka modellerinin ürettiği çıktıların kimliğini kriptografik olarak doğrulayan açık kaynaklı FlashProve sistemini duyurdu.",
+  "seo_slug": "anthropic-yapay-zeka-kimligi-icin-flashprove-sistemini-duyurdu",
+  "image_alt": "Buzlu cam blok üzerinde matematiksel parmak izi desenini temsil eden stüdyo görseli",
+  "cover_text": "FlashProve",
+  "importance": 6,
+  "triage_reason": "Anthropic'in yapay zeka model kimliğini kanıtlamaya yönelik geliştirdiği yeni sistem.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T22:41:03Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 378
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-yapay-zeka-kimligi-icin-flashprove-sistemini-duyurdu",
+  "published_at": "2026-11-03T22:56:12Z",
+  "publish_mode": "auto"
+}
