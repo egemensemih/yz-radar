@@ -1,0 +1,58 @@
+{
+  "id": "8a8b8b81d0",
+  "created_at": "2026-11-03T21:11:21Z",
+  "title": "Palantir üçüncü çeyrekte 2,31 milyar dolar gelir açıkladı",
+  "summary": "Palantir, üçüncü çeyrekte gelirini yıllık bazda yüzde 96 artırarak 2,31 milyar dolara taşıdı ve beklentileri aştı.",
+  "body": "Palantir üçüncü çeyrekte gelirini yıllık bazda yüzde 96 artırarak 2,31 milyar dolara taşıdı ve beklentileri aştı. TechCrunch'ın aktardığına göre, şirket ilk kez 2 milyar dolar sınırını geride bırakırken, analistlerin 2,18 milyar dolarlık beklentisinin de üzerine çıktı. Ayrıca hisse başına düzeltilmiş kazanç 0,44 dolar olarak gerçekleşti.\n\n## Ticari gelirler hükümet gelirlerini geçti\n\nŞirketin açıkladığı verilere göre, ABD ticari gelirleri tarihte ilk kez ABD hükümet gelirlerini geride bıraktı. Söz konusu dönemde 984 milyon dolarlık ticari sözleşme ve 953 milyon dolarlık ABD hükümet geliri raporlandı. Şirket yöneticilerine göre işletmelerin bu ilgi göstermesinin temel sebebi, dışarıdaki yapay zeka laboratuvarlarıyla veri ve iş süreçlerini paylaşmadan en gelişmiş modelleri çalıştırmaya imkan tanıyan yazılımlar.\n\n## Kısa vadeli denemeler ve azalan sözleşme değeri\n\nŞirket güçlü büyüme rakamları sunmasına rağmen, kurumsal satışlarda bazı yavaşlama sinyalleri de dikkat çekti. İşletmelerin daha hızlı hareket ettiğini ancak genellikle kısa vadeli denemeler imzaladığını belirten CEO Alex Karp, analistlerle gerçekleştirdiği konferans görüşmesinde bu dinamiklere değindi. ABD'li işletmelerden elde edilen toplam sözleşme değeri önceki çeyrekteki 2,13 milyar dolardan bu çeyrekte 1,46 milyar dolara geriledi.\n\n**Neden önemli?** Palantir, ABD ticari gelirleri için tam yıl öngörüsünü en az yüzde 143 büyüme oranıyla 3,559 milyar doların üzerine çıkardığını duyurdu.",
+  "category": "sirketler",
+  "tags": [
+    "Palantir",
+    "Alex Karp",
+    "yapay zeka",
+    "ABD"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Palantir üçüncü çeyrekte gelirini 2,31 milyar dolara çıkardı",
+  "kicker": "Finansal sonuçlar",
+  "hero_stat": "2,31 milyar $",
+  "hero_stat_label": "üçüncü çeyrek geliri",
+  "visual_style": "studio",
+  "visual_scene": "a single polished bronze geometric monolith standing on a dark matte surface, reflecting soft natural light from a high side window",
+  "focus_keyword": "Palantir üçüncü çeyrek",
+  "seo_title": "Palantir üçüncü çeyrekte 2,31 milyar dolar gelir açıkladı",
+  "meta_description": "Palantir üçüncü çeyrekte gelirini 2,31 milyar dolara çıkararak beklentileri aştı ve ticari gelirleri ilk kez hükümet gelirlerini geçti.",
+  "seo_slug": "palantir-ucuncu-ceyrekte-gelirini-artirdi",
+  "image_alt": "Palantir üçüncü çeyrek finansal sonuçlarını temsil eden bronz geometrik nesne",
+  "cover_text": "Palantir",
+  "importance": 6,
+  "triage_reason": "Palantir'in yapay zeka odaklı üçüncü çeyrek finansal sonuçları ve piyasa tepkileri.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T21:05:55Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 375
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "palantir-ucuncu-ceyrekte-gelirini-artirdi",
+  "published_at": "2026-11-03T21:11:24Z",
+  "publish_mode": "auto"
+}
