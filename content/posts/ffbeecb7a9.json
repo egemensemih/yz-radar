@@ -1,0 +1,57 @@
+{
+  "id": "ffbeecb7a9",
+  "created_at": "2026-11-03T18:47:02Z",
+  "title": "Netflix ruh haline göre içerik öneren netflix ai discover sekmesini kullanıma sundu",
+  "summary": "Netflix, kullanıcıların anlık ruh haline ve sahip oldukları zamana uygun dizi ile film önerileri almasını sağlayan yapay zeka destekli AI Discover sekmesini ABD'de test etmeye başladı.",
+  "body": "Netflix, 3 Kasım 2026'da televizyon uygulamasında izleyicilerin anlık ruh haline ve zamanına göre içerik keşfetmesini sağlayan netflix ai discover sekmesini duyurdu. ABD'deki İngilizce dil seçeneğini kullanan abonelere sunulmaya başlanan yeni sekme, platformun yapay zeka destekli öneri sistemlerini geliştirmeyi amaçlıyor.\n\n## netflix ai discover nasıl çalışıyor?\n\nTechCrunch'ın aktardığına göre kullanıcılar yeni sekme üzerinden ruh hallerine, izleme alışkanlıklarına veya sahip oldukları zaman dilimine göre hazırlanmış temalar arasından seçim yapabiliyor. Sunulan temalar arasında \"hafif içerikler\", \"korkut beni\", \"ailece film gecesi\" ve \"hızlı izlemeler\" gibi seçenekler yer alıyor.\n\nNetflix'in açıklamasına göre bu sekme, kullanıcıların anlık bildirimlerine yanıt veren ve sürekli öğrenen yeni bir yapay zeka altyapısıyla destekleniyor. Kullanıcılar bir tema seçtikten sonra eşleşen önerileri inceliyor, aramayı daraltmak için daha spesifik temalara geçebiliyor veya \"farklı bir şey\" seçeneğiyle aramayı sıfırlayabiliyor. Ayrıca \"Oynat\" ve \"Listem\" butonlarının yanında bulunan \"Önerilerini Ayarla\" düğmesi sayesinde beğenilen öneriler kaydedilebiliyor veya istenmeyen yapımlar listeden çıkarılabiliyor.\n\n## Deneysel bir test alanı\n\nNetflix, yeni özelliği farklı keşif yöntemlerinin denendiği bir \"test mutfağı\" olarak tanımlıyor. Şirket, bu sekmeden elde edilen kullanıcı geri bildirimlerinin, hangi özelliklerin ana Netflix deneyimine aktarılacağını belirleyeceğini ifade ediyor.\n\nÖzellik, ilk etapta ABD'de desteklenen televizyon cihazlarında İngilizce dil ayarını kullanan abonelerin erişimine açıldı. Şirket, ilerleyen haftalarda özelliği daha fazla kullanıcıya sunmayı planlıyor. Erişimi olan kullanıcılar, televizyon arayüzünün üst navigasyon çubuğunda kırmızı bir mücevher simgesi ve \"Yeni\" etiketi taşıyan bir buton görecek.\n\n**Neden önemli?** Netflix, genişleyen içerik kütüphanesinde kullanıcıların listede uzun süre gezinmek zorunda kalması yerine anlık ihtiyaçlarına odaklanan bir keşif modeli geliştirmeyi hedefliyor. Bu deneysel alan üzerinden toplanan verilerin, platformun gelecekteki kişiselleştirme algoritmalarını ve ana arayüz tasarımını doğrudan etkilemesi bekleniyor.",
+  "category": "urunler",
+  "tags": [
+    "Netflix",
+    "AI Discover",
+    "akış servisleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Netflix'ten ruh haline göre içerik öneren sekme",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a sleek translucent glass remote control resting on a dark obsidian slab, emitting a faint crimson glow from a tiny gem-like light embedded at the top, soft atmospheric shadows",
+  "focus_keyword": "netflix ai discover",
+  "seo_title": "netflix ai discover sekmesi kullanıma sunuldu",
+  "meta_description": "Netflix ruh haline ve zamana göre dizi ile film öneren netflix ai discover sekmesini duyurdu. Yeni yapay zeka özelliğinin detayları haberimizde.",
+  "seo_slug": "netflix-ai-discover-sekmesini-duyurdu",
+  "image_alt": "Karanlık zemin üzerinde kırmızı ışık yayan şeffaf kumanda ve Netflix AI Discover sekmesini temsil eden görsel",
+  "cover_text": "AI Discover",
+  "importance": 6,
+  "triage_reason": "Netflix'in yapay zeka destekli yeni keşfet sekmesi eğlence sektöründe küçük bir yenilik.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T18:42:16Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 365
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "netflix-ai-discover-sekmesini-duyurdu",
+  "published_at": "2026-11-03T18:47:13Z",
+  "publish_mode": "auto"
+}
