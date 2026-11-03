@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-03T03:45:55Z",
+  "last_collect": "2026-11-03T04:01:09Z",
   "last_summary_date": "2026-11-02",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
-      "count": 1346
+      "last_ok": "2026-11-03T04:01:08Z",
+      "count": 1348
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 894
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 760,
+      "fails": 761,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-03T02:15:47Z",
+      "last_ok": "2026-11-03T04:01:08Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-03T02:16:04Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -193,10 +194,10 @@
       "auto": 2
     },
     "2026-11-03": {
-      "tok_in": 17248,
-      "tok_out": 3797,
+      "tok_in": 21758,
+      "tok_out": 4997,
       "cost_usd": 0.0,
-      "drafts": 3,
+      "drafts": 4,
       "published": 2,
       "auto": 2
     }
@@ -211,32 +212,32 @@
     {
       "story": {
         "item_ids": [
-          "i2"
+          "i3"
         ],
-        "topic": "Call to block Anthropic IPO",
+        "topic": "Google brings Dreambeans AI storytelling to India",
         "ai_related": true,
         "duplicate_of": "",
         "importance": 6,
-        "category": "politika",
-        "reason": "SEC'in Anthropic halka arzını engellemesi gerektiğine dair politika çağrısı."
+        "category": "urunler",
+        "reason": "Google'in yapay zeka hikaye araci Dreambeans Hindistan pazarina genisliyor, bolgesel yeni bir urun adimi."
       },
       "items": [
         {
-          "key": "150a24daa34de3c3",
-          "source": "Hacker News",
-          "kind": "community",
-          "credit": "techpolicy.press",
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-          "via": "Hacker News",
-          "via_url": "https://news.ycombinator.com/item?id=50344919",
-          "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 203 # Comments: 129",
-          "published": "2026-11-02T22:30:47Z",
+          "key": "4ed35bdfdb651ac6",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "via": null,
+          "via_url": null,
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+          "published": "2026-11-03T03:30:00Z",
           "html_source": false,
-          "tid": "i2"
+          "tid": "i3"
         }
       ],
-      "at": "2026-11-03T02:16:06Z"
+      "at": "2026-11-03T04:01:10Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
