@@ -1,0 +1,59 @@
+{
+  "id": "2923ba364e",
+  "created_at": "2026-11-03T15:32:11Z",
+  "title": "Apple yapay zeka stratejisi ile gelir rekoru kırdı",
+  "summary": "Apple'ın son çeyrek kazançları, şirketin devasa altyapı harcamalarından kaçınarak yapay zeka patlamasından nasıl yararlandığını ortaya koydu.",
+  "body": "Apple yapay zeka stratejisi çerçevesinde yürüttüğü çalışmalarla en iyi mali yıl gelir ve hisse başı kazanç rekorunu kırdı. The Verge'ün aktardığına göre, şirketin son çeyrek kazanç toplantısında yapay zeka ve Apple Intelligence kavramlarına 45 kez atıfta bulunuldu.\n\n## Rekor gelir ve düşük altyapı maliyeti\n\nApple, rakiplerine kıyasla yapay zeka altyapısına çok daha düşük bir bütçe ayırıyor. Geçtiğimiz çeyrekte 2,2 milyar dolar sermaye harcaması yapan şirket; Amazon'un 77,3 milyar dolar ve Alphabet'in 51,4 milyar dolar olan harcamalarının çok gerisinde kaldı. Apple CFO'su Kevan Parekh, yapay zekanın zaman içinde gelir büyümesine katkı sağlayacağı geniş bir alan gördüklerini belirtti. iPhone gelirleri %17,5 artarak 57,6 milyar dolara ulaşırken Mac gelirleri de %24 artışla 10,8 milyar dolara yükseldi.\n\n## Donanım ve abonelik gelirleri\n\nŞirket, yapay zeka özelliklerini cihaz içi işleme, kendi sunucuları ve dışarıdan sağlanan yapay zeka teknolojileriyle harmanlıyor. CEO John Ternus, yapay zekanın müşteriler için cihaz yükseltmek adına cazip bir neden sunduğunu ifade etti. Siri AI ve akıllı foto düzenleme gibi sunucu tabanlı modellerin kullanım sınırlarına sahip olacağı, kapasite artırmak isteyen müşterilerin ise ilerleyen dönemde ek erişim satın alabileceği açıklandı. Gap ve Christie's gibi markalar ise yapay bulut maliyetlerinden kaçınmak için Mac Mini ve Mac Studio bilgisayarları yerel yapay zeka işlemlerinde kullanıyor.\n\n**Neden önemli?** Apple, devasa altyapı maliyetlerine katlanmadan cihaz satışı, abonelik komisyonları ve servis ücretleri yoluyla yapay zeka pazarından gelir elde etmeyi sürdürüyor.",
+  "category": "sirketler",
+  "tags": [
+    "Apple",
+    "Apple Intelligence",
+    "Siri",
+    "Mac",
+    "iPhone"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple yapay zeka stratejisiyle gelir rekoru kırdı",
+  "kicker": "Finansal sonuçlar",
+  "hero_stat": "57,6 milyar $",
+  "hero_stat_label": "eylül çeyreği iPhone geliri",
+  "visual_style": "studio",
+  "visual_scene": "a single polished aluminum smartphone resting flat on a dark slate surface, with a thin line of warm ambient light cutting across the brushed metal back and casting soft shadows",
+  "focus_keyword": "Apple yapay zeka stratejisi",
+  "seo_title": "Apple yapay zeka stratejisi ile gelir rekoru kırdı",
+  "meta_description": "Apple yapay zeka stratejisi ile devasa altyapı harcamalarından kaçınarak rekor gelir elde ettiğini açıkladı. Detaylar YZ Radar'da.",
+  "seo_slug": "apple-yapay-zeka-stratejisi-gelir-rekoru",
+  "image_alt": "Metal yüzey üzerinde duran cilalı akıllı telefon ve ortam ışığı",
+  "cover_text": "Apple AI",
+  "importance": 6,
+  "triage_reason": "Apple'ın yapay zeka stratejisi ve finansal sonuçları sektör için önem taşıyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T15:24:51Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 355
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-yapay-zeka-stratejisi-gelir-rekoru",
+  "published_at": "2026-11-03T15:32:15Z",
+  "publish_mode": "auto"
+}
