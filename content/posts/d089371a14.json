@@ -1,0 +1,58 @@
+{
+  "id": "d089371a14",
+  "created_at": "2026-11-03T20:28:15Z",
+  "title": "Apple, Siri AI'yi üçüncü taraf uygulamaların erişimine açıyor",
+  "summary": "Apple'ın duyurusuna göre iOS 27.3 güncellemesiyle birlikte Siri AI, kişisel bağlamı kullanarak üçüncü taraf uygulamalarda eylem gerçekleştirebilecek.",
+  "body": "Apple, Siri AI'yi üçüncü taraf uygulamaların erişimine açarak sesli asistanının yeteneklerini genişletiyor. The Verge'ün aktardığına göre, 27 Kasım'da (kaynaktaki salı gününe atfen) sunulmaya başlanan iOS 27.3 güncellemesinin Geliştirici Önizlemesi kapsamında, geliştiriciler yeni Siri AI özelliklerini tüm uygulamalara entegre edebilecek.\n\n## Yeni uygulama becerileri ve entegrasyonlar\n\nGüncelleme ile birlikte geliştiricilerin birden fazla görevi tek bir eylemde birleştirmesini sağlayan yeni bir \"uygulama becerileri\" özelliği de sisteme ekleniyor. Apple'ın belgelerine göre kullanıcılar, bir uygulama ön plandayken, Canlı Etkinlik (Live Activity) sırasında veya Siri AI ile sohbet ederken isteklerinde uygulamanın adını söylemek zorunda kalmayacak.\n\n## Apple uygulamalarındaki yenilikler\n\nApple, genişletilmiş Siri AI yeteneklerini kendi uygulamalarına da taşıyor. Bu kapsamda desteklenen uygulamalardan bazıları şunlardır:\n\n* Calendar\n* Files\n* Mail\n* Maps\n* Messages\n\n**Neden önemli?** Apple'ın duyurusuna göre kullanıcılar, Siri AI'ye asistanın her uygulamada neleri yapabileceğini sorabilecek ve geçen hafta ziyaret edilen bir kahve dükkanını bulmak gibi kişiselleştirilmiş işlemleri gerçekleştirebilecek.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Siri",
+    "iOS",
+    "sesli asistan"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Siri AI üçüncü taraf uygulamalara açılıyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "iOS 27.3",
+  "hero_stat_label": "yeni güncelleme",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist obsidian glass sphere resting on a brushed titanium pedestal, casting soft natural light across a seamless neutral grey background",
+  "focus_keyword": "Siri AI",
+  "seo_title": "Apple, Siri AI'yi üçüncü taraf uygulamalara açıyor",
+  "meta_description": "Apple'ın duyurusuna göre iOS 27.3 güncellemesiyle Siri AI, kişisel bağlamı kullanarak üçüncü taraf uygulamalarda eylem gerçekleştirebilecek.",
+  "seo_slug": "apple-siri-ai-ucuncu-taraf-uygulamalara-aciliyor",
+  "image_alt": "Siri AI güncellemelerini temsil eden mat siyah cam küp ve titanyum kaide",
+  "cover_text": "Siri AI",
+  "importance": 7,
+  "triage_reason": "Apple'ın Siri yapay zekasını üçüncü taraf uygulamalara açması önemli bir ürün güncellemesidir.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T20:16:17Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 372
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-siri-ai-ucuncu-taraf-uygulamalara-aciliyor",
+  "published_at": "2026-11-03T20:28:28Z",
+  "publish_mode": "auto"
+}

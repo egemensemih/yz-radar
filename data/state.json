@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-03T20:14:25Z",
+  "last_collect": "2026-11-03T20:28:10Z",
   "last_summary_date": "2026-11-03",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:24Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 1352
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:24Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:24Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:24Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 896
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:08Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 823,
+      "fails": 824,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:09Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-03T20:14:25Z",
+      "last_ok": "2026-11-03T20:28:09Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-11-03T19:59:53Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-03T20:28:10Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -194,19 +193,21 @@
       "auto": 2
     },
     "2026-11-03": {
-      "tok_in": 104558,
-      "tok_out": 22444,
+      "tok_in": 108439,
+      "tok_out": 23285,
       "cost_usd": 0.0,
-      "drafts": 19,
-      "published": 8,
-      "auto": 8
+      "drafts": 20,
+      "published": 9,
+      "auto": 9
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-03T19:58:34Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/apple-siri-ai-ucuncu-taraf-uygulamalara-aciliyor/"
+  ],
+  "last_build": "2026-11-03T20:32:35Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
