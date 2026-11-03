@@ -1,0 +1,69 @@
+{
+  "id": "9ce6c81dae",
+  "status": "pending",
+  "created_at": "2026-11-03T17:18:13Z",
+  "title": "Google Antigravity kimya araclari duyuruldu",
+  "summary": "Google DeepMind, bilim insanlarının veri düzenleme yerine hipotezlere odaklanmasını sağlayan Google Antigravity için yeni kimya yeteneklerini duyurdu.",
+  "body": "Google DeepMind tarafından yapılan duyuruya göre, bilim insanlarının veri düzenleme iş yükünü azaltmak amacıyla Google Antigravity platformu için yeni Cheminformatics Skills (Kimya Enformatiği Yetenekleri) geliştirildi. Kimya alanı, milyonlarca yapı ve farklı veri formatı barındırmasına rağmen araştırmacıların verileri bir araya getirmekte zorlandığı karmaşık bir yapı sunuyor. Google DeepMind ekibi, bu süreci optimize etmek ve araştırmacıların doğrudan bilimsel hipotezlere odaklanmasını sağlamak için yeni sistemi hayata geçirdi.\n\n## Google Antigravity kimya yetenekleri nasıl çalışıyor?\n\nGeliştirilen bu yeni yetenekler, hesaplamalı kimyacılar ile deney masasındaki kimyacılara tam erişim sunan işbirlikçi bir bilimsel çalışma masası oluşturuyor. Sistem, dil modelinin iş akışı yönetimi, veritabanı gezintisi ve bilimsel muhakeme gibi görevleri üstlendiği bir iş bölümü kurarken, deterministik kimya araçları ise moleküler hesaplamaları gerçekleştiriyor. Altyapı, küresel bir topluluk tarafından geliştirilen RDKit açık kaynak araç takımı ile ChEMBL ve PubChem kaynaklarına yönelik bağlantıları temel alıyor.\n\n## Moleküler sertleştirme ve ilaç geliştirme\n\nTeknik incelemede, ilaç gücünü artırmaya yönelik klasik bir tıbbi kimya tekniği olan sertleştirme (rigidification) süreci ele alınıyor. Esnek moleküller çözeltide birçok farklı üç boyutlu şekle bürünebiliyor ancak hedef proteine bağlanmak için tek bir aktif şekle kilitlenmeleri gerekiyor. Crizotinib adlı kanser ilacında beş temel dönebilir bağ bulunurken, üçüncü nesil bir ilaç olan lorlatinib, dönebilir bağ sayısını sıfıra indirmek için döngüselleştirilmiş ve bu sayede daha yüksek etki gücüne ulaşmıştır.\n\n**Neden önemli?** Google Antigravity için sunulan bu kimya yetenekleri, atom veya bağ hatalarının büyük sonuçlar doğurabileceği alanlarda deterministik araçlar ile dil modellerini birleştirerek hata payını azaltmayı hedefliyor.",
+  "category": "arastirma",
+  "tags": [
+    "Google DeepMind",
+    "Google Antigravity",
+    "RDKit",
+    "ChEMBL",
+    "PubChem"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Antigravity kimya araçları duyuruldu",
+  "kicker": "Araştırma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single minimalist glass molecular model resting on a dark slate surface, with soft light catching the delicate geometric bonds and nodes",
+  "focus_keyword": "Google Antigravity",
+  "seo_title": "Google Antigravity kimya araçları duyuruldu",
+  "meta_description": "Google DeepMind, araştırmacıların veri düzenleme yükünü azaltmak amacıyla Google Antigravity için yeni kimya enformatiği yeteneklerini tanıttı.",
+  "seo_slug": "google-antigravity-kimya-araclari-duyuruldu",
+  "image_alt": "Koyu zemin üzerinde zarif geometrik bağlara ve düğümlere sahip minimal cam molekül modeli",
+  "cover_text": "Google Antigravity",
+  "importance": 7,
+  "triage_reason": "Google DeepMind'ın ilaç keşif süreçlerini hızlandıran yeni yapay zeka aracı duyuruldu.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T17:01:49Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google DeepMind",
+      "kind": "official",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published": "2026-11-03T17:01:49Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "text": "Chemistry is one of science’s richest public records — spanning millions of structures across journal articles and vendor catalogs. It provides a common representation that links physics and mathematics to the life and environmental sciences. Molecules and their transformations are ubiquitous and shape the everyday world.\nDespite decades of progress in cheminformatics, chemists still spend too much time wrangling data, a process complicated by the fact that molecules can be represented in many ways: from text descriptions to images or data structures. The same molecule can appear as an IUPAC name in a paper, a Markush structure in a patent, or a structure-data file (SDF) in a catalog. Advanced cheminformatics systems must be able to unify these sources and deal with the many ways errors can arise in them. This task has no margin for error – alter a single atom or bond and you have described a different compound altogether, rendering a promising inhibitor or catalyst inert.\nTo let scientists focus on hypotheses rather than data wrangling, we built a suite of Cheminformatics Skills for Google Antigravity, turning the surface into a collaborative science workbench with full access to local tooling for both computational chemists and experimental bench chemists.\nThe skills also create a division of labour where the underlying language model handles workflow orchestration, database navigation and scientific reasoning, while deterministic chemistry tools execute molecular calculations. Grounded in RDKit, the foundational open source cheminformatics toolkit developed over two decades by a global community of contributors, alongside connectors to curated resources from ChEMBL and PubChem, the skills encode domain best practices directly into the agent’s workflow.\nRigidifying a floppy molecule\nIn this technical walkthrough, we highlight a classic medicinal chemistry technique to improve drug potency: rigidification.\nDrug molecules can be complex, often linking multiple substructures through rotatable bonds. Those bonds let the molecule twist into many 3D shapes (conformations), making it “floppy” in solution. To bind its target, however, a floppy molecule must lock into a single active shape. Losing that freedom of motion carries an entropic penalty, which weakens binding affinity and lowers potency.\nTo solve this problem, medicinal chemists often rigidify molecules by adding new bonds. Two substructures linked by a single rotatable bond can twist into many conformations, but adding a second bond to tie them together sharply limits how they can move in three dimensional space. By placing that bond in the right spot, chemists can lock the molecule into the exact shape needed to bind its target. This strategy, often called “paying the entropic cost in advance”, can dramatically boost potency.\nHere, we will focus on a well-known case of successful rigidification. The drug crizotinib is a first-generation, small-molecule tyrosine kinase inhibitor (TKI) used to treat certain forms of non-small cell lung carcinoma. In crizotinib, there are five major rotatable bonds. Lorlatinib is a third-generation, small-molecule TKI that resembles crizotinib, but has been cyclized at its end to reduce the effective number of rotatable bonds to zero, leading to higher potency among other effects."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 361
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google DeepMind"
+}
