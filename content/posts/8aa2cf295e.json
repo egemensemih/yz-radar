@@ -1,0 +1,59 @@
+{
+  "id": "8aa2cf295e",
+  "created_at": "2026-11-03T07:31:37Z",
+  "title": "Apple Watch için yapay zeka destekli Audio Intelligence beta testinde",
+  "summary": "TechCrunch'ın aktardığına göre, Apple Watch'un konuşmaları kaydetme ve özetleme yetenekleri içeren Audio Intelligence özellikleri beta testine girdi.",
+  "body": "TechCrunch'ın aktardığına göre, Apple Watch için geliştirilen yapay zeka destekli **Audio Intelligence** özellikleri, eylül ayındaki tanıtımın ardından geliştiriciler için beta testine sunuldu. Apple Watch Series 12 kullanıcılarına yönelik hazırlanan ve isteğe bağlı olarak açılabilen dört yeni araç; ses tanıma, şarkı bulma, konuşmaları yakalama ve not alma işlevlerini içeriyor.\n\n## Canlı geri sarma ve Siri Recaps özellikleri\n\nSistemin en dikkat çekici ve tartışma yaratabilecek yönleri arasında konuşmaları dinleyen **Live Rewind** ve Siri Recaps araçları yer alıyor. Live Rewind, kullanıcıların dijital kurneye çift basarak son 15 saniyede söylenenleri ekranda metin olarak görmesini sağlıyor. İşlem sırasında etraftakileri uyarmak amacıyla sesli bir zil çalıyor ve saat ekranında animasyon oynatılıyor. Bu metinler kaydedilmezse 30 saniye içinde otomatik olarak siliniyor.\n\nSiri Recaps ise konuşmaların tamamını kaydetmek yerine, konuşmacıları belirlemeden kısa bir cümle ve ana noktaları içeren maddeler halinde özetliyor. Bu özellik iş toplantıları veya veli toplantıları gibi senaryolarda kullanılmak üzere tasarlandı. Kaydedilen özetler yedi gün içinde siliniyor veya kullanıcı tarafından Notes ve Journal uygulamalarına aktarılabiliyor.\n\n## Donanım ve gizlilik altyapısı\n\nApple'ın açıklamasına göre bu özellikler, Apple Watch Series 12 ve Apple Watch Ultra 4 modellerinde yer alan S11 çip, yerleşik mikrofon, iPhone üzerinde çalışan Apple Intelligence modelleri ve Private Cloud Compute altyapısının birleşimini kullanıyor. İşlenen sesler ve özetler şifreleniyor, ham sesler kaydedilmiyor ve hassas kişisel veriler ayıklanıyor.\n\n**Neden önemli?** TechCrunch'ın haberine göre, giyilebilir yapay zeka cihazlarındaki gizlilik tartışmaları gözetilerek geliştirilen bu özellikler, sesleri ve konuşmaları yerel işlemciler ile güvenli bulut altyapısı üzerinden işleyerek kullanıcılara sunuyor.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Apple Watch",
+    "Apple Intelligence",
+    "Siri",
+    "iPhone"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple Watch yapay zeka özellikleri beta testinde",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a matte aluminum watch chassis resting on a dark slate surface, with subtle threads of cool blue light weaving through the internal components to suggest advanced processing",
+  "focus_keyword": "Audio Intelligence",
+  "seo_title": "Apple Watch Audio Intelligence beta testinde",
+  "meta_description": "Apple Watch için geliştirilen yapay zeka destekli ses ve konuşma özellikleri beta sürecine girdi. Detaylar ve gizlilik altyapısı haberimizde.",
+  "seo_slug": "apple-watch-audio-intelligence-beta-testinde",
+  "image_alt": "Apple Watch akıllı saat gövdesi üzerinde mavi ışık çizgileriyle temsil edilen yapay zeka işleme süreci",
+  "cover_text": "Audio Intelligence",
+  "importance": 7,
+  "triage_reason": "Apple'ın saatler için sunduğu yeni ses tabanlı yapay zeka özelliklerinin beta süreci.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-03T07:20:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 350
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-watch-audio-intelligence-beta-testinde",
+  "published_at": "2026-11-03T07:31:46Z",
+  "publish_mode": "auto"
+}
