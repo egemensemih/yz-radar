@@ -1,0 +1,58 @@
+{
+  "id": "e2bdb18650",
+  "created_at": "2026-11-04T18:54:19Z",
+  "title": "Nothing ekran içermeyen yapay zeka cihazını Aralık ayında tanıtıyor",
+  "summary": "Nothing CEO'su Carl Pei, şirketin ekranı bulunmayan ilk yapay zeka odaklı cihazının Aralık ayında piyasaya sürüleceğini duyurdu.",
+  "body": "Nothing, yapay zeka teknolojileriyle entegre çalışan yeni ürününü Aralık ayında kullanıcılarla buluşturmaya hazırlanıyor. Nothing ekran içermeyen yapay zeka cihazı hakkındaki detaylar henüz kısıtlı olsa da, CEO Carl Pei ürünün mevcut bir uygulama olarak sunulmasının mümkün olmadığını vurguladı. Pei, sosyal medya üzerinden yaptığı paylaşımda, söz konusu cihazın bir \"araç\" niteliği taşıdığını ve şirketin tasarım anlayışını yansıtan bir özenle geliştirildiğini belirtti.\n\n## Yeni ürünün özellikleri ve vizyonu\n\nPei'nin \"bir uygulama olamazdı\" şeklinde tanımladığı yeni ürün, şirketin bir yıldan uzun süredir üzerinde çalıştığı \"yapay zeka yerlisi\" (AI-native) vizyonunun bir yansıması olarak görülüyor. Şirketin paylaştığı görsel, ürünün fiziksel formuna dair belirsiz bir siyah köşe tasarımı sunarken, ekranın bulunmaması donanımın odak noktasını farklı bir kullanım senaryosuna taşıyor. Carl Pei, sektördeki pek çok girişimin bir \"yapay zeka iPhone'u\" arayışında olduğunu ifade ederek, bu arayışın mevcut haliyle bir çıkmaz olduğunu savundu.\n\n## Sektörel rekabet ve beklentiler\n\nNothing'in pazara sunacağı cihaz, ekran barındırmayan yapay zeka odaklı ürünler kategorisinde ilk olma özelliğini taşımıyor. Daha önce Humane AI pin, Friend ve çeşitli yapay zeka destekli peluş oyuncaklar gibi benzer girişimler piyasaya sürülmüştü. Ayrıca OpenAI'ın Jony Ive ile birlikte bir yapay zeka akıllı hoparlörü geliştirdiği yönündeki haberler de sektördeki rekabetin yoğunlaştığını gösteriyor. Nothing'in daha önce yapay zeka destekli akıllı gözlükler üzerinde çalıştığına dair iddialar gündeme gelmiş olsa da, Aralık ayında tanıtılacak cihazın tam kapsamı ve teknik detayları henüz resmi olarak doğrulanmadı.\n\n**Neden önemli?** Nothing'in ekran içermeyen bir donanım tercih etmesi, şirketin mobil cihazların ötesine geçerek yapay zeka erişimini farklı form faktörlerine taşıma stratejisini ortaya koyuyor.",
+  "category": "urunler",
+  "tags": [
+    "Nothing",
+    "Carl Pei",
+    "donanim",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nothing ekranı olmayan yeni cihazını duyurdu",
+  "kicker": "Ürün lansmanı",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A singular, smooth, matte black pebble-shaped object resting on a neutral gray stone surface, with soft directional lighting creating a subtle shadow, emphasizing a minimalist, screen-free tactile design.",
+  "focus_keyword": "Nothing ekran içermeyen yapay zeka cihazı",
+  "seo_title": "Nothing ekran içermeyen yapay zeka cihazı Aralık'ta geliyor",
+  "meta_description": "Nothing CEO'su Carl Pei, şirketin ekran içermeyen ilk yapay zeka cihazını Aralık ayında tanıtacağını açıkladı. Yeni ürünün detaylarını inceleyin.",
+  "seo_slug": "nothing-ekran-icermeyen-yapay-zeka-cihazi-geliyor",
+  "image_alt": "Minimalist, ekranı bulunmayan siyah, yuvarlak hatlı Nothing yapay zeka cihazı tasarımı",
+  "cover_text": "Nothing",
+  "importance": 6,
+  "triage_reason": "Nothing şirketi, ekranı olmayan ilk yapay zeka cihazını aralık ayında piyasaya süreceğini duyurdu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-04T18:26:07Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 396
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "nothing-ekran-icermeyen-yapay-zeka-cihazi-geliyor",
+  "published_at": "2026-11-04T18:54:30Z",
+  "publish_mode": "auto"
+}
