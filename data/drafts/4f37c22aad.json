@@ -37,6 +37,15 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50358422",
       "published": "2026-11-03T21:26:44Z"
+    },
+    {
+      "name": "spectrum.ieee.org",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50364336",
+      "published": "2026-11-04T11:52:17Z"
     }
   ],
   "source_keys": [
