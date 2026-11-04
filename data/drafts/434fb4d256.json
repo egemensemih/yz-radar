@@ -1,0 +1,67 @@
+{
+  "id": "434fb4d256",
+  "status": "pending",
+  "created_at": "2026-11-04T13:21:04Z",
+  "title": "Google, Gemini abonelerinin sohbet geçmişini model eğitimi için kullanıyor",
+  "summary": "Google AI kişisel abonelerinin Gemini sohbet geçmişleri, kullanıcılar sohbet geçmişini kapatmadığı sürece yapay zeka modellerini eğitmek için kullanılıyor.",
+  "body": "Google AI aboneliğine sahip bireysel kullanıcıların Gemini üzerindeki kayıtlı sohbet geçmişlerinin, üretken yapay zeka modellerini eğitmek amacıyla kullanıldığı ortaya çıktı. Hacker News topluluk paylaşımlarına ve Google'ın destek belgelerine göre, kişisel hesaplardaki bu verilerin model eğitimine dahil edilmesini engellemenin tek yolu sohbet geçmişini kapatmak veya geçici sohbet oturumları kullanmak.\n\n## Veri kullanımı ve insan incelemesi\n\nGoogle destek sayfalarındaki bilgilere göre, Gemini uygulama etkinliği ayarı açık olduğunda toplanan veriler Google servislerini iyileştirmek ve yapay zeka modellerini eğitmek için değerlendiriliyor. Bu süreçte sohbet dökümleri insan incelemeciler tarafından da okunabiliyor. \n\n## Alınabilecek önlemler\n\nŞirket, insan incelemesinden geçen verilerin kullanıcı hesaplarıyla olan bağının koparıldığını belirtse de bazı risklere karşı uyarıyor. \n\n* Sohbet geçmişinin model eğitiminde kullanılmasını istemeyenlerin bu özelliği kapatması gerekiyor.\n* Geçici sohbet oturumları tercih edilerek verilerin kaydedilmesinin önüne geçilebiliyor.\n* Kullanıcılara sistem üzerinden hassas bilgileri girmemeleri yönünde açık uyarılar yapılıyor.\n\n**Neden önemli?** Kişisel Google AI aboneliklerindeki sohbet geçmişlerinin otomatik olarak model eğitimine dahil edilmesi ve insan incelemesinden geçmesi, abonelik kullanan bireylerin gizlilik ve veri güvenliği açısından dikkat etmesi gereken kritik detaylar arasında yer alıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini abonelerinin geçmişi model eğitiminde kullanılıyor",
+  "kicker": "Veri gizliliği",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth obsidian monolith standing upright on a reflective concrete surface, a single thread of warm white light winding softly around its base, minimalist and calm composition",
+  "focus_keyword": "Gemini sohbet geçmişi",
+  "seo_title": "Gemini sohbet geçmişi model eğitimi için kullanılıyor",
+  "meta_description": "Google AI kişisel abonelerinin Gemini sohbet geçmişi model eğitimi için kullanılıyor. Verilerinizi korumanın yolları ve detaylar haberimizde.",
+  "seo_slug": "google-gemini-sohbet-gecmisi-model-egitimi",
+  "image_alt": "Siyah monolit ve etrafındaki ince ışık çizgisiyle veri gizliliğini temsil eden stüdyo ortamı görseli",
+  "cover_text": "Gemini",
+  "importance": 6,
+  "triage_reason": "Google'ın Gemini abonelerinin sohbet geçmişini model eğitimi için kullanması gizlilik tartışmaları yarattı.",
+  "sources": [
+    {
+      "name": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50363461",
+      "published": "2026-11-04T10:10:27Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "news.ycombinator.com",
+      "kind": "community",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "published": "2026-11-04T10:10:27Z",
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information . https://support.google.com/gemini/answer/16836988 “[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity…",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 385
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
