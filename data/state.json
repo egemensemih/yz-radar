@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-04T14:20:53Z",
+  "last_collect": "2026-11-04T14:35:41Z",
   "last_summary_date": "2026-11-03",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 1354
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 896
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 881,
+      "fails": 882,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:40Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-04T14:20:52Z",
+      "last_ok": "2026-11-04T14:35:41Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-04T14:20:53Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -202,10 +203,10 @@
       "expired": 1
     },
     "2026-11-04": {
-      "tok_in": 49951,
-      "tok_out": 8944,
+      "tok_in": 54014,
+      "tok_out": 9938,
       "cost_usd": 0.0,
-      "drafts": 7,
+      "drafts": 8,
       "published": 2,
       "auto": 2,
       "expired": 7
@@ -215,7 +216,7 @@
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-11-04T13:35:05Z",
+  "last_build": "2026-11-04T14:40:28Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
