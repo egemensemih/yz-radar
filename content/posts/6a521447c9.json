@@ -1,0 +1,57 @@
+{
+  "id": "6a521447c9",
+  "created_at": "2026-11-04T21:36:17Z",
+  "title": "OpenAI'ın yeni politika vizyonu ve 2028 seçimleri tartışması",
+  "summary": "TechCrunch'ın aktardığına göre, OpenAI Küresel İşler Sorumlusu Chris Lehane, yapay zekanın ekonomi üzerindeki etkisini New Deal ile kıyaslayan yeni bir makale yayımladı.",
+  "body": "OpenAI'ın yeni politika vizyonu 2028 başkanlık seçimlerine şimdiden yön vermeye çalışıyor. TechCrunch'ın aktardığına göre, OpenAI Küresel İşler Sorumlusu Chris Lehane yayımladığı yeni bir makalede, yapay zekanın ekonomiyi dönüştürme potansiyelini Başkan Franklin D. Roosevelt’in New Deal programına benzetti. Lehane, Amerikalıların ekonomik geleceklerinin kontrolünü kaybetmekten endişe duyduğunu belirterek politikacıları yapay zekanın faydalarının paylaşılmasını sağlayacak bir yol bulmaya çağırdı.\n\n## Beş politika önceliği\n\nLehane'nin makalesinde işçi korumalarından eğitime, yapay zekâ güvenliğinden veri merkezi gelişimine kadar uzanan beş politika önceliği yer alıyor. Uzmanlar ise bu önerilerin şirketin kendi çıkarlarını desteklemek üzere tasarlandığını belirtiyor. Yapay zeka ve kurumsal güç politikaları uzmanı Kate Brennan, Lehane'nin retoriğinin şirketin daha önceki büyüme ve regülasyon engellerini kaldırma odaklı gündeminden farklı bir dönüm noktasına işaret ettiğini vurguladı.\n\n* İşçi becerileri için teşvikler ve çalışan sahipliği yaklaşımları\n* Çocuk güvenliği ve yapay zeka yoldaşları için korumalar\n* Bağımsız değerlendirmeler ve yapay zeka güvenlik standartları\n\n## Eleştiriler ve çelişkiler\n\nEleştirmenler, önerilen politikaların yapay zekanın ekonomik bozulmalarından şirketleri sorumlu tutmadığını ve aşırı pazar gücünün önüne geçmek için yeterli bağlayıcı düzenleme içermediğini ifade ediyor. Ayrıca OpenAI'ın geçmişte California'nın yapay zeka güvenlik yasası SB 1047 gibi önlemlere karşı çıkmış olması, Lehane'nin yeni güvenlik vurgularının samimiyeti konusunda soru işaretleri yaratıyor.\n\n**Neden önemli?** OpenAI yöneticisinin 2028 seçimleri yaklaşırken sunduğu bu politika çerçevesi, teknoloji şirketlerinin gelecekteki siyasi ve ekonomik düzenlemeleri şekillendirme çabasını gözler önüne seriyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "Chris Lehane",
+    "TechCrunch"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'ın 2028 seçimleri ve politika vizyonu",
+  "kicker": "Regülasyon",
+  "hero_stat": "2028",
+  "hero_stat_label": "hedef seçim yılı",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "OpenAI'ın yeni politika vizyonu",
+  "seo_title": "OpenAI'ın yeni politika vizyonu ve 2028 seçim stratejisi",
+  "meta_description": "OpenAI yetkilisi Chris Lehane'nin 2028 seçimleri ve yapay zeka politikaları hakkındaki yeni makalesi ve uzman eleştirileri.",
+  "seo_slug": "openainin-yeni-politika-vizyonu-ve-2028-secimleri",
+  "image_alt": "Buzlu cam küplerden oluşan grafik ve yapay zeka politikalarını temsil eden stüdyo görseli",
+  "cover_text": "New Deal",
+  "importance": 6,
+  "triage_reason": "OpenAI'ın siyaset ve seçim stratejilerine yönelik politika hamlesi orta düzeyde önem taşıyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-04T21:25:44Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 402
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "openainin-yeni-politika-vizyonu-ve-2028-secimleri",
+  "published_at": "2026-11-04T21:36:20Z",
+  "publish_mode": "auto"
+}

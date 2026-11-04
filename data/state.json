@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-04T21:20:56Z",
+  "last_collect": "2026-11-04T21:35:55Z",
   "last_summary_date": "2026-11-04",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 1356
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 897
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:37Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:38Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 909,
+      "fails": 910,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:38Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:44Z",
+      "last_ok": "2026-11-04T21:35:38Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-04T21:20:56Z",
+      "last_ok": "2026-11-04T21:35:55Z",
       "count": 20
     }
   },
@@ -203,19 +203,21 @@
       "expired": 11
     },
     "2026-11-05": {
-      "tok_in": 5530,
-      "tok_out": 980,
+      "tok_in": 10333,
+      "tok_out": 2031,
       "cost_usd": 0.0,
-      "drafts": 1,
-      "published": 1,
-      "auto": 1
+      "drafts": 2,
+      "published": 2,
+      "auto": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-04T21:21:16Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/openainin-yeni-politika-vizyonu-ve-2028-secimleri/"
+  ],
+  "last_build": "2026-11-04T21:36:28Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
