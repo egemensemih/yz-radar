@@ -1,0 +1,69 @@
+{
+  "id": "feea7eb1d2",
+  "status": "pending",
+  "created_at": "2026-11-04T15:26:45Z",
+  "title": "OpenAI, yazılım geliştirme araçları sunan Pierre şirketini satın alıyor",
+  "summary": "OpenAI, kod yönetimi ve açık kaynaklı geliştirici araçlarıyla bilinen Pierre Computer Company, Inc. şirketini satın almak üzere anlaşmaya vardığını duyurdu.",
+  "body": "OpenAI'ın duyurusuna göre şirket, kod depolama ve açık kaynaklı geliştirici araçları geliştiren Pierre Computer Company, Inc. firmasını bünyesine katmak için anlaşma imzaladı. Satın alma işlemi, düzenleyici onayları da içeren olağan kapanış koşullarının yerine getirilmesinin ardından tamamlanacak. Bu süre zarfında iki şirket ayrı ve bağımsız kalmaya devam edecek.\n\n## Geliştirici araçları ve Codex entegrasyonu\n\nOpenAI, mühendislik süreçlerinde Git altyapısının paralel çalışan yapay zeka ajanlarına uyarlanması gerektiğine dikkat çekiyor. Daha önce Pando adlı kaynak kod kontrol altyapısını tanıtan şirket, Pierre ekibiyle birlikte yazılım geliştirme standartlarını ileri taşımayı amaçlıyor. Satın alma sonrasında Pierre tarafından geliştirilen **Trees** ve **Diffs** gibi kütüphanelerin Codex platformuna entegre edilmesi planlanıyor.\n\n## Açık kaynak taahhüdü ve ürünlerin geleceği\n\nAnlaşmanın tamamlanmasının ardından Pierre'in açık kaynaklı projeleri aynı statüde kalmaya devam edecek ve OpenAI bu projelere katkı sağlamayı sürdürecek. Code Storage müşterileri, özellikler Codex bünyesine taşınana kadar mevcut hizmeti kullanmaya devam edebilecek. İki taraf da sektör genelinde kaynak kontrolünün geleceğini şekillendirmeyi hedefliyor.\n\n**Neden önemli?** OpenAI, bu satın almayla birlikte yazılım geliştirme süreçlerini ve Git iş akışlarını kodlama ajanlarının ihtiyaç duyduğu ölçeğe ve hıza uygun hale getirmeyi amaçlıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Pierre",
+    "Codex",
+    "Git",
+    "Pando"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI, Pierre şirketini satın alıyor",
+  "kicker": "Satın alma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a dense arrangement of stacked translucent glass blocks with intricate engraved lines, resting on a matte dark gray surface under soft directional studio light",
+  "focus_keyword": "OpenAI Pierre satın alması",
+  "seo_title": "OpenAI, Pierre şirketini satın alacağını duyurdu",
+  "meta_description": "OpenAI, kod yönetimi ve geliştirici araçları sunan Pierre Computer Company, Inc. şirketini satın almak için anlaşmaya vardığını açıkladı.",
+  "seo_slug": "openai-pierre-sirketini-satin-aliyor",
+  "image_alt": "Mat yüzey üzerinde üst üste dizilmiş, çizgili desenlere sahip şeffaf cam bloklar",
+  "cover_text": "Pierre",
+  "importance": 7,
+  "triage_reason": "OpenAI, kod geliştirme araçlarını güçlendirmek için Pierre Computer şirketini satın alıyor.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-04T14:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00Z",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "text": "Today we're announcing that OpenAI will acquire Pierre Computer Company, Inc(opens in a new window). (“Pierre”), the company behind Code Storage(opens in a new window) and a family of standout open-source developer tools. If you’ve browsed files or reviewed a change in the Codex app, you’ve already used Pierre’s Trees and Diffs libraries. We’re excited to work with the Pierre team to build on the Git workflows that developers already rely on and adapt them to how teams work with coding agents.\nWe’ve seen in our own engineering work how the systems around Git need to evolve as more of that work happens in parallel. Earlier this week, we shared how we’re scaling Git at OpenAI with Pando, our in-house source control backend for engineers and agents. With the Pierre team, we wish to set the standard for modern software development: from the first branch an agent creates to that magic moment when code is deployed to the world. We want to make Codex the place where developers and agents take on their most ambitious projects.\nWe’ve long appreciated the care Pierre brings to another part of working with Git: how developers review code. You can see that care in the libraries we use in Codex today. Trees lets developers quickly navigate a project’s files, and Diffs makes it easy to see what changed. Both of these tools make it easy to review and navigate large volumes of code with uncompromising performance.\nThat same attention to detail runs through Pierre’s other work. Diffs’ Edit mode lets a reviewer fix a line of code right where they spot the problem. Pierre recently released Highlights, an extremely fast syntax highlighter that updates as a developer types or an agent streams code. The same small team that put an editor inside a diff also designed the API for Code Storage, a service that lets apps store code and track its history using Git.\nPierre has built tools that developers love, and together, we will ship new products and platforms that benefit all. Once the acquisition closes, our ambition is to advance the future of source control across the industry. We want Codex to connect the code a company ships with the decisions its people make, at the scale the future demands.\nPierre’s open-source projects will remain open-source, and we’ll continue to contribute to them. Customers can continue using Code Storage after the acquisition closes while we work to bring its features and functionality into Codex.\nThe closing of the acquisition is subject to customary closing conditions, including receipt of regulatory approvals. Until closing, OpenAI and Pierre will remain separate and independent companies."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 387
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
