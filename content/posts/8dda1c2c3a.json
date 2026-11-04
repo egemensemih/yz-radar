@@ -1,0 +1,58 @@
+{
+  "id": "8dda1c2c3a",
+  "created_at": "2026-11-04T16:11:27Z",
+  "title": "Veri merkezi projeleri seçimlerde engellerle karşılaştı",
+  "summary": "The Verge'ün aktardığına göre, ABD'deki seçimlerde seçmenlerin büyük bölümü veri merkezi projelerine karşı çıkarak kısıtlayıcı adayları destekledi.",
+  "body": "Veri merkezi projeleri seçimlerde yerel toplulukların ve seçmenlerin artan muhalefetiyle karşılaştı. The Verge'ün aktardığına göre, ABD genelindeki seçimlerde ve kamuoyu yoklamalarında seçmenler dizginlenmeyen veri merkezi gelişimine mesafeli durdu. NBC News tarafından seçim gününde yapılan anketlerde seçmenlerin yüzde 76'sı topluluklarındaki veri merkezlerine karşı olduklarını ifade etti. Ülke genelinde düzinelerce yerel topluluk da sandık başında doğrudan kısıtlayıcı önlemleri oyladı.\n\n## Yerel oylamalar ve eyalet sonuçları\n\nÜlke çapında veri merkezleriyle ilgili doğrudan 45 yerel oylama yapıldı ve bunlardan 33'ü veri merkezi gelişimini kısıtlayan sonuçlar doğurdu. Maine eyaletine bağlı Wells kasabası büyük veri merkezleri için 180 günlük bir moratoryumu onaylarken, Ohio'daki bazı şehirler 25 megavatın üzerindeki veri merkezlerini yasakladı. Kansas'ın El Dorado şehrinde ise 10 megavatın üzerindeki pik elektrik yüküne sahip tesisler 10 yıllığına yasaklandı. Teksas, Michigan ve Maine gibi eyaletlerde de veri merkezi gelişimini durdurmayı veya denetim altına almayı savunan adaylar seçim zaferleri elde etti.\n\n## Siyasi dengeler değişiyor\n\nSeçim sürecinde adayların birçoğu veri merkezi projelerine karşı tutumlarını sertleştirmek zorunda kaldı. Kimi adaylar eyalet düzeyinde moratoryum savunurken kimi adaylar ise veri merkezi geliştiricilerinin kendi enerji ve altyapı maliyetlerini karşılamasını talep eden yasalar önerdi. Siyasi analistler, bu sonuçların yapay zeka endüstrisinin büyüme hızını kesebilecek yeni düzenlemelerin önünü açabileceğini belirtiyor.\n\n**Neden önemli?** Seçim sonuçları, yapay zeka sektörünün en önemli bileşenlerinden biri olan veri merkezlerinin altyapı ve enerji maliyetleri konusunda yerel halktan ve siyasetçilerden daha fazla dirençle karşılaşacağını gösteriyor.",
+  "category": "politika",
+  "tags": [
+    "veri merkezleri",
+    "yapay zeka",
+    "seçim",
+    "enerji altyapısı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Veri merkezi projeleri seçimlerde engellendi",
+  "kicker": "Regülasyon",
+  "hero_stat": "%76",
+  "hero_stat_label": "veri merkezine karşı olan seçmen",
+  "visual_style": "studio",
+  "visual_scene": "a single block of dark grey slate resting on a smooth concrete surface, with a thin line of warm amber light cutting across the center, casting soft shadows in a minimalist architectural space",
+  "focus_keyword": "veri merkezi projeleri",
+  "seo_title": "Veri merkezi projeleri ABD seçimlerinde engellerle karşılaştı",
+  "meta_description": "ABD seçimlerinde seçmenlerin veri merkezi projelerine karşı çıkması ve kısıtlayıcı yerel önlemlerin artması yapay zeka sektörünü nasıl etkiliyor.",
+  "seo_slug": "veri-merkezi-projeleri-secimlerde-engellerle-karsilasti",
+  "image_alt": "Gri mermer blok üzerinde ince bir ışık çizgisi bulunan minimal stüdyo ortamı",
+  "cover_text": "Veri merkezleri",
+  "importance": 6,
+  "triage_reason": "ABD ara seçimlerinde veri merkezi projelerine getirilen kısıtlamalar yapay zeka altyapısını etkiliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "title": "Data centers lost the midterms",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-04T16:05:39Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 389
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "veri-merkezi-projeleri-secimlerde-engellerle-karsilasti",
+  "published_at": "2026-11-04T16:11:38Z",
+  "publish_mode": "auto"
+}
