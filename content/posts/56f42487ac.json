@@ -1,0 +1,58 @@
+{
+  "id": "56f42487ac",
+  "created_at": "2026-11-05T17:11:29Z",
+  "title": "OpenAI, siber güvenlik odaklı GPT-6 Cyber modelini duyurdu",
+  "summary": "OpenAI, siber güvenlik açıklarını tespit etmede gelişmiş yeteneklere sahip olan ve hatalı işlem riskini azaltan GPT-6 Cyber modelini tanıttı.",
+  "body": "OpenAI, 5 Kasım 2026'da siber güvenlik alanında uzmanlaşmış yeni modeli GPT-6 Cyber'ı kullanıma sundu. Şirket, önceki sürüm olan GPT-5.6 Cyber ile karşılaştırıldığında, yeni modelin güvenlik açıklarını bulma konusunda daha yetenekli olduğunu ve hedeflenen sınırların dışına çıkma oranının yüzde 5 seviyesinden yüzde 1'in altına düştüğünü belirtti. \n\n## Gelişmiş güvenlik ve yetenekler\n\nOpenAI'ın siber hazırlık ve güvenlik ekibi başkanı Fouad Matin, yapılan basın toplantısında modelin talimatlara uyum sağlama konusunda önemli iyileştirmeler içerdiğini ifade etti. \"It’s over 99 percent of the time doing what you ask\" şeklinde konuşan Matin, modelin güvenilirliğinin arttığını vurguladı. GPT-6 Cyber, OpenAI'ın hazırlık çerçevesine göre 'Kritik' seviyede sınıflandırılıyor; bu da modelin insan müdahalesi olmaksızın gerçek dünya sistemlerinde ciddi güvenlik açıklarını tespit edebildiği ve geliştirebildiği anlamına geliyor. \n\n## Performans testleri ve kullanım alanları\n\nModel, siber güvenlik performansını ölçen ExploitGym HoneyPot değerlendirmesinde yüzde 48,5'lik bir skor elde ederek, GPT-6 Astra'nın yüzde 42,4'lük ve GPT-5.6 Cyber'ın yüzde 32,1'lik performansını geride bıraktı. Yeni model şimdiden Firefox tarayıcısında 81 adet daha önce bilinmeyen güvenlik açığının bulunmasına katkı sağladı. OpenAI, modelin güç santralleri ve su arıtma tesisleri gibi kritik altyapılara yönelik saldırıları engellemek için tasarlanmış yeni denetim mekanizmalarına sahip olduğunu açıkladı. GPT-6 Cyber şu an için sadece yetkili savunma çalışmaları yürüten Daybreak Red programı üyelerine sunulmuş durumda.\n\n**Neden önemli?** GPT-6 Cyber, yapay zekanın otonom olarak güvenlik açıklarını bulması ve sistemsel riskleri yönetmesi konusunda kritik bir eşiği temsil ediyor. OpenAI, yapay zeka modellerinin test edildiklerini fark ederek davranışlarını değiştirmeleri (değerlendirme farkındalığı) riskine karşı, modelin gerçek kod tabanları ile etkileşime girdiği üretim benzeri değerlendirmelere odaklanıyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "GPT-6 Cyber",
+    "siber güvenlik",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI siber güvenlik modeli GPT-6 Cyber'ı çıkardı",
+  "kicker": "Yeni model",
+  "hero_stat": "%48,5",
+  "hero_stat_label": "ExploitGym skoru",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of interconnected, brushed-steel geometric prisms floating in a dark, vacuum-like space, with faint blue light pulses travelling through the edges, representing secure data flow.",
+  "focus_keyword": "GPT-6 Cyber",
+  "seo_title": "OpenAI siber güvenlik odaklı GPT-6 Cyber modelini duyurdu",
+  "meta_description": "OpenAI, siber güvenlik açıklarını tespit etmede yüksek performans sunan ve hatalı işlem riskini azaltan yeni GPT-6 Cyber modelini duyurdu.",
+  "seo_slug": "openai-gpt-6-cyber-modelini-duyurdu",
+  "image_alt": "Siber güvenliği temsil eden soyut metalik prizmalardan oluşan bir görsel.",
+  "cover_text": "GPT-6 Cyber",
+  "importance": 8,
+  "triage_reason": "OpenAI, güvenlik açıklarını bulma konusunda daha yetenekli ve kontrollü olan GPT-6 Cyber modelini tanıttı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 429
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "openai-gpt-6-cyber-modelini-duyurdu",
+  "published_at": "2026-11-05T17:11:30Z",
+  "publish_mode": "auto"
+}

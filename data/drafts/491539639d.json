@@ -1,0 +1,88 @@
+{
+  "id": "491539639d",
+  "status": "pending",
+  "created_at": "2026-11-05T17:11:12Z",
+  "title": "Gemini Omni 1.2 Flash video üretim yeteneklerini genişletiyor",
+  "summary": "Google, 5 Kasım'da Gemini Omni 1.2 Flash modelini duyurdu. Yeni model, 15 saniyelik video üretimi, daha düşük maliyet ve gelişmiş düzenleme araçları sunuyor.",
+  "body": "Google DeepMind, 5 Kasım 2026 tarihinde video üretim yeteneklerini geliştiren Gemini Omni 1.2 Flash modelini kullanıma sunduğunu açıkladı. Gemini Omni 1.2 Flash, hem video oluşturma süresini 15 saniyeye çıkarıyor hem de bir önceki sürüme kıyasla fiyatlandırmada yüzde 30'luk bir iyileştirme sağlıyor. Modelin 720p video üretim maliyeti saniye başına 0,07 dolara çekildi.\n\n## Yeni video yetenekleri\n\nGoogle'ın duyurusuna göre, yeni model kullanıcıların daha tutarlı ve kontrol edilebilir videolar üretmesine olanak tanıyor. Gemini Omni 1.2 Flash, karakterlerin, ürünlerin ve yazıların çekim boyunca sabit kalmasını sağlayarak görsel tutarlılığı artırıyor. Ayrıca kullanıcılar, 15 saniyeye kadar olan videoları tek bir üretimde oluşturabiliyor veya süreyi birer saniyelik artışlarla belirleyebiliyor. Model, karmaşık kamera hareketlerini, örneğin sürekli bir drone uçuşunu jump cut (ani kesinti) olmadan gerçekleştirebiliyor.\n\n## Düzenleme ve kullanım kolaylığı\n\nModel, çok turlu konuşmalı düzenleme (multi-turn conversational editing) imkânı ile öne çıkıyor. Bu özellik sayesinde kullanıcılar, videoyu baştan oluşturmak yerine, arka planı veya aydınlatmayı değiştirmek gibi belirli ayrıntıları sohbet yoluyla düzenleyebiliyor. Diğer iyileştirmeler arasında daha akıcı dudak senkronizasyonu ve doğal seslendirme seçenekleri bulunuyor. Google, çıktılara SynthID filigranı ekleyerek içerik güvenliğini desteklediğini belirtiyor.\n\n**Neden önemli?** Gemini Omni 1.2 Flash, Google Cloud altyapısı ile genel kullanıma sunularak işletmelere ve geliştiricilere ölçeklenebilir, daha düşük maliyetli video üretim araçları sağlıyor.",
+  "category": "modeller",
+  "tags": [
+    "Google",
+    "Gemini",
+    "DeepMind",
+    "video-üretimi",
+    "yapay-zeka-modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini Omni 1.2 Flash duyuruldu",
+  "kicker": "Yeni model",
+  "hero_stat": "%30",
+  "hero_stat_label": "daha düşük fiyat",
+  "visual_style": "sculpture",
+  "visual_scene": "A vertical arrangement of stacked glass panels, each etched with subtle geometric patterns that refract light. A thin stream of golden liquid flows from the top edge, catching the light as it cascades down, representing the fluidity and precision of the new video generation capabilities.",
+  "focus_keyword": "Gemini Omni 1.2 Flash",
+  "seo_title": "Gemini Omni 1.2 Flash: Video üretimi ve güncellemeler",
+  "meta_description": "Google, 15 saniyelik video üretimi ve düşük maliyetli Gemini Omni 1.2 Flash modelini duyurdu. Yeni özellikleri ve kullanım detaylarını keşfedin.",
+  "seo_slug": "gemini-omni-1-2-flash-duyuruldu",
+  "image_alt": "Gemini Omni 1.2 Flash modelinin video üretim yeteneklerini temsil eden, ışığı kıran katmanlı cam levhalar ve akan altın…",
+  "cover_text": "Gemini Omni 1.2",
+  "importance": 8,
+  "triage_reason": "Google, daha uzun video klip desteği ve %30 fiyat indirimiyle Gemini Omni 1.2 Flash'ı duyurdu.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T17:05:16Z"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind",
+    "Google"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google DeepMind",
+      "kind": "official",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published": "2026-11-05T17:05:16Z",
+      "summary": "",
+      "text": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips\nToday, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business. Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video.\nHere’s an overview of what’s new:\nFast and cost-effective at scale\nBeyond the lower price, the workflow keeps costs down: you can draft fast at 360p or 720p, fix a detail with a follow-up edit instead of re-generating the entire clip, and then upscale your best creations to 1080p or 4K.\nLonger clips up to 15 seconds\nYou can now generate and edit videos natively up to 15 seconds long, up from 10 seconds with Omni 1.1. You can also specify duration in one-second increments from 3 to 15 seconds, giving you room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\nBetter reference adherence\nYou can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads.\nCombining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent.\nMore consistent results\nYou can maintain stronger character, object, and scene consistency from the first to the last frame, with less visual drift or morphing across motion and camera transitions. Whether you’re interpolating between a first and last keyframe, or extending a clip to build a longer sequence, products, characters, props, and environments stay consistent from shot to shot.\nGiven the same static studio lighting exhibition poster and five-layer animation prompt, Gemini Omni 1.1 Flash does not match the reference image as closely as 1.2 does. Gemini Omni 1.2 Flash builds the poster sequentially layer by layer on the dusty-pink cyclorama rising the hexagonal plinth, assembling the ribbed glass, warm filament, faceted crystal, and coiled-cord letterforms for HALO, GLOW, and LUMEN, and locking every material, shadow, and typographic detail consistently through the final frame.\nEasier editing in conversation\nYou can refine the same clip turn by turn — such as swapping a product or background, changing the lighting or weather, or switching the aspect ratio — instead of starting over from scratch. Multi-turn conversational editing works across full 15-second clips, making it easy to produce ad variants for different audiences and placements without re-briefing or re-generating.\nStarting from one generated clip, multi-turn conversational prompts swap the background turn by turn — from a striped pavilion tent to an oak forest, a stable with a white horse, a market fair, and a stone castle — while keeping both characters’ performances, armor reflections, and camera framing intact.\nMore natural speech\nYou can generate scenes with more fluid, natural-sounding dialogue, clearer lip-sync, and distinct multi-speaker conditioning. This will show up whether you’re directing multi-character dialogue in Flow, creating video explainers in Gemini for business, or creating polished, pro videos with avatars, music and narration in Google Vids.\nConditioned on one conservatory scene image alongside four character, mouth, and one-second voice references, Gemini Omni 1.2 Flash routes each sampled voice to the right character with expressive lip-sync and natural comedic timing across a 15-second animated scene.\nMore controllable, cinematic look\nYou can direct complex, continuous camera movements like sweeping FPV flythroughs to dramatic zoom-outs and orbits with significantly fewer unwanted jump cuts, steadier scale, and a more polished, cinematic look.\nGuided by two architectural reference photos, Gemini Omni 1.2 Flash directs one continuous FPV drone flight across the piazza, through the bronze doors, and up through the Pantheon’s coffered dome to the oculus with zero jump cuts.\nLonger clips with smoother motion and tighter consistency\nGemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts.\nReal-world results, from creatives to global brands\nBusinesses, startups, and creatives are already using Gemini Omni 1.2 Flash in their workflows. And for the first time, Gemini Omni is now generally available, backed by Google Cloud’s enterprise-grade infrastructure and security. Provisioned Throughput is available, and outputs carry an imperceptible SynthID watermark.\nGet started with Gemini Omni 1.2 Flash\nWhile development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale. You can get started with Gemini Omni 1.2 Flash today as it rolls out across Google’s products and developer platforms:\n- For developers using the Gemini API: Prototype in Google AI Studio, explore interactive starter apps, and check out the developer documentation and pricing.\n- For businesses: Try it in the Google Cloud console, and build enterprise solutions with the API.\n- For everyone using Google apps: Direct scenes and multi-turn edits in Flow, generate 15-second clips at no additional cost in Google Vids with a Google account or Google Workspace subscription, create 15-second videos in the Gemini app (rolling out to Google AI Ultra subscribers), and scale video campaigns in Google Ads."
+    },
+    {
+      "credit": "Google",
+      "kind": "official",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-05T17:00:00Z",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "text": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips\nToday, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business. Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video.\nHere’s an overview of what’s new:\nFast and cost-effective at scale\nBeyond the lower price, the workflow keeps costs down: you can draft fast at 360p or 720p, fix a detail with a follow-up edit instead of re-generating the entire clip, and then upscale your best creations to 1080p or 4K.\nLonger clips up to 15 seconds\nYou can now generate and edit videos natively up to 15 seconds long, up from 10 seconds with Omni 1.1. You can also specify duration in one-second increments from 3 to 15 seconds, giving you room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\nBetter reference adherence\nYou can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads.\nCombining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent.\nMore consistent results\nYou can maintain stronger character, object, and scene consistency from the first to the last frame, with less visual drift or morphing across motion and camera transitions. Whether you’re interpolating between a first and last keyframe, or extending a clip to build a longer sequence, products, characters, props, and environments stay consistent from shot to shot.\nGiven the same static studio lighting exhibition poster and five-layer animation prompt, Gemini Omni 1.1 Flash does not match the reference image as closely as 1.2 does. Gemini Omni 1.2 Flash builds the poster sequentially layer by layer on the dusty-pink cyclorama rising the hexagonal plinth, assembling the ribbed glass, warm filament, faceted crystal, and coiled-cord letterforms for HALO, GLOW, and LUMEN, and locking every material, shadow, and typographic detail consistently through the final frame.\nEasier editing in conversation\nYou can refine the same clip turn by turn — such as swapping a product or background, changing the lighting or weather, or switching the aspect ratio — instead of starting over from scratch. Multi-turn conversational editing works across full 15-second clips, making it easy to produce ad variants for different audiences and placements without re-briefing or re-generating.\nStarting from one generated clip, multi-turn conversational prompts swap the background turn by turn — from a striped pavilion tent to an oak forest, a stable with a white horse, a market fair, and a stone castle — while keeping both characters’ performances, armor reflections, and camera framing intact.\nMore natural speech\nYou can generate scenes with more fluid, natural-sounding dialogue, clearer lip-sync, and distinct multi-speaker conditioning. This will show up whether you’re directing multi-character dialogue in Flow, creating video explainers in Gemini for business, or creating polished, pro videos with avatars, music and narration in Google Vids.\nConditioned on one conservatory scene image alongside four character, mouth, and one-second voice references, Gemini Omni 1.2 Flash routes each sampled voice to the right character with expressive lip-sync and natural comedic timing across a 15-second animated scene.\nMore controllable, cinematic look\nYou can direct complex, continuous camera movements like sweeping FPV flythroughs to dramatic zoom-outs and orbits with significantly fewer unwanted jump cuts, steadier scale, and a more polished, cinematic look.\nGuided by two architectural reference photos, Gemini Omni 1.2 Flash directs one continuous FPV drone flight across the piazza, through the bronze doors, and up through the Pantheon’s coffered dome to the oculus with zero jump cuts.\nLonger clips with smoother motion and tighter consistency\nGemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts.\nReal-world results, from creatives to global brands\nBusinesses, startups, and creatives are already using Gemini Omni 1.2 Flash in their workflows. And for the first time, Gemini Omni is now generally available, backed by Google Cloud’s enterprise-grade infrastructure and security. Provisioned Throughput is available, and outputs carry an imperceptible SynthID watermark.\nGet started with Gemini Omni 1.2 Flash\nWhile development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale. You can get started with Gemini Omni 1.2 Flash today as it rolls out across Google’s products and developer platforms:\n- For developers using the Gemini API: Prototype in Google AI Studio, explore interactive starter apps, and check out the developer documentation and pricing.\n- For businesses: Try it in the Google Cloud console, and build enterprise solutions with the API.\n- For everyone using Google apps: Direct scenes and multi-turn edits in Flow, generate 15-second clips at no additional cost in Google Vids with a Google account or Google Workspace subscription, create 15-second videos in the Gemini app (rolling out to Google AI Ultra subscribers), and scale video campaigns in Google Ads."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 428
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google DeepMind, Google"
+}
