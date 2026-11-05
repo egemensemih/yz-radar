@@ -38,10 +38,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-05T01:26:22Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/05/apple-calisanlarinin-yapay-zeka-kullanim-butcelerini-dusuruyor/",
+      "title": "Apple, çalışanlarının yapay zeka kullanım bütçelerini düşürüyor",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/05/apple-calisanlarinin-yapay-zeka-kullanim-butcelerini-dusuruyor/#comments",
+      "published": "2026-11-05T14:00:00Z"
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Webrazzi"
   ],
   "source_texts": [
     {
