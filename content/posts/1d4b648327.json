@@ -1,0 +1,59 @@
+{
+  "id": "1d4b648327",
+  "created_at": "2026-11-05T16:26:09Z",
+  "title": "Axiom Math, matematik dünyasında doğrulanmış temel oluşturuyor",
+  "summary": "1,6 milyar dolar değerlemeye ulaşan Axiom Math, Stacks Projesi'ni bilgisayarla doğrulanabilir koda dönüştürerek yapay zeka için güvenilir bir temel hazırladı.",
+  "body": "Yapay zeka modellerinin ürettiği içeriğin güvenilirliği tartışılırken, Axiom Math girişimi matematiği bilgisayar destekli doğrulama yöntemiyle sağlam bir zemine oturtmayı hedefliyor. TechCrunch'ın aktardığına göre, 1,6 milyar dolar değerlemeye sahip şirket, insanlık tarihinin en geniş matematiksel çalışma gruplarından biri olan Stacks Projesi'ni tamamen doğrulanabilir koda dönüştürdü. Axiom Math'in geliştirdiği yapay zeka ajanları, yaklaşık 7.654 sayfalık matematiksel içeriği 16 milyon satırlık Lean diliyle yazılmış koda çevirdi.\n\n## Matematikte resmi doğrulama\n\nMatematiksel bir kanıtın hatasız olduğundan emin olmak için kullanılan formal doğrulama (formal verification) yöntemi, bir kanıtın bilgisayar tarafından adım adım denetlenmesini sağlıyor. Lean programlama dilinde yazılan bu kodlar, bir 'kanıt asistanı' tarafından kontrol edilerek mantıksal tutarlılığı onaylanıyor. Axiom Math'in bu çalışması, özellikle cebirsel geometri alanındaki büyük bir boşluğu doldurarak, araştırmacıların üzerine yeni projeler inşa edebileceği hazır ve doğrulanmış bir altyapı sunuyor.\n\n## Ajanlar ve paralel çalışma\n\nŞirket, süreci hızlandırmak için kendi bünyesinde matematik konusunda uzmanlaşmış özel yapay zeka modelleri geliştirdi. Axiom Math CEO'su Carina Hong, yapay zeka ajanlarının zamanla matematiksel bir 'beğeni' kazandığını ve karmaşık bağlantıları koruyarak paralel görevler yürütebildiklerini ifade etti. Şirket, bu yöntemin gelecekte yapay zekanın yazdığı kodların hata payını düşürmek ve daha güvenli yazılım altyapıları oluşturmak için kritik bir rol oynayacağına inanıyor.\n\n**Neden önemli?** Axiom Math tarafından oluşturulan bu doğrulanmış matematiksel kütüphane, gelecekte yapay zeka ajanlarının hata yapmadan veya 'yapay zeka çöplüğü' (AI slop) olarak adlandırılan tutarsız bilgiler üretmeden bilimsel çalışmalar yapabilmesi için güvenilir bir zemin sunmayı amaçlıyor.",
+  "category": "arastirma",
+  "tags": [
+    "Axiom Math",
+    "yapay zeka",
+    "matematik",
+    "Lean",
+    "yazılım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Axiom Math matematik için doğrulama sistemi kurdu",
+  "kicker": "Bilimsel araştırma",
+  "hero_stat": "1,6 milyar $",
+  "hero_stat_label": "şirket değerlemesi",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of geometric mathematical shapes carved from translucent white marble, connected by delicate, glowing golden lines that trace logical pathways between the forms, set against a deep matte charcoal background.",
+  "focus_keyword": "Axiom Math",
+  "seo_title": "Axiom Math matematik dünyasında doğrulanmış temel oluşturuyor",
+  "meta_description": "Axiom Math, Stacks Projesi'ni bilgisayar destekli kodlara dönüştürerek yapay zeka için güvenilir ve doğrulanmış bir matematik temeli inşa ediyor.",
+  "seo_slug": "axiom-math-matematik-icin-dogrulanmis-temel",
+  "image_alt": "Matematiksel formların birleştiği, altın hatlarla birbirine bağlanan soyut mermer heykel.",
+  "cover_text": "Axiom Math",
+  "importance": 6,
+  "triage_reason": "Yapay zeka ajanlarının matematiksel ispatları doğrulaması önemli bir araştırma gelişmesi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T16:16:45Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 425
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "axiom-math-matematik-icin-dogrulanmis-temel",
+  "published_at": "2026-11-05T16:26:20Z",
+  "publish_mode": "auto"
+}
