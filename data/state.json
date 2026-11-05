@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-05T17:55:42Z",
+  "last_collect": "2026-11-05T18:10:49Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 1360
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 968,
+      "fails": 969,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:38Z",
+      "last_ok": "2026-11-05T18:10:48Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-05T17:55:39Z",
+      "last_ok": "2026-11-05T18:10:48Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-11-05T17:40:56Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-05T18:10:49Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -204,20 +203,23 @@
       "expired": 11
     },
     "2026-11-05": {
-      "tok_in": 83086,
-      "tok_out": 17129,
+      "tok_in": 90615,
+      "tok_out": 19105,
       "cost_usd": 0.0,
-      "drafts": 15,
-      "published": 9,
-      "auto": 9,
+      "drafts": 17,
+      "published": 11,
+      "auto": 11,
       "expired": 7
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-05T17:15:35Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/openai-halka-arz-hazirliklari-2027/",
+    "https://egemensemih.github.io/yz-radar/haber/claude-kisisel-finans-araci-duyuruldu/"
+  ],
+  "last_build": "2026-11-05T18:15:39Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

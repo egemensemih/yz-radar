@@ -1,0 +1,69 @@
+{
+  "id": "17c8742526",
+  "created_at": "2026-11-05T18:11:29Z",
+  "title": "Claude kişisel finans aracı ile harcamaları analiz ediyor",
+  "summary": "Anthropic, kullanıcıların banka hesaplarını bağlayarak harcamalarını takip etmelerini sağlayan Personal Finance adlı yeni aracını duyurdu.",
+  "body": "Anthropic, kullanıcıların finansal durumlarını daha yakından takip etmelerini sağlamak amacıyla Claude üzerinde yeni bir özellik olan Claude kişisel finans aracı sistemini hayata geçirdi. Plaid altyapısı üzerinden banka ve kredi kartı hesaplarıyla entegre çalışan bu yeni yetenek, kullanıcılara harcama alışkanlıkları hakkında doğal dilde yanıtlar sunuyor. 5 Kasım 2026 itibarıyla ABD'deki Pro, Max ve Ultra planı kullanıcıları için beta aşamasında sunulan bu özellik, OpenAI'ın mayıs ayında ChatGPT için duyurduğu benzer bir çözümle rekabet ediyor.\n\n## Kişisel finans yönetimi nasıl çalışıyor?\n\nKullanıcılar, banka hesaplarını bağladıklarında Claude üzerinden aylık harcama özetleri alabiliyor, kira, faturalar veya alışveriş gibi kategorilere göre harcamalarını sınıflandırabiliyor. Anthropic tarafından yapılan açıklamaya göre, sistem yalnızca görüntüleme (read-only) yetkisine sahip. Bu durum, yapay zekanın kullanıcı adına para transferi yapamayacağı, yatırım yönetemeyeceği veya hesaplarda herhangi bir işlem gerçekleştiremeyeceği anlamına geliyor. Ayrıca platform, karmaşık finansal terimlerin açıklanması veya bakiye sorgulama gibi konularda da kullanıcıya destek sağlıyor.\n\n## Güvenlik ve gizlilik detayları\n\nFinansal verilerin yapay zeka ile paylaşılması konusundaki endişeleri gidermek isteyen Anthropic, sistemin erişim kapsamını belirli verilerle sınırlandırdığını belirtti. Claude, banka adı, hesap türü, hesap numarasının son dört hanesi, bakiye bilgileri ve iki yıla kadar olan işlem geçmişine erişebiliyor; ancak kullanıcı şifrelerini göremiyor. Şirket ayrıca, Personal Finance özelliği kapsamındaki sohbetlerin model eğitimi amacıyla kullanılmayacağını vurguladı. Anthropic, bu aracın henüz bir başlangıç olduğunu ve gelecekte lisanslı profesyonellerle iş birliği yapmayı hedeflediğini ekledi.\n\n**Neden önemli?** Anthropic, Claude'u sadece bir sohbet robotu olarak değil, aynı zamanda kullanıcıların harcamalarını analiz edip bütçe planlamalarına yardımcı olan bir finansal asistan olarak konumlandırarak, üretken yapay zekanın kullanım alanlarını günlük finans yönetimine doğru genişletiyor.",
+  "category": "urunler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "yapay zeka",
+    "finansal teknolojiler",
+    "Plaid"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Claude'a finans yönetimi özelliği geldi",
+  "kicker": "Yeni özellik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A neat composition of a classic leather wallet and a stack of clean, translucent glass tokens arranged on a minimalist matte table, with soft, directional light casting long, elegant shadows, emphasizing precision and financial organization.",
+  "focus_keyword": "Claude kişisel finans aracı",
+  "seo_title": "Claude kişisel finans aracı ile harcama analizi dönemi",
+  "meta_description": "Anthropic, Claude kişisel finans aracı ile kullanıcıların banka hesaplarını analiz etmesine olanak tanıyor. Yeni özelliğin detaylarını inceleyin.",
+  "seo_slug": "claude-kisisel-finans-araci-duyuruldu",
+  "image_alt": "Masa üzerinde duran deri cüzdan ve şeffaf cam jetonlar, kişisel finans yönetimini simgeliyor.",
+  "cover_text": "Personal Finance",
+  "importance": 7,
+  "triage_reason": "Anthropic'in Claude asistanına banka hesaplarını bağlayan yeni finansal takip özelliğini duyurması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T18:00:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "title": "Claude AI can plug directly into your bank account",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 436
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "claude-kisisel-finans-araci-duyuruldu",
+  "published_at": "2026-11-05T18:11:30Z",
+  "publish_mode": "auto"
+}
