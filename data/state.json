@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-05T10:51:01Z",
+  "last_collect": "2026-11-05T11:06:34Z",
   "last_summary_date": "2026-11-04",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 1360
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:42Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 940,
+      "fails": 941,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:43Z",
+      "last_ok": "2026-11-05T11:06:33Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-05T10:50:43Z",
+      "last_ok": "2026-11-05T11:06:34Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-05T10:51:01Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -203,52 +204,23 @@
       "expired": 11
     },
     "2026-11-05": {
-      "tok_in": 38885,
-      "tok_out": 8078,
+      "tok_in": 42382,
+      "tok_out": 9036,
       "cost_usd": 0.0,
-      "drafts": 7,
-      "published": 3,
-      "auto": 3,
+      "drafts": 8,
+      "published": 4,
+      "auto": 4,
       "expired": 6
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-05T10:34:53Z",
-  "build_sig": "1006e235604846f4",
-  "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i3"
-        ],
-        "topic": "Big Tech AI infrastructure spending and data center buildout analysis",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Büyük teknoloji şirketlerinin veri merkezi ve AI harcamalarının analizi."
-      },
-      "items": [
-        {
-          "key": "f7f044f18932d81d",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-          "via": null,
-          "via_url": null,
-          "title": "Big Tech’s big AI buildout will not end until someone stops it",
-          "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
-          "published": "2026-11-05T10:45:00Z",
-          "html_source": false,
-          "tid": "i3"
-        }
-      ],
-      "at": "2026-11-05T10:51:16Z"
-    }
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/buyuk-sirketlerin-yapay-zeka-veri-merkezi-yatirimlari/"
   ],
+  "last_build": "2026-11-05T11:11:34Z",
+  "build_sig": "1006e235604846f4",
+  "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
 }

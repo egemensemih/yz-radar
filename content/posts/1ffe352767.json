@@ -1,0 +1,60 @@
+{
+  "id": "1ffe352767",
+  "created_at": "2026-11-05T11:07:22Z",
+  "title": "Büyük teknoloji şirketlerinde yapay zeka veri merkezi harcamaları artıyor",
+  "summary": "Amazon, Microsoft, Alphabet ve Meta, yapay zeka altyapısı için yüz milyarlarca dolarlık harcamalarını 2027 yılında da artırmaya hazırlanıyor.",
+  "body": "Amazon, Microsoft, Alphabet ve Meta gibi sektörün önde gelen teknoloji devleri, büyük yapay zeka veri merkezi yatırımlarını sürdürme konusunda kararlı görünüyor. Şirketlerin geçtiğimiz ay gerçekleştirdiği finansal raporlama toplantılarında paylaşılan verilere göre, bu kuruluşlar sadece bu yıl içerisinde yapay zeka altyapısına 720 milyar doların üzerinde sermaye harcaması (CapEx) yapmayı planlıyor. Önümüzdeki yıllar için ise 1 trilyon dolara ulaşan taahhütler bulunuyor.\n\n## Gelir beklentileri ve finansal baskı\n\nYatırımcılar, üç yılı aşkın süredir devam eden bu yoğun harcama döneminin henüz somut bir finansal getiri sağlamaması nedeniyle endişeli. The Verge'in aktardığına göre, Alphabet'in yapay zeka destekli arama motorunun, şirketin temel arama reklamı gelirlerini olumsuz etkilediği görülüyor. Alphabet, 2027 yılında harcamalarını daha da artıracağını belirtirken, Amazon da benzer şekilde gelecek yıl için mevcut 220 milyar dolarlık harcama planının üzerine çıkmayı hedefliyor. Meta tarafında ise CEO Mark Zuckerberg, yeni programı Muse'un kârlılığa ulaşabilmesi için işlemci maliyetlerinin düşürülmesi gerektiğine dikkat çekiyor.\n\n## Altyapı maliyetleri ve sektör dengeleri\n\nBüyük teknoloji şirketlerinin dışındaki oyuncular da benzer maliyet baskılarıyla karşı karşıya. Anthropic, üçüncü çeyrekte 17 milyar dolar gelir elde etmesine rağmen 17,5 milyar dolarlık işlemci maliyetiyle karşılaştığını açıkladı. Şirket, kendi veri merkezlerini kurmak üzere yaklaşık 900 milyar dolarlık bir maliyet taahhüdü altına girdiğini duyurdu. Öte yandan, Google'ın kendi işlemci kapasitesini Anthropic gibi laboratuvarlara satmasının, şirketin kendi harcama yükünü hafifletip hafifletmeyeceği ise belirsizliğini koruyor.\n\n**Neden önemli?** Teknoloji devlerinin rekor seviyedeki altyapı yatırımları, özellikle veri merkezlerine yönelik düzenleme beklentileri ve yapay zeka modellerinin henüz beklenen gelir artışını sağlayamaması nedeniyle Wall Street üzerinde önemli bir baskı oluşturuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Amazon",
+    "Microsoft",
+    "Alphabet",
+    "Meta",
+    "Anthropic",
+    "yapay zeka altyapısı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Büyük şirketlerin yapay zeka harcamaları sürüyor",
+  "kicker": "Yatırım turu",
+  "hero_stat": "720 milyar $",
+  "hero_stat_label": "bu yılki yatırım",
+  "visual_style": "sculpture",
+  "visual_scene": "A tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "yapay zeka veri merkezi",
+  "seo_title": "Büyük teknoloji şirketlerinde yapay zeka veri merkezi…",
+  "meta_description": "Amazon, Microsoft ve Alphabet gibi devler, yapay zeka veri merkezi yatırımlarını 2027'de artıracağını açıkladı. Sektördeki devasa harcamaları inceledik.",
+  "seo_slug": "buyuk-sirketlerin-yapay-zeka-veri-merkezi-yatirimlari",
+  "image_alt": "Buzlu cam bloklardan oluşan bir grafik yapısı, devasa teknoloji yatırımlarını simgeliyor.",
+  "cover_text": "AI Buildout",
+  "importance": 6,
+  "triage_reason": "Büyük teknoloji şirketlerinin veri merkezi ve AI harcamalarının analizi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T10:45:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 412
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "buyuk-sirketlerin-yapay-zeka-veri-merkezi-yatirimlari",
+  "published_at": "2026-11-05T11:07:26Z",
+  "publish_mode": "auto"
+}
