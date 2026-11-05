@@ -216,9 +216,7 @@
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [
-    "https://egemensemih.github.io/yz-radar/haber/qualcomm-veri-merkezi-yapay-zeka-hedefleri/"
-  ],
+  "indexnow_queue": [],
   "last_build": "2026-11-05T04:07:05Z",
   "build_sig": "1006e235604846f4",
   "queue": [
