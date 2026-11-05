@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-04T14:30:00Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/05/openai-gelistirici-araclari-sirketi-pierre-computer-company-yi-satin-aliyor/",
+      "title": "OpenAI, geliştirici araçları şirketi Pierre Computer Company'yi satın alıyor",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/05/openai-gelistirici-araclari-sirketi-pierre-computer-company-yi-satin-aliyor/#comments",
+      "published": "2026-11-05T07:00:00Z"
     }
   ],
   "source_keys": [
-    "OpenAI"
+    "OpenAI",
+    "Webrazzi"
   ],
   "source_texts": [
     {
