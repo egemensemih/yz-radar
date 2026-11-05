@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-05T14:51:07Z",
+  "last_collect": "2026-11-05T15:04:30Z",
   "last_summary_date": "2026-11-04",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 1360
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:10Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 956,
+      "fails": 957,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:11Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-05T14:50:47Z",
+      "last_ok": "2026-11-05T15:04:11Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
-      "last_ok": "2026-11-05T14:20:46Z",
-      "count": 20,
-      "last_error": "ReadTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=20)"
+      "fails": 0,
+      "last_ok": "2026-11-05T15:04:30Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -204,20 +203,22 @@
       "expired": 11
     },
     "2026-11-05": {
-      "tok_in": 57079,
-      "tok_out": 11427,
+      "tok_in": 61060,
+      "tok_out": 12465,
       "cost_usd": 0.0,
-      "drafts": 10,
-      "published": 5,
-      "auto": 5,
+      "drafts": 11,
+      "published": 6,
+      "auto": 6,
       "expired": 7
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-05T14:29:40Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/soundcloud-elevenlabs-yapay-zeka-muzik-entegrasyonu/"
+  ],
+  "last_build": "2026-11-05T15:09:07Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

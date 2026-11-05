@@ -1,0 +1,59 @@
+{
+  "id": "a77db8ecce",
+  "created_at": "2026-11-05T15:04:49Z",
+  "title": "SoundCloud ve ElevenLabs yapay zeka müzik entegrasyonu duyuruldu",
+  "summary": "SoundCloud, ElevenLabs ile gerçekleştirdiği yeni iş birliği sayesinde kullanıcıların yapay zeka tarafından üretilen müzikleri platforma doğrudan yüklemesine olanak tanıyor.",
+  "body": "SoundCloud, 5 Kasım 2026'da yaptığı açıklamayla ElevenLabs platformu ile yeni bir entegrasyon başlattığını duyurdu. Bu iş birliği, SoundCloud ve ElevenLabs yapay zeka müzik entegrasyonu kapsamında kullanıcıların ürettikleri içerikleri bilgisayarlarına indirme zorunluluğu olmaksızın doğrudan SoundCloud profillerine yayınlamalarını sağlıyor.\n\n## Doğrudan yayınlama kolaylığı\n\nDaha önce kullanıcılar, ElevenLabs üzerinden oluşturdukları müzik dosyalarını kendi cihazlarına indirdikten sonra SoundCloud'a yüklemek zorundaydı. Yeni gelen güncelleme ile bu süreç otomatikleştirildi. SoundCloud, bu yöntemle oluşturulan parçaların yapay zeka kökenli olduğunu belirtmek adına özel etiketlerle işaretleneceğini de belirtti. Platform, daha önce Moises ile benzer bir entegrasyon gerçekleştirmişti; ancak mevcut ElevenLabs entegrasyonunun Moises kadar kapsamlı bir düzenleme ve ayrıştırma araçları sunmadığı aktarıldı.\n\n## Abonelik avantajları ve platform politikası\n\nİş birliği çerçevesinde SoundCloud Artist Pro abonelerine, ElevenMusic Pro hizmetini üç ay boyunca ücretsiz kullanma imkanı sunuluyor. SoundCloud, diğer birçok müzik platformuna kıyasla **yapay zeka** ile oluşturulmuş içeriklere karşı daha açık bir tutum sergilemeye devam ediyor. Avrupa Birliği düzenlemelerine tabi olan kullanıcılardan parçalarını \"yapay zeka tarafından üretilmiş veya değiştirilmiş\" olarak işaretlemelerini bekleyen platform, kişisel hakları korumak amacıyla kimlik taklidi (impersonation) konusunda da çeşitli kısıtlamalar uyguluyor.\n\n**Neden önemli?** SoundCloud, yapay zeka tarafından üretilen içerikleri temizlemek veya platformdan kaldırmak yerine bu araçlarla entegre olmayı tercih eden nadir yayın servislerinden biri olarak öne çıkıyor.",
+  "category": "urunler",
+  "tags": [
+    "SoundCloud",
+    "ElevenLabs",
+    "yapay zeka müzik",
+    "müzik teknolojileri",
+    "üretken yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "SoundCloud ve ElevenLabs iş birliği başladı",
+  "kicker": "Yeni entegrasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A clean studio setup featuring a professional studio headphone resting next to an abstract, translucent glass sound wave sculpture, soft directional lighting highlighting the textures of both objects, neutral gray background.",
+  "focus_keyword": "SoundCloud ve ElevenLabs yapay zeka müzik entegrasyonu",
+  "seo_title": "SoundCloud ve ElevenLabs yapay zeka müzik entegrasyonu",
+  "meta_description": "SoundCloud, ElevenLabs ile yaptığı yeni iş birliği ile yapay zeka tarafından üretilen müziklerin platforma doğrudan yüklenmesine imkan tanıyor.",
+  "seo_slug": "soundcloud-elevenlabs-yapay-zeka-muzik-entegrasyonu",
+  "image_alt": "SoundCloud ve ElevenLabs iş birliğini temsil eden soyut ses dalgası heykeli ve stüdyo kulaklığı.",
+  "cover_text": "ElevenLabs",
+  "importance": 6,
+  "triage_reason": "ElevenLabs ve SoundCloud arasında yapılan yeni entegrasyon duyurusu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T15:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 419
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "soundcloud-elevenlabs-yapay-zeka-muzik-entegrasyonu",
+  "published_at": "2026-11-05T15:05:00Z",
+  "publish_mode": "auto"
+}
