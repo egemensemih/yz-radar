@@ -1,0 +1,69 @@
+{
+  "id": "974546cf48",
+  "status": "pending",
+  "created_at": "2026-11-05T20:11:14Z",
+  "title": "NVIDIA Vera işlemcisi veri merkezlerinde yüksek verimlilik vaat ediyor",
+  "summary": "NVIDIA, yapay zeka temsilcilerinin iş yüklerini hızlandırmak ve enerji tasarrufu sağlamak üzere tasarlanan yeni Vera işlemcisini tanıttı.",
+  "body": "NVIDIA, 5 Kasım 2026'da duyurduğu yeni nesil Vera işlemcisi ile veri merkezlerindeki yapay zeka iş yüklerini optimize etmeyi hedefliyor. Şirketin açıklamasına göre, veri tabanı sorgulama, kod yazma ve test etme gibi karmaşık süreçleri yöneten yapay zeka temsilcileri (AI agents), GPU tabanlı akıl yürütme ile CPU tabanlı yürütme arasında sürekli geçiş yapıyor. Vera, bu geçiş süreçlerinde hem yüksek işlem hızı hem de watt başına maksimum verimlilik sunarak yapay zeka fabrikalarının kapasite ihtiyaçlarını karşılamayı amaçlıyor.\n\n## Vera işlemcisinin teknik avantajları\n\nNVIDIA tarafından yapılan karşılaştırmalı analizler, Vera'nın mevcut x86 mimarili işlemcilerle kıyaslandığında önemli performans artışları sağladığını gösteriyor. 100 megavatlık bir veri merkezi senaryosunda elde edilen sonuçlar şöyle:\n\n* En hızlı x86 işlemciye göre 1,6 kat daha fazla temsilciyi watt başına destekliyor.\n* Enerji verimliliğiyle öne çıkan x86 işlemcilere kıyasla 2 kat daha hızlı temsilci performansı sunuyor.\n\n## Sektörel adaptasyon ve iş ortaklıkları\n\nErken aşamada Vera teknolojisini test eden şirketler, üretim odaklı sistemlerde somut hız kazanımları bildirdi. Perplexity, kodlama görevlerinde geleneksel işlemcilere göre 1,5 kat hız artışı kaydederken, DeepInfra kendi iş yüklerinde diğer mimarilere kıyasla 2,2 kat daha hızlı sonuçlara ulaştı. Daytona ise 2.000 eş zamanlı sandbox ortamında, standart x86 mimarisine göre çok daha kısa sürelerde iş tamamlama kapasitesine eriştiğini duyurdu.\n\n**Neden önemli?** Yapay zeka fabrikalarının enerji kısıtlı ortamlarında çalışan Vera, tek bir mimari üzerinde hem hız hem de kapasiteyi dengeleyerek veri merkezi operatörlerinin donanım çeşitliliği zorunluluğunu azaltmayı hedefliyor.",
+  "category": "donanim",
+  "tags": [
+    "NVIDIA",
+    "Vera",
+    "işlemci",
+    "veri-merkezi",
+    "yapay-zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "NVIDIA'dan yeni Vera işlemcisi",
+  "kicker": "Donanım",
+  "hero_stat": "1,6x",
+  "hero_stat_label": "watt başına temsilci",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of sleek, vertical, dark metallic pillars of varying heights standing on a reflective polished obsidian floor, illuminated by a soft, directional amber light highlighting the sharp architectural edges of the metal, creating a sense of powerful, efficient infrastructure.",
+  "focus_keyword": "NVIDIA Vera işlemcisi",
+  "seo_title": "NVIDIA Vera işlemcisi veri merkezi verimliliğini artırıyor",
+  "meta_description": "NVIDIA, yapay zeka temsilcileri için geliştirilen yeni Vera işlemcisini tanıttı. Watt başına yüksek performans sunan donanımın detayları haberimizde.",
+  "seo_slug": "nvidia-vera-islemcisi-duyuruldu",
+  "image_alt": "NVIDIA Vera işlemcisinin gücünü temsil eden soyut metalik mimari sütunlar",
+  "cover_text": "Vera",
+  "importance": 7,
+  "triage_reason": "NVIDIA'nın yapay zeka ajanları ve işlemci/ekran kartı performansına odaklanan yeni mimari duyurusu.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T20:00:41Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "source_texts": [
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "published": "2026-11-05T20:00:41Z",
+      "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "text": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action.\nEach of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.\nAs businesses put more agents to work, AI factories need CPUs that can execute those steps quickly and support many agents at once, all within the limits of available power.\nWhat this means: AI infrastructure providers need to support more agents without making each one wait longer to get work done. And critically, AI factories are power limited. This means operators need to choose infrastructure that maximizes the work done for every watt.\nWhy it matters: NVIDIA Vera delivers both fast agent performance and high capacity per watt within a single CPU. That gives providers one CPU for a range of agent workloads, rather than having to mix and match fast and dense x86 parts to balance speed and capacity.\nThe data that proves it: In a 100-megawatt data center comparison, NVIDIA found that a single Vera CPU performs better than the fastest x86 CPU and the most energy-efficient x86 CPU.\n- Vera delivers industry-leading agent speed while enabling 1.6x more agents per watt versus the fastest x86 CPU.\n- Vera delivers 2x faster agent speed with leading energy efficiency compared with the most energy-efficient x86 CPU.\nPartners are already putting Vera to work. Early adopters see the same exceptional performance in production-style tests:\n- Perplexity: Ran agentic coding tasks 1.5x faster with Vera than on traditional CPUs. Perplexity plans to deploy Vera in an upcoming production system.\n- DeepInfra: Delivered up to 2.2x speed of the best x86 processor on agentic orchestration for its production agent workload, achieving the fastest of the four architectures tested.\n- ClickHouse: Its standard binary, with no Vera-specific tuning, scaled near-linearly across 176 cores and topped the ClickBench hardware leaderboard.\n- DuckLabs: Achieved about 1.5x the median TPC-H SF1000 performance of an Intel Xeon 6 baseline.\n- Daytona: Brought 1,000 agent sandboxes online in 10.8 seconds, and achieved 12.7 completed jobs per second at 2,000 concurrent sandboxes, using Vera versus 88.4 seconds with x86.\n- Modal: Achieved up to 2x sandbox throughput per core versus comparable x86 hardware, with gains that grow under heavy load.\nLearn more about the NVIDIA Vera CPU."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 446
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: NVIDIA"
+}
