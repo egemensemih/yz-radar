@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-05T19:40:46Z",
+  "last_collect": "2026-11-05T19:55:58Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 1361
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:44Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 975,
+      "fails": 976,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-05T19:40:46Z",
+      "last_ok": "2026-11-05T19:55:36Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
-      "last_ok": "2026-11-05T19:10:48Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-05T19:55:58Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -204,20 +203,22 @@
       "expired": 11
     },
     "2026-11-05": {
-      "tok_in": 103562,
-      "tok_out": 21479,
+      "tok_in": 107820,
+      "tok_out": 22416,
       "cost_usd": 0.0,
-      "drafts": 19,
-      "published": 12,
-      "auto": 12,
+      "drafts": 20,
+      "published": 13,
+      "auto": 13,
       "expired": 7
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-05T19:16:29Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/meta-muse-yapay-zeka-goruntulu-sohbet/"
+  ],
+  "last_build": "2026-11-05T20:00:36Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

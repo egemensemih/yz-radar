@@ -1,0 +1,57 @@
+{
+  "id": "20575ba71e",
+  "created_at": "2026-11-05T19:56:27Z",
+  "title": "Meta, Muse yapay zeka ajanı için görüntülü sohbet özelliğini duyurdu",
+  "summary": "Meta, ABD'deki kullanıcıların Muse yapay zeka ajanıyla görüntülü sohbet etmesine olanak tanıyan yeni özelliği kullanıma sundu.",
+  "body": "TechCrunch'ın aktardığına göre, **Meta**, tüketici odaklı yapay zeka ajanı Muse ile sesli ve görüntülü sohbet etmeyi sağlayan Muse Voice özelliğinin ABD'deki tüm kullanıcılara açıldığını 5 Kasım'da duyurdu. İlk kez eylül ayında Meta Connect geliştirici konferansında tanıtılan bu yeni özellik, kullanıcıların sorularını yanıtlayan ve onların adına görevleri yerine getiren dijital bir avatar sunuyor.\n\n## Muse Realtime Avatar ve ses teknolojisi\n\nŞirketin açıklamasına göre sistem, Muse Realtime Avatar ve Muse Realtime Voice teknolojilerini kullanan yeni yapay zeka modelleriyle destekleniyor. Diğer yapay zeka rakiplerinin aksine Muse, Jolly lakaplı animasyon bir avatarla birlikte geliyor ve kullanıcılar isterlerse bu avatarı bir kişiye, hayvana ya da başka bir karaktere benzeterek kişiselleştirebiliyor. Meta, bu insansızlaştırma yaklaşımının kullanıcıların yapay zeka ajanlarıyla daha güçlü bir bağ kurmasını sağlayabileceğine inanıyor. Konuşma tonuna uyum sağlayan avatar, konuşurken ince ifadeler ve jestler de kullanabiliyor.\n\n## Gelecek planları ve yeni cihazlar\n\nBu özelliğin duyurusu, Meta’nın baş yapay zeka sorumlusu Alexandr Wang tarafından bir blog yazısı ve X üzerinden paylaşıldı. Görüntülü arama desteği, şirketin yıl sonundan önce Muse yapay zeka ajanı için Tamagotchi benzeri giyilebilir bir cihaz piyasaya sürme planından hemen önce geldi. Gelecek bu donanım cihazının yanı sıra gerçek zamanlı konuşmalar mobil, web ve Mac platformlarında desteklenirken, ilerleyen dönemde AI Glasses ve Muse Charm cihazlarına da geleceği belirtiliyor.\n\n**Neden önemli?** Meta'nın hayata geçirdiği bu yeni görüntülü sohbet özelliği, şirketin yapay zeka asistanlarını daha etkileşimli ve kişiselleştirilmiş bir deneyim sunacak şekilde genişletme stratejisinin bir parçasını oluşturuyor.",
+  "category": "urunler",
+  "tags": [
+    "Meta",
+    "Muse",
+    "Alexandr Wang"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta, Muse için görüntülü sohbeti açtı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a small sculptural white ceramic figurine of an abstract fluffy creature resting on a matte dark gray surface, soft diffused side lighting casting a gentle shadow",
+  "focus_keyword": "Muse yapay zeka",
+  "seo_title": "Meta Muse yapay zeka ajanı için görüntülü sohbet geldi",
+  "meta_description": "Meta, ABD'deki kullanıcıların Muse yapay zeka ajanıyla görüntülü sohbet etmesini sağlayan Muse Voice özelliğini kullanıma sundu.",
+  "seo_slug": "meta-muse-yapay-zeka-goruntulu-sohbet",
+  "image_alt": "Soyut beyaz seramik figürün üzerinde yumuşak ışık ve koyu zemin",
+  "cover_text": "Muse Voice",
+  "importance": 7,
+  "triage_reason": "Meta, Muse AI avatarı için görüntülü görüşme özelliğini ABD kullanıcılarına sunuyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T19:48:28Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 443
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "meta-muse-yapay-zeka-goruntulu-sohbet",
+  "published_at": "2026-11-05T19:56:30Z",
+  "publish_mode": "auto"
+}
