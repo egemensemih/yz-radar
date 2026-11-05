@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-05T22:41:05Z",
+  "last_collect": "2026-11-05T22:55:38Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:37Z",
       "count": 1361
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:37Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:37Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:37Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 987,
+      "fails": 988,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-05T22:40:44Z",
+      "last_ok": "2026-11-05T22:55:38Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-11-05T22:25:38Z",
-      "count": 20,
-      "last_error": "ReadTimeout: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=20)"
+      "fails": 0,
+      "last_ok": "2026-11-05T22:55:38Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -205,17 +204,22 @@
       "expired": 9
     },
     "2026-11-06": {
-      "tok_in": 4331,
-      "tok_out": 1096,
+      "tok_in": 11347,
+      "tok_out": 3018,
       "cost_usd": 0.0,
-      "drafts": 1
+      "drafts": 3,
+      "published": 2,
+      "auto": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-05T22:05:48Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/airbnb-yapay-zeka-seyahat-asistani-2027de-cikiyor/",
+    "https://egemensemih.github.io/yz-radar/haber/perplexity-teammates-yapay-zeka-ajanlarini-duyurdu/"
+  ],
+  "last_build": "2026-11-05T22:56:01Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

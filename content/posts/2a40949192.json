@@ -1,0 +1,57 @@
+{
+  "id": "2a40949192",
+  "created_at": "2026-11-05T22:55:55Z",
+  "title": "Perplexity Teammates yapay zeka ajanlarını duyurdu",
+  "summary": "Perplexity, iş odaklı yapay zeka ajanları sunan yeni Teammates özelliğini tanıttı. 24 saat çalışabilen bu sistem aylık abonelik gerektiriyor.",
+  "body": "Perplexity, The Verge'ün aktardığı bilgilere göre iş dünyasına yönelik geliştirilen yapay zeka ajanları **Teammates** modelini duyurdu. Şirketin açıklamasına göre 7/24 çalışabilen bu yeni sistemler, mevcut projeleri ve hafızayı kullanarak iş yerinde birden fazla rolü üstlenebiliyor. OpenAI'ın Dots ve Anthropic'in Claude Duet projelerine rakip olarak konumlandırılan bu araç, kullanıcılara eş zamanlı olarak farklı görevler atama imkanı tanıyor.\n\n## Perplexity Teammates özellikleri ve entegrasyonu\n\nTeammates, cihaz üzerinde ajanlar çalıştırabilen Perplexity Computer sistemi üzerine inşa edildi. Ancak şirket, bu yeni aracın sürekli ve büyük ölçekli işleri tamamlama yeteneğiyle Computer'ın üzerine çıktığını belirtiyor. Kullanıcılar, Teammates ajanlarının ilerleme durumunu Perplexity uygulamasındaki bireysel konuşma dizileri üzerinden takip edebilirken, aynı zamanda Slack aracılığıyla da bu ajanlarla etkileşim kurabiliyor.\n\n## Fiyatlandırma ve erişim detayları\n\nOpenAI ve Anthropic'in benzer çözümlerine kıyasla daha yüksek bir maliyete sahip olan Teammates, **Max planı** abonesi olunmasını gerektiriyor. Bu plan ise aylık 200 dolar ücret talep ediyor. Şirket CEO'su Aravind Srinivas X üzerinden yaptığı açıklamada, gelecekte her kurumda her çalışan için yüzlerce yapay zeka takım arkadaşının çalışmasını öngördüklerini belirtti.\n\n**Neden önemli?** Perplexity tarafından hayata geçirilen bu adım, şirketlerin iş süreçlerinde sürekli çalışan ve büyük ölçekli görevleri eş zamanlı yürüten yapay zeka ajanlarına yönelik rekabetin hızlandığını gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Perplexity",
+    "Aravind Srinivas",
+    "yapay zeka ajanlari"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Perplexity Teammates tanıtıldı",
+  "kicker": "Yeni ürün",
+  "hero_stat": "200 $",
+  "hero_stat_label": "aylık Max plan fiyatı",
+  "visual_style": "studio",
+  "visual_scene": "a single polished obsidian monolith standing upright on a pale gray concrete surface, subtle white light reflecting off its smooth vertical edges, soft shadows cast to the side",
+  "focus_keyword": "Perplexity Teammates",
+  "seo_title": "Perplexity Teammates iş odaklı yapay zeka ajanlarını duyurdu",
+  "meta_description": "Perplexity, iş odaklı yeni yapay zeka ajanları Teammates'i duyurdu. 7/24 çalışabilen bu sistemin detayları ve fiyatlandırması haberimizde.",
+  "seo_slug": "perplexity-teammates-yapay-zeka-ajanlarini-duyurdu",
+  "image_alt": "Gri zemin üzerinde duran siyah parlak dikili taş heykeli",
+  "cover_text": "Teammates",
+  "importance": 7,
+  "triage_reason": "Perplexity, iş odaklı yeni yapay zeka ajanları Teammates'i tanıttı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T22:26:50Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 451
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "perplexity-teammates-yapay-zeka-ajanlarini-duyurdu",
+  "published_at": "2026-11-05T22:55:55Z",
+  "publish_mode": "auto"
+}

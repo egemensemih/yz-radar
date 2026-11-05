@@ -1,0 +1,57 @@
+{
+  "id": "3516f42514",
+  "created_at": "2026-11-05T22:55:44Z",
+  "title": "Airbnb yapay zeka seyahat asistanını 2027'nin ilk yarısında yayınlayacak",
+  "summary": "TechCrunch'ın aktardığına göre Airbnb, metin tabanlı sohbet botlarından farklı olarak özel bir arayüze sahip yapay zeka seyahat asistanını 2027'nin ilk yarısında kullanıma sunacağını açıkladı.",
+  "body": "Airbnb yapay zeka seyahat asistanı için resmi çıkış takvimini duyurdu. Şirketin 5 Kasım'da yayınlanan üçüncü çeyrek hissedar mektubuna ve analist toplantısına göre, seyahat odaklı bu yeni yapay zeka deneyimi 2027'nin ilk yarısında tüketicilerle buluşacak. Airbnb CEO'su Brian Chesky, genel amaçlı sohbet botlarının seyahat planlaması için uygun olmadığını belirterek geleneksel arayüzlerden farklı bir yol izleyeceklerini ifade etti.\n\n## Kişiselleştirilmiş arayüz ve özellikler\n\nTechCrunch'ın aktardığı bilgilere göre Airbnb, kullanıcıların seyahat planlama sürecinde fotoğraflara bakmaktan ve evleri karşılaştırmaktan keyif aldığını vurguluyor. Şirketin geliştirdiği yapay zeka asistanı, klasik metin tabanlı sohbet pencereleri yerine haritalar, fotoğraflar, karşılaştırmalar, takvimler ve seyahat programları içeren yüzlerce seyahat odaklı arayüz bileşenini anlık olarak bir araya getirecek. \n\n## Rezervasyon sonrası destek\n\nAirbnb'nin belirttiğine göre yeni asistan yalnızca arama ve rezervasyon aşamasında değil, aynı zamanda seyahat sırasında da kullanıcılara yardımcı olacak. Sistem rezervasyon değiştirme, ödeme sorunlarını çözme, para iadesi alma, yeniden rezervasyon yapma ve 24 saatlik güvenlik desteği gibi konularda dışarıdaki standart ajanların kolayca yapamayacağı görevleri yerine getirebilecek. Şirket, gelecekte bu asistanın ev ve otellerin yanı sıra hizmetler ve deneyimleri de kapsayacak şekilde genişletilmesini planlıyor.\n\n**Neden önemli?** Teknoloji şirketi, üçüncü çeyrekte gelirini %19 artırarak 4,87 milyar dolara ulaştırdı ve güçlü finansal sonuçların ardından büyüme odaklı yapay zeka hamlelerini hızlandırmış durumda.",
+  "category": "urunler",
+  "tags": [
+    "Airbnb",
+    "Brian Chesky",
+    "TechCrunch"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Airbnb yapay zeka seyahat asistanı geliyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "%19",
+  "hero_stat_label": "üçüncü çeyrek gelir artışı",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist travel compass carved from matte white stone, resting on a polished dark grey surface with soft directional light casting gentle shadows",
+  "focus_keyword": "Airbnb yapay zeka seyahat asistanı",
+  "seo_title": "Airbnb yapay zeka seyahat asistanı 2027'de çıkıyor",
+  "meta_description": "Airbnb yapay zeka seyahat asistanı 2027 yılının ilk yarısında kullanıma sunulacak. Şirket üçüncü çeyrek sonuçlarını ve yeni özellik detaylarını açıkladı.",
+  "seo_slug": "airbnb-yapay-zeka-seyahat-asistani-2027de-cikiyor",
+  "image_alt": "Matte beyaz taştan oyulmuş minimalist bir seyahat pusulası",
+  "cover_text": "Airbnb AI",
+  "importance": 7,
+  "triage_reason": "Airbnb, 2027'nin ilk yarısında yapay zeka seyahat asistanını piyasaya süreceğini duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T22:40:55Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 448
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "airbnb-yapay-zeka-seyahat-asistani-2027de-cikiyor",
+  "published_at": "2026-11-05T22:55:45Z",
+  "publish_mode": "auto"
+}
