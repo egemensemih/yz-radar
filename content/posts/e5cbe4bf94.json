@@ -1,0 +1,58 @@
+{
+  "id": "e5cbe4bf94",
+  "created_at": "2026-11-05T19:11:24Z",
+  "title": "Muse AI ses modu ve ifadeli avatarlar ile güncellendi",
+  "summary": "Meta, Muse yapay zeka temsilcisi için gerçek zamanlı sesli görüşme imkanı ve konuşurken hareket eden ifadeli avatarlar özelliğini kullanıma sundu.",
+  "body": "Meta, Muse yapay zeka temsilcisi için hazırladığı yeni ses modu ve ifadeli avatarlar özelliğini 5 Kasım 2026'da duyurdu. Kullanıcılar artık Muse ile gerçek zamanlı olarak sesli sohbet edebiliyor ve konuşma sırasında avatarların kelimelere göre hareket etmesini sağlayan yeni bir arayüzle etkileşime giriyor.\n\n## Muse AI ses modu neler sunuyor?\n\nKullanıcılar, sohbet sırasında tercih ettikleri ses tonunu doğrudan yapay zeka temsilcisinden isteyerek veya uygulama içindeki avatar ayarlarından seçim yaparak değiştirebiliyor. The Verge tarafından aktarılan ilk testlere göre, sistem hızlı yanıt verme kapasitesine sahip olsa da bilgi sorgulama işlemleri sırasında kısa duraklamalar yaşanabiliyor. Ayrıca seçilen avatarların konuşma sırasında sergilediği animasyonlar, eş zamanlı olarak sesle uyumlu bir şekilde işleniyor.\n\n## Kullanılabilirlik ve genişleme planları\n\nMeta'nın açıklamasına göre, söz konusu özellikler şu an itibarıyla Amerika Birleşik Devletleri'ndeki iOS kullanıcılarına sunulmuş durumda. Şirket, bu güncellemelerin yakın zamanda aşağıdaki platformlara da genişletileceğini belirtti:\n\n* Mevcut Meta akıllı gözlükleri\n* Yıl içinde piyasaya sürülmesi beklenen Muse Charm cihazı\n\n**Neden önemli?** Meta'nın bu hamlesi, kullanıcıların yapay zeka temsilcileriyle kurduğu etkileşimi daha kişisel ve görsel bir boyuta taşıma çabasını ortaya koyuyor. Özellikle donanım ekosistemiyle entegre edilen bu özellikler, şirketin gelecekteki giyilebilir cihaz stratejisi için kritik bir adım niteliği taşıyor.",
+  "category": "urunler",
+  "tags": [
+    "Meta",
+    "Muse",
+    "yapay zeka",
+    "ses modu"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Muse AI için sesli sohbet ve avatar desteği",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A singular, polished sphere made of brushed titanium resting on a dark velvet pedestal. The surface of the sphere reflects a soft, rhythmic wave pattern, suggesting the fluidity of voice and movement, without any digital interfaces or human figures present.",
+  "focus_keyword": "Muse AI",
+  "seo_title": "Muse AI ses modu ve ifadeli avatarlar ile güncellendi",
+  "meta_description": "Meta, Muse AI için gerçek zamanlı ses modu ve konuşan ifadeli avatarlar özelliğini duyurdu. Yeni özellikleri ve cihaz desteğini keşfedin.",
+  "seo_slug": "muse-ai-ses-modu-ve-avatarlar-duyuruldu",
+  "image_alt": "Metalik bir küre üzerinde ritmik dalgalanmaların yansıdığı, Muse AI yeniliğini simgeleyen stüdyo fotoğrafı",
+  "cover_text": "Muse AI",
+  "importance": 7,
+  "triage_reason": "Meta'nın Muse yapay zeka asistanı için gerçek zamanlı sesli sohbet özelliği geldi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "title": "Muse has a voice mode now",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T19:03:04Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 439
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "muse-ai-ses-modu-ve-avatarlar-duyuruldu",
+  "published_at": "2026-11-05T19:12:21Z",
+  "publish_mode": "auto"
+}
