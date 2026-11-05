@@ -1,0 +1,58 @@
+{
+  "id": "c5ccc67f17",
+  "created_at": "2026-11-05T04:06:45Z",
+  "title": "Qualcomm veri merkezi pazarına odaklanıyor",
+  "summary": "Akıllı telefon satışlarındaki düşüşün ardından Qualcomm, veri merkezi yapay zeka çipi pazarında büyümeyi hedefliyor.",
+  "body": "Akıllı telefon satışlarındaki düşüşün ardından Qualcomm veri merkezi alanında büyüme stratejisini açıkladı. The Verge'ün aktardığına göre, 2026'nın dördüncü çeyrek kazanç toplantısında konuşan şirket, Amazon ve Meta gibi firmalarla yapılan ortaklıklar doğrultusunda yapay zeka veri merkezi pazarında iddialı bir konuma gelmeyi amaçlıyor.\n\n## Beklenen gelir hedefleri\n\nŞirket, veri merkezi segmentinden elde edilecek gelirin 2027'nin ilk çeyreğinde 650 milyon dolar seviyesinde olmasını bekliyor. Bu kalemin 2027'nin sonunda 5 milyar dolara, 2029 yılına kadar ise 15 milyar dolara ulaşması öngörülüyor. Qualcomm, veri merkezi çiplerinin zamanla toplam iş hacminin yüzde 30'unu oluşturacağını belirtti.\n\n## Sektördeki diğer oyuncular\n\nQualcomm'un bu hedefleri, gelirlerinin yüzde 80'inden fazlasının veri merkezlerinden gelmesini bekleyen AMD kadar iddialı olmasa da, pazardaki talebi karşılamak adına önemli bir adım olarak değerlendiriliyor. Şirketin 2026 yılı toplam geliri ise 10,4 milyar dolar olarak gerçekleşti.\n\n**Neden önemli?** Akıllı telefon pazarındaki daralma karşısında Qualcomm gibi köklü üreticilerin yapay zeka veri merkezlerine yönelmesi, çip endüstrisindeki gelir dengelerinin yeniden şekillendiğini gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Qualcomm",
+    "Amazon",
+    "Meta",
+    "AMD"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Qualcomm veri merkezi pazarına odaklanıyor",
+  "kicker": "Finansal sonuçlar",
+  "hero_stat": "15 milyar $",
+  "hero_stat_label": "2029 veri merkezi hedefi",
+  "visual_style": "studio",
+  "visual_scene": "a single polished titanium block with three ascending vertical channels milled into its surface, soft cool light reflecting off the metallic edges against a dark neutral background",
+  "focus_keyword": "Qualcomm veri merkezi",
+  "seo_title": "Qualcomm veri merkezi ve yapay zeka çipi hedeflerini açıkladı",
+  "meta_description": "Akıllı telefon satışlarındaki düşüşün ardından Qualcomm, yapay zeka veri merkezi çipi pazarında milyarlarca dolarlık gelir hedefliyor.",
+  "seo_slug": "qualcomm-veri-merkezi-yapay-zeka-hedefleri",
+  "image_alt": "Gri arka plan önünde duran, üzerinde dikey kanallar bulunan parlatılmış titanyum blok",
+  "cover_text": "Qualcomm",
+  "importance": 7,
+  "triage_reason": "Qualcomm, akıllı telefon satışlarındaki düşüş nedeniyle yapay zeka veri merkezlerine yöneliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-04T22:42:15Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 406
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "qualcomm-veri-merkezi-yapay-zeka-hedefleri",
+  "published_at": "2026-11-05T04:06:57Z",
+  "publish_mode": "auto"
+}
