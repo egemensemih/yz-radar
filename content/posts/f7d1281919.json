@@ -1,0 +1,59 @@
+{
+  "id": "f7d1281919",
+  "created_at": "2026-11-05T15:32:26Z",
+  "title": "Dropbox Tigris Data şirketini 350 milyon dolara satın aldı",
+  "summary": "Dropbox, yapay zeka altyapısını güçlendirmek amacıyla Tigris Data şirketini 350 milyon dolara bünyesine kattığını ve DBX Agent Cloud depolama platformunu geliştireceğini duyurdu.",
+  "body": "5 Kasım'da duyurulan anlaşmaya göre Dropbox Tigris Data şirketini 350 milyon dolar karşılığında satın alarak tarihinin en büyük satın almasına imza attı. TechCrunch'ın aktardığı habere göre şirket, bu hamleyle yapay zeka altyapısını güçlendirmeyi ve yapay zeka modelleri ile ajanları geliştiren kurumlar için tasarlanan DBX Agent Cloud adındaki yeni depolama platformunu desteklemeyi hedefliyor. Satın alma işleminin 2026 yılının dördüncü çeyreğinde tamamlanması bekleniyor.\n\n## Dropbox Tigris Data hamlesi ile ne hedefliyor?\n\nDropbox'ın yeni duyurduğu DBX Agent Cloud platformu, ilk aşamada Amazon S3 ile uyumlu bağımsız bir **nesne depolama** (object storage) ürünü olarak sunulacak. Şirket, platformu ilerleyen dönemde belgeler, görseller, ses ve video gibi farklı içerik türlerini işleyebilecek şekilde genişletmeyi planlıyor. Ayrıca yapay zeka ajanlarının dosya yönetimi yapmasını ve oturumlar arası sürekliliği korumasını sağlayan dosya sistemi özellikleri de platforma eklenecek.\n\nBulut depolama hizmetinin yanı sıra temel Dropbox ürününe de yeni yapay zeka yetenekleri getiriliyor. Kullanıcılar yapay zekadan dosyaları üzerinde işlem yapmasını isteyebilecek, farklı yapay zeka modelleri arasından seçim yapabilecek ve içeriklerini ChatGPT, Claude ve Muse gibi üçüncü taraf araçlara bağlayabilecek. Bu güncellenmiş deneyimin şimdiden 70.000'den fazla takıma ulaştığı bildirildi.\n\n## Depolama teknolojisi ve şirket geçmişi\n\nEski Uber mühendisleri tarafından kurulan Tigris Data, verileri kullanıcıların ve bilgi işlem kaynaklarının bulunduğu bölgelere yakın konumlandırarak erişim sürelerini azaltan **bulut depolama** teknolojileri geliştiriyor. Geçtiğimiz yıl A Serisi yatırım turunda 25 milyon dolar toplayan girişim, Dropbox'ın altyapı mimarisine entegre edilecek.\n\nDropbox yetkilileri, bu anlaşma kapsamında herhangi bir çalışan azaltımı planlanmadığını bildirdi. Şirket daha önce de Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı girişimleri satın almıştı.\n\n**Neden önemli?** Yapay zeka ajanlarının karmaşık görevleri yürütebilmesi için veriye hızlı ve esnek erişim sağlayan altyapılar kritik önem taşıyor. Dropbox'ın bu yatırımı, bulut depolama şirketlerinin pasif dosya saklama alanından yapay zeka sistemlerine hizmet veren aktif platformlara dönüştüğünü gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Dropbox",
+    "Tigris Data",
+    "DBX Agent Cloud",
+    "bulut depolama",
+    "yapay zeka altyapısı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Dropbox 350 milyon dolara Tigris Data'yı satın aldı",
+  "kicker": "Satın alma",
+  "hero_stat": "350 milyon $",
+  "hero_stat_label": "satın alma bedeli",
+  "visual_style": "sculpture",
+  "visual_scene": "A modern frosted-glass sculpture featuring translucent modular blocks interlocking seamlessly with sleek amber glowing light conduits, representing cloud storage and data distribution in a minimal studio setting",
+  "focus_keyword": "Dropbox Tigris Data",
+  "seo_title": "Dropbox Tigris Data şirketini 350 milyon dolara satın aldı",
+  "meta_description": "Dropbox Tigris Data şirketini 350 milyon dolara satın alarak yapay zeka altyapısını güçlendiriyor ve DBX Agent Cloud platformunu sunuyor.",
+  "seo_slug": "dropbox-tigris-data-satin-almasi",
+  "image_alt": "Saydam cam bloklar ve veri akışını simgeleyen ışık çizgilerinden oluşan soyut heykel tasarımı",
+  "cover_text": "DBX Agent Cloud",
+  "importance": 7,
+  "triage_reason": "Dropbox'un yapay zeka altyapısını güçlendirmek için yaptığı 350 milyon dolarlık stratejik bir satın alma.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T15:19:05Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 422
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "dropbox-tigris-data-satin-almasi",
+  "published_at": "2026-11-05T15:32:29Z",
+  "publish_mode": "auto"
+}
