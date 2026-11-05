@@ -1,0 +1,59 @@
+{
+  "id": "8f5000c14d",
+  "created_at": "2026-11-05T14:25:17Z",
+  "title": "Box, Nvidia Nemotron entegrasyonu ile içerik arama sistemini güncelliyor",
+  "summary": "Box, Nvidia'nın Nemotron yerleştirme sistemini kullanarak Enterprise Advance müşterileri için daha hızlı ve doğru bir içerik arama özelliği geliştiriyor.",
+  "body": "Bulut tabanlı içerik yönetim platformu Box, geliştirici konferansında Nvidia Nemotron teknolojisini temel alan yeni içerik arama sistemini duyurdu. Box Content Retrieval adı verilen bu yeni özellik, yapay zeka ajanlarının dokümanlar içindeki sorgulara çok daha etkin yanıt vermesini sağlamayı hedefliyor. Sistem, temel olarak dokümanların ön işlenmesi ve anlamlandırılması aşamasında Nvidia'nın açık ağırlıklı Nemotron Embed modellerinden yararlanıyor.\n\n## Hız ve verimlilik artışı\n\nBox tarafından paylaşılan verilere göre, sistemin kullanımıyla birlikte sorguların dört kat daha hızlı yanıtlanması, hata oranlarının %20 azalması ve işlem başına kullanılan token miktarının %90 oranında düşmesi bekleniyor. Nvidia Generative AI Software Başkan Yardımcısı Kari Briski, bu entegrasyonun arama kalitesini artıracağını belirtiyor. Box CEO'su Aaron Levie ise yeni sistemin, ajanın her dokümanı satır satır okuması yerine, kullanıcının sorgusuyla en alakalı kısımları doğrudan sunabildiğini ifade ediyor.\n\n## Hukuki süreçlerde kullanım\n\nNemotron modelleri, basit anahtar kelime eşleşmelerinin ötesine geçerek kavramsal haritalama yapabiliyor. Bu sayede farklı kelimelerle yazılmış olsa bile ilgili dokümanlar kolaylıkla tespit edilebiliyor. Özellikle avukatlar gibi, belirli maddeleri ve emsal kararları bulması gereken profesyoneller için bu teknolojinin büyük kolaylık sağlaması hedefleniyor. Sistem, Enterprise Advance müşterileri için önümüzdeki yılın başlarında kullanıma sunulacak.\n\n**Neden önemli?** Box, bu yeni özellik ile Nvidia'nın Nemotron projesini mevcut üst düzey meta veri ve izin kontrolleriyle birleştirerek, benzeri zor oluşturulabilecek karmaşık bir arama altyapısı sunmayı amaçlıyor.",
+  "category": "urunler",
+  "tags": [
+    "Box",
+    "Nvidia",
+    "Nemotron",
+    "yapay zeka",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Box ve Nvidia'dan yeni arama sistemi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "%90",
+  "hero_stat_label": "daha az token kullanımı",
+  "visual_style": "studio",
+  "visual_scene": "A series of smooth, matte-white paper sheets arranged in a fan shape, with glowing amber light lines connecting specific overlapping points between the pages to represent data retrieval paths.",
+  "focus_keyword": "Box Content Retrieval",
+  "seo_title": "Box, Nvidia Nemotron ile arama sistemini yeniliyor",
+  "meta_description": "Box, yeni Box Content Retrieval özelliği ile Nvidia'nın Nemotron modelini kullanarak içerik arama süreçlerini hızlandırıyor.",
+  "seo_slug": "box-nvidia-nemotron-entegrasyonu",
+  "image_alt": "Soyut bir veri bağlantısını temsil eden, kağıtlar arasında altın rengi ışık çizgileriyle birbirine bağlanan mimari bir…",
+  "cover_text": "Nemotron",
+  "importance": 6,
+  "triage_reason": "Box'ın içerik yönetimi sistemine Nvidia'nın Nemotron modelini entegre etmesi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 416
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "box-nvidia-nemotron-entegrasyonu",
+  "published_at": "2026-11-05T14:25:32Z",
+  "publish_mode": "auto"
+}
