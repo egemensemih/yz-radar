@@ -1,0 +1,59 @@
+{
+  "id": "6d93a6e6fa",
+  "created_at": "2026-11-06T06:31:06Z",
+  "title": "Palo Alto Networks, yapay zeka girişimini satın almak için görüşüyor",
+  "summary": "Palo Alto Networks, yapay zeka ajanlarının şirket sistemlerine erişimini güvene alan Clutch Security'yi 500 milyon dolara satın almak için görüşmelere başladı.",
+  "body": "TechCrunch'ın aktardığına göre, **Palo Alto Networks** yapay zeka ajanlarının şirket sistemlerine erişimini koruyan Clutch Security adlı girişimi satın almak için görüşmeler yürütüyor. Bilgi sahibi bir kaynağa dayandırılan haberde, olası anlaşmanın 500 milyon dolar nakit ve ek performansa dayalı ödemeleri kapsayabileceği belirtiliyor.\n\n## Satın alma görüşmeleri ve değerleme\n\nÜç yıllık geçmişe sahip olan **Clutch Security**, Ocak 2025'te gerçekleştirdiği 20 milyon dolarlık Seri A yatırım turunda Lightspeed ve SignalFire liderliğinde 85 milyon dolar değerlemeye ulaşmıştı. Kaynağın aktardığına göre yıllık 10 milyon dolara yaklaşan düzenli geliri bulunan girişimin bu değerleme ile yıllık gelirinin yaklaşık 50 katı bir fiyatlandırmayla ele alındığı ifade ediliyor. Palo Alto Networks ve Clutch Security tarafları ise konuyla ilgili yorum talebine yanıt vermedi. Satın alma görüşmelerini ilk olarak The Information duyurdu.\n\n## Artan siber güvenlik yatırımları\n\nSöz konusu girişim, yapay zekanın kötü amaçlı aktörler tarafından sistem ihlallerinde kullanılmasına karşı yazılımları koruyan pazarın bir parçası olarak dikkat çekiyor. PitchBook verilerine göre bu anlaşma gerçekleşirse, siber güvenlik devi için bu yılki yedinci satın alma olacak. Şirket daha önce Console, Embrace, Chronosphere ve Koi gibi girişimleri de bünyesine katmıştı. Benzer şekilde, sektördeki diğer oyuncular da yapay zeka ajanı erişim yönetimi alanındaki şirketleri satın almakta; Cyera Oasis Security'yi 1 milyar dolara satın alırken Cisco da Astrix'i yaklaşık 400 milyon dolara bünyesine katmıştı.\n\n**Neden önemli?** Yapay zeka ajanlarının kurumsal sistemlere erişimini güvence altına alan girişimlere yönelik artan ilgi, büyük siber güvenlik şirketlerinin bu alandaki satın alma faaliyetlerini hızlandırmasına yol açıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Palo Alto Networks",
+    "Clutch Security",
+    "Lightspeed",
+    "SignalFire",
+    "PitchBook"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Palo Alto Networks Clutch Security'yi alıyor",
+  "kicker": "Satin alma gorusmesi",
+  "hero_stat": "500 milyon $",
+  "hero_stat_label": "görüşülen satın alma bedeli",
+  "visual_style": "studio",
+  "visual_scene": "a single solid obsidian block resting on a brushed titanium surface, with a precise fine fissure of warm amber light cutting horizontally across its center",
+  "focus_keyword": "Palo Alto Networks",
+  "seo_title": "Palo Alto Networks, Clutch Security'yi satın alabilir",
+  "meta_description": "Palo Alto Networks, yapay zeka ajanı güvenliği sağlayan Clutch Security girişimini 500 milyon dolara satın almak için görüşmeler yürütüyor.",
+  "seo_slug": "palo-alto-networks-clutch-security-satin-alma-gorusmesi",
+  "image_alt": "Siyah obsidyen blok üzerinde ince sıcak ışık çizgisi, Palo Alto Networks ve Clutch Security satın alma görüşmelerini temsil…",
+  "cover_text": "Clutch Security",
+  "importance": 7,
+  "triage_reason": "Palo Alto Networks, yapay zeka ajan güvenliği girişimi Clutch'ı 500 milyon dolara satın alıyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-06T06:28:32Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 457
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "palo-alto-networks-clutch-security-satin-alma-gorusmesi",
+  "published_at": "2026-11-06T06:31:08Z",
+  "publish_mode": "auto"
+}
