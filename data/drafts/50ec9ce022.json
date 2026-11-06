@@ -1,0 +1,69 @@
+{
+  "id": "50ec9ce022",
+  "status": "pending",
+  "created_at": "2026-11-06T18:11:26Z",
+  "title": "ABD seçimlerinin ardından veri merkezi kısıtlamaları gündemde",
+  "summary": "ABD ara seçimlerinde seçmenler 41 yerel oy pusulası tedbirinin 40'ında veri merkezlerine daha fazla kısıtlama getirilmesini onayladı.",
+  "body": "TechCrunch'ın aktardığına göre, ABD'de gerçekleştirilen ara seçimlerin ardından **veri merkezi kısıtlamaları** teknoloji ve yapay zeka sektörünün öncelikli gündem maddelerinden biri haline geldi. Seçmenlerin oy kullandığı seçim sürecinde, veri merkezlerine ilişkin yerel düzeyde sunulan 41 sandık tedbirinin 40'ında halk tesislerin gelişimine daha fazla kısıtlama getirilmesi yönünde tercih yaptı.\n\n## Sandıktan veri merkezi kısıtlamaları çıktı\n\nVeri merkezleri, doğrudan oy pusulasında bulunmadığı eyalet ve bölgelerde dahi seçim kampanyalarının temel tartışma başlıkları arasında yer buldu. Seçimleri kazanan yeni Demokrat Parti eyalet valileri ile Kongre üyelerinin, veri merkezlerinin inşasına ve faaliyetlerine yönelik ilave yasal kısıtlamaları desteklemesi bekleniyor. Sektör temsilcileri kamuoyundaki endişeleri azaltmaya çalışırken, OpenAI gibi yapay zeka şirketlerinin veri merkezlerinin kamuoyu algısını değiştirmek amacıyla yeniden markalama çalışmaları yaptığı bildiriliyor.\n\n## Sektörde öne çıkan diğer gelişmeler\n\nSeçim sonuçlarının yanı sıra teknoloji dünyasında dikkat çeken farklı gelişmeler de yaşanıyor. Şirket birleşmeleri tarafında **Marvell**, Lumentum firmasını 115 milyar dolar tutarındaki dev anlaşmayla satın alarak sektör tarihinin en büyük işlemlerinden birini gerçekleştirdi. Yayınlanan değerlendirmelerde ayrıca Google şirketinin yörüngedeki ilk uydu veri merkezi projesi, CrowdStrike firmasının yapay zeka güvenlik odaklı iki girişimi satın alması, Canva ile Squarespace şirketlerindeki işten çıkarmalar ve NBCUniversal şirketinin Elo Elo adlı Hintli microdrama girişimine yaptığı yatırım öne çıkıyor.\n\n**Neden önemli?** Seçmenlerin onayladığı kısıtlama kararları ve yeni göreve gelen siyasetçilerin beklenen düzenleme adımları, yapay zeka modellerini eğitmek ve işletmek için devasa bilgi işlem altyapısına ihtiyaç duyan teknoloji şirketlerinin veri merkezi genişleme planlarını zorlaştırabilir.",
+  "category": "politika",
+  "tags": [
+    "ABD",
+    "veri merkezleri",
+    "OpenAI",
+    "Marvell",
+    "düzenleme"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD seçimleri sonrası veri merkezlerine kısıtlama",
+  "kicker": "Düzenleme",
+  "hero_stat": "40",
+  "hero_stat_label": "onaylanan kısıtlama kararı",
+  "visual_style": "sculpture",
+  "visual_scene": "a minimalist architectural model of a monolithic server building made of frosted grey glass, surrounding landscape represented by smooth dark river stones and a single red ribbon wrapping tightly around the structure",
+  "focus_keyword": "veri merkezi kısıtlamaları",
+  "seo_title": "Veri merkezi kısıtlamaları ABD seçimleriyle gündemde",
+  "meta_description": "ABD ara seçimlerinde seçmenler veri merkezi kısıtlamaları getiren teklifleri onayladı. Düzenlemelerin sektöre etkileri ne olacak?",
+  "seo_slug": "abd-secimlerinin-ardindan-veri-merkezi-kisitlamalari-gundemde",
+  "image_alt": "Buzlu camdan sunucu binası maketi ve kırmızı şerit ile veri merkezi kısıtlamalarını temsil eden görsel",
+  "cover_text": "Veri Merkezleri",
+  "importance": 6,
+  "triage_reason": "ABD ara seçim sonuçları ve veri merkezi kısıtlamalarının yapay zeka sektörüne olası etkileri.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-06T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "published": "2026-11-06T18:00:00Z",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.\nThe public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a major talking point, with newly-elected Democratic governors and congressmembers likely to support additional regulation.\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and Anthony Ha discuss what the election will mean for the tech industry moving forward — not just when it comes to data centers (which OpenAI is already trying to rebrand), but also increased government scrutiny of Big Tech.\nListen to the full episode to hear more about:\n- Whether Google first satellite data center is ushering our orbital data center future\n- If major layoffs at design software company Canva and website builder Squarespace can be blamed on AI\n- Marvell’s $115 billion acquisition of Lumentum, in one of the largest deals in history\n- Why CrowdStrike just acquired of two AI security startups\n- What NBCUniversal’s investment in Indian microdrama startup Elo Elo means for the media landscape\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 468
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
