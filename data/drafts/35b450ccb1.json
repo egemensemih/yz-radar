@@ -1,0 +1,70 @@
+{
+  "id": "35b450ccb1",
+  "status": "pending",
+  "created_at": "2026-11-06T05:03:39Z",
+  "title": "Franklin Templeton OpenAI altyapısıyla yatırım araştırmalarını destekliyor",
+  "summary": "Franklin Templeton, hisse senedi araştırmalarından başlayarak portföy yöneticilerinin analizleri kıyaslaması ve riskleri incelemesi için OpenAI destekli iş akışları geliştiriyor.",
+  "body": "OpenAI tarafından 5 Kasım'da yayımlanan duyuruya göre varlık yönetim şirketi **Franklin Templeton OpenAI** modellerini yatırım araştırması süreçlerine entegre etmeye başladı. Şirket, ilk aşamada hisse senedi araştırmalarına odaklanarak portföy yöneticilerine yönelik yeni yapay zeka iş akışları tasarlıyor.\n\n## Franklin Templeton OpenAI entegrasyonu risklere odaklanıyor\n\nAçıklanan bilgilere göre geliştirilen sistem, portföy yöneticilerinin farklı araştırma görüşlerini yan yana getirerek karşılaştırmasına olanak tanıyacak. Bunun yanı sıra yatırım süreçlerindeki potansiyel risk unsurlarının daha ayrıntılı biçimde incelenmesi hedefleniyor.\n\n## Hisse senedi araştırmalarında yeni süreç\n\nFranklin Templeton'ın oluşturduğu bu yeni yapı, hisse senedi analistlerinin ve fon yöneticilerinin karar alma aşamalarını desteklemeyi amaçlıyor. Kurum, **yatırım araştırmaları** kapsamındaki verileri iş akışlarına dahil ederek yöneticilerin piyasa koşullarını değerlendirme kabiliyetini artırmayı planlıyor.\n\n**Neden önemli?** Büyük ölçekli kurumsal varlık yöneticilerinin yapay zeka modellerini hisse senedi analizi ve risk tespiti süreçlerine doğrudan dahil etmesi, finansal araştırma operasyonlarının yapay zeka odaklı araçlara entegrasyonunu hızlandırıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Franklin Templeton",
+    "OpenAI",
+    "portföy yönetimi",
+    "hisse senedi"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "yetersiz_bilgi"
+  ],
+  "editor_note": "OpenAI duyurusu çok kısa bir metinden oluşuyor; spekülasyona girmeden yalnızca aktarılan araştırma ve risk odaklı kullanım hedefleri yazıldı.",
+  "short_title": "Franklin Templeton yatırımda OpenAI kullanıyor",
+  "kicker": "Yapay zeka iş akışı",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "a minimalist geometric balance scale made of frosted glass and brushed brass, resting on a dark slate surface under soft diffused light",
+  "focus_keyword": "Franklin Templeton OpenAI",
+  "seo_title": "Franklin Templeton OpenAI ile yatırım araştırması yapıyor",
+  "meta_description": "Franklin Templeton OpenAI teknolojisiyle portföy yöneticilerine yönelik hisse senedi araştırmaları ve risk analizi iş akışları geliştirmeye başladı.",
+  "seo_slug": "franklin-templeton-openai-ile-yatirim-arastirmasi",
+  "image_alt": "Buzlu cam ve pirinçten soyut terazi: Franklin Templeton'ın OpenAI ile yatırım analizi ve risk değerlendirmesini simgeler",
+  "cover_text": "Franklin Templeton",
+  "importance": 6,
+  "triage_reason": "Franklin Templeton yatırım araştırmalarında yapay zeka iş akışları geliştiriyor.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/franklin-templeton",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-05T00:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "published": "2026-11-05T00:00:00Z",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 456
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}

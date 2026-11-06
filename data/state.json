@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-06T04:45:42Z",
+  "last_collect": "2026-11-06T05:01:06Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:03Z",
       "count": 1366
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:03Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:03Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 990,
+      "fails": 991,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:57Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:30:58Z",
+      "last_ok": "2026-11-06T05:01:04Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
+      "fails": 2,
       "last_ok": "2026-11-06T04:01:15Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -205,10 +205,10 @@
       "expired": 9
     },
     "2026-11-06": {
-      "tok_in": 18462,
-      "tok_out": 5547,
+      "tok_in": 20398,
+      "tok_out": 6321,
       "cost_usd": 0.0,
-      "drafts": 5,
+      "drafts": 6,
       "published": 2,
       "auto": 2,
       "expired": 5
@@ -220,37 +220,6 @@
   "indexnow_queue": [],
   "last_build": "2026-11-06T04:10:49Z",
   "build_sig": "1006e235604846f4",
-  "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i5"
-        ],
-        "topic": "Franklin Templeton uses OpenAI for research",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Franklin Templeton yatırım araştırmalarında yapay zeka iş akışları geliştiriyor."
-      },
-      "items": [
-        {
-          "key": "c0d7b0808284d182",
-          "source": "OpenAI",
-          "kind": "official",
-          "credit": "OpenAI",
-          "url": "https://openai.com/index/franklin-templeton",
-          "via": null,
-          "via_url": null,
-          "title": "Franklin Templeton uses OpenAI to support investment research",
-          "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-          "published": "2026-11-05T00:00:00Z",
-          "html_source": false,
-          "tid": "i5"
-        }
-      ],
-      "at": "2026-11-06T04:01:17Z"
-    }
-  ],
+  "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
 }
