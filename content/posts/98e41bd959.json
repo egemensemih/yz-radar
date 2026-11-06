@@ -1,0 +1,59 @@
+{
+  "id": "98e41bd959",
+  "created_at": "2026-11-06T16:02:10Z",
+  "title": "Yapay zeka harcamalarında yavaşlama sinyalleri artıyor",
+  "summary": "Ramp verilerine göre yapay zeka kullanım hacimleri artmaya devam etse de şirket harcamaları hız kesiyor. Bu durum OpenAI ve Anthropic'in gelir hedeflerini etkiliyor.",
+  "body": "Şirketler yapay zeka araçlarını hiç olmadığı kadar yoğun kullanıyor, ancak bu kullanım artışı harcama rakamlarına aynı oranda yansımıyor. Ramp tarafından paylaşılan güncel veriler, yapay zeka harcamalarının yaz sonu itibarıyla yatay bir seyre girdiğini gösteriyor. TechCrunch’ın aktardığına göre, Temmuz ayında bir önceki aya kıyasla %42 artan token harcamaları, Ağustos ve Eylül aylarında yalnızca %1,5 oranında büyüme gösterdi. Bu yavaşlama, yapay zeka şirketlerinin gelir artışı beklentilerini yeniden değerlendirmelerine neden oluyor.\n\n## Rekabetin harcamalara etkisi\n\nEkonomist Ara Kharazian, harcamalardaki bu yavaşlamanın bir talep sorunundan ziyade piyasadaki yoğun rekabetten kaynaklandığını belirtiyor. OpenAI’ın GPT-6 Sol ve GPT-6 Luna modellerinde, Anthropic’in ise Fable 5.1 ve Opus 5.5 modellerinde gerçekleştirdiği ciddi fiyat indirimleri, yapay zekayı kurumlar için daha erişilebilir hale getirdi. Ayrıca Nvidia ve Meta gibi devlerin sunduğu ekonomik veya açık kaynaklı modeller ile Jev gibi verimlilik odaklı araçlar, kullanıcıların daha düşük maliyetli seçeneklere yönelmesini kolaylaştırıyor.\n\n## Gelir hedeflerinde değişim\n\nSektördeki \"hiper büyüme\" döneminin geride kalmış olabileceğine işaret eden uzmanlar, kurumların artık yapay zekayı kullanırken çok daha temkinli olduklarını vurguluyor. Şirketler, yüksek maliyetli modellerden kaçınarak bütçelerini daha verimli yönetiyor ve görevleri daha hafif, maliyet etkin modellerle yürütmeyi öğreniyor. Bu \"alıcı piyasası\" dinamikleri, Anthropic ve OpenAI gibi devlerin değerleme beklentilerini de aşağı çekti. Bloomberg’in raporuna göre Anthropic’in piyasa değeri tahminleri düşerken, OpenAI da benzer şekilde yatırım hedeflerinde revizyon yapmak durumunda kaldı.\n\n**Neden önemli?** Yapay zeka sektöründeki harcama yavaşlaması, yatırımcıların bu şirketlerin sürekli ve çok hızlı büyüyeceğine dair temel varsayımlarını sorgulamalarına yol açıyor. Kullanım hacimleri artsa da, birim maliyetlerin düşmesi ve verimliliğin artması gelirlerin aynı hızla büyümesini engelliyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "yapay zeka harcamaları",
+    "token",
+    "piyasa değeri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka harcamalarında yavaşlama",
+  "kicker": "Sektörel analiz",
+  "hero_stat": "%1,5",
+  "hero_stat_label": "token harcama artışı",
+  "visual_style": "sculpture",
+  "visual_scene": "A tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface.",
+  "focus_keyword": "yapay zeka harcamaları",
+  "seo_title": "Yapay zeka harcamaları yavaşlıyor: Sektörde son durum",
+  "meta_description": "Ramp verilerine göre yapay zeka kullanım hacimleri artmasına rağmen şirketlerin harcamaları yavaşlıyor. İşte OpenAI ve Anthropic'i etkileyen yeni trend.",
+  "seo_slug": "yapay-zeka-harcamalari-yavasliyor",
+  "image_alt": "Buzlu cam küplerden oluşan grafik yapısı, yapay zeka sektöründeki harcama yavaşlamasını temsil ediyor.",
+  "cover_text": "AI Harcamaları",
+  "importance": 6,
+  "triage_reason": "Yapay zeka harcamalarının büyümesinde yavaşlama olduğuna dair yeni ekonomik veriler.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-06T15:54:47Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 463
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "yapay-zeka-harcamalari-yavasliyor",
+  "published_at": "2026-11-06T16:02:14Z",
+  "publish_mode": "auto"
+}
