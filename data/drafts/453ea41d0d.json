@@ -1,0 +1,70 @@
+{
+  "id": "453ea41d0d",
+  "status": "pending",
+  "created_at": "2026-11-06T22:25:55Z",
+  "title": "Anthropic IPO değerlemesi beklentisi 1,1 trilyon dolar seviyesine geriledi",
+  "summary": "Yapay zeka sektöründe yaşanan gerilemenin ardından Anthropic'in halka arz sürecindeki değerleme beklentilerinin 1,1 trilyon dolar seviyelerine kadar düştüğü bildirildi.",
+  "body": "Bloomberg'in 6 Kasım 2026 tarihli haberine göre, **Anthropic IPO değerlemesi** için potansiyel yatırımcıların sunduğu rakamlar 1,1 trilyon dolar seviyesine kadar geriledi. Yapay zeka pazarında yaşanan genel fiyat gerilemesinin ardından şirketin halka arz öncesi görüşmelerindeki beklentilerin aşağı yönlü revize edildiği ifade ediliyor.\n\n## Anthropic IPO değerlemesi beklentileri nasıl etkilendi?\n\nYapay zeka piyasasında yaşanan düşüş dalgası, Anthropic'in halka arz fiyatlamasını doğrudan etkiledi. Haberde aktarılan bilgilere göre, daha önce 1,3 trilyon dolar seviyelerinde konuşulan değerleme beklentileri, pazar koşullarındaki değişim sonrasında düşüş kaydetti.\n\n## Yatırımcıların yaklaşımı\n\nHalka arza katılması beklenen kurumsal yatırımcıların, sektör genelinde hisse ve şirket değerlerinde gözlemlenen gerilemenin ardından daha temkinli bir tutum sergilediği belirtiliyor. Sürece yakın kaynaklar, değerleme pazarlıklarının 1,1 trilyon dolar ile 1,3 trilyon dolar aralığında şekillendiğini aktarıyor.\n\n**Neden önemli?** Sektörün en büyük oyuncularından Anthropic'in değerleme beklentilerindeki bu düşüş, piyasadaki risk iştahının ve yatırımcıların yapay zeka girişimlerine biçtiği değerin yeniden şekillendiğini gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "halka arz",
+    "IPO",
+    "Bloomberg"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "yetersiz_bilgi"
+  ],
+  "editor_note": "Kaynak metin Bloomberg haberinin kısa bir özetiyle sınırlı olduğu için haber kısa tutulmuş ve ek iddialardan kaçınılmıştır.",
+  "short_title": "Anthropic'in IPO değerlemesi 1,1 trilyon $'a düştü",
+  "kicker": "Halka arz",
+  "hero_stat": "1,1 trilyon $",
+  "hero_stat_label": "düşük değerleme beklentisi",
+  "visual_style": "sculpture",
+  "visual_scene": "A minimal, geometric frosted-glass scale tilting downward on one side, resting on a dark polished stone surface under soft focused lighting.",
+  "focus_keyword": "anthropic ipo degerlemesi",
+  "seo_title": "Anthropic IPO değerlemesi 1,1 trilyon dolara geriledi",
+  "meta_description": "Anthropic IPO değerlemesi beklentileri yapay zeka pazarındaki düşüşün ardından 1,1 trilyon dolar seviyesine geriledi. Detaylar YZ Radar'da.",
+  "seo_slug": "anthropic-ipo-degerlemesi-1-1-trilyon-dolara-geriledi",
+  "image_alt": "Koyu taş bir zemin üzerinde hafifçe eğilmiş minimalist cam terazi figürü",
+  "cover_text": "Anthropic",
+  "importance": 7,
+  "triage_reason": "Anthropic'in olasi halka arz degerlemesi piyasa kulislerinde yankı buldu.",
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50394906",
+      "published": "2026-11-06T16:54:36Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "Bloomberg",
+      "kind": "community",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "published": "2026-11-06T16:54:36Z",
+      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 160 # Comments: 380",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 470
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
