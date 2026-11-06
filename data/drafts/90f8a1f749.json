@@ -1,0 +1,69 @@
+{
+  "id": "90f8a1f749",
+  "status": "pending",
+  "created_at": "2026-11-06T17:56:34Z",
+  "title": "Meta yapay zeka eğitimi için zorunlu kılınan ticari şartlar güncellemesini durdurdu",
+  "summary": "Meta, kullanıcı tepkileri ve küresel mahkeme kararlarının ardından harici sitelerin yapay zeka eğitimi için taranmasını öngören sözleşme değişikliğini askıya aldı.",
+  "body": "Meta, Facebook üzerindeki ticari hesap sahiplerinin harici web sitelerindeki içeriklerini yapay zeka eğitimi için kullanıma açmasını şart koşan sözleşme güncellemesini süresiz olarak askıya aldı. Şirket yetkililerinin Reuters'a aktardığı bilgilere göre, **meta yapay zeka eğitimi** odaklı bu kural değişikliği şimdilik uygulanmayacak ve mevcut **ticari şartlar** geçerliliğini koruyacak. Karar, dünya genelindeki medya yayıncıları, hukuk uzmanları ve rekabet kurumlarından gelen yoğun tepkilerin ardından geldi.\n\n## Düzenleyici kurumlar ve mahkemeler harekete geçti\nSöz konusu şartların başlangıçta 30 Ekim tarihinde yürürlüğe girmesi planlanıyordu, ancak artan itirazlar üzerine tarih ilk olarak 20 Kasım'a çekilmişti. Yayıncılar ve hukuk uzmanları, muğlak ifadelere sahip güncellemenin Meta'nın sitelerdeki telif engellerini veya robots.txt dosyalarını göz ardı ederek içerikleri izinsiz taramasına imkan tanıyacağını öne sürdü. Ars Technica'nın aktardığına göre, harici sitelere yönlendirme yapan ticari hesap sahiplerine tarama izni vermeme opsiyonu tanınmıyordu.\n\nKüresel boyutta büyüyen tepkiler yargıya da yansıdı. Brezilya ve Norveç mahkemeleri, yerel kuruluşların açtığı davaların ardından yeni şartların uygulanmasını durduran **ihtiyati tedbir** kararları verdi. Bunun yanı sıra İngiltere Rekabet ve Piyasalar Kurumu, Meta'nın hakim konumunu veri toplamada kötüye kullanıp kullanmadığını incelemek amacıyla resmi bir soruşturma başlattı.\n\n## Meta yapay zeka eğitimi şartlarında son durum\nMeta sözcüsü Reuters'a yaptığı açıklamada, \"Paydaşlarla temaslarımızı sürdürmek ve bu süreci doğru şekilde yürütmek için değişiklikleri durduruyoruz\" ifadesini kullandı. Mevcut durumda iş sahipleri ve yayıncılar eski şartlara tabi kalmaya devam edecek.\n\nSüreçte öne çıkan gelişmeler şu şekilde sıralandı:\n- Brezilya ve Norveç yargısı uygulamanın yürürlüğe girmesini engellemek için kararlar aldı.\n- İngiltere rekabet otoritesi Meta hakkında resmi bir soruşturma başlattı.\n- Şirket, paydaş görüşmelerini gerekçe göstererek şartlardaki güncellemeyi süresiz olarak askıya aldı.\n\n**Neden önemli?** Büyük teknoloji şirketlerinin yapay zeka modellerini eğitmek amacıyla telifli yayıncı içeriklerine izinsiz erişim sağlama çabaları, uluslararası ölçekte hukuki ve regülasyon engelleriyle karşılaşmayı sürdürüyor.",
+  "category": "politika",
+  "tags": [
+    "Meta",
+    "Facebook",
+    "Meta Business",
+    "robots.txt",
+    "telif hakki"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta yapay zeka eğitimi güncellemesini erteledi",
+  "kicker": "Düzenleme",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A modern frosted glass padlock sitting on a polished dark granite pedestal, with thin luminous threads frozen inside the glass block, minimalist high contrast lighting",
+  "focus_keyword": "meta yapay zeka egitimi",
+  "seo_title": "Meta yapay zeka eğitimi sözleşme değişikliğini erteledi",
+  "meta_description": "Meta yapay zeka eğitimi için harici web sitelerinin taranmasını öngören ticari şartlar güncellemesini tepkiler üzerine süresiz olarak askıya aldı.",
+  "seo_slug": "meta-yapay-zeka-egitimi-sartlarini-durdurdu",
+  "image_alt": "Koyu zemin üzerinde duran buzlu camdan bir kilit ve içindeki ışık hatlarını gösteren soyut görsel",
+  "cover_text": "Meta",
+  "importance": 6,
+  "triage_reason": "Meta, gelen tepkiler üzerine dış web sitelerindeki verileri AI eğitimi için kullanma planını erteledi.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/#comments",
+      "published": "2026-11-06T17:43:02Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "published": "2026-11-06T17:43:02Z",
+      "summary": "After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. \"We're pausing the ‌changes ⁠as we continue to engage with stakeholders and ​take ​our ⁠time to get this right. ​In the ​meantime, ⁠our existing terms remain in ⁠effect,\" a Meta spokesperson told Reuters. Soon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company…",
+      "text": "After weeks of backlash—and a failed attempt to quell it—Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook.\n“We’re pausing the changes as we continue to engage with stakeholders and take our time to get this right. In the meantime, our existing terms remain in effect,” a Meta spokesperson told Reuters.\nSoon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company to ignore scraping preferences specified in robots.txt files and exhaustively crawl vast amounts of off-Facebook content for AI training. Since virtually every news publisher has a Facebook page, Nieman Lab sounded the alarm that Meta could potentially avoid millions in licensing fees if the TOS update happened as planned.\nArs broke down the changes after Meta announced them, noting that businesses—including news publishers involved in drawn-out legal battles over unwanted AI scraping—had no way to opt out. To keep a business Facebook page, they had to allow Meta to crawl any linked external sites. The terms even required publishers to create test credentials so Meta’s bots could reliably bypass paywalls.\nMeta faced global scrutiny\nThe changes were initially supposed to take effect on October 30. But Meta pushed that date back to November 20 amid pushback from Facebook users, courts, and regulators around the world. Courts in Brazil and Norway issued preliminary injunctions blocking the terms after organizations in those countries promptly filed lawsuits, Nieman Lab reported.\nThe United Kingdom’s Competition and Markets Authority also opened a formal investigation into whether Meta was exploiting a dominant position to seize valuable AI training data. In a LinkedIn post, Theo Bamber, chief executive of the UK’s News Media Association, pointed to “the continued arrogance of this company to think everyone will just be OK with its actions” as “staggering.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 466
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
