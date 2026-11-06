@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-06T22:40:49Z",
+  "last_collect": "2026-11-06T22:55:42Z",
   "last_summary_date": "2026-11-06",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1063,
+      "fails": 1064,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:48Z",
+      "last_ok": "2026-11-06T22:55:40Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:49Z",
+      "last_ok": "2026-11-06T22:55:41Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-06T22:40:49Z",
+      "last_ok": "2026-11-06T22:55:42Z",
       "count": 20
     }
   },
@@ -204,10 +204,11 @@
       "expired": 7
     },
     "2026-11-07": {
-      "tok_in": 3754,
-      "tok_out": 939,
+      "tok_in": 7719,
+      "tok_out": 2025,
       "cost_usd": 0.0,
-      "drafts": 1
+      "drafts": 2,
+      "expired": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
