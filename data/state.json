@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-06T04:15:48Z",
+  "last_collect": "2026-11-06T04:30:58Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 1366
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 898
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 989,
+      "fails": 990,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:04Z",
+      "last_ok": "2026-11-06T04:30:57Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-06T04:01:05Z",
+      "last_ok": "2026-11-06T04:30:58Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-06T04:01:15Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -204,10 +205,10 @@
       "expired": 9
     },
     "2026-11-06": {
-      "tok_in": 16437,
-      "tok_out": 4909,
+      "tok_in": 18462,
+      "tok_out": 5547,
       "cost_usd": 0.0,
-      "drafts": 4,
+      "drafts": 5,
       "published": 2,
       "auto": 2,
       "expired": 5
@@ -220,36 +221,6 @@
   "last_build": "2026-11-06T04:10:49Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i9"
-        ],
-        "topic": "Nasdaq drops as investors retreat from AI trade",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 7,
-        "category": "sirketler",
-        "reason": "Yatırımcıların yapay zeka yatırımlarından geri çekilmesiyle Nasdaq borsası geriledi."
-      },
-      "items": [
-        {
-          "key": "9404bc0f47e8389d",
-          "source": "Hacker News",
-          "kind": "community",
-          "credit": "The Wall Street Journal",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-          "via": "Hacker News",
-          "via_url": "https://news.ycombinator.com/item?id=50382179",
-          "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-          "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 153 # Comments: 187",
-          "published": "2026-11-05T18:00:01Z",
-          "html_source": false,
-          "tid": "i9"
-        }
-      ],
-      "at": "2026-11-06T04:01:17Z"
-    },
     {
       "story": {
         "item_ids": [

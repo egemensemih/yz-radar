@@ -1,0 +1,67 @@
+{
+  "id": "826a451915",
+  "status": "pending",
+  "created_at": "2026-11-06T04:31:02Z",
+  "title": "Nasdaq seçimlerin ardından yatırımcıların yapay zeka hisselerinden çekilmesiyle yüzde 5 düştü",
+  "summary": "The Wall Street Journal'ın aktardığına göre, Nasdaq endeksi seçimlerin ardından yatırımcıların yapay zeka yatırımlarından uzaklaşmasıyla yüzde 5 oranında geriledi.",
+  "body": "Nasdaq seçimlerin ardından yatırımcıların yapay zeka hisselerinden çekilmesiyle birlikte yüzde 5 oranında sert bir düşüş yaşadı. The Wall Street Journal'ın aktardığına göre, piyasalardaki bu hareketlilik, yatırımcıların seçim sonrasında yapay zeka ticaretinden toplu şekilde geri çekilmesinin ardından geldi.\n\n## Piyasalar ve yatırımlar\n\nBorsa hareketlerini takip eden raporlara göre, teknoloji ağırlıklı endeksteki bu ani gerileme, son dönemde büyük bir ivme kazanan yapay zeka alanındaki ekonomik beklentilerin ve yatırımcı eğilimlerinin yeniden şekillendiğini gösteriyor. Seçim takviminin ardından yaşanan bu çekilme, hisse senedi piyasalarında dikkat çekici bir daralmaya yol açtı.\n\n**Neden önemli?** Bu gelişme, yapay zeka sektörüne yönelik finansal akışların ve piyasa iştahının makroekonomik ve politik olaylardan ne denli hızlı etkilenebildiğini ortaya koyuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nasdaq",
+    "yatirim",
+    "borsa"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nasdaq yapay zeka hisselerindeki düşüşle yüzde 5 geriledi",
+  "kicker": "Piyasa analizi",
+  "hero_stat": "%5",
+  "hero_stat_label": "Nasdaq düşüşü",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist matte black metallic sculpture shaped like a downward trending graph line, resting on a stark concrete surface with soft dramatic side lighting",
+  "focus_keyword": "yapay zeka hisseleri",
+  "seo_title": "Nasdaq seçimler sonrası yapay zeka hisseleriyle düştü",
+  "meta_description": "Nasdaq endeksi, The Wall Street Journal raporuna göre seçimlerin ardından yapay zeka hisselerinden çekilen yatırımcılarla yüzde 5 oranında düştü.",
+  "seo_slug": "nasdaq-secimler-sonrasi-yapay-zeka-hisseleriyle-dustu",
+  "image_alt": "Borsa düşüşünü temsil eden koyu renkli soyut metal heykel görseli",
+  "cover_text": "Nasdaq",
+  "importance": 7,
+  "triage_reason": "Yatırımcıların yapay zeka yatırımlarından geri çekilmesiyle Nasdaq borsası geriledi.",
+  "sources": [
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50382179",
+      "published": "2026-11-05T18:00:01Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Wall Street Journal",
+      "kind": "community",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "published": "2026-11-05T18:00:01Z",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 153 # Comments: 187",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 455
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
