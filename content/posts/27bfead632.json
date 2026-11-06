@@ -1,0 +1,58 @@
+{
+  "id": "27bfead632",
+  "created_at": "2026-11-06T14:08:32Z",
+  "title": "Amazon Alexa for Shopping ile metin tabanlı alışveriş dönemi başladı",
+  "summary": "Amazon, kullanıcıların metin mesajı veya fotoğraf göndererek sipariş vermesini sağlayan yeni Alexa for Shopping özelliğini duyurdu.",
+  "body": "Amazon, kullanıcıların metin mesajı veya fotoğraf göndererek sipariş vermesini sağlayan yeni **Alexa for Shopping** özelliğini duyurdu. The Verge'ün aktardığına göre, bu yeni yapay zeka destekli özellik, müşterilerin alışveriş asistanına mesaj atarak ürün aramasını, öneri almasını ve sipariş tamamlamasını mümkün kılıyor.\n\n## Metin tabanlı alışveriş özellikleri\n\nMayıs ayında kullanıma sunulan mevcut deneyimin üzerine inşa edilen sistem, telefon rehberinde \"Amazon Alexa\" olarak görünüyor. The Verge'ün belirttiğine göre kullanıcılar, haftalık market alışverişi yapma, hediye önerisi isteme, fotoğrafı çekilen bir ürünün benzerlerini bulma ve indirimleri takip etme gibi işlemler için bu asistanı kullanabiliyor. Sistem, vegan tercihleri gibi kişisel tercihleri zaman içinde hatırlayarak önerileri bu doğrultuda şekillendiriyor ve takip edilen bir ürün indirime girdiğinde kullanıcıya mesaj atabiliyor.\n\n## Erişim ve kademeli yayılım\n\nAmazon'un duyurusuna göre yeni metin mesajı gönderme yeteneği, 6 Kasım'da Amerika Birleşik Devletleri'ndeki küçük bir müşteri grubuna davetiye yoluyla sunulmaya başlandı. Özellik, önümüzdeki haftalarda milyonlarca müşteriye daha kademeli olarak ulaştırılacak. Amazon Conversational Shopping Başkan Yardımcısı Rajiv Mehta konuya ilişkin olarak müşterilerin ihtiyaç duydukları şeyleri anında not ettiğini belirterek, asistanın arama, karşılaştırma ve satın alma işlemlerini kullanıcı adına yürüttüğünü ifade etti.\n\n**Neden önemli?** Amazon'un yanı sıra OpenAI'ın ekim ayında Dot adlı kişisel yapay zeka asistanı için metin mesajı özelliğini devreye sokması ve DoorDash'in eylül ayında benzer bir sohbet tabanlı sipariş sistemini duyurması, yapay zeka asistanlarının mesajlaşma uygulamaları üzerinden erişilebilirliğinin hızla arttığını gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Amazon",
+    "Alexa",
+    "OpenAI",
+    "DoorDash"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Amazon Alexa ile mesajlaşarak alışveriş dönemi",
+  "kicker": "Yeni ürün",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth frosted-glass smartphone resting upright on a pale stone surface, subtle warm light reflecting off the edges, a small matte ceramic sphere positioned nearby casting a soft shadow",
+  "focus_keyword": "Alexa for Shopping",
+  "seo_title": "Amazon'dan metin tabanlı alışveriş asistanı Alexa for Shopping",
+  "meta_description": "Amazon, kullanıcıların mesaj atarak ve fotoğraf göndererek sipariş vermesini sağlayan Alexa for Shopping özelliğini duyurdu.",
+  "seo_slug": "amazon-alexa-for-shopping-metin-tabanli-alisveris",
+  "image_alt": "Buzlu cam akıllı telefon ve seramik küp ile Amazon Alexa for Shopping özelliğini temsil eden stüdyo görseli",
+  "cover_text": "Alexa for Shopping",
+  "importance": 6,
+  "triage_reason": "Amazon, Alexa alışveriş asistanına metin ve fotoğraf tabanlı arama özellikleri ekliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-06T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 460
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "amazon-alexa-for-shopping-metin-tabanli-alisveris",
+  "published_at": "2026-11-06T14:08:34Z",
+  "publish_mode": "auto"
+}
