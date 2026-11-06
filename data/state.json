@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-06T03:15:49Z",
+  "last_collect": "2026-11-06T03:30:52Z",
   "last_summary_date": "2026-11-05",
   "mode_override": null,
   "paused": false,
@@ -210,7 +210,7 @@
       "drafts": 3,
       "published": 2,
       "auto": 2,
-      "expired": 3
+      "expired": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
