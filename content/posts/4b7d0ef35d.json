@@ -1,0 +1,57 @@
+{
+  "id": "4b7d0ef35d",
+  "created_at": "2026-11-07T15:46:17Z",
+  "title": "Nvidia çin satışları ve denetim eksikliği endişe yaratıyor",
+  "summary": "ABD hükümetinin onay verdiği bazı Çinli firmaların boş ofislere sahip olduğu ve karamsar güvenlik açıkları barındırdığı ortaya çıktı.",
+  "body": "Nvidia çin satışları konusunda ABD Ticaret Bakanlığı ile şirket tarafından yeterli denetim yapılmadığına dair endişeler artıyor. The New York Times'ın aktardığına göre, ABD hükümeti tarafından Nvidia'nın H200 yapay zeka çiplerini satın alması onaylanan New Matrix adlı şirketin ofislerinin tamamen boş olduğu belirlendi. Sadece 17 ay önce kurulan bu firma hakkında internette çok az bilgi bulunurken, kayıtlı olduğu adreste şirkete dair herhangi bir iz veya kayda rastlanmadı.\n\n## Şüpheli bağlantılar ve onay süreçleri\n\nThe New York Times'ın raporuna göre, New Matrix'in sahipleri ABD hükümeti tarafından 2024 yılından bu yana kara listede yer alan bir Çinli özel sermaye şirketiyle bağlantılara sahip. Bu durumun münferit bir olay olmadığı, ulusal güvenlikle ilgili ticaret kısıtlamalarına tabi kuruluşlarla bağlantılı şirketlerin Nvidia çipleri satın alması için onay verilmesinin rahatsız edici bir model oluşturduğu ifade ediliyor.\n\n## Politika değişiklikleri ve geçmiş kısıtlamalar\n\nBiden başkanlığı döneminde Nvidia'nın Çin'e çip satışı kısıtlanmıştı. Ancak Trump yönetimi, Nvidia'nın satışlardan hükümete yüzde 15 pay vermeyi kabul etmesi üzerine bu sınırları gevşetmişti. Şirketin CEO'su Jensen Huang'ın yoğun bir kulis faaliyeti yürüttüğü ve Çin Devlet Güvenlik Bakanlığı tarafından bir casusluk planının hedefi olduğu da aktarılan bilgiler arasında.\n\n**Neden önemli?** Yapay zeka çipi sevkiyatlarındaki denetim eksiklikleri ve kara listedeki kurumlarla bağlantılı şirketlerin onay alması, ulusal güvenlik açısından önemli soru işaretleri doğuruyor.",
+  "category": "politika",
+  "tags": [
+    "Nvidia",
+    "ABD Ticaret Bakanlığı",
+    "Jensen Huang"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia çin satışlarında denetim açığı iddiası",
+  "kicker": "Regülasyon",
+  "hero_stat": "%15",
+  "hero_stat_label": "hükümet payı",
+  "visual_style": "studio",
+  "visual_scene": "a single dark grey metallic server chassis with dangling frayed wires from its top panel, resting on a stark concrete surface under a single cold spotlight",
+  "focus_keyword": "Nvidia çin satışları",
+  "seo_title": "Nvidia çin satışları ve boş ofis incelemesi",
+  "meta_description": "ABD onaylı bazı Çinli firmaların boş ofislere sahip olduğu ve Nvidia çin satışları konusunda denetim eksiklikleri yaşandığı ortaya çıktı.",
+  "seo_slug": "nvidia-cin-satislarinda-denetim-eksikligi-iddiasi",
+  "image_alt": "Üst panelinden kablolar sarkan gri sunucu kasasını gösteren stüdyo görseli",
+  "cover_text": "Nvidia",
+  "importance": 7,
+  "triage_reason": "Nvidia çiplerinin Çin'e satışı ve ihracat kontrolleri konusunda güvenlik endişeleri dile getiriliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-07T15:43:45Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 479
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "nvidia-cin-satislarinda-denetim-eksikligi-iddiasi",
+  "published_at": "2026-11-07T15:46:19Z",
+  "publish_mode": "auto"
+}
