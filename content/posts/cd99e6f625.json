@@ -1,0 +1,60 @@
+{
+  "id": "cd99e6f625",
+  "created_at": "2026-11-07T04:11:37Z",
+  "title": "Google veri merkezi projesini Crusoe'dan devraldı: 17 milyar dolar yatırım planı",
+  "summary": "Google, Crusoe'nun Wyoming'deki tamamlanmamış veri merkezi projesini devralarak kampüsü geliştirmek için 17 milyar dolar yatırım yapacağını duyurdu.",
+  "body": "Teknoloji devi Google, Denver merkezli veri merkezi geliştiricisi Crusoe'nun Wyoming'deki tamamlanmamış **Google veri merkezi** projesini devraldığını doğruladı. Satış bedeli açıklanmazken Google, söz konusu veri merkezi kampüsünü geliştirmek için 17 milyar dolar yatırım yapmayı planladığını bildirdi.\n\n## Maliyet ve takvim endişeleri devir getirdi\n\nCrusoe, Wyoming'in güneydoğusundaki projeyi geçtiğimiz yıl Blackstone destekli altyapı şirketi Tallgrass ortaklığıyla duyurmuş ve tesisin kapasitesini zamanla 10 gigavata ulaştırmayı hedeflemişti. Crusoe başlangıçta projeye Google'ı müşteri olarak çekmeye çalışmış ancak başarılı olamamıştı. TechCrunch'ın aktardığına göre Google, tesisin Crusoe yönetimindeki inşaat takvimi ve maliyetlerine dair endişelerini dile getirdikten sonra projenin geliştirme sürecini doğrudan üstlenme kararı aldı.\n\nİki şirket arasındaki ticari temaslar Wyoming tesisiyle sınırlı değil. Google projeyi devralmış olsa da Crusoe ile tamamen yollarını ayırmadı. Şirket, Teksas'ın Amarillo kenti yakınlarında Google için bir başka veri merkezi tesisi inşa etmeyi sürdürüyor.\n\n## Crusoe'nun yapay zeka altyapı projeleri\n\nGeçtiğimiz eylül ayında 3,9 milyar dolar yatırım alan ve 30,9 milyar dolar değerlemeye ulaşan Crusoe, yapay zeka sektörünün önde gelen kurumlarına altyapı sağlıyor. Şirket, gelir modelini kendi grafik işlem birimlerini (GPU) kiralamak, müşterilerin getirdiği donanımlara alan tahsis etmek ve yapay zeka modellerinin çalıştırılmasını ifade eden çıkarım (inference) işlem gücü satmak üzerine kuruyor.\n\nŞirketin Teksas'ın Abilene kentindeki kampüsü OpenAI ve Oracle için inşa edilirken, hemen yanındaki 900 megavatlık ayrı bir tesis Microsoft için hazırlanıyor ve ilk binanın 2027 ortasında devreye girmesi hedefleniyor. Firmanın diğer müşterileri arasında Meta yer alırken, Bloomberg'in haberine göre Jane Street şirketiyle de 13 milyar dolarlık beş yıllık bulut anlaşması bulunuyor.\n\n**Neden önemli?** Bağımsız geliştiricilerin ekipman tedariki ve yüksek güç talebi nedeniyle dev projelerde zorlandığı bir dönemde Google'ın doğrudan sahaya inmesi, hiper ölçekli yapay zeka altyapılarında teknoloji devlerinin kontrolü kendi ellerine alma eğilimini yansıtıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Google",
+    "Crusoe",
+    "OpenAI",
+    "Microsoft",
+    "veri merkezi",
+    "GPU"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google, Crusoe'nun veri merkezini devraldı",
+  "kicker": "Altyapı yatırımı",
+  "hero_stat": "17 milyar $",
+  "hero_stat_label": "kampüs yatırımı",
+  "visual_style": "sculpture",
+  "visual_scene": "monolithic blocks of polished white granite and frosted amber glass arranged on a dry sand plateau, a single dark steel pipeline connecting two separate towers under a calm overcast sky",
+  "focus_keyword": "Google veri merkezi",
+  "seo_title": "Google veri merkezi için Wyoming'de 17 milyar $ harcayacak",
+  "meta_description": "Google veri merkezi projesini Crusoe'dan devraldı. Şirket Wyoming'deki dev yapay zeka kampüsünü tamamlamak için 17 milyar dolar yatırım yapacak.",
+  "seo_slug": "google-veri-merkezi-crusoe-wyoming-yatirimi",
+  "image_alt": "Kuru kum zemin üzerinde yükselen granit bloklar ve buzlu kehribar cam kuleler, veri merkezi yatırımını temsil ediyor",
+  "cover_text": "Google & Crusoe",
+  "importance": 7,
+  "triage_reason": "Google, yapay zeka veri merkezi altyapısını güçlendirmek için Crusoe'nun Wyoming projesini satın aldı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-07T01:40:28Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 473
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "google-veri-merkezi-crusoe-wyoming-yatirimi",
+  "published_at": "2026-11-07T04:11:40Z",
+  "publish_mode": "auto"
+}

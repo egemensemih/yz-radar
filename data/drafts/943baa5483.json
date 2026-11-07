@@ -40,10 +40,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-06T22:53:46Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-06T23:46:18Z"
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "The Verge"
   ],
   "source_texts": [
     {
