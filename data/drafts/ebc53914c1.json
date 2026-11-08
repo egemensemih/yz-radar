@@ -1,0 +1,106 @@
+{
+  "id": "ebc53914c1",
+  "status": "pending",
+  "created_at": "2026-11-08T08:48:37Z",
+  "title": "Anthropic bilim yatırımı kapsamında Genesis Mission için 150 milyon dolar taahhüt etti",
+  "summary": "Anthropic, ABD federal araştırma girişimi Genesis Mission'a üç yıl içinde 150 milyon dolar kaynak ayırarak Claude modellerini 15'ten fazla kuruma açıyor.",
+  "body": "Yapay zeka geliştiricisi Anthropic, ABD merkezli Genesis Mission programına üç yılda 150 milyon dolar kaynak aktararak büyük bir **Anthropic bilim yatırımı** hamlesi başlattığını duyurdu. Beyaz Saray Bilim ve Teknoloji Politikaları Ofisi (OSTP) ev sahipliğinde Washington'da düzenlenen zirvede açıklanan karar, federal araştırmacıların yapay zeka araçlarına doğrudan erişimini hedefliyor.\n\n## Genesis Mission ve federal kurumlar\n\nTaahhüt kapsamında Claude modelleri, kodlama aracı Claude Code ve API kredileri 15'ten fazla federal kuruma sunulacak. Bu kurumlar arasında NASA, Ulusal Sağlık Enstitüleri (NIH) ve Ulusal Bilim Vakfı (NSF) yer alıyor. Anthropic, ABD Enerji Bakanlığı (DOE) ile geçen aralık ayında başlattığı iş birliğini genişleterek füzyon enerjisi ve kuantum hesaplama gibi öncelikli başlıklarda yüzlerce araştırma projesine teknik destek ve eğitim sağlayacak.\n\n## Anthropic bilim yatırımı küresel kurumlara yayılıyor\n\nŞirket, Genesis Mission taahhüdünün yanı sıra araştırmacılara yönelik diğer programlarını da büyütüyor. Mayıs 2025'te başlatılan AI for Science programı kapsamında dünya çapında 20 bilimsel vakıf ve araştırma enstitüsüyle ortaklık kuruldu. Destek alan kurumlar arasında Wellcome Sanger Institute, Francis Crick Institute, EMBL, Schmidt Sciences ve Simons Foundation bulunuyor. Ayrıca HHMI Janelia Araştırma Kampüsü ile birlikte yapay zeka ajanlarının laboratuvar cihazlarını güvenle kontrol etmesini sağlayan Model Hardware Standard (MHS) şartnamesi geliştiriliyor.\n\nBunun yanı sıra şirket, yaşam bilimleri alanındaki araştırmacılar için 8 ila 12 haftalık özel iş birliği projelerine yönelik bir açık çağrı yayımladı. Seçilen araştırmacılar, Anthropic uzmanlarıyla birlikte çalışırken ürettikleri veri ve bulguların mülkiyet haklarını koruyacak.\n\n**Neden önemli?** Karmaşık bilimsel verilerin analizini ve deney tasarımını hızlandırmayı amaçlayan bu destekler, yapay zeka modellerinin ticari sohbet botlarının ötesine geçerek temel bilimsel keşif altyapısının merkezine yerleşmesini hızlandırıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "Genesis Mission",
+    "NASA",
+    "Ulusal Bilim Vakfı",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten bilime 150 milyon dolarlık destek",
+  "kicker": "Yatırım",
+  "hero_stat": "150 milyon $",
+  "hero_stat_label": "üç yıllık taahhüt",
+  "visual_style": "studio",
+  "visual_scene": "A solid, polished block of clear optical glass resting on a dark matte slate surface, precisely split by a single beam of pure white light that fractures into soft geometric reflections",
+  "focus_keyword": "Anthropic bilim yatırımı",
+  "seo_title": "Anthropic bilim yatırımı: 150 milyon dolarlık taahhüt",
+  "meta_description": "Anthropic bilim yatırımı ile federal Genesis Mission projesine 150 milyon dolar ayırdı; Claude modelleri NASA ve NSF dahil 15 kuruma açılıyor.",
+  "seo_slug": "anthropic-bilim-yatirimi-150-milyon-dolar-genesis-mission",
+  "image_alt": "Mat taş zemin üzerindeki optik cam blok ve içinden geçen ışık huzmesi: Anthropic'in bilim yatırımı temsil ediliyor",
+  "cover_text": "Genesis Mission",
+  "importance": 7,
+  "triage_reason": "Anthropic'in bilimsel araştırmalar ve vakıflar için AI for Science programını genişletmesi.",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and research institutions",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "title": "Open call for guest investigators in the life sciences",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "title": "Building on our commitment to American scientific discovery",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    }
+  ],
+  "source_keys": [
+    "Anthropic"
+  ],
+  "source_texts": [
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "AI for Science expands to foundations and research institutions",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "published": null,
+      "summary": "",
+      "text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program, which gives free Claude credits to researchers working on high-impact scientific projects.\nWe started the AI for Science program in May 2025 with the belief that AI could significantly speed up scientific progress. Our goal is to increase access to AI tools and resources to enable researchers to deepen and expand their own scientific work. (Over the last few months, we’ve also launched our discounted Team plan for scientists and have supported hundreds of projects across biology, medicine, physics, chemistry, climate science, and mathematics.)\nScientists have told us that they’re working with Claude to generate hypotheses, design experiments, swiftly analyze complex data, and communicate findings. With scientists at the center of this transformation, the field is setting the questions and developing the research projects that will help us tackle some of humanity’s toughest problems.\nOver the past year, we’ve started to expand this work and partner with scientific organizations to build collaborative research projects. For instance, we partnered with HHMI Janelia Research Campus to develop the Model Hardware Standard (MHS), a shared specification that lets AI agents safely operate lab instruments. MHS is currently in research preview. We also support the Allen Institute, a leader in creating large open datasets and tools to advance research on the brain, cells, and the immune system. The institute is building teams of AI agents to analyze that data, turning months of manual analysis into hours.\nAI for Science began by supporting individual scientists. By partnering with institutions and foundations, we’re now able to reach more researchers across many fields. Many of these projects will also produce public goods that benefit the wider scientific community: open datasets, open-source software, open standards, and shared libraries. We look forward to seeing how AI resources can expand what scientists can attempt and lead to new discoveries.\nScience funders and societies\nScience funders and societies play an enormous role in finding and funding original, high-impact projects. We’re sharing Claude credits with the following organizations, which will distribute these resources to ambitious researchers aiming to use AI for scientific research:\n- The Alfred P. Sloan Foundation. Founded in 1934, it supports original research and education in science, technology, engineering, mathematics, and economics.\n- The Simons Foundation. This foundation advances the frontiers of research in mathematics and basic sciences through grants and its Flatiron Institute.\n- Schmidt Sciences. Founded in 2024 by Eric and Wendy Schmidt, it works to accelerate scientific knowledge and breakthroughs with the most promising, advanced tools to support a thriving planet. The organization prioritizes research in areas poised for impact, including AI and advanced computing, astrophysics, biosciences, climate, and space—and supports researchers in a variety of disciplines through its science systems program.\n- Open Source for Science Fund, a program of Renaissance Philanthropy. This is a time-bound philanthropic fund at Renaissance Philanthropy sustaining and evolving the open-source software stack that underpins science.\n- The US National Science Foundation. This $9 billion federal agency established by Congress in 1950 promotes the progress of science, advances national health and defense, and funds competitive research and education, accounting for about 25% of federal support for basic research at US colleges and universities.\n- CAS, a division of the American Chemical Society. For more than a century, CAS has indexed the world’s published chemistry, and it maintains the CAS REGISTRY®, the standard system for identifying chemical substances.\nInstitutions\nLeading research institutions produce some of the world’s most important scientific advances, data, instruments, and tools. These institutional partners will use Claude credits inside their organizations to enable scientific discovery:\n- Space Telescope Science Institute. STScI runs science operations for NASA’s Hubble, James Webb, and Roman space telescopes. Managed by the Association of Universities for Research in Astronomy (AURA), STScI also holds one of the largest astronomy data archives used by scientists worldwide.\n- Wellcome Sanger Institute. One of the world’s leading genomics centers, it generates genomic and functional data at scale, with work that spans human genetics, biodiversity, and drug development.\n- The Francis Crick Institute. Based in London, it’s one of Europe’s largest biomedical research institutes, with more than 100 research groups studying the biology behind health and disease.\n- Imperial College London, Department of Life Sciences. One of Europe’s largest life science departments, it conducts research ranging from the structure of single molecules to whole ecosystems, with a focus on health, disease, and climate resilience.\n- EMBL. The European Molecular Biology Laboratory is Europe’s intergovernmental life science laboratory, with six sites across the continent delivering both research and services across experimental and computational approaches in biology. EMBL’s European Bioinformatics Institute (EMBL-EBI) hosts a number of key open data resources that biologists use every day, such as Ensembl, Protein Data Bank in Europe, and Europe PMC.\n- Gladstone Institutes. An independent biomedical research institute in San Francisco, it integrates AI and data science across its work on cardiology, neurology, infectious diseases, cancer, and autoimmune diseases.\nResearch projects and initiatives\nAs part of this work, we’re also continuing to support innovative research by providing Claude credits directly to specific research initiatives, focusing on problems with the potential for large public impact. The new projects are:\n- FlyWire, Princeton University (neuroscience). It produced the first complete wiring map of an adult fruit fly’s brain and develops open data and tools for connectomics, enabling researchers to discover how neural circuits give rise to perception and behavior.\n- LEAP, Columbia University (Earth system). Learning the Earth with Artificial Intelligence and Physics is a National Science Foundation center that combines machine learning with physics to improve how climate models capture clouds, oceans, and land.\n- AstroPath, Johns Hopkins University (cancer research). Built by a pathologist and an astrophysicist from the Mark Foundation Center for Advanced Genomics and Imaging and the Bloomberg~Kimmel Institute for Cancer Immunotherapy, AstroPath uses calibration methods from astronomical surveys to image tumors cell by cell, with measurements consistent across slides and labs.\n- gnomAD, Broad Institute (genomics and rare disease). The Genome A"
+    },
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "published": null,
+      "summary": "",
+      "text": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects. We’re looking for proposals from principal investigators and their research groups at academic institutions, nonprofits, or government labs who want to use Claude to investigate key questions in causal human biology, structural and computational molecular biology, medicinal chemistry, drug discovery, and clinical science.\nYou can submit a proposal for a project here.\nOver 8–12 weeks, guest investigators will work directly with Anthropic researchers on a problem of interest and produce the analyses, artifacts, and tools that will be most helpful for them in their work. Our team will run our models and harnesses at no cost to them.\nWe’ll work together to publish these outputs and open-source the accompanying data and code. Guest investigators retain the rights to their data at every step during their project. They will also have the rights to any independent follow-on research that might come out of our collaboration.\nWe’re looking for applicants who can clearly explain how they would benefit from direct collaboration with Anthropic’s researchers. Applicants should also make a reasonable case that their outputs (e.g., preliminary discoveries, answers to open questions, open-source datasets, or public resources) can be produced within the 8- to 12-week collaboration period. There may be an option for extension beyond the initial collaboration period for some projects.\nWe understand that the results for most open problems of interest will take much longer to validate, but we’re looking for proposals that can produce some preliminary evidence in a relatively short amount of time.\nWe aren’t asking for guest investigators to give us their data, either in the application or during the collaboration, and we’re requesting that applicants include only publicly available information in their application materials.\nApplications will be open for approximately 14 days, and we’ll strive to notify selected participants by email approximately 14 days after applications close. We look forward to potentially expanding this effort in the future as we learn more about how we can best support the scientific community.\nThis program is one of several initiatives Anthropic is pursuing to invest more heavily in the life sciences and the broader scientific research community. Scientists who would like direct access to our most capable publicly available models for biology can apply to join our Life Sciences Verification Program. We’ve also continued to support researchers through our AI for Science initiative, which provides scientists with Claude credits to accelerate their progress toward making scientific discoveries."
+    },
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Building on our commitment to American scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "published": null,
+      "summary": "",
+      "text": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National Science Foundation.\nWe first announced our partnership with the US Department of Energy (DOE) and the Genesis Mission last December. Since then, we have worked with DOE to bring Claude to scientists across the national laboratories. Today, we announced this new commitment as part of the Science: A New Golden Age Summit hosted by the White House Office of Science and Technology Policy in Washington, DC.\nSupporting American scientists\nWe share the administration’s view, laid out in “Science: A New Golden Age,” that AI can have a profound and positive impact on scientific discovery, and we are glad to back its efforts to support American scientists.\nResearchers at federal agencies and national laboratories work on some of the world’s most difficult scientific problems. Through our commitment, we aim to help them use Claude to meaningfully advance their work. Over the next three years, we will:\n- Provide Claude, Claude Code, and API credits to several hundred Genesis Mission research projects;\n- Partner closely with agencies and national laboratories on the administration’s top science priorities, including fusion energy and quantum computing; and\n- Provide training, onboarding, and technical support to scientists on Genesis Mission projects, and help agencies new to the Genesis Mission get their first projects running.\nAccelerating scientific research\nThis commitment is part of our broader effort to support scientific research. Earlier this year we launched Claude Science, an AI workbench that integrates the tools and packages researchers most commonly use, and opened 10,000 free and discounted Claude seats for academic scientists. We also expanded our AI for Science program, which gives credits to researchers on high-impact projects, and kicked off a research preview of the Model Hardware Standard, a shared specification for AI agents to safely operate lab instruments. Our commitment to the Genesis Mission is our next step toward helping researchers everywhere."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 485
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Anthropic"
+}

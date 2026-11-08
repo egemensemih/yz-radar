@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-08T08:23:42Z",
+  "last_collect": "2026-11-08T08:37:19Z",
   "last_summary_date": "2026-11-07",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:37Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1179,
+      "fails": 1180,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:38Z",
+      "last_ok": "2026-11-08T08:37:11Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:38Z",
+      "last_ok": "2026-11-08T08:37:12Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:23:42Z",
+      "last_ok": "2026-11-08T08:37:19Z",
       "count": 20
     }
   },
@@ -205,10 +205,11 @@
       "auto": 3
     },
     "2026-11-08": {
-      "tok_in": 2960,
-      "tok_out": 201,
+      "tok_in": 12110,
+      "tok_out": 3469,
       "cost_usd": 0.0,
-      "expired": 3
+      "expired": 3,
+      "drafts": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
@@ -217,6 +218,247 @@
   "indexnow_queue": [],
   "last_build": "2026-11-08T08:36:27Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i13",
+          "i14",
+          "i17"
+        ],
+        "topic": "Anthropic introduces Cyber Mission and security updates",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "politika",
+        "reason": "Anthropic'in siber güvenlik misyonu ve damıtma saldırılarına karşı önlemleri."
+      },
+      "items": [
+        {
+          "key": "8441dda466a0cda9",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/distillation-defenses",
+          "via": null,
+          "via_url": null,
+          "title": "Strengthening our defenses against distillation attacks",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i13"
+        },
+        {
+          "key": "77b3f0b977bcd0cf",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "via": null,
+          "via_url": null,
+          "title": "Introducing the Anthropic Cyber Mission",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i14"
+        },
+        {
+          "key": "eb1569caa0b7d2c3",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/cyber-verification-program",
+          "via": null,
+          "via_url": null,
+          "title": "Expanding the Cyber Verification Program",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i17"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i18"
+        ],
+        "topic": "Anthropic invests $100 million for engineer training",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "sirketler",
+        "reason": "Anthropic'in mühendis eğitimi için 100 milyon dolarlık yatırım yapması."
+      },
+      "items": [
+        {
+          "key": "bc371631f4a4bebb",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "via": null,
+          "via_url": null,
+          "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i18"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i5"
+        ],
+        "topic": "Expanding partnership with GSA to bring Claude to government",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Anthropic'in ABD devlet kurumları ile ortaklığını genişletmesi."
+      },
+      "items": [
+        {
+          "key": "31f854764086b8ec",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "via": null,
+          "via_url": null,
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i5"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i7"
+        ],
+        "topic": "Donating Agent Skills to the Agentic AI Foundation",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "acik-kaynak",
+        "reason": "Anthropic'in ajan yeteneklerini Agentic AI Foundation'a bağışlaması."
+      },
+      "items": [
+        {
+          "key": "cc012b1e3b750154",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "via": null,
+          "via_url": null,
+          "title": "Donating Agent Skills to the Agentic AI Foundation",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i7"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i11"
+        ],
+        "topic": "Preparing for the 2026 US midterms",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "Anthropic'in 2026 ABD ara seçimleri için yapay zeka güvenliği hazırlıkları."
+      },
+      "items": [
+        {
+          "key": "18177a36d83526b9",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/2026-us-midterms",
+          "via": null,
+          "via_url": null,
+          "title": "Preparing for the 2026 US midterms",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i11"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i12"
+        ],
+        "topic": "Anthropic opens Singapore office and signs MOU",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Anthropic'in Singapur'da ofis açması ve hükümetle mutabakat imzalaması."
+      },
+      "items": [
+        {
+          "key": "f2bde108f64c5a7a",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/singapore-office-opening",
+          "via": null,
+          "via_url": null,
+          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i12"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i19"
+        ],
+        "topic": "Barclays scales Claude to upgrade operations",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Barclays bankasının operasyonları için Claude modelini ölçeklemesi."
+      },
+      "items": [
+        {
+          "key": "8a78d74aef0967c5",
+          "source": "Anthropic",
+          "kind": "official",
+          "credit": "Anthropic",
+          "url": "https://www.anthropic.com/news/barclays-scales-claude",
+          "via": null,
+          "via_url": null,
+          "title": "Barclays scales Claude to upgrade operations and improve client experience",
+          "summary": "",
+          "published": null,
+          "html_source": true,
+          "tid": "i19"
+        }
+      ],
+      "at": "2026-11-08T08:37:23Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
