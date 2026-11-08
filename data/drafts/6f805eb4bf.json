@@ -1,0 +1,70 @@
+{
+  "id": "6f805eb4bf",
+  "status": "pending",
+  "created_at": "2026-11-08T18:33:37Z",
+  "title": "OpenAI yatırım turu kapsamında 1,25 trilyon dolar değerlemeyle 11 milyar dolar topladı",
+  "summary": "OpenAI, 1,25 trilyon dolarlık değerleme üzerinden 11 milyar dolarlık yeni yatırım aldı. Şirketin finansal turunun ikinci aşamada 20 milyar dolara kadar çıkabileceği belirtiliyor.",
+  "body": "OpenAI yatırım turu kapsamında yaklaşık 11 milyar dolarlık yeni finansman sağlayarak 1,25 trilyon dolarlık değerlemeye ulaştı. 6 Kasım 2026 itibarıyla şirketin hesaplarına aktarılan bu tutar, yürütülen geniş kapsamlı yatırım paketinin ilk dilimini oluşturuyor. OpenAI Finans Direktörü (CFO) Sarah Friar, katıldığı televizyon mülakatında söz konusu değerleme rakamını doğruladı.\n\n## OpenAI yatırım turu hedefleri ve katılanlar\n\nSoftBank ve Abu Dabi merkezli **MGX** fonunun katıldığı finansman turunda toplanan ilk miktar, şirketin başlangıçta hedeflediği bildirilen 30 milyar dolarlık tutarın yaklaşık yüzde 37'sini kapsıyor. Aktarılan bilgilere göre, henüz tamamlanmayan ikinci dilimin eklenmesiyle toplam tutarın 20 milyar dolara kadar çıkması bekleniyor. Basında daha önce yer alan 1,4 trilyon veya 1,5 trilyon dolarlık değerleme taleplerini reddeden Friar, bu rakamların medya kaynaklı olduğunu ve şirket tarafından telaffuz edilmediğini söyledi. Friar, belirlenen yeni değerlemenin OpenAI'ın Mart ayında aldığı finansmanın yaklaşık yüzde 50 üzerinde olduğunu belirtti.\n\n## Büyüme rakamları ve sektörel etkiler\n\nSarah Friar'ın aktardığı verilere göre **ChatGPT**, haftalık 1,2 milyar aktif kullanıcıya hizmet veriyor. Üçüncü çeyrekte genel iş hacminin bir önceki çeyreğe göre yüzde 70 büyüdüğünü kaydeden Friar, kurumsal alandaki büyümenin ikiye katlandığını ve gelirlerin tüketici ile kurumsal ürünler arasında eşit dağıldığını açıkladı. Platformun reklam kaynaklı yıllıklandırılmış gelir oranının ise Ağustos ayında 1 milyar dolara ulaştığı bildirildi.\n\nFinansman süreci, yapay zeka alanında iş birliği yapan donanım ve altyapı devlerini de yakından ilgilendiriyor. OpenAI'ın Nvidia üzerinde planlanan ve mevcut toplam 12 gigavatlık işlem gücü taahhüdü bulunurken, Microsoft tarafında da şirketin hisse kazançları finansal tablolara yansımaya devam ediyor.\n\n**Neden önemli?** Gerçekleşen yatırım, yapay zeka modelleri geliştiren öncü laboratuvarların yüksek işlem gücü maliyetlerini sürdürebilmek için ihtiyaç duyduğu milyarlarca dolarlık sermaye akışının boyutunu gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Sarah Friar",
+    "SoftBank",
+    "MGX",
+    "Nvidia"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "Değerleme rakamı CFO Sarah Friar'ın televizyon mülakatına, tur detayları ise sürece yakın kaynaklara dayandırılmıştır.",
+  "short_title": "OpenAI 1,25 trilyon dolar değerlemeyle 11 milyar $ aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "11 milyar $",
+  "hero_stat_label": "toplanan yeni yatırım",
+  "visual_style": "studio",
+  "visual_scene": "A single massive monolithic prism of brushed dark titanium resting steadily on a smooth concrete surface, illuminated along one sharp geometric edge by a warm amber internal light",
+  "focus_keyword": "OpenAI yatırım turu",
+  "seo_title": "OpenAI yatırım turu: 1,25 trilyon dolar değerleme",
+  "meta_description": "OpenAI yatırım turu kapsamında 1,25 trilyon dolar değerlemeyle 11 milyar dolar topladı. Şirketin finansal detayları ve büyüme rakamları açıklandı.",
+  "seo_slug": "openai-yatirim-turu-11-milyar-dolar-topladi",
+  "image_alt": "Karanlık titanyum monolit ve sarı ışık hattı: OpenAI'ın 1,25 trilyon dolarlık yatırım turunu temsil eden görsel",
+  "cover_text": "OpenAI",
+  "importance": 10,
+  "triage_reason": "OpenAI'ın 11 milyar dolar yatırım alarak 1.25 trilyon dolara ulaşması devasa bir finansal gelişmedir.",
+  "sources": [
+    {
+      "name": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50413822",
+      "published": "2026-11-08T14:49:23Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "247wallst.com",
+      "kind": "community",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "published": "2026-11-08T14:49:23Z",
+      "summary": "Article URL: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/ Comments URL: https://news.ycombinator.com/item?id=50413822 Points: 152 # Comments: 171",
+      "text": "OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought\nOpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.\nThis post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.\nAbout $11 billion in new money reached OpenAI’s accounts by Friday, November 6, 2026, people familiar with the deal said. That cash is the first part of a round priced at a $1.25 trillion pre-money valuation, a figure the company’s CFO, Sarah Friar, confirmed in a TV interview. OpenAI declined to comment on the funding.\nPress reports said OpenAI first set out to raise $30 billion or more at a $1.4 trillion valuation. Two investors put the first ask at $1.5 trillion. Friar challenged that account on air, saying the higher figure started with a media report and never came from OpenAI.\nWhichever starting point you accept. The round ended up smaller and cheaper after AI stocks sold off, even as OpenAI says its business is accelerating. That gap affects shareholders of Microsoft (NASDAQ:MSFT | MSFT Price Prediction) and NVIDIA (NASDAQ:NVDA) because both depend on OpenAI’s ability to fund its plans.\nCash Wired Versus Cash Promised\nThe closed amount covers about 37% of the original target. SoftBank and Abu Dhabi’s MGX took part in the round.\nThe rest could lift the total to as much as $20 billion, and a separate report put the follow-on at up to another $9 billion. That second portion has not closed. Lead investors, terms, and use of proceeds were not disclosed.\nFriar called the price almost 50% above March, when OpenAI raised $122 billion at $852 billion. The implied step-up is roughly 46.7%, but treat it as approximate, because her figure is pre-money and March’s basis is unclear.\nGrowth Claims Meet a Tighter Market\nFriar said OpenAI’s business grew 70% quarter over quarter in the third quarter, its enterprise business doubled, and revenue splits about 50% each between consumer and enterprise. She cited 1.2 billion weekly ChatGPT users and an ads run rate of $1 billion by August.\nShe gave no revenue dollar figures. Asked about the election, she said, “The demand for AI is real.”\nInvestors still paid less than the earliest reported asking price. Rival Anthropic plans to list on Nasdaq in mid-November. Some investors now value it at about $1.5 trillion, down from roughly $2 trillion in earlier expectations.\nMicrosoft Feels This Through GAAP Earnings\nMicrosoft closed at $530.61, down 0.99%, for a market value of $3.94 trillion. The funding report came out around the close, so that move had other causes.\nGains on the OpenAI stake added $207 million to GAAP net income in the September quarter, compared with $3.1 billion in net losses a year earlier. A smaller valuation increase reduces future gains on the stake, although that is minor next to 48% Azure growth.\nNVIDIA Depends on This Money Flowing\nNVIDIA rose 2.78% to $186.64 as chip stocks rallied, and Oracle (NYSE:ORCL) added 0.78%. NVIDIA is still down 21.4% over one month.\nNVIDIA has said OpenAI’s existing and planned commitments add up to about 12 gigawatts of its compute. Management also said frontier labs “are growing faster than what their balance sheets and credit profiles can support.” A round that fills in stages shows that strain.\nWhat OpenAI’s Smaller Round Means for AI Stock Investors\nThe optimistic view is that demand still exceeds supply. Microsoft says it has more demand than capacity, and NVIDIA guided to $108.0 billion in third-quarter revenue.\nThe bearish argument depends on financing. Private valuations can drop further, the second portion may close below full size, and a weak Anthropic debut could pull both labs’ valuations down.\nMicrosoft looks less exposed to OpenAI’s funding pace than NVIDIA, because OpenAI affects its accounting gains far more than the cloud business behind its earnings. NVIDIA is more exposed to how well the labs can raise money.\nTwo milestones will test this view: whether OpenAI’s round reaches $20 billion, and whether NVIDIA meets its guidance when it reports on Tuesday, November 17.\nContact [email protected] for any questions or corrections."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 499
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
