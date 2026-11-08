@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-08T09:25:56Z",
+  "last_collect": "2026-11-08T09:39:33Z",
   "last_summary_date": "2026-11-07",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:54Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1183,
+      "fails": 1184,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:55Z",
+      "last_ok": "2026-11-08T09:39:32Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:55Z",
+      "last_ok": "2026-11-08T09:39:33Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:25:56Z",
+      "last_ok": "2026-11-08T09:39:33Z",
       "count": 20
     }
   },
@@ -205,11 +205,11 @@
       "auto": 3
     },
     "2026-11-08": {
-      "tok_in": 33637,
-      "tok_out": 9743,
+      "tok_in": 38872,
+      "tok_out": 11761,
       "cost_usd": 0.0,
       "expired": 3,
-      "drafts": 8
+      "drafts": 10
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
@@ -219,66 +219,6 @@
   "last_build": "2026-11-08T09:38:47Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i19"
-        ],
-        "topic": "Barclays scales Claude to upgrade operations",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Barclays bankasının operasyonları için Claude modelini ölçeklemesi."
-      },
-      "items": [
-        {
-          "key": "8a78d74aef0967c5",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/barclays-scales-claude",
-          "via": null,
-          "via_url": null,
-          "title": "Barclays scales Claude to upgrade operations and improve client experience",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i19"
-        }
-      ],
-      "at": "2026-11-08T08:37:23Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "Anthropic partners with Accenture on embedded evaluation",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Anthropic ve Accenture arasında yapay zeka değerlendirme süreçleri için yeni ortaklık duyuruldu."
-      },
-      "items": [
-        {
-          "key": "879ba832b5d6e4eb",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "via": null,
-          "via_url": null,
-          "title": "Partnering with Accenture on embedded evaluation",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-11-08T08:53:06Z"
-    },
     {
       "story": {
         "item_ids": [
