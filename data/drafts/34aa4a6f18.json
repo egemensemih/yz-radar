@@ -1,0 +1,72 @@
+{
+  "id": "34aa4a6f18",
+  "status": "pending",
+  "created_at": "2026-11-08T19:26:21Z",
+  "title": "Apple Siri yapay zeka yeteneklerini otonom ajan seviyesine çıkarıyor",
+  "summary": "Bloomberg'in aktardığına göre Apple, Siri'yi rakipleriyle mücadele edebilecek otonom bir yapay zeka ajanına dönüştürmek amacıyla geliştirme çalışmalarını hızlandırdı.",
+  "body": "Bloomberg editörü Mark Gurman'ın yayımladığı rapora göre Apple, **Apple Siri yapay zeka** altyapısını bağımsız hareket edebilen bir ajana dönüştürmek amacıyla ürün yol haritasını hızlandırıyor. Şirket CEO'su John Ternus'un, yapay zeka biriminin yöneticisi Craig Federighi'ye sesli asistanın yeteneklerini geliştirerek pazardaki rakipleriyle rekabet edebilecek seviyeye getirmesi konusunda baskı yaptığı ifade ediliyor.\n\n## Apple Siri yapay zeka güncelleme takvimi\n\nAktarılan detaylara göre teknoloji devi önümüzdeki aylarda Siri için iki aşamalı bir geliştirme planı uygulayacak. Sürecin ilk adımının iOS 27.3 güncellemesiyle sunulması öngörülüyor. Bu güncellemeyle Siri, Apple'ın Fotoğraflar ve Safari gibi kendi uygulamaları üzerinde daha kapsamlı kontrol yetkisine sahip olacak. Kullanıcılar asistan aracılığıyla Fotoğraflar uygulamasındaki görselleri döndürebilecek, kırpabilecek ya da Safari sekmelerini organize edebilecek.\n\nGeliştirme sürecinin ikinci aşamasında ise üçüncü taraf uygulamalarla doğrudan entegrasyon hedefleniyor. Bahar aylarında yayınlanması beklenen bu yenilik sayesinde sesli asistan, OpenTable üzerinden masa rezervasyonu yapma veya Grubhub vasıtasıyla yemek siparişi verme gibi harici servis işlemlerini doğrudan tamamlayabilecek.\n\n## Otonom görev takibi ve rakiplerle rekabet\n\nApple'ın nihai hedefi Siri'yi tek bir komutu yerine getiren geleneksel bir yardımcıdan ziyade, süregelen hedefleri kendi başına takip edebilen otonom bir **yapay zeka ajanı** haline getirmek. Sektördeki rakiplerden OpenAI'ın Dots, Meta'nın Muse ve xAI'ın Grok sistemleri, kullanıcının her adımı tek tek başlatmasına gerek kalmadan bir sonraki adımı belirleyip hedefleri sürdürebiliyor.\n\nGurman'ın aktardığı bilgilere göre Craig Federighi kısa bir süre içerisinde işlevsel bir Siri altyapısı kurmuş olsa da Apple rakiplerinin gerisinde kaldığının farkında. Şirketin Siri'yi en erken gelecek yıldan itibaren daha otonom bir ajana dönüştürmeyi planladığı kaydediliyor.\n\n**Neden önemli?** Tüketici talepleri ve pazardaki yoğun rekabet, Apple'ı sesli asistanını komut odaklı bir araçtan kullanıcı adına kararlar alıp süreçleri yöneten aktif bir ajana dönüştürmeye zorluyor.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Siri",
+    "iOS 27.3",
+    "OpenAI",
+    "Meta",
+    "otonom ajanlar"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber, Bloomberg'den Mark Gurman'ın yayımladığı iddialara ve The Verge'ün aktardığı bilgilere dayanmaktadır.",
+  "short_title": "Apple Siri'yi otonom yapay zeka ajanına dönüştürüyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a sleek translucent sphere made of frosted glass resting on a dark polished wooden table, inside the sphere a soft glowing core subtly shifts light, reflecting minimal shadows in a minimalist studio setup",
+  "focus_keyword": "Apple Siri yapay zeka",
+  "seo_title": "Apple Siri yapay zeka geliştirmelerini hızlandırıyor",
+  "meta_description": "Apple Siri yapay zeka altyapısını otonom bir ajana dönüştürmek için çalışmalarını hızlandırıyor. Yeni güncellemeler ve iOS 27.3 detayları haberimizde.",
+  "seo_slug": "apple-siri-yapay-zeka-ajanina-donusuyor",
+  "image_alt": "Karanlık ahşap zemin üzerinde duran ve içinden yumuşak bir ışık yayan şeffaf cam küre.",
+  "cover_text": "Siri",
+  "importance": 7,
+  "triage_reason": "Apple'ın Siri'yi daha yetenekli ve ajan tabanlı hale getirme çabaları önemli bir ürün gelişmesidir.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "title": "Apple is racing to make Siri more agentic",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-08T19:18:19Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "published": "2026-11-08T19:18:19Z",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "text": "Bloomberg’s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI’s Dots or Meta’s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it’s keeping pace with its rivals.\nApple is racing to make Siri more agentic\nFuture versions of Siri will be able to control third-party apps and perform more complex tasks.\nTwo significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple’s first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to land with iOS 27.3. The bigger change, integration with third-party apps, is likely to land later, in the Spring, according to Gurman. That would let Siri place an order through Grubhub or book a dinner reservation through OpenTable, for example.\nBut that’s just the start. Apple is expected to push Siri to become more agentic and enable features that will allow it to perform ongoing tasks, not just one-offs. Gurman says:\nDots, Muse and Grok can keep track of goals, determine what needs to happen next and continue pursuing objectives without the user initiating every individual step. Apple ultimately wants to go in this direction, I’m told, and I believe the company could make Siri more like an agent as early as next year — not that it has much of a choice, given current consumer and market demands."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 500
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
