@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-08T17:15:43Z",
+  "last_collect": "2026-11-08T17:31:01Z",
   "last_summary_date": "2026-11-07",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:41Z",
+      "last_ok": "2026-11-08T17:30:58Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:41Z",
+      "last_ok": "2026-11-08T17:30:58Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:58Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1215,
+      "fails": 1216,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:42Z",
+      "last_ok": "2026-11-08T17:30:59Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-08T17:15:43Z",
+      "last_ok": "2026-11-08T17:31:01Z",
       "count": 20
     }
   },
@@ -205,18 +205,22 @@
       "auto": 3
     },
     "2026-11-08": {
-      "tok_in": 42104,
-      "tok_out": 12789,
+      "tok_in": 45851,
+      "tok_out": 13869,
       "cost_usd": 0.0,
       "expired": 6,
-      "drafts": 11
+      "drafts": 12,
+      "published": 1,
+      "auto": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-08T16:59:59Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/suno-yapay-zeka-davasi-elvis-ve-eminem/"
+  ],
+  "last_build": "2026-11-08T17:39:39Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

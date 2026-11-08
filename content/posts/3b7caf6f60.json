@@ -1,0 +1,59 @@
+{
+  "id": "3b7caf6f60",
+  "created_at": "2026-11-08T17:35:31Z",
+  "title": "Suno yapay zeka davası Elvis Presley ve Eminem hak sahipleriyle büyüyor",
+  "summary": "Elvis Presley'nin hak sahipleri ve Eminem'in yayıncısı, ses kopyalama ve telif ihlali iddiasıyla yapay zeka müzik şirketi Suno'ya dava açtı.",
+  "body": "Elvis Presley'nin telif hakkı sahipleri ve Eminem'in bazı şarkılarının yayıncısı, müzik üreten girişim Suno'ya karşı yeni bir Suno yapay zeka davası başlattı. 8 Kasım 2026 tarihli gelişmeye göre şikayetçiler, platformun sanatçıların seslerini, müzik tarzlarını ve şarkı sözlerini izinsiz şekilde taklit ettiğini öne sürüyor.\n\n## Suno yapay zeka davası kapsamındaki iddialar\nPresley'nin hak sahiplerini temsil eden avukatlar, yapay zeka şirketi Suno'nun Tennessee eyaletindeki ELVIS (Ensuring Likeness Voice and Image Security) Yasası'nı ihlal ettiğini ifade ediyor. İlgili yasal düzenleme, yapay zeka platformlarının bir ses sanatçısının sesini izinsiz olarak kopyalamasını yasaklıyor. Dava dilekçesinde, şirketin herhangi bir lisans almadan sanatçı kimliklerini ve emeklerini sistemine mekanik olarak işlediği iddia ediliyor.\n\nBu adım, Eylül ayında müzisyen Jason Isbell tarafından açılan benzer hukuki süreci takip ediyor. Yapay zeka müzik üreticisi Suno halihazırda sektörün önde gelen diğer kurumlarıyla da yasal mücadele yürütüyor:\n* Sony Music\n* Universal Music Group (UMG)\n* Reservoir Media\n\n## Suno cephesinin koruma önlemleri\nThe Verge'e açıklama yapan Suno sözcüsü Cat McCormack, platformun amacının insanların yeni ve özgün müzikler üretmesini sağlamak olduğunu söyledi. Şirket temsilcisi, herhangi bir sanatçının adından veya telifli eserinden izinsiz faydalanılmasını yasakladıklarını belirtti.\n\nMcCormack, platformdaki kötüye kullanımı önlemek amacıyla şu güvenlik mekanizmalarını uyguladıklarını dile getirdi:\n* Özel sanatçı isimleri ve şarkı adlarıyla komut verilmesinin engellenmesi\n* Yüklenen ses dosyalarının ve sözlerin üçüncü taraf hizmet sağlayıcılarıyla taranması\n* Sanatçı ve kullanıcı haklarını korumak adına güvenlik duvarlarının sürekli güncellenmesi\n\n**Neden önemli?** Müzik endüstrisinin dev isimlerinin yapay zeka platformlarına açtığı bu yeni davalar, ses kopyalama teknolojileri ile sanatçı hakları arasındaki yasal sınırların nasıl şekilleneceğini göstermesi açısından kritik önem taşıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Suno",
+    "Elvis Presley",
+    "Eminem",
+    "ELVIS Yasası",
+    "telif hakkı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Suno'ya Elvis Presley ve Eminem'den yeni davalar",
+  "kicker": "Yasal süreç",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A pristine vinyl record made of polished dark obsidian resting on a concrete table, with a fine diagonal crack running through its center, illuminated by a single warm spotlight.",
+  "focus_keyword": "Suno yapay zeka davası",
+  "seo_title": "Suno yapay zeka davası: Elvis ve Eminem'den hukuki adım",
+  "meta_description": "Elvis Presley ve Eminem hak sahipleri tarafından açılan Suno yapay zeka davası hakkındaki tüm detayları ve şirketin yanıtını inceleyin.",
+  "seo_slug": "suno-yapay-zeka-davasi-elvis-ve-eminem",
+  "image_alt": "Siyah obsidyenden yapılmış kırık bir plak görseli: Suno müzik şirketine açılan telif ve ses kopyalama davalarını temsil…",
+  "cover_text": "Suno",
+  "importance": 6,
+  "triage_reason": "Suno müzik üretken yapay zeka aracına açılan telif davası sektörü yakından ilgilendiriyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-08T17:23:19Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 495
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "suno-yapay-zeka-davasi-elvis-ve-eminem",
+  "published_at": "2026-11-08T17:35:33Z",
+  "publish_mode": "auto"
+}
