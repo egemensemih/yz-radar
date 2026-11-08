@@ -1,0 +1,69 @@
+{
+  "id": "5637459872",
+  "status": "pending",
+  "created_at": "2026-11-08T20:36:30Z",
+  "title": "Nvidia yönetim kurulu Jensen Huang hakkında bağımsız inceleme başlattı",
+  "summary": "Nvidia, CEO Jensen Huang'ın yabancı bir istihbarat faaliyetinin hedefi olduğuna yönelik haberlerin ardından bağımsız bir inceleme yürütüldüğünü açıkladı.",
+  "body": "Nvidia yönetim kurulu, şirketin kurucusu ve CEO'su Jensen Huang hakkında, Çin istihbaratıyla bağlantılı olduğu iddia edilen bir yöneticiyle ilişkisi nedeniyle bağımsız bir inceleme başlattı. Yönetim kurulunun açıklamasında, sürecin bağımsız direktörlerden oluşan bir komite ve dış hukuk danışmanlığı eşliğinde yürütüleceği belirtildi.\n\n## İncelemenin arka planı ve iddialar\n\nThe New York Times'ın geçen ay yayımladığı haberde, Jensen Huang'ın Megaspeed adlı şirketin yöneticisi Alice Huang ile yakın bir ilişki kurduğu öne sürülmüştü. ABD'li yetkililer, Alice Huang'ın Çin Devlet Güvenliği Bakanlığı tarafından Nvidia'ya yönelik casusluk faaliyetleri yürütmek üzere görevlendirildiğini ve Pekin'e doğrudan bilgi aktardığını iddia ediyor.\n\nNvidia yönetim kurulu yaptığı açıklamada, ABD'nin ulusal ve ekonomik güvenliğine öncelik verildiğini vurguladı. Kurul, ulusal güvenliğin veya şirket sırlarının tehlikeye girdiğine inanmak için bir neden bulunmadığını ancak tüm verilerin inceleneceğini ifade etti. Jensen Huang'ın da bu süreci bütünüyle desteklediği ve iş birliği yapacağı aktarıldı.\n\n## Çip kısıtlamaları ve Megaspeed soruşturması\n\nNvidia müşterisi konumundaki Megaspeed, ABD Ticaret Bakanlığı tarafından yapay zeka çiplerini yasa dışı yollarla Çin'e sokup sokmadığı gerekçesiyle daha önce incelemeye alınmıştı. ABD hükümeti, gelişmiş çiplerin Çinli şirketlere satışına yönelik sıkı denetimler uyguluyor ve firmaların bu donanımları işleyebilmesi için bakanlık onayı şart koşuluyor.\n\n**Neden önemli?** Küresel yapay zeka ekosisteminin en kritik donanım sağlayıcısı olan Nvidia'nın liderliğine yönelik bu soruşturma, ABD ile Çin arasındaki teknoloji rekabeti ve çip ihracatı kontrollerinin ne denli hassas bir noktaya ulaştığını gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Megaspeed",
+    "yapay zeka çipleri",
+    "ABD Ticaret Bakanlığı"
+  ],
+  "confidence": "yuksek",
+  "flags": [
+    "iddia",
+    "hassas"
+  ],
+  "editor_note": "Casusluk iddiaları ve yabancı istihbarat bağlantısı resmi soruşturma aşamasındadır; şirket sırlarının sızdığına dair kesinleşmiş bir bulgu yoktur.",
+  "short_title": "Nvidia CEO'su Jensen Huang hakkında inceleme",
+  "kicker": "Soruşturma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A thick, dark stone chessboard where two polished monolithic glass pillars face each other under a narrow beam of cool directional light",
+  "focus_keyword": "Nvidia yönetim kurulu",
+  "seo_title": "Nvidia yönetim kurulu Jensen Huang için inceleme başlattı",
+  "meta_description": "Nvidia yönetim kurulu, CEO Jensen Huang'ın bir Çin istihbarat operasyonunun hedefi olduğu iddiaları üzerine bağımsız bir inceleme süreci başlattı.",
+  "seo_slug": "nvidia-yonetim-kurulu-jensen-huang-incelemesi",
+  "image_alt": "Karanlık bir satranç tahtasında ışık altında duran iki cam sütun, kurumsal ve stratejik denetimi simgeliyor.",
+  "cover_text": "Nvidia",
+  "importance": 7,
+  "triage_reason": "Nvidia CEO'su Jensen Huang hakkında Çin casusu iddiasıyla başlatılan soruşturma büyük yankı uyandırdı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-08T20:22:39Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T20:22:39Z",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+      "text": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China’s Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\nNvidia is investigating Jensen Huang’s relationship with a Chinese spy\nFollowing reports that Nvidia’s CEO had a ‘close relationship’ with an AI exec the company is opening an investigation.\nThe NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation.\nThe Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA and its shareholders. While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board’s inquiry will examine all available information. Jensen fully supports the review and has committed to cooperating with it.\nThe Board has confidence in Jensen and his leadership team and will provide further updates as appropriate.\nThe New York Times reported last month that Huang had developed a “close relationship” with the Megaspeed executive, which some believed was romantic in nature. US officials believe she was feeding information directly back to Beijing.\nMegaspeed is a customer of Nvidia and is the subject of a Commerce Department investigation into whether it was smuggling AI chips to China. The company’s AI chips are viewed as crucial to the US maintaining technological supremacy. Both the Biden and Trump administrations have restricted their sale to China. President Trump has loosened those restrictions but still bars sales of Nvidia’s most powerful chips to Chinese firms, and the Commerce Department must approve individual firms to handle the chips.\nJust as importantly, Jensen Huang has gotten quite cozy with Donald Trump, and there is concern about what insights into the administration’s deliberations around AI he may have been privy to. And whether any of that information may have been shared with Alice Huang, and eventually found its way to Beijing.\nDeveloping…"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 501
+  },
+  "image": {
+    "source": "fallback"
+  },
+  "policy_reason": "Uyarı işareti var"
+}
