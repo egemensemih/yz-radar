@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-08T09:09:47Z",
+  "last_collect": "2026-11-08T09:25:56Z",
   "last_summary_date": "2026-11-07",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:54Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1182,
+      "fails": 1183,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:55Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:55Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-08T09:09:47Z",
+      "last_ok": "2026-11-08T09:25:56Z",
       "count": 20
     }
   },
@@ -205,11 +205,11 @@
       "auto": 3
     },
     "2026-11-08": {
-      "tok_in": 27401,
-      "tok_out": 7632,
+      "tok_in": 33637,
+      "tok_out": 9743,
       "cost_usd": 0.0,
       "expired": 3,
-      "drafts": 6
+      "drafts": 8
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
@@ -219,66 +219,6 @@
   "last_build": "2026-11-08T08:36:27Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i11"
-        ],
-        "topic": "Preparing for the 2026 US midterms",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "Anthropic'in 2026 ABD ara seçimleri için yapay zeka güvenliği hazırlıkları."
-      },
-      "items": [
-        {
-          "key": "18177a36d83526b9",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/2026-us-midterms",
-          "via": null,
-          "via_url": null,
-          "title": "Preparing for the 2026 US midterms",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i11"
-        }
-      ],
-      "at": "2026-11-08T08:37:23Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i12"
-        ],
-        "topic": "Anthropic opens Singapore office and signs MOU",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Anthropic'in Singapur'da ofis açması ve hükümetle mutabakat imzalaması."
-      },
-      "items": [
-        {
-          "key": "f2bde108f64c5a7a",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/singapore-office-opening",
-          "via": null,
-          "via_url": null,
-          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i12"
-        }
-      ],
-      "at": "2026-11-08T08:37:23Z"
-    },
     {
       "story": {
         "item_ids": [
