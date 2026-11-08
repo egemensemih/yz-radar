@@ -1,0 +1,70 @@
+{
+  "id": "e6310b71db",
+  "status": "pending",
+  "created_at": "2026-11-08T09:13:46Z",
+  "title": "Anthropic kamu anlaşması ile ABD kurumlarına Claude için yüzde 40 indirim sunuyor",
+  "summary": "Anthropic, ABD Genel Hizmetler İdaresi ile ortaklığını genişleterek kamu kurumlarına Claude modellerinde yüzde 40 indirim sağladı. Anlaşmanın 1 milyar dolar tasarruf sağlaması bekleniyor.",
+  "body": "Yapay zeka şirketi Anthropic, ABD Genel Hizmetler İdaresi (GSA) ile imzaladığı yeni **Anthropic kamu anlaşması** kapsamında kamu ortaklarına Claude Enterprise, Claude for Government ve Claude API ürünlerinde yüzde 40 indirim sunacağını duyurdu. İndirim doğrudan yapılan alımların yanı sıra ilerleyen aylarda bulut sağlayıcıları üzerinden yapılacak tedarik süreçlerinde de geçerli olacak. Söz konusu indirimden federal, eyalet, yerel, kabile ve bölge yönetimleri faydalanabilecek.\n\n## Kamu kurumlarına maliyet avantajı\n\nAnthropic'in paylaştığı bilgilere göre indirimlerin kamu bütçesinde 1 milyar dolar tasarruf sağlaması öngörülüyor. Anlaşma uyarınca kurumlar için herhangi bir asgari harcama taahhüdü şartı aranmayacak ve birimler yalnızca tükettikleri kullanım miktarı kadar ödeme yapacak. Şirket ayrıca kamu kuruluşlarının Claude entegrasyonunu hızlandırmak amacıyla özel bir destek programı başlatıyor.\n\nŞirket verilerine göre halihazırda yaklaşık 500 ABD federal, eyalet ve yerel yönetim kuruluşu Claude kullanıyor. Haftalık aktif Claude for Government kullanıcı sayısının şubat ayından bu yana yaklaşık sekiz kat, federal sivil kurumlardaki kullanımın ise bir yılda yaklaşık 20 kat arttığı bildirildi.\n\n## Güvenlik standartları ve operasyonel kullanım\n\nKurumlar sistemi kod modernizasyonu, kayıt yönetimi ve siber savunma gibi operasyonlarda kullanıyor. Şirketin aktardığı örnekler arasında şunlar öne çıkıyor:\n\n- Utah eyaletinde 10 kurumdan 34 yazılımcının Claude Code kullanmasıyla dört haftalık pilot süreçte geliştiricilerin yüzde 71'inin 20 saatten fazla zaman kazanması,\n- Bir eyaletin fidye yazılımı saldırısına normalde 2-3 gün süren müdahaleyi Claude yardımıyla 8 dakikada tamamlaması,\n- Bir federal güvenlik ekibinin Claude Mythos kullanarak kritik bir üretim sisteminde insan kaynaklı sızma testlerinde gözden kaçan açığı tespit edip yamaması.\n\nGüvenlik tarafında ise 30 Eylül'de genel erişime açılan Claude for Government, FedRAMP High yetkilendirme düzeyinde hizmet veriyor. Model ayrıca Amazon Bedrock üzerinden Savunma Bakanlığı (DoD) IL4 ve IL5 düzeylerindeki GovCloud iş yükleri için, Google Cloud Vertex AI üzerinde ise FedRAMP High kapsamında kullanılabiliyor.\n\n**Neden önemli?** Bütçe ve tedarik kısıtlarıyla çalışan kamu kurumlarının gelişmiş yapay zeka modellerine ve güvenlik standartlarına yüksek başlangıç maliyetleri olmadan erişmesini kolaylaştırıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "Claude Enterprise",
+    "Claude for Government",
+    "Amazon Bedrock",
+    "Google Cloud"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten kamuya yüzde 40 Claude indirimi",
+  "kicker": "Kamu ortaklığı",
+  "hero_stat": "%40",
+  "hero_stat_label": "kamu indirimi",
+  "visual_style": "sculpture",
+  "visual_scene": "Monolithic geometric pillars made of brushed aluminum and frosted white glass standing in an orderly classical formation, connected by slender architectural brass beams, softly illuminated in cool studio light.",
+  "focus_keyword": "Anthropic kamu anlaşması",
+  "seo_title": "Anthropic kamu anlaşması: Claude için yüzde 40 indirim",
+  "meta_description": "Anthropic kamu anlaşması ile ABD kurumlarına Claude modellerinde yüzde 40 indirim sağlandı. Yeni ortaklığın detayları ve güvenlik standartları haberimizde.",
+  "seo_slug": "anthropic-kamu-anlasmasi-claude-yuzde-40-indirim",
+  "image_alt": "Buzlu cam ve alüminyum mimari sütunlar: Anthropic'in kamu kurumlarına sunduğu Claude anlaşmasını temsil eden görsel",
+  "cover_text": "Claude",
+  "importance": 6,
+  "triage_reason": "Anthropic'in ABD devlet kurumları ile ortaklığını genişletmesi.",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    }
+  ],
+  "source_keys": [
+    "Anthropic"
+  ],
+  "source_texts": [
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "published": null,
+      "summary": "",
+      "text": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. For the first time, the discount applies across every product surface, including when agencies buy from us directly today and through cloud providers in the coming months. The discount also extends to state, local, tribal and territorial governments.\nWe are also launching a dedicated program to help agencies implement and make the most of their Claude use. These programs are commonly leveraged by our private sector customers and we’re looking forward to bringing those best practices to our public sector partners in the coming weeks.\nApproximately 500 US federal, state, and local government organizations now use Claude. Weekly Claude for Government active users are up about eightfold since February, and usage across federal civilian agencies has grown about 20-fold in a year. Those organizations run some of the most important systems in the country, usually on tight budgets and with long procurement cycles. This agreement is built to support that work, so they can apply Claude to hard problems without a large upfront commitment.\nThe discounts offered through the agreement are estimated to save the government $1 billion. Agencies are not bound by a minimum spend commitment and will be able to pay for the usage they consume.\nHow Claude is helping public servants get more done\nGovernment agencies are using Claude to solve some of their most important challenges. Examples include managing backlogs, records and forms, and modernizing old code. Some of the ways agencies are using Claude include:\n- Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.\n- A US state CIO confirmed their team was able to respond to a ransomware attack in 8 minutes vs. the usual 2-3 days thanks to Claude.\n- A US federal security team used Claude Mythos to detect and patch the vulnerability that would have allowed for the takeover of a critical production system in about two days. A human penetration test the month before had missed it.\n- A cybersecurity professional at a major agency found and patched bugs in critical financial systems.\n- A US state IT developer moved nearly 900 API methods to a new framework in two days. The project had been scoped for a month.\n- A US state IT director used Claude Code to document 12 legacy code repositories, mapping 467 database tables and flagging 27 risks along the way.\n- More than half of the US states, some of the largest localities, and some of the countries largest critical infrastructure operators participated in our SLTT cyber defense program.\nMeeting government security requirements\nAgencies can use Claude for their most sensitive unclassified work. Claude for Government, which delivers Claude's coding and agentic work capabilities and provides near-feature parity with commercial offerings at a FedRAMP High authorization level, was made generally available on September 30.\nAgencies building their own tools can use Claude through Amazon Bedrock or Google Cloud’s Vertex AI. On Bedrock, Claude is authorized for FedRAMP High, with select models authorized for DoD IL4 and IL5 workloads in AWS GovCloud. On Vertex AI, Claude is authorized for FedRAMP High.\nClaude Enterprise is in process for FedRAMP Moderate authorization through the FedRAMP 20x program, marking the next evolution of how we are bringing the same innovative technology available commercially to the government.\nGetting started\nGovernment agencies can buy Claude at the OneGov discount through GSA's Multiple Award Schedule today. Whether your department or agency already uses Claude or is interested in using it, our Public Sector team will help discuss your options.\nFor more information, contact us here."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 488
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Anthropic"
+}

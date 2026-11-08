@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-08T08:53:05Z",
+  "last_collect": "2026-11-08T09:09:47Z",
   "last_summary_date": "2026-11-07",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 1368
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 899
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1181,
+      "fails": 1182,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:04Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:05Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-08T08:53:05Z",
+      "last_ok": "2026-11-08T09:09:47Z",
       "count": 20
     }
   },
@@ -205,11 +205,11 @@
       "auto": 3
     },
     "2026-11-08": {
-      "tok_in": 22301,
-      "tok_out": 5705,
+      "tok_in": 27401,
+      "tok_out": 7632,
       "cost_usd": 0.0,
       "expired": 3,
-      "drafts": 4
+      "drafts": 6
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
@@ -219,66 +219,6 @@
   "last_build": "2026-11-08T08:36:27Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i5"
-        ],
-        "topic": "Expanding partnership with GSA to bring Claude to government",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Anthropic'in ABD devlet kurumları ile ortaklığını genişletmesi."
-      },
-      "items": [
-        {
-          "key": "31f854764086b8ec",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-          "via": null,
-          "via_url": null,
-          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i5"
-        }
-      ],
-      "at": "2026-11-08T08:37:23Z"
-    },
-    {
-      "story": {
-        "item_ids": [
-          "i7"
-        ],
-        "topic": "Donating Agent Skills to the Agentic AI Foundation",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "acik-kaynak",
-        "reason": "Anthropic'in ajan yeteneklerini Agentic AI Foundation'a bağışlaması."
-      },
-      "items": [
-        {
-          "key": "cc012b1e3b750154",
-          "source": "Anthropic",
-          "kind": "official",
-          "credit": "Anthropic",
-          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-          "via": null,
-          "via_url": null,
-          "title": "Donating Agent Skills to the Agentic AI Foundation",
-          "summary": "",
-          "published": null,
-          "html_source": true,
-          "tid": "i7"
-        }
-      ],
-      "at": "2026-11-08T08:37:23Z"
-    },
     {
       "story": {
         "item_ids": [
