@@ -40,10 +40,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50413822",
       "published": "2026-11-08T14:49:23Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/09/openaiin-125-trilyon-dolar-degerleme-uzerinden-11-milyar-dolar-yatirim-aldigi-bildirildi/",
+      "title": "OpenAI'ın 1,25 trilyon dolar değerleme üzerinden 11 milyar dolar yatırım aldığı bildirildi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/09/openaiin-125-trilyon-dolar-degerleme-uzerinden-11-milyar-dolar-yatirim-aldigi-bildirildi/#comments",
+      "published": "2026-11-09T08:30:00Z"
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "Webrazzi"
   ],
   "source_texts": [
     {
