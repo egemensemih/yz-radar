@@ -1,0 +1,71 @@
+{
+  "id": "206a2f5295",
+  "status": "pending",
+  "created_at": "2026-11-09T17:11:29Z",
+  "title": "Anthropic doğalgaz türbini satın alımı için 3,4 milyar dolar harcıyor",
+  "summary": "Anthropic, veri merkezlerinin elektrik ihtiyacını karşılamak amacıyla 3,4 milyar dolar değerinde Caterpillar üretimi doğalgaz türbini satın almak için adım attı.",
+  "body": "9 Kasım 2026 tarihinde aktarılan bilgilere göre Anthropic, veri merkezlerine enerji sağlamak amacıyla 3,4 milyar dolar tutarında **Anthropic doğalgaz türbini** satın alımı gerçekleştiriyor. Financial Times'ın raporuna dayandırılan habere göre şirket, 1,7 gigavata kadar elektrik üretebilen Caterpillar üretimi jeneratörleri doğrudan fabrikadan teslim alacak. Daha önce fiziki altyapı satın almaktan kaçınan şirketin bu adımı, yapay zeka sektöründeki enerji sıkıntısının boyutunu gösteriyor.\n\n## Kiralamadan doğrudan altyapı alımına\n\nTarihsel olarak sunucu ve altyapı ihtiyacını kiralama yöntemiyle karşılayan Anthropic, Mayıs ayındaki S-1 başvurusunda SpaceX iştiraki xAI'a Mayıs 2029'a kadar ayda 1,25 milyar dolar ödediğini bildirmişti. Ancak elektrik şebekelerine bağlanma sürelerinin uzaması ve doğalgaz türbini siparişlerinde teslimat vadelerinin 2030'lu yılların başlarına kadar uzaması şirketi doğrudan alım yapmaya yöneltti.\n\nSöz konusu jeneratörler ilk olarak ekipman tedarikçisi OnePWR tarafından sipariş edilmişti. Ancak OnePWR finansman sağlayamayınca Anthropic devreye girerek ekipmanları doğrudan imalatçı Caterpillar şirketinden satın alma kararı aldı.\n\n## Anthropic doğalgaz türbini yatırımları ve sektördeki eğilim\n\nYapay zeka modellerinin eğitim süreçlerindeki işlem gücü talebi artarken, büyük teknoloji firmaları kamu şebekelerine bağımlı kalmamak için kendi tesislerini kuruyor. Google, Amazon, Microsoft ve Meta da veri merkezlerini beslemek için kendi doğalgaz santrallerini inşa etmeyi planlıyor.\n\nSektörel öngörülere göre ABD'deki veri merkezleri 2035 yılına kadar Almanya ve Japonya'nın toplamından daha fazla doğalgaz tüketebilir. Ancak **doğalgaz fiyatları** artış gösterirse bu durum şirketler üzerinde ek maliyet yükü oluşturabilir.\n\n**Neden önemli?** Her zaman kiralama modelini benimseyen Anthropic'in doğrudan enerji üretimine milyarlarca dolar harcaması, yapay zeka veri merkezlerinin karşı karşıya kaldığı küresel elektrik krizinin ciddiyetini kanıtlıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Caterpillar",
+    "OnePWR",
+    "doğalgaz",
+    "veri merkezleri"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber Financial Times raporuna ve TechCrunch aktarımına dayanmaktadır.",
+  "short_title": "Anthropic'ten 3,4 milyar dolarlık türbin adımı",
+  "kicker": "Enerji altyapısı",
+  "hero_stat": "3,4 milyar $",
+  "hero_stat_label": "türbin alım tutarı",
+  "visual_style": "studio",
+  "visual_scene": "A dark matte studio setting featuring a monolithic turbine blade crafted from frosted industrial glass, standing vertically on a polished grey stone surface with soft ambient golden spotlighting.",
+  "focus_keyword": "Anthropic doğalgaz türbini",
+  "seo_title": "Anthropic doğalgaz türbini için 3,4 milyar $ harcıyor",
+  "meta_description": "Anthropic doğalgaz türbini satın alarak 1,7 gigavatlık elektrik üretmeyi hedefliyor. Şirket altyapı sıkıntısına karşı 3,4 milyar dolar harcadı.",
+  "seo_slug": "anthropic-dogalgaz-turbini-icin-3-4-milyar-dolar-harcadi",
+  "image_alt": "Buzlu camdan yapılmış minimalist türbin kanadı görseli: Anthropic'in doğalgaz türbini alımını simgeliyor.",
+  "cover_text": "Anthropic",
+  "importance": 7,
+  "triage_reason": "Anthropic'in enerji altyapısı ve veri merkezi yatırımı kapsamında büyük miktarda türbin satın alması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T16:56:54Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "published": "2026-11-09T16:56:54Z",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "text": "AI’s power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines.\nThe AI company, which is planning to go public this year, is buying Caterpillar generators that equipment supplier OnePWR had originally ordered, according to a Financial Times report. The generators are capable of producing up to 1.7 gigawatts of electricity.\nHistorically, Anthropic has preferred to rent rather than buy. The company disclosed in its S-1 filing in May that it is paying SpaceX subsidiary xAI $1.25 billion per month through May 2029 to use xAI’s computing power.\n“We expect to enter into additional similar services contracts,” Anthropic stated in the filing, meaning more deals to rent computing power.\nBut as demand for compute ramps up, the market for power has also grown increasingly uncertain, which may have forced its hand. The backlog for natural gas turbines stretches into the early 2030s, and queues to connect to the electrical grid can be just as long.\nAnthropic’s purchase looks like a last resort.\nAccording to the report, OnePWR ordered the turbines a couple years ago, but couldn’t find financing to complete the purchase. Anthropic had planned to buy them from OnePWR but instead went directly to Caterpillar, the manufacturer.\nIt’s not clear why OnePWR was unable to secure financing despite Anthropic’s apparent interest as a customer. Whatever the case, Anthropic likely wanted to keep the generating capacity to itself rather than give a competitor an opportunity to snap it up.\nAI companies have been ramping up their purchases of natural gas equipment and supplies in recent years. Google, Amazon, Microsoft, and Meta have all announced plans to build massive natural gas power plants to power their data centers on site, rather than drawing from the public grid.\nThe binge has given a second wind to fracking, the drilling method used to extract natural gas from underground rock. And if the buildout proceeds as planned, U.S. data centers alone could consume more natural gas than Germany and Japan combined by 2035. The reliance on natural gas also exposes hyperscalers to price fluctuations. One analyst expects that prices could more than triple by the end of the decade in some markets. If that happens, Anthropic might have a serious case of buyer’s remorse."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 513
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
