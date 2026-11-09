@@ -1,0 +1,59 @@
+{
+  "id": "51867a3956",
+  "created_at": "2026-11-09T15:41:09Z",
+  "title": "Disney ve Adobe yapay zeka araçları geliştirmek için iş birliği yaptı",
+  "summary": "The Walt Disney Company ve Adobe, Disney'in üretim süreçlerini desteklemek amacıyla çok yıllı bir yapay zeka ortaklığı duyurdu.",
+  "body": "The Walt Disney Company ve Adobe, Disney'in üretim süreçlerini desteklemek amacıyla **Adobe Firefly Foundry** platformunu kullanarak özel yapay zeka modelleri geliştirmek üzere çok yıllı bir ortaklık duyurdu. The Verge'ün aktardığına göre bu iş birliği, Adobe'nin MAX konferansında açıklandı ve Disney'e tema parklarından ESPN içeriklerine kadar birçok alanda erken erişim imkanı tanıyor.\n\n## Sanatçı odaklı modeller ve uygulama alanları\n\nAdobe basın bültenine göre bu ortaklık, Disney mülklerine özel olarak uyarlanmış, insan merkezli ve sanatçı liderliğindeki yapay zeka modellerinin geliştirilmesini kapsıyor. Propiyeter yani tescilli bu modeller, karakter özellikleri ve görsel stiller gibi benzersiz dünya bilgileriyle eğitilerek ticari açıdan güvenli çıktılar üretilmesini hedefliyor.\n\n## Genişleyen iş akışları\n\nDisney'in Imagineering Ar-Ge bölümünün tema parkı geliştirme süreçlerinde zaten Adobe Firefly platformunu kullandığı belirtiliyor. Yeni anlaşma kapsamında Adobe, Walt Disney Studios içindeki yaratıcı iş akışlarını genişletecek ve ESPN içeriklerinin şekillendirilmesinde yapay zeka kullanımını araştıracak.\n\n**Neden önemli?** Bu ortaklık, Disney'in daha önceki OpenAI anlaşması ve Character.AI süreçlerinin ardından yapay zeka araçlarını benimsediği en son adım olarak kayda geçti.",
+  "category": "sirketler",
+  "tags": [
+    "Disney",
+    "Adobe",
+    "Firefly",
+    "OpenAI",
+    "Character.AI"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Disney ve Adobe yapay zeka iş birliği duyurdu",
+  "kicker": "Ortaklık",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth dark slate block with two intertwined glowing amber and cyan glass filaments rising from its surface, casting soft reflections on a matte dark background",
+  "focus_keyword": "Disney Adobe yapay zeka",
+  "seo_title": "Disney ve Adobe yapay zeka araçları için ortaklık kurdu",
+  "meta_description": "Disney ve Adobe, tema parkları ve ESPN içerikleri dahil olmak üzere üretim süreçleri için özel yapay zeka modelleri geliştirmek üzere ortaklık duyurdu.",
+  "seo_slug": "disney-ve-adobe-yapay-zeka-is-birligi-duyurdu",
+  "image_alt": "Karanlık zemin üzerinde yükselen amber ve cam rengi parlak filamentler, Disney ve Adobe'nin yapay zeka iş birliğini…",
+  "cover_text": "Adobe Firefly",
+  "importance": 7,
+  "triage_reason": "Disney ve Adobe, yapay zeka tabanlı üretim araçları için çok yıllı büyük bir ortaklık duyurdu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T15:38:56Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 510
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "disney-ve-adobe-yapay-zeka-is-birligi-duyurdu",
+  "published_at": "2026-11-09T15:41:09Z",
+  "publish_mode": "auto"
+}
