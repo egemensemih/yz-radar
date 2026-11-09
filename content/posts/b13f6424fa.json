@@ -1,0 +1,59 @@
+{
+  "id": "b13f6424fa",
+  "created_at": "2026-11-09T19:26:10Z",
+  "title": "Apple Intelligence Usage Packs ile yapay zeka özelliklerine ek erişim getiriyor",
+  "summary": "Apple, bulut tabanlı yapay zeka özellikleri için kullanıcılara tek seferlik satın alımla sunulan Intelligence Usage Packs seçeneğini Logic Pro ile başlattı.",
+  "body": "The Verge'ün aktardığına göre, **Apple Intelligence Usage Packs** adı verilen yeni paketler, bulut tabanlı yapay zeka modellerine erişim sınırlarını aşmak isteyen kullanıcılara sunuldu. Apple, erken Eylül ayındaki bir destek makalesinin ardından Logic Pro uygulamasını güncelleyerek ek kullanım satın alma seçeneğini kullanıma sundu.\n\n## Logic Pro ve yeni kullanım paketleri\n\nApple'ın ilk kez Logic Pro uygulamasında hayata geçirdiği bu sistem, OpenAI veya Google Gemini tabanlı yapay zeka özelliklerinin sınırına ulaşan kullanıcıları hedefliyor. Uygulamanın yerleşik yapay zeka asistanı; yeni bir şarkı başlatma, tek komutla vokal takibi kurma veya aktif bir projeyi geliştirme gibi işlemler sunuyor. Kullanım sınırının asistanla yapılan konuşmaların karmaşıklığına bağlı olduğu belirtilirken, bu paketlerin fiyatı **49,99 dolar** olarak belirlendi.\n\n## Kapsam ve kullanım koşulları\n\nIntelligence Usage Packs yalnızca satın alımı yapan Apple Hesabı tarafından kullanılabiliyor ve aile paylaşımını desteklemiyor. Kullanılmayan ek haklar aydan aya devrediliyor ancak satın alma tarihinden itibaren 12 ay sonra geçerliliğini yitiriyor. Bu seçeneğin bu ay içinde Pixelmator Pro, Final Cut Pro, Motion, Pages, Keynote ve Numbers gibi diğer Apple Creator Studio uygulamalarına da eklenmesi bekleniyor.\n\n**Neden önemli?** Apple, bulut tabanlı yapay zeka modellerinin getirdiği kullanım sınırlarını ilk kez ücretli ek paketler aracılığıyla genişleterek yapay zeka özelliklerinde yeni bir gelir modeli uygulamaya başladı.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Logic Pro",
+    "Apple Intelligence",
+    "OpenAI",
+    "Google Gemini"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple Intelligence Usage Packs duyuruldu",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "49,99 $",
+  "hero_stat_label": "tek seferlik paket fiyatı",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte black rectangular block with a single thin amber light line embedded along its side, standing on a pale grey surface",
+  "focus_keyword": "Apple Intelligence Usage Packs",
+  "seo_title": "Apple Intelligence Usage Packs ile ek yapay zeka erişimi",
+  "meta_description": "Apple, bulut tabanlı yapay zeka özellikleri için sunulan Apple Intelligence Usage Packs ile Logic Pro uygulamasında ek kullanım satışına başladı.",
+  "seo_slug": "apple-intelligence-usage-packs-yapay-zeka-erisimi",
+  "image_alt": "Siyah renkli blok üzerinde ince amber ışık çizgisi bulunan Logic Pro yapay zeka kullanım paketi temsilî görseli",
+  "cover_text": "Usage Packs",
+  "importance": 6,
+  "triage_reason": "Apple, bazı yapay zeka özellikleri için ücretli kullanım paketleri sunmaya başladı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T19:09:58Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 524
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "apple-intelligence-usage-packs-yapay-zeka-erisimi",
+  "published_at": "2026-11-09T19:26:13Z",
+  "publish_mode": "auto"
+}
