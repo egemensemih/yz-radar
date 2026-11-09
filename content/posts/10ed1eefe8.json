@@ -1,0 +1,59 @@
+{
+  "id": "10ed1eefe8",
+  "created_at": "2026-11-09T18:26:52Z",
+  "title": "Meta Muse Ember modelini duyurdu: Yapay zeka ajanları için düşük maliyetli seçenek",
+  "summary": "Meta Superintelligence Lab, ajan sistemlerinde yüksek hacimli görevleri yürütmek üzere tasarlanan hafif yapay zeka modeli Muse Ember'ı duyurdu.",
+  "body": "Meta Superintelligence Lab, 9 Kasım 2026'da yeni hafif yapay zeka modeli Meta Muse Ember için duyuru yaptı. Laboratuvarın bugüne kadarki en verimli modeli olarak öne çıkan Muse Ember; kodlama alt görevleri, veri çıkarma, yönlendirme ve uzun belge analizi gibi tekrarlayan ajan iş yükleri için geliştirildi.\n\n## Meta Muse Ember ve ajan mimarisi\nMeta, modelin görev başına düşen maliyet avantajına dikkat çekiyor. Milyon girdi tokeni başına **10 sent** seviyesindeki fiyatıyla Ember; Anthropic’in Haiku ve OpenAI’ın Luna modellerinden daha uygun bir seçenek sunuyor. Şirket, modelin açık kaynak tarafında DeepSeek V4.1 Flash ve GLM 5.3 Flash ile rekabet edebildiğini belirtiyor.\n\nEmber, tek başına çalışmaktan ziyade Meta’nın Muse Wonder modeliyle birlikte bir ajan mimarisi içinde kullanılmak üzere kurgulandı. Meta bu yapıyı \"Muse Wonder planlar, Muse Ember hacmi yönetir\" ifadeleriyle tanımlıyor. Örneğin bir müşteri hizmetleri ajanında büyük model kuralları belirlerken, hafif model bu kuralları binlerce işleme uyguluyor.\n\n## Çoklu mod yetenekleri ve model ailesi\nYüksek hacimli iş yükleri için geliştirilen model, farklı veri türlerini işleyebiliyor. Modelin desteklediği girdiler şunlardır:\n- Ekran görüntüleri, grafikler ve taranmış belgeler\n- Ses kayıtları ve toplantı notları\n- Harici bir modele ihtiyaç duyulmadan işlenen video verileri\n\nEmber; Nisan ayında yayımlanan Spark, Ağustos'taki Glimmer ve Ekim ayında çıkarılan Wonder'ın ardından Muse serisinin dördüncü modeli oldu. Şirketin tüketiciye yönelik **Muse Agent** ürünü ise Eylül ayında kullanıma sunulmuştu.\n\n**Neden önemli?** Yapay zeka ajanlarının yaygınlaşmasıyla birlikte büyük modellerin sunduğu yüksek işlem maliyetleri operasyonel zorluklar yaratıyordu. Mantık yürütme ile hacimli uygulama süreçlerini ayıran bu tür hafif modeller, kurumsal ajan sistemlerinin maliyetini düşürmeyi hedefliyor.",
+  "category": "modeller",
+  "tags": [
+    "Meta",
+    "Muse Ember",
+    "Muse Wonder",
+    "yapay zeka ajanları",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta'dan ajan odaklı hafif model: Muse Ember",
+  "kicker": "Yeni model",
+  "hero_stat": "0,10 $",
+  "hero_stat_label": "1M girdi tokeni maliyeti",
+  "visual_style": "studio",
+  "visual_scene": "A glowing ember-orange translucent glass cube hovering in a dark studio setting, surrounded by smaller suspended geometric light fragments representing data tasks, shot with soft volumetric lighting.",
+  "focus_keyword": "meta muse ember",
+  "seo_title": "Meta Muse Ember duyuruldu: Düşük maliyetli ajan modeli",
+  "meta_description": "Meta Muse Ember modelini duyurdu. Milyon girdi tokeni başına 10 sent maliyet sunan model, karmaşık ajan görevlerine odaklanıyor.",
+  "seo_slug": "meta-muse-ember-modelini-duyurdu",
+  "image_alt": "Meta'nın Muse Ember modelini temsil eden turuncu parlak cam küp görseli",
+  "cover_text": "Muse Ember",
+  "importance": 7,
+  "triage_reason": "Meta, ajan yürütme için optimize edilmiş hafif ve ucuz modeli Muse Ember'ı tanıttı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 517
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "meta-muse-ember-modelini-duyurdu",
+  "published_at": "2026-11-09T18:26:55Z",
+  "publish_mode": "auto"
+}
