@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-09T18:55:52Z",
+  "last_collect": "2026-11-09T19:10:50Z",
   "last_summary_date": "2026-11-09",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:43Z",
-      "count": 1368
+      "last_ok": "2026-11-09T19:10:50Z",
+      "count": 1369
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 900
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1318,
+      "fails": 1319,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-09T18:55:44Z",
+      "last_ok": "2026-11-09T19:10:50Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-09T18:55:52Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -207,21 +208,54 @@
       "auto": 1
     },
     "2026-11-09": {
-      "tok_in": 65100,
-      "tok_out": 13236,
+      "tok_in": 71070,
+      "tok_out": 14962,
       "cost_usd": 0.0,
-      "drafts": 11,
+      "drafts": 13,
       "expired": 1,
-      "published": 3,
-      "auto": 3
+      "published": 4,
+      "auto": 4
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-09T18:31:03Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/anthropic-claude-fable-ve-mythos-5-2-modellerini-duyurdu/"
+  ],
+  "last_build": "2026-11-09T19:15:11Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "Apple introduces paid usage packs for Apple Intelligence features",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Apple, bazı yapay zeka özellikleri için ücretli kullanım paketleri sunmaya başladı."
+      },
+      "items": [
+        {
+          "key": "b54a5923f7fe6a0f",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "via": null,
+          "via_url": null,
+          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+          "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+          "published": "2026-11-09T19:09:58Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-11-09T19:10:52Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }

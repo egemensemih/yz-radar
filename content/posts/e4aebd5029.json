@@ -1,0 +1,57 @@
+{
+  "id": "e4aebd5029",
+  "created_at": "2026-11-09T19:10:56Z",
+  "title": "Anthropic Claude Fable ve Mythos 5.2 modellerini duyurdu",
+  "summary": "Anthropic, kodlama, akıl yürütme ve görsel yeteneklerde gelişme sunan Claude Fable 5.2 ve Claude Mythos 5.2 modellerini tanıttı.",
+  "body": "Anthropic Claude Fable ve Mythos 5.2 modellerini duyurdu. The Verge'ün aktardığına göre şirket, Fable 5.2 ve Mythos 5.2 isimli iki yeni yapay zeka modelini 9 Kasım'da tanıttı. Yapılan açıklamaya göre yeni modeller, önceki 5.1 sürümlerine kıyasla daha hızlı çıktı üretebiliyor ve karmaşık teknik zorlukların üstesinden gelmek için geliştirildi.\n\n## Claude Fable 5.2 yetenekleri\n\nAnthropic'in açıklamasına göre Claude Fable 5.2 yazılım mühendisliği problemlerinde güçlü bir performans sergiliyor, ajan ekiplerini koordine edebiliyor ve uzun soluklu projelerin altından kalkabiliyor. Ön sürüm testleri sırasında modelin sergilediği bazı somut başarılar şu şekildedir:\n\n- Karmaşık yazılım migrasyonlarının tamamlanmasına yardımcı olma\n- Sıfırdan üç adet çalışan elektronik cihaz tasarlama\n- Kara delik fiziğindeki iki açık problemi çözme\n\nAyrıca model, Fermat'ın Son Teoremi'nin kanununu 30 saat içinde resmileştirmeyi başardı. Claude Fable 5.2 kullanıma sunulurken, Claude Mythos 5.2 modeline başlangıçta yalnızca onaylanmış kuruluşların erişebileceği belirtildi.\n\n**Neden önemli?** Yeni modeller, Anthropic'in eylül ayında çıkardığı Fable ve Mythos 5.1 sürümlerinin ardından kodlama, akıl yürütme ve görsel alanlardaki yetenekleri bir üst seviyeye taşıyor.",
+  "category": "modeller",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Claude Fable ve Mythos 5.2 duyuruldu",
+  "kicker": "Yeni model",
+  "hero_stat": "5.2",
+  "hero_stat_label": "yeni model sürümü",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist sculpture made of two interlocking matte slate-grey stone blocks resting on a dark walnut wooden base, with a single thin beam of cool white light cutting across the gap between them",
+  "focus_keyword": "Claude Fable ve Mythos 5.2",
+  "seo_title": "Anthropic Claude Fable ve Mythos 5.2 Modellerini Duyurdu",
+  "meta_description": "Anthropic, kodlama ve akıl yürütme alanında gelişmiş yetenekler sunan Claude Fable 5.2 ve Claude Mythos 5.2 modellerini tanıttı.",
+  "seo_slug": "anthropic-claude-fable-ve-mythos-5-2-modellerini-duyurdu",
+  "image_alt": "Antrasit gri taş bloklardan oluşan minimalist heykel, Anthropic'in yeni modellerini temsil eden stüdyo ortamı",
+  "cover_text": "Claude 5.2",
+  "importance": 9,
+  "triage_reason": "Anthropic, teknik zorluklar için tasarlanan yeni Claude Fable ve Mythos 5.2 modellerini duyurdu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T19:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 520
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-claude-fable-ve-mythos-5-2-modellerini-duyurdu",
+  "published_at": "2026-11-09T19:10:59Z",
+  "publish_mode": "auto"
+}
