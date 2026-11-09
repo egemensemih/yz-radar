@@ -1,0 +1,69 @@
+{
+  "id": "a3860e76d2",
+  "status": "pending",
+  "created_at": "2026-11-09T14:42:42Z",
+  "title": "Nous Research, Qwen modelini Batılı değerlerle yeniden eğitti: Arete-27B",
+  "summary": "Nous Research, Alibaba'nın Qwen3.8-27B modelini temel alarak Batılı değerleri yansıtan Arete-27B adlı yeni açık kaynak modelini tanıttı.",
+  "body": "Açık kaynaklı modeller üzerinde çalışmalar yürüten Nous Research, Alibaba tarafından geliştirilen Qwen3.8-27B modelini temel alan Arete-27B adlı yeni yapay zeka modelini kullanıma sundu. Şirketin aktardığına göre, bu çalışma Çin merkezli bir modelde Batılı değerleri güçlendirmek ve modelin resmi devlet söylemlerine olan eğilimini dönüştürmek amacıyla gerçekleştirildi.\n\n## Arete-27B nasıl geliştirildi?\n\nArete-27B, sıfırdan oluşturulan bir temel model değil, mevcut Qwen3.8-27B mimarisi üzerinde yürütülen ek bir eğitim sürecinin ürünüdür. Yaklaşık 52,8 milyon tokenlık veriyle eğitilen modelde herhangi bir mimari değişiklik yapılmazken, eğitim sürecinde pekiştirmeli öğrenme veya tercih optimizasyonu yöntemlerine başvurulmadı. Eğitim verisi oluşturulurken Inkling adlı öğretmen model kullanıldı ve toplam 28 bin 886 örneklik bir veri seti hazırlandı.\n\n## Siyasi söylemde değişim\n\nNous Research tarafından hazırlanan ve ifade özgürlüğü, demokrasi, veri gizliliği gibi yedi kategoriyi kapsayan 803 soruluk değerlendirme setine göre, modelin siyasi eğilimlerinde belirgin bir farklılaşma gözlendi. Qwen3.8-27B'nin Çin hükümetinin resmi söylemini benimseme oranı yüzde 22 seviyesindeyken, Arete-27B'de bu oran yüzde 0,9'a geriledi. Özellikle ifade özgürlüğü başlığında resmi söylemi yansıtan yanıtların oranı yüzde 60'tan yüzde 1 seviyesine indi. Şirket, bu sonuçları puanlamak için Grok 4.7 modelini kullandı.\n\n## Performans verileri\n\nModelin genel yeteneklerinin korunup korunmadığını test eden şirket, Hermes Bench sonuçlarında iki model arasında anlamlı bir fark olmadığını belirtti; orijinal model yüzde 65,77 skor alırken Arete-27B yüzde 65,60 skorda kaldı. Araştırmacılar, Arete-27B'nin ağırlıklarını ve eğitim verilerini Hugging Face üzerinden paylaşarak bağımsız doğrulamalara olanak tanıdı. Ancak Nous Research, elde edilen sonuçların modelin tamamen tarafsızlaştığı veya tüm bilgilerin %100 doğru olduğu anlamına gelmediğinin altını çiziyor.\n\n**Neden önemli?** Çalışma, açık ağırlıklı yapay zeka modellerindeki temel değer yargılarının, görece düşük miktarda ek eğitim verisiyle bile önemli ölçüde dönüştürülebileceğini kanıtlaması açısından literatürde dikkate değer bir örnek oluşturuyor.",
+  "category": "modeller",
+  "tags": [
+    "Nous Research",
+    "Alibaba",
+    "Qwen",
+    "açık kaynak",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nous Research'ten Batı odaklı Arete-27B modeli",
+  "kicker": "Yeni model",
+  "hero_stat": "27 milyar",
+  "hero_stat_label": "parametre",
+  "visual_style": "sculpture",
+  "visual_scene": "Several smooth, interconnected marble spheres of varying sizes resting on a dark, reflective obsidian surface. A soft, clean light source from above creates subtle gradients on the stone surfaces, symbolizing the architectural transformation of a foundational model.",
+  "focus_keyword": "Arete-27B",
+  "seo_title": "Arete-27B: Nous Research'ten Batılı değerlere sahip model",
+  "meta_description": "Nous Research, Çinli Qwen modelini Batılı değerlere göre yeniden eğiterek Arete-27B modelini duyurdu. Modelin siyasi söylem üzerindeki etkilerini inceleyin.",
+  "seo_slug": "nous-research-arete-27b-modeli",
+  "image_alt": "Soyut mermer küreler, yapay zeka modelinin yeniden eğitilmesini simgeleyen bir kompozisyon oluşturuyor.",
+  "cover_text": "Arete-27B",
+  "importance": 7,
+  "triage_reason": "Nous Research, Çin menşeli Qwen modelini Batılı değerlerle yeniden eğiterek Arete-27B'yi açık kaynak olarak duyurdu.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/09/nous-research-un-batili-degerlerle-yeniden-egittigi-cin-merkezli-qwen-modeli-arete-27b/",
+      "title": "Nous Research'ün Batılı değerlerle yeniden eğittiği Çin merkezli Qwen modeli: Arete-27B",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/09/nous-research-un-batili-degerlerle-yeniden-egittigi-cin-merkezli-qwen-modeli-arete-27b/#comments",
+      "published": "2026-11-09T14:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Nous Research'ün Batılı değerlerle yeniden eğittiği Çin merkezli Qwen modeli: Arete-27B",
+      "url": "https://webrazzi.com/2026/11/09/nous-research-un-batili-degerlerle-yeniden-egittigi-cin-merkezli-qwen-modeli-arete-27b/",
+      "published": "2026-11-09T14:30:00Z",
+      "summary": "Açık kaynak yapay zeka modelleri üzerine çalışan Nous Research, Alibaba tarafından geliştirilen Qwen3.8-27B modelinin yeniden eğitilmiş bir versiyonu olan Arete-27B'yi tanıttı. Şirket, Arete-27B'yi Çi...",
+      "text": "Açık kaynak yapay zeka modelleri üzerine çalışan Nous Research, Alibaba tarafından geliştirilen Qwen3.8-27B modelinin yeniden eğitilmiş bir versiyonu olan Arete-27B'yi tanıttı. Şirket, Arete-27B'yi Çin'de geliştirilen bir yapay zeka modelinde \"Batılı değerleri güçlendirmek\" amacıyla oluşturduğunu belirtiyor.\n27 milyar parametreli Qwen3.8-27B'yi temel alan Arete-27B için sıfırdan yeni bir temel model geliştirilmediğini belirtelim. Nous Research bunun yerine mevcut model üzerinde yaklaşık 52,8 milyon tokenlık ek eğitim gerçekleştirdi.\nModelin eğitiminde kullanılan veri seti iki kez baştan sona işlendi ve bu süreç toplam 1.202 eğitim adımında tamamlandı. Bu süreçte pekiştirmeli öğrenme (reinforcement learning) veya tercih optimizasyonu (preference optimization) yöntemlerinin kullanılmadığını ekleyelim. Aynı şekilde modelin mimarisinde herhangi bir değişiklik yapılmadı. Dil modelinin tüm ağırlıkları yeniden eğitilirken metin tabanlı veri kullanıldığı için görsel kodlayıcı donduruldu.\nÇin hükümetinin resmi söylemini benimseyen yanıtların oranı yüzde 22'den yüzde 0,9'a düştü\nNous Research, modeldeki değişimi ölçmek için ifade özgürlüğü, devlet ideolojisi, serbest piyasa, eğitim, veri gizliliği ve gözetim, demokrasi ve çevre olmak üzere yedi kategoriden oluşan 803 soruluk bir değerlendirme seti hazırladı.\nSoruların yanıtları hem gerekli bilgilerin aktarılması hem de Çin hükümetinin resmi söyleminin model tarafından benimsenip benimsenmemesi açısından değerlendirildi. Şirketin testlerine göre Qwen3.8-27B'nin Çin hükümetinin resmi yaklaşımını kendi görüşü gibi benimsediği yanıtların oranı yüzde 22 seviyesindeydi. Arete-27B'de ise bu oran yüzde 0,9'a geriledi. Aynı değerlendirmede modelin sorularda beklenen bilgileri ne ölçüde aktardığını gösteren ve 5 üzerinden hesaplanan \"fact score\" da 2,32'den 2,98'e yükseldi.\nNous Research'ün testlerinde en büyük değişim ifade özgürlüğü kategorisinde görüldü. Bu kategoride bilgi skoru 0,89'dan 2,44'e çıkarken, resmi söylemi benimseyen yanıtların oranı yüzde 60'tan yüzde 1'e geriledi. Bununla birlikte söz konusu sonuçların, Nous Research tarafından oluşturulan değerlendirme sistemi üzerinden elde edildiğini belirtmek gerekiyor.\nDeğerlendirmede yanıtları puanlamak için Grok 4.7 kullanılırken, sistem başlangıçta yalnızca 25 soruluk bir örnek üzerinde insanlar tarafından kontrol edildi. Bu nedenle sonuçlar şu aşamada bağımsız bir üçüncü taraf tarafından yeniden doğrulanmış değil. Ayrıca resmi söylem oranındaki düşüş, modeldeki tüm siyasi yanlılıkların ortadan kaldırıldığı anlamına gelmiyor.\nModelin genel model performansında önemli bir kayıp görülmedi\nNous Research, siyasi konulardaki yanıtları değiştiren ek eğitimin modelin genel yeteneklerini olumsuz etkileyip etkilemediğini de test etti. Şirketin dahili Hermes Bench testinde Qwen3.8-27B yüzde 65,77 skor elde ederken Arete-27B yüzde 65,60 seviyesinde kaldı. Nous Research, aradaki 0,17 puanlık farkın ölçüm sapması kapsamında değerlendirilebileceğini belirtiyor.\nYapay zeka ajanlarının görev tamamlama yeteneklerini ölçen Terminal-Bench-2.1 testinde ise Arete-27B yüzde 70 skor elde ederken temel Qwen modeli yüzde 67 seviyesinde kaldı. Şirket, test yapılandırmalarındaki farklılıklar nedeniyle ortaya çıkan bu artışı doğrudan kendi eğitim yöntemine bağlamıyor.\nEğitim verileri ve model ağırlıkları açık olarak yayınlandı\nArete-27B'nin eğitiminde öğretmen model olarak Inkling kullanıldı. Nous Research, yedi kategori kapsamında yaklaşık 20 bin farklı istem üreterek öğretmen modelin yanıtlarından bir eğitim veri seti oluşturdu. Nihai veri setinde toplam 28 bin 886 eğitim örneği bulunuyor. Şirket, Arete-27B'nin model ağırlıklarını, eğitim verilerini ve değerlendirme setini de Hugging Face üzerinden yayınladı. Böylece araştırmacılar modelin sonuçlarını farklı koşullar altında bağımsız olarak test edebilecek.\nNous Research'e göre çalışmanın temel sonucu yalnızca Arete-27B'nin belirli siyasi sorulara farklı yanıtlar vermesi değil. Şirket, açık ağırlıklı modellerde yer alan değer yargılarının görece sınırlı miktarda ek eğitimle önemli ölçüde değiştirilebildiğini savunuyor. Ancak burada siyasi yaklaşım ile doğruluğu birbirinden ayırmak gerekiyor. Zira Arete-27B'nin Çin hükümetinin resmi söylemini benimseyen yanıtlarının azalması, modelin siyasi açıdan tamamen tarafsız hale geldiğini göstermiyor. Benzer şekilde modelin verdiği bilgilerin tamamının doğru olduğunu da varsaymak mümkün değil. Buna karşılık çalışmanın, açık ağırlıklı modellerin farklı değer sistemlerine göre yeniden şekillendirilebilmesinin ne kadar mümkün olduğunu göstermesi dikkat çekici."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 508
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
