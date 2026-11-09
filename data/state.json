@@ -91,15 +91,6 @@
     }
   },
   "day_counts": {
-    "2026-09-28": {
-      "expired": 2,
-      "tok_in": 69620,
-      "tok_out": 17022,
-      "cost_usd": 0.0,
-      "drafts": 16,
-      "published": 11,
-      "auto": 11
-    },
     "2026-09-29": {
       "tok_in": 30181,
       "tok_out": 8382,
@@ -214,6 +205,9 @@
       "expired": 3,
       "published": 5,
       "auto": 5
+    },
+    "2026-11-10": {
+      "expired": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
