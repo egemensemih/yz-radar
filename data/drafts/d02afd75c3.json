@@ -1,0 +1,71 @@
+{
+  "id": "d02afd75c3",
+  "status": "pending",
+  "created_at": "2026-11-09T22:15:23Z",
+  "title": "Google Gemini veri gizliliği tartışması: E-postalar insan denetimine mi takılıyor?",
+  "summary": "GitHub'da yayımlanan bir rapora göre Google, Gemini Workspace eklentileri aracılığıyla erişilen kişisel e-posta ve Drive dosyalarını insan incelemecilerin erişimine açtı.",
+  "body": "Google Gemini veri gizliliği standartlarına ilişkin son incelemeler, kullanıcılara ait kişisel veri işleme süreçlerini yeniden gündeme getirdi. GitHub'da yayımlanan bağımsız bir araştırmaya göre şirket, e-posta ve Google Drive içeriklerinin insan denetiminden geçmeyeceği yönündeki önceki taahhüdünü sessizce güncelledi.\n\n## Google Gemini veri gizliliği politikalarında değişiklik\n\nGoogle, 2023 yılında Gemini Workspace eklentilerini tanıtırken Gmail, Google Docs ve Google Drive içeriklerinin insan incelemeciler tarafından görülmeyeceğini vaat etmişti. Ancak yayımlanan rapora göre şirket, 16 Ekim tarihinde yardım belgelerinde ve geçmiş blog yazısında yaptığı güncellemelerle bu taahhüdünden geri adım attı.\n\nGüncellenen Google yardım dokümanlarında, eklentilerin bağlı olması durumunda çekilen dosya ve e-postaların insan denetim süreçlerine aktarılabileceği belirtiliyor. Şirket, kullanıcıların denetleyiciler tarafından görülmesini istemediği gizli bilgileri içeren hesapları Gemini servislerine bağlamaması konusunda uyarıda bulunuyor.\n\n## Otomatik veri çekme ve denetim süreçleri\n\nAraştırmada yer alan testler, kullanıcılar e-posta veya dosya araması yapmak için doğrudan etiket kullanmasa dahi arka planda kişisel verilerin otomatik olarak sorgulanabildiğini gösteriyor. Gemini servisinin sohbet sırasında yaptığı bu veri aktarımı olası dört farklı senaryo şeklinde gerçekleşiyor:\n\n* Veri çekilmeme durumu veya genel özet üretilmesi\n* Dosyalardan kişisel verilerin veya hesap detaylarının kısmen çekilmesi\n* Belgenin ya da e-postanın tam metin olarak oturum bağlamına aktarılması\n\nRaporda ayrıca, Google'ın kullandığı otomatik metin temizleme araçlarının hesap numaraları ve kişisel kimlik bilgilerini tam olarak anonimleştiremediği ifade ediliyor.\n\n**Neden önemli?** Kullanıcıların yapay zeka araçlarıyla paylaştığı kişisel ve kurumsal verilerin gizliliği, büyük teknoloji şirketlerinin veri işleme politikalarının şeffaflığı açısından kritik bir konu olmaya devam ediyor.",
+  "category": "politika",
+  "tags": [
+    "Google",
+    "Google Gemini",
+    "Gmail",
+    "Google Drive",
+    "veri gizliliği"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber, bir GitHub kullanıcısının Google yardım belgelerindeki güncellemelere dayandırdığı bağımsız test raporuna dayanmaktadır.",
+  "short_title": "Google Gemini kişisel verileri insan denetimine açtı",
+  "kicker": "Veri gizliliği",
+  "hero_stat": "16 Ekim",
+  "hero_stat_label": "güncelleme tarihi",
+  "visual_style": "still_life",
+  "visual_scene": "A clean, minimalist composition featuring a translucent glass magnifying glass resting on an unprinted paper document. Thin streams of golden light pass through the lens onto a smooth wooden desk surface, creating subtle refractions.",
+  "focus_keyword": "Google Gemini veri gizliliği",
+  "seo_title": "Google Gemini veri gizliliği ve insan denetimi iddiası",
+  "meta_description": "Google Gemini veri gizliliği politikalarındaki son güncellemeler ve Gmail ile Drive dosyalarının insan incelemesine aktarılmasına dair ayrıntılar.",
+  "seo_slug": "google-gemini-veri-gizliligi-insan-denetimi",
+  "image_alt": "Açık bir dosya klasöründen sızan ışık dalgalarını temsil eden cam mercek görseli.",
+  "cover_text": "Gemini Privacy",
+  "importance": 6,
+  "triage_reason": "Google Gemini'nin kişisel dosyaları insan incelemecilere yönlendirdiği iddiaları ve veri gizliliği tartışmaları.",
+  "sources": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50429426",
+      "published": "2026-11-09T18:24:38Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "GitHub",
+      "kind": "community",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "published": "2026-11-09T18:24:38Z",
+      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 161 # Comments: 25",
+      "text": "In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\".\nGoogle has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see \"may just be the email or file\" and \"don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see.\"\nCrucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic.\nWhen you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups.\nBecause LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios:\n- Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query.\n- Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., \"You have 3 emails regarding your flight\").\n- Partial Unredacted Extraction: Gemini pulls a 2–4 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures.\n- Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context.\nIf you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again.\n- Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings.\n- Set Gemini to \"Flash\" with \"High Thinking\" or better.\n- Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about).\n- If Gemini provides a response based on an email or file, immediately say: \"Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block).\" You will see one of the 4 scenarios outlined above.\nTo repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history.\nI've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini \"I wonder if I'm paying too much for internet service.\" On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., \"If you haven't called them in 12 months, probably\"]; (2) metadata summaries sometimes without personal data [e.g., \"Gmail search shows a bill of $122 on September 4\"] and sometimes with personal data [e.g., \"Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number\"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers.\nCritically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject).\nGoogle originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 528
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}

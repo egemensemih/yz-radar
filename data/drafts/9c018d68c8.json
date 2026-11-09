@@ -36,6 +36,15 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-09T13:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T13:00:00Z"
     }
   ],
   "source_keys": [
