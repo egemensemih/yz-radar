@@ -37,10 +37,20 @@
       "via": null,
       "via_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/#comments",
       "published": "2026-11-09T15:23:20Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T17:36:08Z"
     }
   ],
   "source_keys": [
-    "Ars Technica"
+    "Ars Technica",
+    "The Verge"
   ],
   "source_texts": [
     {
