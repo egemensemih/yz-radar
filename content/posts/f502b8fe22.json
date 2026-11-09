@@ -1,0 +1,60 @@
+{
+  "id": "f502b8fe22",
+  "created_at": "2026-11-09T14:01:40Z",
+  "title": "Automattic Spacefast platformunu duyurdu: Vibe coding uygulamaları yayına alınıyor",
+  "summary": "WordPress.com'un sahibi Automattic, vibe coding ile geliştirilen uygulama ve web sitelerinin altyapısını sağlayan ve kolayca yayına alınmasını imkan tanıyan Spacefast platformunu sundu.",
+  "body": "WordPress.com'un sahibi Automattic, **Automattic Spacefast** adını verdiği yeni altyapı servisini duyurdu. 9 Kasım 2026 tarihinde kullanıma sunulan platform, kullanıcıların yapay zeka destekli kodlama (\"vibe coding\") ile hazırladıkları uygulama ve web sitelerini kolayca yayına almalarına olanak tanıyor.\n\n## Automattic Spacefast ne sunuyor?\n\nSpacefast; veritabanı, kimlik doğrulama, dosya yükleme, e-posta ve analitik gibi temel altyapı bileşenlerini tek bir çatı altında topluyor. Platform; ChatGPT, Claude, Cursor, Hermes, OpenClaw, Grokbot, Muse, Pi, Opencode ve Amp gibi yapay zeka araçlarıyla doğrudan entegre olabiliyor. Kullanıcılar dilerlerse projelerini bir Git deposu bağlayarak da yayına alabiliyor.\n\nBatuhan İçöz liderliğinde bir şirket içi hackathon projesi olarak geliştirilen servis, Lovable ve Emergent gibi rakiplerden farklı olarak kullanıcılara diledikleri yapay zeka ajanını seçme esnekliği sunuyor. Servis ayrıca WooCommerce e-ticaret özellikleri ve WordPress analitik araçlarıyla doğrudan entegrasyon imkanı barındırıyor.\n\n## Değişen web ve kurumsal ihtiyaçlar\n\nÜrün lideri İçöz'ün TechCrunch'a aktardığına göre, pazarlama ekiplerinin bağımsız araçlarla hızlıca açılış sayfaları oluşturması kurumsal şirketlerde yazılım dağınıklığına yol açıyor. Automattic, mevcut kurumsal tecrübesiyle bu projeleri tek bir güvenli altyapıda birleştirmeyi hedefliyor.\n\n**Neden önemli?** Yapay zeka botlarının geleneksel arama ve web trafiğini azalttığı bu dönemde Automattic, içerik yönetim sistemlerinin ötesine geçerek yapay zeka ile üretilen yazılımların barındırma pazarına adım atıyor.",
+  "category": "urunler",
+  "tags": [
+    "Automattic",
+    "Spacefast",
+    "WordPress",
+    "vibe coding",
+    "WooCommerce",
+    "ChatGPT"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Automattic vibe coding platformu Spacefast'i duyurdu",
+  "kicker": "Yeni ürün",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A minimal sculpture made of semi-transparent frosted glass modules floating and assembling together into a sleek monolithic structure, lit by clean neutral studio light against a warm beige slate surface.",
+  "focus_keyword": "Automattic Spacefast",
+  "seo_title": "Automattic Spacefast platformunu kullanıma sundu",
+  "meta_description": "Automattic Spacefast platformu ile vibe coding ile geliştirilen uygulama ve web sitelerinin kolayca yayına alınmasını sağlayan yeni servisini duyurdu.",
+  "seo_slug": "automattic-spacefast-vibe-coding-platformunu-duyurdu",
+  "image_alt": "Mat cam blokların bir araya gelerek oluşturduğu yapıyla Automattic'in Spacefast platformunu simgeleyen görsel",
+  "cover_text": "Spacefast",
+  "importance": 6,
+  "triage_reason": "Automattic, vibe coding uygulamaları dağıtmak için Spacefast platformunu duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-09T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 504
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "automattic-spacefast-vibe-coding-platformunu-duyurdu",
+  "published_at": "2026-11-09T14:01:46Z",
+  "publish_mode": "auto"
+}
