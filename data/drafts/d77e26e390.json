@@ -1,0 +1,68 @@
+{
+  "id": "d77e26e390",
+  "status": "pending",
+  "created_at": "2026-11-09T10:10:16Z",
+  "title": "DeepSeek yapay zeka ajanı Harness 1,54 milyon günlük kullanıcıya ulaştı",
+  "summary": "DeepSeek'in açık kaynaklı yapay zeka ajanı platformu Harness, üç aydan kısa sürede 1,54 milyon günlük aktif kullanıcı sayısını aştı.",
+  "body": "DeepSeek yapay zeka ajanı Harness, üç aydan kısa bir süre içerisinde 1,54 milyon günlük aktif kullanıcı sınırını geride bıraktı. Çin merkezli yapay zeka şirketi DeepSeek tarafından yapılan açıklamaya göre, 13 Ağustos tarihinde kullanıma sunulan platform kısa sürede büyük bir büyüme ivmesi yakaladı.\n\n## Kullanıcı ve token tüketim verileri\n\nWebrazzi'nin aktardığına göre, 4 Kasım tarihli veriler yalnızca DeepSeek'in resmi API'si üzerinden platformu kullanan kişileri kapsıyor. Günlük aktif kullanıcı sayısı 30 Eylül tarihinde yaklaşık 271 bin seviyesindeyken, aradan geçen bir aylık süreçte bu rakam beş katından fazla artış gösterdi. Öte yandan platform kullanıcıları günlük yaklaşık 92 trilyon token tüketiyor. Kullanıcı başına ortalama tüketim ise yaklaşık 60 milyon token seviyesine ulaşıyor.\n\n## Eklenti ekosistemi ve gelecek planları\n\nDeepSeek'in paylaştığı bilgilere göre, platform için geliştirilen üçüncü taraf eklentilerin sayısı yaklaşık 35 bine ulaştı. Aktif kullanıcıların yaklaşık yüzde 60'ı en az bir eklenti oluşturdu veya yükledi. Şirket, bu ekosistemi büyütmek amacıyla resmi bir eklenti mağazası kurmayı ve geliştiricilere token teşvikleri ile teknik destek sunacak bir program başlatmayı planlıyor.\n\n**Neden önemli?** Harness'ın kısa sürede elde ettiği bu büyüme, DeepSeek'in rekabeti yalnızca temel yapay zeka modellerinin performansı ve fiyatlandırması üzerinden değil, eklenti ekosistemiyle de sürdürmeye hazırlandığını gösteriyor.",
+  "category": "modeller",
+  "tags": [
+    "DeepSeek",
+    "Harness",
+    "yapay zeka ajanları",
+    "açık kaynak"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "DeepSeek Harness 1,54 milyon kullanıcıya ulaştı",
+  "kicker": "Yapay zeka ajanı",
+  "hero_stat": "1,54 milyon",
+  "hero_stat_label": "günlük aktif kullanıcı",
+  "visual_style": "studio",
+  "visual_scene": "a dense network of matte ceramic nodes connected by slender copper wires on a dark slate surface, one central node glowing with a soft white light",
+  "focus_keyword": "DeepSeek yapay zeka ajanı",
+  "seo_title": "DeepSeek yapay zeka ajanı Harness kullanıcı sayısını katladı",
+  "meta_description": "DeepSeek'in açık kaynaklı yapay zeka ajanı platformu Harness, üç aydan kısa sürede 1,54 milyon günlük aktif kullanıcıya ulaştı.",
+  "seo_slug": "deepseek-yapay-zeka-ajani-harness-kullanici-sayisi",
+  "image_alt": "Koyu zemin üzerinde birbirine bağlı seramik düğümler ve parlayan merkezi bir düğümü temsil eden soyut görsel",
+  "cover_text": "Harness",
+  "importance": 7,
+  "triage_reason": "DeepSeek'in yapay zeka ajanı platformunun günlük kullanıcı sayısı önemli bir ticari başarıyı gösteriyor.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/09/deepseekin-yapay-zeka-ajani-harness-154-milyon-gunluk-kullaniciya-ulasti/",
+      "title": "DeepSeek'in yapay zeka ajanı Harness, 1,54 milyon günlük kullanıcıya ulaştı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/09/deepseekin-yapay-zeka-ajani-harness-154-milyon-gunluk-kullaniciya-ulasti/#comments",
+      "published": "2026-11-09T10:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "DeepSeek'in yapay zeka ajanı Harness, 1,54 milyon günlük kullanıcıya ulaştı",
+      "url": "https://webrazzi.com/2026/11/09/deepseekin-yapay-zeka-ajani-harness-154-milyon-gunluk-kullaniciya-ulasti/",
+      "published": "2026-11-09T10:00:00Z",
+      "summary": "Çin merkezli yapay zeka şirketi DeepSeek, açık kaynaklı yapay zeka ajanı platformu Harness'ın 1,54 milyon günlük aktif kullanıcıya ulaştığını açıkladı. 13 Ağustos'ta kullanıma sunulan Harness, böylece...",
+      "text": "Çin merkezli yapay zeka şirketi DeepSeek, açık kaynaklı yapay zeka ajanı platformu Harness'ın 1,54 milyon günlük aktif kullanıcıya ulaştığını açıkladı. 13 Ağustos'ta kullanıma sunulan Harness, böylece üç aydan kısa sürede önemli bir kullanıcı kitlesine erişmiş oldu.\nŞirketin 4 Kasım tarihli verilerine dayanan kullanıcı sayısı, yalnızca DeepSeek'in resmi API'si üzerinden Harness kullananları kapsıyor. Dolayısıyla Harness'ı farklı model sağlayıcılarıyla kullanan kullanıcıların bu rakama dahil olmadığını belirtmekte fayda var. Günlük aktif kullanıcı sayısı 30 Eylül'de yaklaşık 271 bin seviyesindeydi. Bu da platformun kullanıcı sayısının yaklaşık bir ay içinde 5 kattan fazla arttığını gösteriyor.\nHarness'ın kullanım hacmi de dikkat çekici. DeepSeek'in paylaştığı verilere göre platform kullanıcıları günlük yaklaşık 92 trilyon token tüketiyor. Kullanıcı başına ortalamaya vurulduğunda bu sayı yaklaşık 60 milyon token'a denk geliyor. Yapay zeka ajanlarının uzun süre boyunca dosya okuma, araç çağırma ve farklı işlemleri kendi başına yürütmesi, token tüketiminin klasik sohbet botlarına kıyasla çok daha yüksek seviyelere çıkabilmesine neden oluyor.\nHarness'ın eklenti ekosistemi 35 bine ulaştı\nDeepSeek, Harness'ı büyük ölçüde eklenti tabanlı bir yapıyla geliştiriyor. Platformda model, araçlar, depolama seçenekleri ve kullanıcı arayüzünün belirli bölümleri dahil olmak üzere farklı bileşenler eklentiler üzerinden değiştirilebiliyor. Şirketin verilerine göre Harness için geliştirilen üçüncü taraf eklentilerin sayısı yaklaşık 35 bine ulaştı. Aktif kullanıcıların yaklaşık yüzde 60'ı ise en az bir eklenti oluşturdu veya yükledi.\nDeepSeek, topluluk tarafından geliştirilen eklentilerin olgunluk ve kullanım alanları açısından farklılık gösterebildiğini de belirtiyor. DeepSeek bu ekosistemi büyütmek için resmi bir eklenti mağazası oluşturmayı planlıyor. Şirket ayrıca eklenti geliştiricilerine token teşvikleri, teknik destek ve görünürlük sağlayacak bir destek programı üzerinde çalışıyor. Eklenti mağazasının ne zaman kullanıma sunulacağı ise henüz resmi olarak açıklanmadı.\nHarness'ın kısa sürede ulaştığı kullanıcı sayısı, DeepSeek'in rekabeti yalnızca temel yapay zeka modellerinin performansı ve fiyatlandırması üzerinden yürütmek istemediğini de gösteriyor. Şirket, eklentiler ve geliştirici ekosistemiyle OpenAI ve Anthropic gibi rakiplerin yapay zeka ajanı platformlarıyla da doğrudan rekabet etmeye hazırlanıyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 503
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
