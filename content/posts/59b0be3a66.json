@@ -1,0 +1,59 @@
+{
+  "id": "59b0be3a66",
+  "created_at": "2026-11-10T14:11:06Z",
+  "title": "Kora Systems, yapay zeka odaklı yeni masaüstü işletim sistemini duyurdu",
+  "summary": "Cyanogen kurucu ortağı Kirt McMaster liderliğindeki Kora Systems, yapay zeka modelleri ve otonom ajanları merkeze alan Linux tabanlı işletim sistemini tanıttı.",
+  "body": "TechCrunch'ın aktardığına göre, Cyanogen'in kurucu ortağı Kirt McMaster tarafından yönetilen **Kora Systems**, yapay zeka kullanıcılarını hedefleyen yeni masaüstü işletim sistemini duyurdu. **Kora Systems** şirketi, otonom ajanların uygulamalar arasında çalışmasına ve dosyaya erişmesine olanak tanıyan Linux tabanlı işletim sistemini 2027 yılında piyasaya sürmeyi planlıyor. Daha önce Playtron adıyla bilinen Palo Alto merkezli girişim, yapay zeka odaklı dönüşümünün ardından temmuz ayında adını değiştirdi.\n\n## Yapay zeka ajanları ve işletim sistemi\n\nKora, kullanıcıların yapay zeka modelleriyle farklı uygulamalar üzerinde çalışmasını sağlayacak şekilde tasarlandı. Yazılım, Cortex adı verilen tescilli bir yapay zeka motoru kullanıyor. Sistem, Intel, AMD ve Qualcomm işlemcili bilgisayarları destekleyecek. Şirket, Qualcomm mühendisleriyle yaklaşık bir yıldır Snapdragon işlemciler için optimizasyon çalışmaları yürütüyor. Ayrıca Suudi Arabistan merkezli Humain şirketiyle ortaklaşa bir kurumsal sürüm olan Humain OS geliştiriliyor.\n\n## Geliştirme süreci ve iş modeli\n\nKora ekibi, yazılım geliştirme sürecini hızlandırmak için yapay zeka kodlama araçlarından yararlandı. McMaster, bu araçların geliştirme hızını en az beş kat artırdığını belirtti. Ücretsiz olarak sunulması beklenen işletim sisteminin gelir modeli, kullanıcılara gelişmiş yapay zeka modelleri ve ajan servisleri sunan aboneliklere dayanacak. Şirketin yatırımcıları arasında Samsung Next, Square Enix, Alumni Ventures, Polychain, VanEck ve Circle yer alıyor.\n\n**Neden önemli?** Microsoft'un pazar hakimiyetine rağmen Kirt McMaster, özellikle yoğun yapay zeka kullanıcılarını hedefleyen bu yeni işletim sisteminin pazar payı kazanabileceğine inanıyor.",
+  "category": "urunler",
+  "tags": [
+    "Kora Systems",
+    "Kirt McMaster",
+    "Qualcomm",
+    "Linux",
+    "Qualcomm Snapdragon"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Kora Systems'ten yapay zeka odaklı işletim sistemi",
+  "kicker": "Yeni ürün",
+  "hero_stat": "2027",
+  "hero_stat_label": "piyasaya çıkış yılı",
+  "visual_style": "studio",
+  "visual_scene": "a single dark matte block of brushed aluminum resting on a smooth concrete surface, with a thin beam of warm white light cutting diagonally across its surface, casting sharp soft shadows",
+  "focus_keyword": "Kora Systems",
+  "seo_title": "Kora Systems yapay zeka odaklı işletim sistemini duyurdu",
+  "meta_description": "Cyanogen kurucu ortağı Kirt McMaster'ın şirketi Kora Systems, yapay zeka odaklı yeni Linux tabanlı işletim sistemini tanıttı.",
+  "seo_slug": "kora-systems-yapay-zeka-odakli-isletim-sistemini-duyurdu",
+  "image_alt": "Kora Systems yapay zeka işletim sistemini temsil eden metalik blok ve ışık çizgisi tasarımı",
+  "cover_text": "Kora OS",
+  "importance": 7,
+  "triage_reason": "Cyanogen kurucu ortağından yapay zeka odaklı yeni işletim sistemi alternatifi Kora duyuruldu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 534
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "kora-systems-yapay-zeka-odakli-isletim-sistemini-duyurdu",
+  "published_at": "2026-11-10T14:11:09Z",
+  "publish_mode": "auto"
+}
