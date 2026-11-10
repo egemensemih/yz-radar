@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-10T19:22:50Z",
+  "last_collect": "2026-11-10T19:36:19Z",
   "last_summary_date": "2026-11-10",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 1376
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 902
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1408,
+      "fails": 1409,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:44Z",
+      "last_ok": "2026-11-10T19:36:13Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-10T19:22:50Z",
+      "last_ok": "2026-11-10T19:36:19Z",
       "count": 20
     }
   },
@@ -208,19 +208,21 @@
     },
     "2026-11-10": {
       "expired": 13,
-      "tok_in": 111895,
-      "tok_out": 22837,
+      "tok_in": 116161,
+      "tok_out": 23907,
       "cost_usd": 0.0,
-      "drafts": 20,
-      "published": 8,
-      "auto": 8
+      "drafts": 21,
+      "published": 9,
+      "auto": 9
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-10T19:13:09Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/oura-counsel-health-satin-aliyor/"
+  ],
+  "last_build": "2026-11-10T19:40:45Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"

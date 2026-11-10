@@ -1,0 +1,59 @@
+{
+  "id": "ed852fb166",
+  "created_at": "2026-11-10T19:36:35Z",
+  "title": "Oura, yapay zeka odaklı sağlık girişimi Counsel Health'i 625 milyon dolara satın alıyor",
+  "summary": "Akıllı yüzük üreticisi Oura, yapay zeka tabanlı birinci basamak sağlık hizmeti sunan Counsel Health'i 625 milyon dolar karşılığında bünyesine katacağını açıkladı.",
+  "body": "TechCrunch'ın aktardığına göre akıllı yüzük pazarının önemli oyuncularından Oura, yapay zeka odaklı sağlık girişimi Counsel Health'i 625 milyon dolar karşılığında satın almak için anlaşmaya vardığını duyurdu. Bu hamle, şirketin halka arz planlarını piyasa belirsizlikleri nedeniyle süresiz olarak ertelemesinden birkaç hafta sonra geldi. Satın alma sürecinin 2027 yılının sonundan önce tamamlanması bekleniyor.\n\n## Sağlık hizmetlerini genişletme adımı\n\nCounsel Health, sohbet tabanlı bir tıbbi deneyimi lisanslı doktorlara erişimle birleştiren yapay zeka destekli bir platform olarak biliniyor. Şirketin hizmetleri, haziran ayında Oura uygulamasına entegre edilmişti. Gerçekleşecek satın alma sonrasında taraflar; önleyici bakım, akut bakım, kronik bakım ve uzmanlık gerektiren alanlarda ortak çalışmalarını büyütmeyi hedefliyor. Oura CEO'su Tom Hale, \"Oura üyelerin fizyolojilerini anlamalarına yardımcı oluyor ve Counsel ile birlikte hızlı sorulardan reçetelere, laboratuvar sonuçlarından kronik bakıma kadar geniş bir yelpazede sağlıkları için harekete geçebiliyorlar\" açıklamasında bulundu.\n\n## Ekip ve finansal detaylar\n\nBloomberg'in haberine göre, satın almanın ardından Counsel CEO'su Muthu Alagappan ve şirketin 70 çalışanı Oura bünyesine katılacak; Alagappan ise baş klinik yapay zeka sorumlusu olarak görev yapacak. Counsel Health, bir yıl önce Andreessen Horowitz (a16z) ve GV liderliğinde 25 milyon dolarlık bir Seri A yatırım turu gerçekleştirmişti. Oura ayrıca, 30 Eylül'de sona eren çeyrekte gelirinin yıllık bazda %153 artarak 533 milyon dolara ulaştığını ve 2026 mali yılında yaklaşık 1,75 milyar dolar gelir elde ettiğini bildirdi.\n\n**Neden önemli?** RingConn ve Ultrahuman gibi rakiplerin baskısı altında yenilikçi adımlar atan Oura, bu satın almayla birlikte kullanıcıların tıbbi bakıma erişimini artırmayı ve akıllı yüzük ekosistemini kapsamlı bir sağlık platformuna dönüştürmeyi amaçlıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Oura",
+    "Counsel Health",
+    "Andreessen Horowitz",
+    "GV",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Oura, Counsel Health'i satın alıyor",
+  "kicker": "Satın alma",
+  "hero_stat": "625 milyon $",
+  "hero_stat_label": "satın alma bedeli",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte titanium ring resting beside a stack of translucent medical glass slides, soft daylight casting gentle shadows on a neutral gray surface",
+  "focus_keyword": "Counsel Health satın alma",
+  "seo_title": "Oura, Counsel Health'i 625 milyon dolara satın alıyor",
+  "meta_description": "Oura, yapay zeka odaklı birinci basamak sağlık girişimi Counsel Health'i 625 milyon dolara satın alacağını duyurdu. Detaylar YZ Radar'da.",
+  "seo_slug": "oura-counsel-health-satin-aliyor",
+  "image_alt": "Oura'nın Counsel Health'i satın almasını temsil eden akıllı yüzük ve tıbbi cam slaytlar görseli",
+  "cover_text": "Counsel Health",
+  "importance": 6,
+  "triage_reason": "Oura'nın yapay zeka odaklı sağlık girişimi Counsel Health'i 625 milyon dolara satın alması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T19:23:34Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 564
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "oura-counsel-health-satin-aliyor",
+  "published_at": "2026-11-10T19:36:37Z",
+  "publish_mode": "auto"
+}
