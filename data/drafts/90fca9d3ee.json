@@ -1,0 +1,68 @@
+{
+  "id": "90fca9d3ee",
+  "status": "pending",
+  "created_at": "2026-11-10T21:20:59Z",
+  "title": "Grok Build veri sızıntısı: SpaceXSI uygulamaları hassas bilgileri ifşa etti",
+  "summary": "Güvenlik araştırmalarına göre, SpaceXSI'ın yapay zeka kodlama ajanı Grok Build, şirketin kendi iç verileri dahil binlerce kullanıcının hassas bilgilerini sızdırıyor.",
+  "body": "Ars Technica'nın aktardığına göre, SpaceXSI tarafından geliştirilen yapay zeka kodlama ajanı **Grok Build**, binlerce kullanıcının özel iş bilgilerini ve hassas verilerini sızdırıyor. Güvenlik firması Claroc'un araştırması, platformun URL paylaşım mekanizmasındaki bir tasarım kararının, binlerce canlı projenin listelenmesine ve verilere erişilmesine olanak tanıdığını ortaya koydu.\n\n## Güvenlik açıklarının kapsamı\n\nClaroc'un tespitlerine göre sızan veriler arasında dahili iş planları, reklam teklifleri, tıbbi sınav sonuçları, çalışan isimleri ve kimlik numaraları yer alıyor. İroni bir şekilde, bu hassas verilerin bir kısmı platformun sahibi olan SpaceXSI'ın kendi geliştirdiği uygulamalardan kaynaklanıyor. Şirketin geliştirdiği 24 uygulamada gizli etiketli kurumsal satış işe alım planları, satış bölgesi haritaları ve iç sistem adresleri gibi bilgiler açıkta bulundu.\n\n## SpaceXSI'ın müdahalesi\n\nClaroc'un bulgularını içeren soruların iletilmesinin ardından SpaceXSI hızla harekete geçti. Araştırma ekibinin bildiriminden birkaç saat sonra şirket, kendi uygulamalarına ait bağlantıları kaldırmaya başladı ve ilgili bağlantılar hata vermeye başladı. Bununla birlikte, Fortune 500 şirketleri ve bir savunma yüklenicisi de dahil olmak üzere diğer kullanıcıların verilerine yönelik risklerin durumu belirsizliğini koruyor.\n\n**Neden önemli?** Yapay zeka araçlarıyla üretilen uygulamaların yeterli kimlik doğrulama veya erişim kontrolü olmadan internete açılması, şirketler ve bireyler için büyük güvenlik riskleri doğuruyor.",
+  "category": "sirketler",
+  "tags": [
+    "SpaceXSI",
+    "Grok Build",
+    "Claroc",
+    "Elon Musk"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Grok Build veri sızıntısı",
+  "kicker": "Güvenlik",
+  "hero_stat": "24",
+  "hero_stat_label": "etkilenen SpaceXSI uygulaması",
+  "visual_style": "studio",
+  "visual_scene": "a single frosted glass monolith standing upright on a dark surface, with faint glowing geometric lines fracturing across its translucent structure, symbolizing digital leakage",
+  "focus_keyword": "Grok Build veri sızıntısı",
+  "seo_title": "Grok Build veri sızıntısı SpaceXSI verilerini ifşa etti",
+  "meta_description": "Ars Technica ve Claroc araştırmasına göre Grok Build kodlama ajanı SpaceXSI iç verileri dahil binlerce kullanıcının hassas bilgilerini sızdırdı.",
+  "seo_slug": "grok-build-veri-sizintisi-spacexsi",
+  "image_alt": "Buzlu cam monolit ve üzerinde parlayan geometrik kırılma çizgileri",
+  "cover_text": "Grok Build",
+  "importance": 7,
+  "triage_reason": "Grok Build kodlama ajanında binlerce gizli bilginin sızdırılması büyük bir güvenlik açığı teşkil ediyor.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/#comments",
+      "published": "2026-11-10T21:12:59Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "2026-11-10T21:12:59Z",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "text": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows.\nThe information is revealed through links allowing Grok Build users to share their apps with others. Grok takes steps to randomize the URLs so only people who know the exact URL can access the data stored there. A design decision by developers of the platform, however, completely torpedoes that objective and makes it possible for anyone to enumerate thousands of live Grok Build projects. Except in rare cases, clicking those links opens the app and reveals all data associated with it.\nYou had one job\nResearch from security firm Claroc shows that the exposed data includes things like internal business plans, ad proposals, medical exam results, galley checklists from a celebrity cruise line, and employee names and ID numbers. Ironically, some of the sensitive data comes from two-dozen apps built by SpaceXSI (the name of the now-merged SpaceX and xAI) itself. A small sampling of the documents revealed in the SpaceXSI apps—Claroc found 24 of them—include an onboarding plan, marked confidential, for a new member of SpaceXSI’s enterprise sales team, a sales territory map of 594 accounts, internal system addresses for sales team tools, and advertising proposals.\n“We were shocked,” Claroc said in a Tuesday post. “The company that makes Grok had its own internal material open to anyone holding the link, and we had never been given it. Had the sales team bought a tool for this, it would have sat behind company sign-in, open only to the team. Built with AI, it went live open to anyone with the link.\nAt the time this post went live almost all data remained available with one notable exception: the contents from the 24 SpaceXSI apps. All of them were exposing the information on Monday evening. SpaceXSI began removing the links within a few hours of Ars sending an email with questions for this article. At the time this post went live, links for all 24 apps returned an “app not found” error.\nClaroc found sensitive data belonging to other Grok Build users, some working for Fortune 500 companies and a defense contractor. Some of the affected organizations and data revealed includes:"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 571
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
