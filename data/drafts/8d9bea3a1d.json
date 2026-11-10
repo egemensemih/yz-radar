@@ -50,11 +50,21 @@
       "via": null,
       "via_url": null,
       "published": null
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/10/anthropic-1-trilyon-dolar-degerleme-hedefiyle-halka-arza-hazirlaniyor/",
+      "title": "Anthropic, 1 trilyon dolar değerleme hedefiyle halka arza hazırlanıyor",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/10/anthropic-1-trilyon-dolar-degerleme-hedefiyle-halka-arza-hazirlaniyor/#comments",
+      "published": "2026-11-10T12:35:00Z"
     }
   ],
   "source_keys": [
     "TechCrunch",
-    "Anthropic"
+    "Anthropic",
+    "Webrazzi"
   ],
   "source_texts": [
     {
