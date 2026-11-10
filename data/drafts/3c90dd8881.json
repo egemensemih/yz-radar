@@ -1,0 +1,88 @@
+{
+  "id": "3c90dd8881",
+  "status": "pending",
+  "created_at": "2026-11-10T16:09:46Z",
+  "title": "Google, en güçlü yapay zeka modeli Gemini 4 Carbon'ı duyurdu",
+  "summary": "Google, bilimsel araştırma ve yazılım mühendisliği gibi karmaşık görevler için tasarladığı yeni modeli Gemini 4 Carbon'ı kullanıma sundu.",
+  "body": "Google DeepMind, 10 Kasım 2026'da yaptığı resmi duyuruyla, bugüne kadarki en güçlü yapay zeka modeli olduğunu belirttiği **Gemini 4 Carbon**'ı gelişticilerin, kurumsal şirketlerin ve tüketicilerin erişimine açtı. Şirket, geçtiğimiz ay piyasaya sürülen Gemini 4 Argon modelinin standart yazılım ve bilgi işleri için ideal kalmaya devam edeceğini, Carbon'ın ise çok adımlı kodlama, hata ayıklama ve derinlemesine bilimsel keşif gibi sınırları zorlayan karmaşık görevler için tasarlandığını vurguladı.\n\n## Gemini 4 Carbon özellikleri\n\nGoogle'ın aktardığına göre Carbon, derinlemesine muhakeme gerektiren işlerde yüksek performans sunuyor. Model, karmaşık doküman setleri üzerinde görsel anlama, veri analizi ve raporlama konularında oldukça yetkin. Ayrıca Google, modelin uzun soluklu iş akışlarını desteklemek amacıyla Google Antigravity platformunda tek bir komutla çalışan agent'lardan oluşan bir ekip kurmayı sağlayan \"/swarm\" özelliğini de önizlemeye sundu. Bu yapı, geliştiricilerin Carbon'ı mimari tasarım veya denetim gibi rollerde, daha hızlı modellerle paralel çalıştırabilmesine olanak tanıyor.\n\n## Fiyat ve erişim\n\nGoogle, Gemini 4 Carbon için Gemini 4 Argon ile aynı olan 1 milyon giriş token'ı başına 2 dolar ve 1 milyon çıkış token'ı başına 10 dolar tutarında bir başlangıç fiyatı belirledi. The Verge'ün haberine göre bu fiyatlandırma, ay sonunda iki katına çıkacak olsa da, Carbon'ın piyasadaki rakip modellere kıyasla rekabetçi bir maliyet yapısı sunduğu belirtiliyor. Model şu an Google AI Studio, Gemini for business ve Google AI Ultra aboneleri aracılığıyla erişilebilir durumda.\n\n**Neden önemli?** Gemini 4 Carbon, yazılım açıklarını tespit etme ve yama üretme gibi kritik siber güvenlik görevlerinde Google tarafından sağlanan testlerde yüksek başarı gösterdi. Bu sürüm, Google'ın son dönemdeki yapay zeka araştırmalarında tekrar ön saflara yerleşme stratejisinin bir parçası olarak değerlendiriliyor.",
+  "category": "modeller",
+  "tags": [
+    "Google",
+    "DeepMind",
+    "Gemini 4",
+    "yapay zeka agentları",
+    "yazılım geliştirme"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google'dan yeni model: Gemini 4 Carbon",
+  "kicker": "Yeni model",
+  "hero_stat": "2 $",
+  "hero_stat_label": "başlangıç birim fiyatı",
+  "visual_style": "sculpture",
+  "visual_scene": "A stack of translucent frosted-glass geometric shapes, with a single, sharp light beam refracting through the layers to create a soft, ethereal glow on a matte stone surface.",
+  "focus_keyword": "Gemini 4 Carbon",
+  "seo_title": "Gemini 4 Carbon: Google'ın en güçlü yapay zeka modeli",
+  "meta_description": "Google, karmaşık görevler ve siber güvenlik odaklı yeni yapay zeka modeli Gemini 4 Carbon'ı kullanıma sundu. İşte detaylar.",
+  "seo_slug": "google-gemini-4-carbon-modeli-duyuruldu",
+  "image_alt": "Işık kırılmalarıyla parlayan soyut cam heykeller, Google'ın yeni yapay zeka modelinin gücünü temsil ediyor.",
+  "cover_text": "Gemini 4 Carbon",
+  "importance": 9,
+  "triage_reason": "Google, ajan sürü (swarm) özellikli yeni güçlü yapay zeka modeli Gemini 4 Carbon'u duyurdu.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "title": "Gemini 4 Carbon is now available",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T16:03:47Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T16:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind",
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google DeepMind",
+      "kind": "official",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published": "2026-11-10T16:03:47Z",
+      "summary": "",
+      "text": "Gemini 4 Carbon is now available\nToday, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning.\nTwo weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program. Following our recent launch of Gemini 4 Argon, Carbon pushes the frontier even further. Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence like complex, multi-step coding and debugging and open-ended scientific research and discovery — using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops.\nAcross independent benchmarks designed to test model performance in real workflows, Carbon pairs frontier accuracy with practical production economics. It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model.\nTo put Carbon’s capabilities to work on larger and complex projects, we’re previewing /swarm in Google Antigravity, turning a single prompt into a coordinated team of agents you can track in real time. Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change.\nGemini 4 Carbon is available via the API in Google AI Studio and Gemini for business for all paying developers and enterprises, at the same introductory price 1 as Gemini 4 Argon ($2 per million input tokens and $10 per million output tokens). It is also rolling out to all Google AI Ultra subscribers in Google Antigravity, the Gemini app, and AI Mode in Search.\nHigher-precision knowledge work, artifact generation, and data analysis\nAcross legal, finance, and enterprise operations, Gemini 4 Carbon combines frontier visual understanding, reasoning, and exhaustive retrieval to synthesize grounded insights across large sets of dense documents and data. It follows strict schemas and formatting to generate polished and precise spreadsheets, presentations, and reports.\nExisting benchmarks don’t adequately capture how agents reason natively over dense files with charts, images, blueprints, schematics, and tables, so we partnered with Artificial Analysis to launch the new Multimodal Knowledge Agent (MKA) benchmark that tests a model’s multimodal performance in agentic workflows. Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model.\nIn pre-release evaluations, Carbon matched the performance of the best model tested on deep financial research on Hebbia’s E2E Financial Agentic evaluation, and ranked at the top out of 23 frontier model configurations on Balyasny Asset Management’s General Financial Intelligence benchmark, spanning legal expertise, agentic tool use and execution, coding and data engineering, and perception and context understanding.\nImproved agentic coding, full stack development, and 3D and UI design\nCarbon performs exceptionally well on engineering tasks that require multi-agent collaboration like multi-package migrations, cross-subsystem root-cause investigations, and complex architectural redesigns. For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications. Stronger visual design, spatial reasoning, and attention to environmental detail also carry over to 3D game development and creative coding.\nFrontier cybersecurity capabilities\nGemini 4 Carbon for cyber delivers our strongest cybersecurity capabilities to date, giving security teams the end-to-end intelligence they need in protecting critical software. When accessed through the Fairwind Program, Carbon leads on key benchmarks across finding (SEC-bench Pro), exploiting (ExploitGym), and patching (CWE-bench v1) vulnerabilities: inspecting software, tracing how flaws can be chained together across systems, and generating verified root-cause patches.\nEarly testers inside and outside of Google are already seeing strong results with Carbon for cyber in practice.\n- In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark. On Open Source code repository testing we see an over 25% relative improvement on Argon's already strong recall rate, surfacing previously undetected, real-world logic flaws. Bringing these gains across Google, one of the world’s largest users of open-source software, helps secure both our own systems and the broader ecosystem.\n- Google’s Cloud Vulnerability Research (CVR) team recently used Carbon to prove that two bugs in a popular open-source software were in fact exploitable vulnerabilities, comparable in severity to the recent PHP2Shell exploit. By using Carbon to build a proof of concept, CVR helped maintainers re-classify the bug as critical and swiftly issue a patch. Details will be shared after the responsible disclosure process completes.\n- As part of Wiz’s Scan for Good program, the team used Carbon to assess vulnerabilities in public digital infrastructure. For example, when scanning two major SaaS providers, the model uncovered 0-day vulnerabilities in under two hours compressing weeks of vulnerability research to a single afternoon. The team partnered with the impacted organizations to remediate in record time, helping to mitigate potential impact on tens of thousands of companies.\nStronger scientific and mathematical reasoning\nGemini 4 Carbon shows strongly improved performance in reasoning across physics, math, and life sciences, synthesizing experimental data, testing hypotheses, and reasoning through multi-step domain problems. For drug toxicity research company Axiom Bio, Carbon is now the leading model in performance for translational science, finding novel mechanisms of toxicity they hadn’t found previously. Axiom is now moving their production scientific analyses and agents to both Carbon and Argon to unlock the creation of safer drugs.\nResearchers across Google have been using Carbon in Google Antigravity to accelerate their work:\n- Code verification: Researchers built a new agentic framework for formal verification called AlphaProof Code and put it to work on a major security challenge: mathematically proving the actual code underlying the cryptographic protocol of Signal. Using Carbon alongside other models, our researchers translated security goals to mathematical theorems. AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, "
+    },
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "published": "2026-11-10T16:00:00Z",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+      "text": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of “cybersecurity defenders” two weeks ago. Google claims Carbon is its “strongest model” yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle releases Gemini 4 Carbon with agent ‘swarm’ feature\nIt ‘pushes the frontier even further’ than its last release, Argon.\nGoogle says Gemini 4 Carbon “pushes the frontier even further” than Argon, referring to the company’s other frontier model that launched only last month. The company said Argon will likely remain “the ideal choice for the majority of software engineering and knowledge work,” but that Carbon is “built for tasks that test the limits of a model’s intelligence,” such as complex, multi-step coding and open-ended scientific research.\nTo highlight Carbon’s utility for long-horizon work involving AI agents, Google said it is also previewing a “swarm” feature on its agentic development platform Antigravity, which will let users turn a single prompt “into a coordinated team of agents.”\nCarbon is rolling out today via the Gemini API in Google AI Studio and Gemini for business for all paying developers and enterprises, Google said in a blog post. It will also be available to all Google AI Ultra subscribers in the Gemini app, the AI Mode in Search, and on Antigravity. It is not clear when — or if — Carbon will be available to lower tier subscribers or free users.\nAs with the launch of Argon, Google is pricing Carbon very competitively. The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and a quarter the cost of Anthropic’s Fable 5.2 model, which launched yesterday. Even after those costs double at the end November — when the introductory period of lower prices finishes — Carbon will still be significantly cheaper than frontier rivals on a per-token basis, though this doesn’t necessarily translate to lower costs as models can use different numbers of tokens for the same tasks.\nBenchmarks cited by Google when it first announced Carbon suggest the model is one of the most powerful on the market across most metrics, behind Fable 5.2. It should be noted that companies can and do cherry-pick benchmark results to show their tools in the best possible light.\nThe release, hot on the heels of Argon, marks a decisive return for Google at the very forefront of AI research. For months, frontier development looked like a two-horse race between Anthropic and OpenAI."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 548
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google DeepMind"
+}
