@@ -41,10 +41,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T01:27:12Z"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Anthropic"
   ],
   "source_texts": [
     {
