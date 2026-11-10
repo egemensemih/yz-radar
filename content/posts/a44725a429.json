@@ -1,0 +1,59 @@
+{
+  "id": "a44725a429",
+  "created_at": "2026-11-10T21:06:17Z",
+  "title": "New York eyaleti yapay zeka denetimlerini sıkılaştırıyor",
+  "summary": "New York, RAISE Yasası kapsamında OpenAI ve Anthropic gibi büyük yapay zeka geliştiricilerine yeni güvenlik ve şeffaflık yükümlülükleri getiriyor.",
+  "body": "New York eyaleti, büyük ölçekli yapay zeka geliştiricilerine yönelik yeni güvenlik düzenlemelerini hayata geçiriyor. 1 Ocak 2027 itibarıyla yürürlüğe girecek olan RAISE Yasası, 500 milyon doların üzerinde yıllık gelire sahip şirketlerin eyalet bünyesindeki yeni kayıt portalına dahil olmasını zorunlu kılıyor. New York eyaleti yapay zeka denetimlerini sıkılaştırarak teknoloji şirketlerinin operasyonlarını şeffaf bir çerçeveye oturtmayı hedefliyor.\n\n## Yeni denetim mekanizması\n\nDijital İnovasyon, Yönetişim, Dürüstlük ve Güven Ofisi (DIGIT) tarafından yürütülecek olan düzenlemeler, OpenAI ve Anthropic gibi öncü yapay zeka laboratuvarlarını yakından ilgilendiriyor. TechCrunch'ın aktardığına göre, RAISE Yasası kapsamında şirketlerin uyması gereken temel yükümlülükler şunlar:\n\n*   Web sitelerinde resmi güvenlik çerçevelerinin yayınlanması,\n*   Kritik güvenlik ihlallerinin 72 saat içinde raporlanması,\n*   Kamuya açık model şeffaflık raporlarının düzenli olarak sunulması.\n\nDüzenlemelere uyum sağlamayan şirketler, ilk ihlalde 1 milyon dolara kadar, sonraki ihlallerde ise 3 milyon dolara varan para cezalarıyla karşılaşabilecek.\n\n## Bağımsız araştırma merkezi\n\nEyalet yönetimi, denetim sürecini desteklemek amacıyla Binghamton Üniversitesi bünyesinde New York Yapay Zeka Sorumluluğu ve Araştırma Merkezi'ni kurdu. 55 milyon dolarlık kaynakla desteklenen bu merkez, gelişmiş yapay zeka sistemlerinin güvenliğini bağımsız olarak değerlendirerek DIGIT ile iş birliği içinde çalışacak. Vali Kathy Hochul, bu adımla birlikte toplumu ve bireyleri şirketlerin önünde tutan akılcı bir regülasyon modeli oluşturduklarını belirtti.\n\n**Neden önemli?** New York'un attığı bu adımlar, ABD genelinde yapay zeka güvenliği ve şeffaflığı konusunda artan eyalet bazlı yasal düzenleme trendinin bir parçası olarak öne çıkıyor. California ve Illinois gibi eyaletlerin benzer yasal süreçleri, büyük yapay zeka laboratuvarları üzerinde ulusal çapta bir uyum baskısı yaratıyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "RAISE Yasası",
+    "ABD",
+    "regülasyon"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "New York'ta yeni yapay zeka yasası",
+  "kicker": "Yasal düzenleme",
+  "hero_stat": "500 milyon $",
+  "hero_stat_label": "yıllık gelir sınırı",
+  "visual_style": "studio",
+  "visual_scene": "a set of balanced, geometric stone scales sitting on a minimalist concrete surface, with a single glowing thread of light connecting the two pans representing the balance between innovation and regulation",
+  "focus_keyword": "New York eyaleti yapay zeka denetimlerini sıkılaştırıyor",
+  "seo_title": "New York eyaleti yapay zeka denetimlerini sıkılaştırıyor",
+  "meta_description": "New York eyaleti, RAISE Yasası ile OpenAI ve Anthropic gibi büyük şirketlere yeni güvenlik ve şeffaflık zorunlulukları getiriyor.",
+  "seo_slug": "new-york-yapay-zeka-denetim-yasasi",
+  "image_alt": "Dengeyi temsil eden minimalist taş teraziler ve aralarındaki ışık huzmesi.",
+  "cover_text": "RAISE Yasası",
+  "importance": 8,
+  "triage_reason": "New York'un yürürlüğe giren yeni yapay zeka güvenlik yasası büyük laboratuvarları ve düzenlemeleri etkiliyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T20:52:13Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 568
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "new-york-yapay-zeka-denetim-yasasi",
+  "published_at": "2026-11-10T21:06:20Z",
+  "publish_mode": "auto"
+}
