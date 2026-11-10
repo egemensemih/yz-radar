@@ -1,0 +1,69 @@
+{
+  "id": "6e47d56721",
+  "status": "pending",
+  "created_at": "2026-11-10T13:17:48Z",
+  "title": "Google Cloud, sağlık sektörü için Gemini for healthcare çözümünü duyurdu",
+  "summary": "Google Cloud, klinik, operasyonel ve idari verileri bir araya getiren yapay zeka çözümü Gemini for healthcare'i tanıttı.",
+  "body": "Google Cloud'un duyurusuna göre, sağlık sektöründeki dağınık sistemleri birleştirmeyi amaçlayan **Gemini for healthcare** adlı yeni yapay zeka çözümü tanıtıldı. Basit bilgi erişiminin ötesine geçen bu platform, sağlık ekiplerinin izole verileri koordine eylemlere dönüştürmesini sağlıyor.\n\n## Sağlık hizmetlerinde yeni dönem\n\nKlinisyenlerin haftada yaklaşık 28 saati evrak işleri ve idari görevlerle harcadığı, bunun da tükenmişliğe yol açtığı belirtiliyor. Platform; elektronik sağlık kayıtları, faturalandırma platformları, klinik kılavuzlar ve Medicare veri kümelerinden gelen kritik bilgileri üçüncü taraf sistemlerle entegre ediyor.\n\n* Tıbbi kayıt sentezi\n* Ön yetkilendirme incelemesi\n* Çok adımlı iş akışları\n\n## Ön izleme ve iş ortakları\n\nTanıtımla birlikte ön izleme aşamasında sunulan çözümün ilk iş ortakları arasında HCA Healthcare, Highmark Health ve Northwell Health yer alıyor. Sistem, tanımlanan güvenlik sınırları içinde ve uygun insan gözetimiyle karmaşık iş akışlarını koordine ediyor.\n\n**Neden önemli?** Google Cloud'un açıklamasına göre yeni platform, hastane yönetimlerindeki tıkanıklıkları gidererek personelin hasta bakımına daha fazla zaman ayırmasını hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google Cloud",
+    "Gemini",
+    "HCA Healthcare",
+    "Highmark Health",
+    "Northwell Health"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Cloud'dan Gemini for healthcare duyurusu",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "28",
+  "hero_stat_label": "haftalık evrak saati",
+  "visual_style": "studio",
+  "visual_scene": "a matte ceramic medical cross resting on a pale grey stone surface, beside a neatly folded stack of translucent frosted glass sheets catching soft morning light",
+  "focus_keyword": "Gemini for healthcare",
+  "seo_title": "Google Cloud sağlık sektörü için Gemini for healthcare'i…",
+  "meta_description": "Google Cloud, klinik ve idari verileri birleştiren yapay zeka çözümü Gemini for healthcare platformunu ön izlemeye açtı.",
+  "seo_slug": "google-cloud-gemini-for-healthcare-duyurdu",
+  "image_alt": "Gri taş zemin üzerinde tıbbi haç ve şeffaf cam yapraklar",
+  "cover_text": "Gemini healthcare",
+  "importance": 7,
+  "triage_reason": "Google'ın sağlık sektörüne yönelik özelleşmiş yapay zeka araçları endüstriyel uygulama açısından önemlidir.",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T13:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google",
+      "kind": "official",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published": "2026-11-10T13:00:00Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "text": "Google Cloud launches Gemini for healthcare.\nGoogle Cloud has announced Gemini for healthcare, an AI solution engineered to unify fragmented clinical, operational, and administrative systems. Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action.\nClinicians lose nearly 28 hours each week to paperwork and administrative tasks, fueling burnout and straining budgets. By integrating specialized skills and data connectors with existing third-party systems, the platform brings together critical information from electronic health records, billing platforms, clinical guidelines, and Medicare datasets.\nGemini for healthcare reasons across this context to orchestrate and execute complex, multi-step workflows — such as medical records synthesis and prior authorization review — within defined guardrails and with appropriate human oversight. Initially available in preview alongside launch partners including HCA Healthcare, Highmark Health, and Northwell Health, it resolves bottlenecks and reclaims valuable staff time for patient care. Learn more on the Cloud blog."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 533
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google"
+}
