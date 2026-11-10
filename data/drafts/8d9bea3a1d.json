@@ -68,12 +68,22 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T14:01:39Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:06:54Z"
     }
   ],
   "source_keys": [
     "TechCrunch",
     "Anthropic",
-    "Webrazzi"
+    "Webrazzi",
+    "The Verge"
   ],
   "source_texts": [
     {

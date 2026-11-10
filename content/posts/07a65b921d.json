@@ -1,0 +1,78 @@
+{
+  "id": "07a65b921d",
+  "created_at": "2026-11-10T14:27:42Z",
+  "title": "Adobe Max 2026: Yapay zeka ve yeni MCP protokolü duyuruldu",
+  "summary": "Adobe, MAX 2026 etkinliğinde Creative Cloud uygulamalarına eklediği gelişmiş yapay zeka araçlarını ve üçüncü taraf botlara imkan tanıyan MCP protokolünü tanıttı.",
+  "body": "Adobe, 10 Kasım 2026'da Miami'de düzenlenen MAX etkinliğinde, tasarım ve kurgu süreçlerini hızlandırmayı hedefleyen kapsamlı yapay zeka güncellemelerini duyurdu. Şirket, Photoshop, Premiere, Illustrator ve InDesign gibi temel Creative Cloud uygulamalarına eklediği yeni yeteneklerle, **yapay zeka** tabanlı tasarım süreçlerini bir üst seviyeye taşımayı amaçlıyor. Bu kapsamda, OpenAI, Google ve Anthropic gibi platformların Adobe projelerine yerel olarak erişmesini sağlayan yeni bir Model Context Protocol (MCP) altyapısı da tanıtıldı.\n\n## Yeni yapay zeka araçları neler sunuyor?\n\nAdobe, Firefly platformunu ve mevcut uygulamalarını daha yetenekli hale getiren birçok özelliği kullanıma sundu. Öne çıkan yenilikler arasında şunlar yer alıyor:\n\n*   Premiere: Nesne kaldırma ve otomatik ses ayrıştırma araçları.\n*   Photoshop: Relight özelliği ile dinamik ışıklandırma ve gelişmiş nesne silme araçları.\n*   Lightroom: Masaüstü sürümü için leke giderme ve göz kırpma düzeltme aracı.\n*   Firefly: Prototip oluşturma odaklı Builder aracı ve sosyal medya içeriklerini otomatikleştiren yapay zeka asistanları.\n\n## Üçüncü taraf entegrasyonu ve MCP\n\nAdobe'nin duyurduğu yerel MCP (Model Context Protocol) entegrasyonu, kullanıcıların kendi tercih ettikleri yapay zeka modellerini Adobe dosyaları üzerinde çalıştırmasına olanak tanıyor. Şirket yetkilisi Deepa Subramaniam, amaçlarının kullanıcıların yaratıcı iş akışlarını desteklemek olduğunu belirtirken, bu özelliğin başlangıçta özel bir beta süreciyle 2027 başında sunulacağını açıkladı. Bu sayede kullanıcılar, sadece Adobe'nin kendi asistanlarıyla sınırlı kalmayıp, harici modellerle de doğrudan yerel projeler üzerinde düzenleme yapabilecek.\n\n**Neden önemli?** Adobe'nin bu adımı, Creative Cloud ekosistemini harici yapay zeka ajanlarına açarak kullanıcıların iş akışlarını otomatikleştirmeyi ve tasarım araçlarını sadece içerik üretmekle kalmayıp, karmaşık görevleri de yöneten birer yardımcıya dönüştürmeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Adobe",
+    "Firefly",
+    "Photoshop",
+    "Premiere",
+    "yaratıcı yazılımlar"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Adobe'den yapay zeka ve MCP hamlesi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of translucent, floating geometric shapes representing digital layers, with soft, ambient light refracting through the edges to suggest a fluid, interconnected creative workspace.",
+  "focus_keyword": "yapay zeka",
+  "seo_title": "Adobe'den yapay zeka ve MCP hamlesi",
+  "meta_description": "Adobe, MAX 2026 etkinliğinde Creative Cloud uygulamalarına eklediği yapay zeka araçlarını ve yeni MCP protokolünü duyurdu.",
+  "seo_slug": "adobe-yapay-zeka-ve-mcp-duyurdu",
+  "image_alt": "Adobe'nin yeni yapay zeka araçlarını temsil eden, ışığı kıran soyut geometrik formlar.",
+  "cover_text": "Adobe Max",
+  "importance": 6,
+  "triage_reason": "Adobe, Firefly platformu kapsamında yeni yapay zeka tabanlı prototip oluşturma aracını duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "title": "Adobe adds more AI to its products and launches an MCP",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:05:10Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "title": "Adobe is going all in on agentic AI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:00:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 538
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "adobe-yapay-zeka-ve-mcp-duyurdu",
+  "published_at": "2026-11-10T14:27:57Z",
+  "publish_mode": "auto"
+}

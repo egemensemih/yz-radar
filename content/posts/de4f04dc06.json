@@ -1,0 +1,58 @@
+{
+  "id": "de4f04dc06",
+  "created_at": "2026-11-10T14:28:19Z",
+  "title": "Spotify yapay zeka DJ özelliği için yeni ses ve kişilik seçeneklerini duyurdu",
+  "summary": "Spotify, Premium aboneleri için yapay zeka destekli DJ özelliğini güncelleyerek farklı ses, kişilik ve sohbet yoğunluğunu azaltma seçenekleri sunuyor.",
+  "body": "Spotify, yapay zeka tabanlı kişiselleştirilmiş müzik deneyimi sunan DJ özelliğine yeni özelleştirme seçenekleri eklediğini duyurdu. 10 Kasım 2026 itibarıyla kullanıma sunulan güncellemeyle birlikte, dünya genelinde 94 milyondan fazla Premium kullanıcısı artık DJ'lerinin sesini, kişiliğini ve sohbet sıklığını tercihlerine göre belirleyebilecek.\n\n## Yeni sesler ve kişilikler\n\nSpotify tarafından yapılan açıklamaya göre, kullanıcılar artık İngilizce ve İspanyolca dillerinde sunulan genişletilmiş bir ses yelpazesinden seçim yapabilecek. İngilizce için; Amerikan, İngiliz, İrlandalı, Avustralyalı ve Hint aksanlarını içeren yedi farklı seçenek sunulurken, İspanyolca için iki yeni ses eklendi. Bu sesler, kendi karakteristik özellikleriyle birlikte geliyor:\n\n*   Casey: Rahat ve sıcak bir ton.\n*   Tess: Doğrudan ve keskin bir üslup.\n*   Lane: Güney aksanlı ve enerjik bir tarz.\n*   Nico ve Fabi: İspanyolca kullanıcıları için sırasıyla daha doğal ve esprili seçenekler.\n\nBu yeni sesler, DJ'in orijinal sesi olan \"X\"in yerini almayacak, ancak İspanyolca seçeneklerde önceki \"Livi\" sesinin yerini alacak.\n\n## Sohbet sıklığı yönetimi\n\nKullanıcıların en çok talep ettiği özelliklerden biri olan \"sohbeti azaltma\" seçeneği de bu güncelleme ile uygulamaya eklendi. Kullanıcılar, şarkı geçişlerinde DJ'in yaptığı yorumları en aza indirerek müziğin kesintisiz devam etmesini sağlayabilecek. Bu özellik, özellikle arka planda müzik istenen sosyal etkinliklerde DJ'in araya girmesini istemeyen dinleyiciler için tasarlandı. Ayarlara erişmek için kullanıcıların arama çubuğuna \"DJ\" yazıp üç nokta menüsünü kullanmaları yeterli.\n\n**Neden önemli?** Spotify'ın bu adımı, kullanıcıların yapay zeka asistanlarıyla etkileşim kurarken kişiselleştirme taleplerini karşılamayı ve DJ özelliğini standart çalma listelerinin bir alternatifi haline getirmeyi hedeflediğini gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Spotify",
+    "yapay zeka",
+    "müzik",
+    "ses teknolojileri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Spotify yapay zeka DJ'i güncellendi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "94 milyon",
+  "hero_stat_label": "Premium kullanıcısı",
+  "visual_style": "studio",
+  "visual_scene": "A clean studio shot of a pair of high-end wireless headphones resting on a marble surface next to a floating, translucent orb of light that emits soft, warm-colored gradients, symbolizing the personality of the AI DJ.",
+  "focus_keyword": "Spotify yapay zeka",
+  "seo_title": "Spotify yapay zeka DJ özelliğine yeni sesler eklendi",
+  "meta_description": "Spotify, Premium abonelerine yönelik yapay zeka DJ özelliğini güncelledi. Kullanıcılar artık farklı ses ve kişilik seçenekleri arasından tercih yapabiliyor.",
+  "seo_slug": "spotify-yapay-zeka-dj-guncellemesi",
+  "image_alt": "Spotify yapay zeka DJ özelliğini temsil eden soyut ışık küresi ve kulaklık",
+  "cover_text": "Spotify DJ",
+  "importance": 6,
+  "triage_reason": "Spotify, yapay zeka destekli DJ özelliğine yeni sesler ve kişiselleştirme seçenekleri ekledi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 541
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "spotify-yapay-zeka-dj-guncellemesi",
+  "published_at": "2026-11-10T14:28:20Z",
+  "publish_mode": "auto"
+}
