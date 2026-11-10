@@ -1,0 +1,60 @@
+{
+  "id": "e5d082a0f2",
+  "created_at": "2026-11-10T16:23:51Z",
+  "title": "eBay üçüncü taraf yapay zeka ajanlarının platforma erişimini engelledi",
+  "summary": "eBay, Meta'nın Muse ajanı dahil olmak üzere üçüncü taraf yapay zeka ajanlarının platformda gezinmesini kısıtladı.",
+  "body": "The Verge'ün aktardığına göre eBay, Meta'nın Muse adlı yazılımı dahil olmak üzere **üçüncü taraf yapay zeka ajanlarının** platformda arama yapmasını ve listeleme çekmesini engelledi. Silikon Vadisi yapay zeka ajanları ile e-ticaret alanında devrim vadederken, perakendeciler bu araçlara karşı güvenlik ve veri koruma önlemleri almaya devam ediyor.\n\n## Meta'nın Muse ajanı engellektiye takıldı\n\nBir okuyucunun aktardığı bilgilere göre, haftalardır eBay üzerinde saat ilanlarını tarayan ve günlük özetler çıkaran Muse ajanı, son hafta sonunda siteden ilan bağlantısı ve detay çekemez hale geldi. Denemeler sonucunda ajanın engellendiği, bazı durumlarda ise kullanıcıları eBay listelerini taklit eden harici sitelere yönlendirdiği görüldü. eBay sözcüsü Sybille St. Arromand, platformun keşif ve kişiselleştirme süreçlerinde yapay zekayı kendi içinde entegre ettiğini belirtti.\n\nSt. Arromand, üçüncü taraflarla ilgili olarak seçici bir yaklaşım izlediklerini belirterek, “Yetkisiz veri kazıma ve verilerimizle eğitim dahil olmak üzere belirli durumlarda ajan erişimini kısıtladık” açıklamasında bulundu. Şirket, potansiyel ortaklarla görüşmelerin sürdüğünü ve alıcılar ile satıcılar için güvenli deneyimin korunmasının odak noktası olduğunu kaydetti. Öte yandan Meta konu hakkında yorum yapmayı reddetti.\n\n## E-ticarette ajans tabanlı alışverişin geleceği\n\nPerakende sektöründe yapay zeka ajanlarına yönelik yaklaşımlar şirketlere göre farklılık gösteriyor:\n\n* Amazon dış ajanların platformda gezinmesini ve alışveriş yapmasını tamamen engelliyor.\n* Target gibi bazı perakendeciler, ajanların bazen gezinmesine izin verirken bazı durumlarda kısıtlamalar uyguluyor.\n* Shopify, alışveriş yapanların ajanları aracılığıyla ürün satın alabilmesi için bir milyarlık katalog erişimini açmış durumda.\n\nDiğer yandan, Uber ve DoorDash gibi platformlar da üçüncü taraf ajanlar üzerinden gelen siparişlerin oldukça düşük seviyelerde kaldığını rapor etti.\n\n**Neden önemli?** Perakende platformlarının yapay zeka botlarına karşı aldığı bu kısıtlamalar, gelecekte e-ticarette ajan kullanımının yaygınlaşma hızını ve perakendecilerin bu süreçteki kontrol stratejilerini doğrudan etkiliyor.",
+  "category": "urunler",
+  "tags": [
+    "eBay",
+    "Meta",
+    "Muse",
+    "Amazon",
+    "Shopify",
+    "The Verge"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "eBay üçüncü taraf yapay zeka ajanlarını engelledi",
+  "kicker": "E-ticaret",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a closed matte dark ceramic box sitting on a pale stone surface, a thin line of bright light cutting across the lid, casting subtle shadows",
+  "focus_keyword": "üçüncü taraf yapay zeka ajanları",
+  "seo_title": "eBay üçüncü taraf yapay zeka ajanlarının erişimini kesti",
+  "meta_description": "eBay, Meta'nın Muse ajanı dahil olmak üzere üçüncü taraf yapay zeka ajanlarının platformda gezinmesini kısıtladı ve veri kazımayı engelledi.",
+  "seo_slug": "ebay-ucuncu-taraf-yapay-zeka-ajanlarini-engelledi",
+  "image_alt": "Koyu renkli seramik kutunun üzerinde ince bir ışık çizgisi bulunan stüdyo ortamı görseli",
+  "cover_text": "eBay",
+  "importance": 6,
+  "triage_reason": "eBay, yapay zeka ajanlarının platformda gezinmesini engelleyerek ajans yarışında yeni bir kısıtlama getirdi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T16:20:30Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 550
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "ebay-ucuncu-taraf-yapay-zeka-ajanlarini-engelledi",
+  "published_at": "2026-11-10T16:24:07Z",
+  "publish_mode": "auto"
+}
