@@ -1,0 +1,58 @@
+{
+  "id": "831607cab3",
+  "created_at": "2026-11-10T16:00:02Z",
+  "title": "Google yeni yapay zeka çipleri TPU 8tx ve TPU 8i Max'i duyurdu",
+  "summary": "Google, bulut bilişim işinde dışa bağımlılığı azaltmak amacıyla gizli çıkarım ve yüksek bellek kapasitesine odaklanan iki yeni TPU modeli tanıttı.",
+  "body": "Google, bulut bilişim altyapısında dışa bağımlılığı azaltma hedefi doğrultusunda yapay zeka çip portföyünü genişleterek iki yeni özel işlemci duyurdu. TechCrunch'ın aktardığına göre, 10 Kasım'da yapılan duyuruda tanıtılan TPU 8tx ve TPU 8i Max modelleri, şirketin nisan ayında tanıttığı sekizinci nesil çip serisini temel alıyor.\n\n## Yeni çiplerin teknik özellikleri ve kullanım alanları\n\nGoogle'ın paylaştığı bilgilere göre, AMD ile birlikte tasarlanan TPU 8tx modeli, güvenli yapay zeka modelleri eğitmek ve çalıştırmak için geliştirildi. Doğrudan donanım katmanına güvenlik entegre eden bu çip, hassas verileri ve model ağırlıklarını aktif kullanım sırasında dahi koruyor ve izole ediyor. Ayrıca çip, model eğitimi sürerken eş zamanlı mantık yürütmeye olanak tanıyan özel bir çıkarım ağı barındırıyor.\n\nSerinin diğer üyesi olan TPU 8i Max ise nisan ayında piyasaya sürülen TPU 8i çipinin iki katı bellek kapasitesi, işlem gücü ve bant genişliğini tek bir pakette birleştiriyor. Bu yapı, yapay zeka modellerinin sorgular sırasında çok daha geniş veri setleriyle çalışabilmesini sağlıyor. Yeni donanımlar, Microsoft, Amazon, OpenAI ve Anthropic gibi büyük oyuncuların Nvidia'ya olan bağımlılığı azaltmak için kendi çiplerini geliştirdiği bir dönemde tanıtıldı.\n\n**Neden önemli?** Google'ın tanıttığı bu yeni donanımlar, bulut bilişim alanında çip çeşitliliğini artırırken, gizlilik odaklı yapay zeka eğitimi ve büyük veri işleme süreçlerinde şirket içi çözümleri güçlendiriyor.",
+  "category": "donanim",
+  "tags": [
+    "Google",
+    "AMD",
+    "Nvidia",
+    "yapay zeka çipi"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google'dan iki yeni yapay zeka çipi",
+  "kicker": "Donanım",
+  "hero_stat": "2",
+  "hero_stat_label": "yeni özel çip",
+  "visual_style": "studio",
+  "visual_scene": "a single dark matte silicon chip resting on a block of white porous stone, illuminated by sharp morning light from the side, with fine copper traces catching the reflection",
+  "focus_keyword": "Google yeni yapay zeka çipleri",
+  "seo_title": "Google yeni yapay zeka çipleri TPU 8tx ve TPU 8i Max'i duyurdu",
+  "meta_description": "Google bulut bilişim için geliştirdiği TPU 8tx ve TPU 8i Max adlı iki yeni yapay zeka çipini tanıttı. Detaylar YZ Radar'da.",
+  "seo_slug": "google-yeni-yapay-zeka-cipleri-tpu-8tx-ve-tpu-8i-max",
+  "image_alt": "Beyaz taş blok üzerinde duran ve gün ışığı alan mat siyah yapay zeka işlemcisi",
+  "cover_text": "TPU 8tx",
+  "importance": 7,
+  "triage_reason": "Google'ın yeni yapay zeka çipleri ve TPU'ları donanım pazarında önemli bir gelişmedir.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T15:54:08Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 545
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-yeni-yapay-zeka-cipleri-tpu-8tx-ve-tpu-8i-max",
+  "published_at": "2026-11-10T16:00:05Z",
+  "publish_mode": "auto"
+}
