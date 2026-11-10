@@ -1,0 +1,70 @@
+{
+  "id": "d68d16e8d9",
+  "status": "pending",
+  "created_at": "2026-11-10T10:41:25Z",
+  "title": "Yapay zeka kredi riski tırmanıyor: CoreWeave tahvil getirisi yüzde 16'yı aştı",
+  "summary": "Borç piyasalarında artan risk algısı veri merkezi projelerini zorluyor. CoreWeave tahvil getirisi yüzde 16'yı aşarken Nvidia ve Amazon'un CDS primleri yükselişe geçti.",
+  "body": "Kredi piyasalarından gelen sinyaller, yapay zeka kredi riski konusundaki endişelerin arttığını ve veri merkezi yatırımcıları için borçlanma maliyetlerinin yükseldiğini gösteriyor. CNBC'nin aktardığı verilere göre, borç piyasasındaki baskı özellikle bulut altyapı sağlayıcısı CoreWeave ve büyük teknoloji şirketlerinin CDS (kredi temerrüt takası) primlerine yansıyor.\n\n## Yapay zeka kredi riski ve dev şirketlerin durumu\n\nJefferies küresel özkaynak stratejisi başkanı Christopher Wood, konuya ilişkin değerlendirmesinde \"Yapay zeka yatırım yarışının sona ermesinin en olası yolu kredi kartının elden alınmasıdır\" ifadesini kullandı. CoreWeave şirketinin 2032 vadeli ve yüzde 9,625 kupon ödemeli tahvilinin getirisi yüzde 16 seviyesinin üzerine çıktı. Deutsche Bank verilerine göre şirketin beş yıllık CDS primleri 1.289 baz puana kadar tırmandıktan sonra 1.155 baz puan seviyesine geriledi.\n\nKredi riskindeki artış sadece yüksek borçlu şirketlerle sınırlı kalmıyor. Güçlü bilançolara sahip Nvidia'nın CDS primi son bir ayda yüzde 76, Broadcom'un yüzde 49 ve Amazon'un yüzde 44 artış gösterdi. Nvidia'nın CDS spread'i 139 baz puan seviyesindeyken, Oracle için bu rakam 298 baz puan civarında seyrediyor.\n\n## Eyaletlerdeki siyasi değişimler ve borçlanma hacmi\n\nKredi piyasalarındaki tedirginliğin bir diğer nedeni ise Ohio, Teksas ve Georgia gibi büyük veri merkezi projelerine ev sahipliği yapan eyaletlerdeki siyasi değişimler oluşturuyor. Goldman Sachs tarafından yapılan analize göre, olası moratoryum kararları ABD'de planlanan veri merkezi kapasitesinin yüzde 45'ini etkileyebilir. Teksas'ın seçilmiş valisi Gina Hinojosa, eyalet meclisi yerel toplulukları koruyan yasalar çıkarana kadar moratoryum uygulanmasını desteklediğini açıkladı.\n\nGoldman Sachs verileri, 29 Ekim'den bu yana 67 milyar dolar tutarında beş büyük yapay zeka tahvil ihracı gerçekleştiğini ve büyük ölçekli bulut sağlayıcılarının bu yılki toplam borç ihracının 296 milyar dolara ulaştığını gösteriyor. Bank of America analistlerine göre ise yapay zeka odaklı kredi ihraçları 2027 yılında 685 milyar dolara ulaşarak zirve yapacak, ardından 2028'de 531 milyar dolara gerileyecek.\n\n**Neden önemli?** Goldman Sachs analistleri, büyük teknoloji şirketlerinin üçüncü çeyrekte sermaye harcamalarının faaliyet nakit akışını aşması nedeniyle negatif serbest nakit akışı bildirdiğini vurguluyor. Kredi maliyetlerinin yükselmesi ve borçlanma imkanlarının sıkılaşması, milyarlarca dolarlık altyapı projelerinin ertelenmesine veya iptal edilmesine yol açabilir.",
+  "category": "sirketler",
+  "tags": [
+    "CoreWeave",
+    "Nvidia",
+    "Amazon",
+    "Broadcom",
+    "veri merkezleri",
+    "kredi piyasaları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Veri merkezi borçlanmalarında kredi riski tırmanıyor",
+  "kicker": "Finans piyasaları",
+  "hero_stat": "%16",
+  "hero_stat_label": "CoreWeave tahvil getirisi",
+  "visual_style": "sculpture",
+  "visual_scene": "A dark polished marble pedestal holding a fracturing translucent glass bar chart sculpture, where internal glowing amber micro-cracks slowly spread across the surface under a dim spotlight.",
+  "focus_keyword": "yapay zeka kredi riski",
+  "seo_title": "Yapay zeka kredi riski yükseliyor: Piyasalarda borç uyarısı",
+  "meta_description": "Yapay zeka kredi riski nedeniyle CoreWeave tahvil getirileri ve teknoloji devlerinin CDS primleri tırmanıyor. Borç piyasasındaki son gelişmeler YZ Radar'da.",
+  "seo_slug": "yapay-zeka-kredi-riski-ve-veri-merkezi-yatirimlari",
+  "image_alt": "Kırılan cam grafik heykeli ile yapay zeka kredi riskini temsil eden görsel",
+  "cover_text": "CoreWeave",
+  "importance": 7,
+  "triage_reason": "Yapay zeka altyapı sağlayıcısı CoreWeave'in tahvil getirilerinin artması sektördeki finansal baskıları gösteriyor.",
+  "sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50435660",
+      "published": "2026-11-10T03:20:06Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "CNBC",
+      "kind": "community",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-10T03:20:06Z",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 159 # Comments: 114",
+      "text": "Debt markets are sending a message to AI data center builders: we're hiking the interest rate on your credit card and may put some new curbs on your credit limit.\nThat analogy comes courtesy of Jefferies global head of equity strategy, Christopher Wood, who put it in a note on Friday: \"The most plausible way the AI capex arms race will end is that the credit card will be taken away.\"\nThat isn't happening yet, but credit markets have been spooked by the new political landscape — seeing more hurdles to data centers under Democratic governors in key states, along with a Democratic-controlled Congress.\nThe poster child for debt stress is neocloud Coreweave. The yield on its 2032 bond with a 9.625% coupon has climbed above 16%. Coreweave's five-year credit default swaps spiked above 1,289 basis points on Thursday, widening above their October peak, according to Deutsche Bank. The CDS eased 8% Friday to around 1,155.\n\"We've had plenty of warnings from the credit space,\" said Jim Reid, Deutsche Bank's global head of macro and thematic research, in a note on Friday. Debt and equities are now moving more in sync, he added, \"so we'll have to see if credit goes any further.\"\nInvestors are demanding more compensation to insure against default among even companies with the strongest balance sheets and credit ratings, including Nvidia, Broadcom, and Amazon.com.\nCDS on Nvidia debt is up 76% in the last month. Broadcom's CDS is up 49%, while Amazon's has gained 44%. Their CDS remain low on an absolute basis; Nvidia's spread stood at roughly 139 basis points, compared with about 298 bps for Oracle and roughly 1,100 for CoreWeave. A large increase from a low starting point does not imply the same credit risk.\nStill, rising CDS are a sign that markets want more protection against default among even the largest and healthiest debt issuers. And rising CDS imply higher financing costs down the line.\nThe market is now grappling with the prospect that at least some data center spending will be delayed or scrapped under incoming Democratic governors in Ohio, Texas, and Georgia, the three states with much of the planned capacity.\nMoratoriums could impact 45% of planned capacity in the U.S. with a large amount of that in Texas, according to Goldman Sachs. Texas governor-elect Gina Hinojosa has said she's not opposed to data centers but wants a moratorium until the state legislature passes protections for communities.\nNone of these means AI debt financing is collapsing. Goldman tallies five AI bond deals totaling $67 billion since October 29, pushing total hyperscaler debt issuance this year to $296 billion. Goldman forecasts $440 billion of hyperscaler debt issuance next year, plus an additional $300 billion of project-level issuance across investment-grade and high-yield.\nThe Trump administration is vowing to support data centers. National Economic Council Director Kevin Hassett told CNBC on Friday that he expects data center growth to continue as forecast, despite Democrats' big election wins.\nWhat comes next\nThe big question now is how quickly AI spending will generate enough cash for hyperscalers to keep investors comfortable with future capex plans. For the neoclouds, any sign of consolidation or retrenchment in capex could result in fewer or shorter contracts for data center compute or delays in prepayments.\nGoldman analysts said hyperscalers collectively reported negative free cash flow in the third quarter as capital spending exceeded operating cash flow.\n\"Delayed monetization and growth in purchase commitments—which we view as additional and sizable uses of cash, separate from Capex—are the key risks to more debt issuance, subject to market conditions,\" according to the bank.\nPeak AI debt issuance may now be closer at hand. Bank of America analysts estimates that AI-related credit issuance will rise 31% from 2026 to 2027, hitting $685 billion, including public and private debt. They then see it falling 23% to $531 billion in 2028.\nAs for the risk? \"Downside to these forecasts exists from a potential slowdown in AI infrastructure projects on the back of the Blue Wave, which will reduce capex needs and thus debt market funding,\" BofA said in a note.\n-CNBC's Nick Wells and Michael Bloom contributed reporting"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 530
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
