@@ -1,0 +1,59 @@
+{
+  "id": "22bd97b32c",
+  "created_at": "2026-11-10T18:11:14Z",
+  "title": "ChatGPT platformuna doğrulanmış Business Agents özelliği geldi",
+  "summary": "OpenAI, kullanıcıların markalarla doğrudan iletişim kurmasını sağlayan doğrulanmış yapay zeka temsilcileri Business Agents özelliğini beta sürecine dahil etti.",
+  "body": "OpenAI, kullanıcıların alışveriş ve hizmet süreçlerinde markalarla doğrudan etkileşime geçmesine olanak tanıyan yeni ChatGPT Business Agents özelliğini duyurdu. 10 Kasım 2026 itibarıyla beta aşamasında kullanıma sunulan bu yenilik, özellikle e-ticaret ve çevrimiçi hizmetler sunan şirketlerin markalarını temsil eden yapay zeka tabanlı temsilciler oluşturmasına imkan tanıyor. **Business Hub** üzerinden doğrulanabilen bu temsilciler, kullanıcıların ürün karşılaştırması yapmasına veya şirket teklifleri hakkında detaylı bilgi almasına yardımcı oluyor.\n\n## İşletmeler için yeni bir etkileşim alanı\n\nChatGPT üzerinden bir işletme ile iletişime geçmek oldukça basit bir süreçle işliyor. Eğer bir işletme kendi temsilcisini oluşturmuşsa, bu temsilci ChatGPT yanıtlarında belirebiliyor. Kullanıcılar, doğrudan markanın sağladığı talimatlar ve bağlamsal bilgiler doğrultusunda yanıt veren bu temsilcilere soru sorabiliyor. OpenAI'ın açıklamasına göre, bu görüşmeler ana ChatGPT sohbet penceresinden ayrı bir alanda tutuluyor ve kullanıcılara ilgili kişiyle görüştüklerine dair net işaretler sunuluyor.\n\n## Doğrulama ve veri analitiği\n\nŞirketler, Business Hub üzerinden organizasyonlarını doğrulayarak resmi bir kimlik kazanıyor. OpenAI, doğrulama süreçlerinin işletme türüne göre değişiklik gösterdiğini belirtirken, bu platformun şirketlere sunduğu diğer avantajlar ise şu şekilde sıralanıyor:\n\n* İşletmelerin ChatGPT yanıtlarında ne sıklıkla yer aldığını takip edebilme.\n* Kullanıcıların hangi konularda keşif yaptığını gösteren popüler başlıkları izleyebilme.\n* Şirket içi talimatlar ve bağlamsal bilgilerle yapay zeka yanıtlarını kişiselleştirme.\n\n**Neden önemli?** OpenAI, bu adımla ChatGPT'yi işletmeler için daha derin bir müşteri etkileşim noktası haline getirmeyi ve kullanıcıların daha bilinçli kararlar almasını desteklemeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Business Agents",
+    "e-ticaret",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ChatGPT'ye Business Agents eklendi",
+  "kicker": "Yeni özellik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A series of smooth, matte ceramic message bubbles floating in a neutral gradient space, connected by thin, glowing fiber-optic threads that converge into a central, polished obsidian cube.",
+  "focus_keyword": "ChatGPT Business Agents",
+  "seo_title": "ChatGPT Business Agents özelliği ile markalarla sohbet dönemi",
+  "meta_description": "OpenAI, markaların ChatGPT üzerinde kendi yapay zeka temsilcilerini oluşturmasına olanak tanıyan Business Agents özelliğini beta olarak duyurdu.",
+  "seo_slug": "chatgpt-business-agents-ozelligi-duyuruldu",
+  "image_alt": "Soyut mesaj balonları ve merkezdeki obsidyen küpü temsil eden dijital sanat çalışması.",
+  "cover_text": "Business Agents",
+  "importance": 7,
+  "triage_reason": "OpenAI'ın markaları temsil eden doğrulanmış yapay zeka ajanlarını duyurması önemli bir ürün güncellemesidir.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T18:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 557
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "chatgpt-business-agents-ozelligi-duyuruldu",
+  "published_at": "2026-11-10T18:11:31Z",
+  "publish_mode": "auto"
+}
