@@ -1,0 +1,68 @@
+{
+  "id": "6ec77bf1ab",
+  "created_at": "2026-11-10T17:41:30Z",
+  "title": "Anthropic, Claude Meetings ve yeni ofis araçlarını duyurdu",
+  "summary": "Anthropic, iş yeri verimliliğini artırmaya odaklanan Claude Meetings, Sheets ve Whiteboards araçlarını beta sürümüyle kullanıma sundu.",
+  "body": "Anthropic, iş yeri verimliliğini artırmayı hedefleyen yeni yapay zeka destekli ofis araçlarını tanıttı. Claude Meetings, Claude Sheets ve Claude Whiteboards olarak adlandırılan bu özellikler, çalışanların toplantı yönetimi, görsel planlama ve veri analizi gibi süreçlerini yapay zeka ile entegre etmeyi amaçlıyor. Anthropic, bu hamlesiyle OpenAI, Meta, Google ve Microsoft gibi şirketlerin yer aldığı kurumsal yazılım pazarındaki rekabette konumunu güçlendirmeyi hedefliyor.## Claude Meetings ile gerçek zamanlı destek\n\nYeni duyurulan Claude Meetings, Anthropic’in yapay zekasını video konferanslara bir katılımcı olarak dahil etmeyi sağlıyor. Toplantı devam ederken Claude, görüşmeleri takip ederek notlar alabiliyor, planlar oluşturabiliyor ve belirlenen aksiyon maddelerini gerçek zamanlı olarak listeleyebiliyor. Kullanıcılar, toplantı sırasında Claude’a sorular yönelterek, bağlı iş uygulamalarından veri çekmesini veya zaman çizelgeleri hazırlamasını isteyebiliyor. Güvenlik tarafında ise Claude, yönetici onayı olmadan harici misafirlerin bulunduğu toplantılara katılmıyor ve yabancı bir katılımcı girdiğinde otomatik olarak toplantıdan ayrılıyor. Şimdilik Google Meet üzerinde çalışan bu özellik, Team ve Enterprise planları için beta aşamasında sunuluyor.\n\n## Ofis süreçleri için yeni çözümler\n\nAnthropic’in tanıttığı diğer iki araç olan Claude Sheets ve Claude Whiteboards ise iş birliğini dijital ortama taşıyor. Claude Sheets, ekiplerin bir kampanya takibi veya bütçe planlaması gibi karmaşık tabloları Claude ile birlikte hazırlamasına ve düzenlemesine olanak tanıyor. Claude Whiteboards ise beyin fırtınası süreçlerini organize bir görsel çalışma alanına dönüştürüyor; burada oluşturulan taslaklar daha sonra dökümana veya sunum dosyasına aktarılabiliyor. Ayrıca, Claude Data (eski adıyla Claude Dashboards) genel kullanıma açılırken, Adobe, Atlassian ve HubSpot gibi platformlarla etkileşimi derinleştiren yeni konektörler de duyuruldu.\n\n**Neden önemli?** Anthropic, yazılım geliştiriciler dışındaki bilgi çalışanlarına hitap eden bu araçlarla ürün yelpazesini genişletmeyi ve yaklaşan halka arz süreci öncesinde gelir kaynaklarını çeşitlendirmeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "yapay zeka",
+    "yazılım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten yeni ofis araçları",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of abstract, translucent glass geometric shapes floating in mid-air, interconnected by thin glowing fiber-optic threads, representing a cohesive digital workspace.",
+  "focus_keyword": "Claude Meetings",
+  "seo_title": "Claude Meetings ve yeni Anthropic ofis araçları duyuruldu",
+  "meta_description": "Anthropic, toplantı yönetimi ve iş birliği süreçlerini dijitalleştiren Claude Meetings, Sheets ve Whiteboards araçlarını kullanıma sundu.",
+  "seo_slug": "anthropic-claude-meetings-yeni-ofis-araclari",
+  "image_alt": "Soyut cam geometrik şekillerin birbirine bağlandığı dijital bir çalışma alanını temsil eden görsel",
+  "cover_text": "Claude Meetings",
+  "importance": 8,
+  "triage_reason": "Anthropic'in kurumsal odaklı toplantı ve üretkenlik araçlarını içeren yeni AI çözümleri duyurusu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T17:30:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T17:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch",
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 553
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-claude-meetings-yeni-ofis-araclari",
+  "published_at": "2026-11-10T17:41:40Z",
+  "publish_mode": "auto"
+}
