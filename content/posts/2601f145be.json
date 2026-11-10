@@ -1,0 +1,59 @@
+{
+  "id": "2601f145be",
+  "created_at": "2026-11-10T19:08:57Z",
+  "title": "Aaronson-Ambainis sanısı yapay zeka ile çözüldü",
+  "summary": "Physical Superintelligence araştırmacıları, Anthropic’in Fable 5.2 modelini kullanarak 18 yıllık kuantum bilgisayar problemini çözüme kavuşturdu.",
+  "body": "Physical Superintelligence (PSI) bünyesinde çalışan araştırmacı David Turturean, Anthropic’in **Fable 5.2** modelini kullanarak kuantum hesaplama alanındaki 18 yıllık bir problemi çözdüğünü duyurdu. TechCrunch'ın aktardığına göre, Aaronson-Ambainis sanısı olarak bilinen ve kuantum bilgisayarların klasik sistemlere karşı hız avantajını sorgulayan bu teorik problem, yapay zeka destekli süreçlerle nihayete erdirildi. Çözüm, matematiksel doğrulama dili olan Lean kullanılarak otomorfize edildi ve alanında uzman araştırmacılar tarafından onaylandı.\n\n## Kuantum araştırmalarında yeni dönem\n\nProblem, kuantum bilgisayarların belirli zorlu görevleri yüksek hızda çözme yeteneğine yönelik bir sınır belirlediği için önemli bir keşif olarak görülüyor. Araştırmayı ortaya atan Scott Aaronson, çözümün doğruluğuna inandığını belirterek, yapay zekanın bilimsel problemlere yaklaşımındaki hıza dikkat çekti. PSI CEO’su Matt Pines, şirketin temel amacının teorik fizikteki bulguları somut teknolojilere dönüştürmek olduğunu ifade etti. PSI, şu anda veri merkezlerinin ısı, güç ve su tüketimi gibi fiziksel değişkenlerini optimize ederek gelir elde etse de asıl hedefleri bilimsel keşif süreçlerini hızlandırmak.\n\n## Bilimsel yöntemde değişim arayışı\n\nBu gelişme, yapay zekanın akademik ve bilimsel dünyadaki yerini yeniden tanımlıyor. Turturean, yapay zekanın sunduğu çözümleri daha anlaşılır bir dille sunmanın önemine vurgu yaparak, akademik camianın bu yeni üretim hızına uyum sağlaması gerektiğini belirtti. **Aaronson-Ambainis sanısı** üzerinde yapılan çalışma, bilim dünyasında bu tür sonuçların doğrulanması ve standartlaştırılması adına yapılacak tartışmaların önünü açtı. Önümüzdeki hafta MIT’de düzenlenecek zirvede, lider fizikçilerin yapay zeka tarafından üretilen bu yeni bilimsel çözümler karşısında izlenecek en iyi uygulamaları değerlendirmesi bekleniyor.\n\n**Neden önemli?** Yapay zekanın, özellikle soyutlanabilen disiplinlerde karmaşık bilimsel problemleri çözebilmesi, teorik fiziğin makinelerin egemenliğine girdiği yeni bir döneme işaret ediyor.",
+  "category": "arastirma",
+  "tags": [
+    "Anthropic",
+    "Fable 5.2",
+    "Physical Superintelligence",
+    "kuantum",
+    "matematik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Aaronson-Ambainis sanısı yapay zeka ile çözüldü",
+  "kicker": "Bilimsel keşif",
+  "hero_stat": "18 yıl",
+  "hero_stat_label": "çözülemeyen problem",
+  "visual_style": "sculpture",
+  "visual_scene": "A tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "Aaronson-Ambainis sanısı",
+  "seo_title": "Aaronson-Ambainis sanısı yapay zeka ile çözüldü",
+  "meta_description": "Physical Superintelligence araştırmacıları, Anthropic Fable 5.2 modeli ile 18 yıldır çözülemeyen Aaronson-Ambainis sanısını kanıtladı.",
+  "seo_slug": "aaronson-ambainis-sanisi-yapay-zeka-cozumu",
+  "image_alt": "Buzlu cam küplerden yükselen grafik yapısını temsil eden soyut bir görsel",
+  "cover_text": "Fable 5.2",
+  "importance": 7,
+  "triage_reason": "Bilim insanları duyurulmamış Anthropic modeliyle kuantum bilişimde önemli bir keşfe imza attı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-10T19:03:52Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 561
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "aaronson-ambainis-sanisi-yapay-zeka-cozumu",
+  "published_at": "2026-11-10T19:09:00Z",
+  "publish_mode": "auto"
+}
