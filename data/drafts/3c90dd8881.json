@@ -48,11 +48,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T16:00:00Z"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "title": "Gemini 4 Carbon is now available",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50442303",
+      "published": "2026-11-10T16:07:15Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
-    "The Verge"
+    "The Verge",
+    "Hacker News"
   ],
   "source_texts": [
     {
