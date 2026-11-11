@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T21:08:52Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/11/openai-yapay-zeka-destekli-seyahat-asistani-odessia-yi-satin-aldi/",
+      "title": "OpenAI, yapay zeka destekli seyahat asistanı Odessia'yı satın aldı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/11/openai-yapay-zeka-destekli-seyahat-asistani-odessia-yi-satin-aldi/#comments",
+      "published": "2026-11-11T12:00:00Z"
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Webrazzi"
   ],
   "source_texts": [
     {
