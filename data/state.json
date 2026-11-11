@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-11T02:05:38Z",
+  "last_collect": "2026-11-11T02:20:51Z",
   "last_summary_date": "2026-11-10",
   "mode_override": null,
   "paused": false,
@@ -214,14 +214,14 @@
       "drafts": 3,
       "published": 1,
       "auto": 1,
-      "expired": 1
+      "expired": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-11-11T01:20:51Z",
+  "last_build": "2026-11-11T02:20:52Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
