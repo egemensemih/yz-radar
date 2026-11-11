@@ -57,12 +57,22 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50442303",
       "published": "2026-11-10T16:07:15Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/11/google-gemini-4-carboni-kullanima-sundu/",
+      "title": "Google, Gemini 4 Carbon'ı kullanıma sundu",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/11/google-gemini-4-carboni-kullanima-sundu/#comments",
+      "published": "2026-11-11T14:00:00Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
     "The Verge",
-    "Hacker News"
+    "Hacker News",
+    "Webrazzi"
   ],
   "source_texts": [
     {
