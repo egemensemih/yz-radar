@@ -1,0 +1,70 @@
+{
+  "id": "e7a3d06625",
+  "status": "pending",
+  "created_at": "2026-11-11T04:09:11Z",
+  "title": "Amazon yapay zekalı Ring güvenlik dronu ve devriye robotunu tanıttı",
+  "summary": "Amazon, iç mekanlarda otonom devriye gezebilen yapay zeka destekli Ring Drone Cam ve Ring Rover Cam modellerini duyurdu.",
+  "body": "Amazon, ev ve ofis güvenliği için geliştirdiği yapay zeka destekli yeni hareketli kamera modellerini duyurdu. Şirketin 10 Kasım'da yaptığı açıklamaya göre, **Ring güvenlik dronu** olarak adlandırılan Ring Drone Cam ve tekerlekli devriye cihazı Ring Rover Cam, iç mekanlarda otonom olarak dolaşabilecek.\n\n## Yapay zeka destekli AI Pilot sistemi nasıl çalışıyor?\n\nHer iki cihaz da engellerin etrafından otonom şekilde dolaşabilmek ve devriye rotaları oluşturabilmek için **AI Pilot** adlı bir altyapıdan yararlanıyor. Amazon'un açıklamasına göre bu sistem; cihaz üzerindeki kameraları, özel görsel modelleri, dahili sensörleri ve bulut tabanlı işlem gücünü bir araya getiriyor.\n\nCihazlar, ilk kurulum aşamasında evin ya da iş yerinin dijital kat planını çıkarıyor. Bu haritalama süreci, kullanıcının dronu odalarda gezdirmesiyle veya Ring Rover modelinin ortamı kendi kendine keşfetmesiyle tamamlanıyor. Sistem harita üzerinden odaları tanımlayarak yan kapılar, pencereler ya da kasalar gibi kritik noktalara devriye durakları önerebiliyor.\n\n## Ring Drone Cam için çıkış tarihi ve fiyat\n\nRing Drone Cam, şirketin Eylül 2021'de sınırlı sayıda sunduğu Ring Always Home Cam modelinin devamı niteliğinde değerlendiriliyor. Ürünün öne çıkan özellikleri ve takvimi şu şekilde sıralanıyor:\n\n* Cihazın başlangıç fiyatı 250 dolar olarak belirlendi.\n* ABD Federal İletişim Komisyonu (FCC) onayına bağlı olarak 27 Ocak 2027'de satışa sunulması planlanıyor.\n* Ring Rover Cam modelinin ise 2026 yılı sonunda kullanıcılara ulaşması hedefleniyor.\n* Amazon Ring Protect aboneliği bulunan kullanıcılar için belirli rotalarda ve zaman çizelgelerine göre otomatik uçuş yapabiliyor.\n* Diğer Ring kameraları, sensörleri veya alarmlarından gelen uyarılara yanıt vererek belirlenen noktaya uçabiliyor.\n\nHareketli iç mekan kameraları güvenlik sağlamayı amaçlasa da sabit kameralara kıyasla yeni gizlilik endişelerini beraberinde getiriyor.\n\n**Neden önemli?** Sabit kameralarla sınırlı kalan tüketici güvenliği, yapay zekalı görsel modeller ve otonom rota planlama sayesinde iç mekanlarda serbestçe dolaşabilen robotik cihazlara genişliyor.",
+  "category": "donanim",
+  "tags": [
+    "Amazon",
+    "Ring",
+    "Ring Drone Cam",
+    "Ring Rover Cam",
+    "robotik",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Amazon'dan Ring güvenlik dronu ve devriye robotu",
+  "kicker": "Donanım",
+  "hero_stat": "250 $",
+  "hero_stat_label": "başlangıç fiyatı",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist white matte cylindrical surveillance beacon hovering motionlessly inside an empty architectural room made of pale limestone, soft diffused light casting subtle shadows",
+  "focus_keyword": "Ring güvenlik dronu",
+  "seo_title": "Ring güvenlik dronu ve devriye robotu tanıtıldı",
+  "meta_description": "Amazon, iç mekanlarda otonom devriye gezen yapay zekalı Ring güvenlik dronu ve tekerlekli Ring Rover modelini duyurdu. Fiyat ve çıkış tarihi netleşti.",
+  "seo_slug": "amazon-ring-guvenlik-dronu-ve-robotunu-tanitti",
+  "image_alt": "Kireçtaşı kaplı minimalist bir odada havada asılı duran mat beyaz güvenlik cihazı",
+  "cover_text": "Ring Drone Cam",
+  "importance": 6,
+  "triage_reason": "Amazon'un ev ve ofis güvenliği için yapay zeka destekli yeni robot ve drone ürünlerini duyurması.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/#comments",
+      "published": "2026-11-10T22:35:01Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "2026-11-10T22:35:01Z",
+      "summary": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying security camera. The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement posted on November 10. Amazon describes the devices as relying on an AI Pilot system that uses each device’s…",
+      "text": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying security camera.\nThe Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement posted on November 10. Amazon describes the devices as relying on an AI Pilot system that uses each device’s cameras along with “specialized vision models, on-device sensors and cloud processing” to plan patrol routes while autonomously navigating around obstacles such as furniture.\nBoth devices also use that AI Pilot system to digitally map the floor plan of the customer’s home or business. This setup process occurs after the customer carries the Ring drone through their indoor spaces or allows the Ring Rover to do some autonomous exploration.\nThe AI Pilot can supposedly use that guided- or self-tour information to identify specific rooms and suggest patrol points near side doors, windows, or even sensitive locations such as a cash register in the case of a business.\nHowever, flying and roving cameras with AI-enabled features could introduce new privacy risks for homes and businesses, on top of existing concerns involving fixed Ring cameras installed in room corners or as doorbell cameras.\nReturn of the Ring drone\nAmazon’s Ring Drone appears to be a direct successor to the company’s Ring Always Home Cam that was only temporarily available for purchase by invitation as a “Day 1 Edition” product in September 2021—even having the same starting price of $250.\nBut the Ring Drone still requires authorization from the Federal Communications Commission before going on sale. Assuming that comes through, Amazon aims to make the drone available on January 27, 2027, with customers able to register for email updates through the product page.\nThe drone can supposedly follow a set route and schedule for customers who subscribe to the Amazon Ring Protect plan. It can automatically fly along those set routes when responding to a notification from a Ring camera, sensor, or alarm."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 573
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
