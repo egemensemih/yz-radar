@@ -1,0 +1,72 @@
+{
+  "id": "c868d75091",
+  "status": "pending",
+  "created_at": "2026-11-11T19:31:48Z",
+  "title": "Jensen Huang ABD Kongresi tarafından ifadeye çağrılabilir",
+  "summary": "ABD Temsilciler Meclisi üyeleri, Megaspeed yöneticisi Alice Huang ile ilişkisine dair iddialar nedeniyle Nvidia CEO'su Jensen Huang'ı kapalı oturumda ifade vermeye çağırdı.",
+  "body": "Bloomberg'in Temsilciler Meclisi üyelerine dayandırdığı habere göre Jensen Huang ABD Kongresi tarafından kapalı kapılar ardında gerçekleştirilecek bir oturuma davet edildi. ABD Temsilciler Meclisi'ndeki Cumhuriyetçi milletvekilleri, Nvidia CEO'sunun Çin adına casusluk yaptığından şüphelenilen Megaspeed yöneticisi Alice Huang ile ilişkisi hakkında bilgi talep ediyor. Yetkililer, mektuba gün sonuna kadar yanıt verilmemesi durumunda resmi çağırma emri çıkarılacağını duyurdu.\n\n## Jensen Huang ABD Kongresi oturumuna çağrıldı\n\nTemsilciler Meclisi Cumhuriyetçi üyeleri Brian Mast, John Moolenaar ve Rick Crawford, gönderdikleri resmi mektupta Huang'dan komitelerin ortaklaşa düzenleyeceği gizli bilgilendirme oturumuna katılmasını istedi. Temsilciler Meclisi Çin Komitesi Başkanı John Moolenaar, Fox Business yayınında yaptığı açıklamada Nvidia yöneticisinin bu talebe yanıt vermesi için gün sonuna kadar vakti bulunduğunu ifade etti.\n\nMoolenaar, davetin reddedilmesi veya yanıtsız bırakılması halinde zorunlu ifade çağrısının (subpoena) devreye sokulacağını belirtti. Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast ise komitesinin şimdiden söz konusu resmi ifade çağrısı evrakını hazırlamakta olduğunu açıkladı.\n\n## Güvenlik iddiaları ve şirket yanıtı\n\nSüreç, Megaspeed şirketinin üst düzey yöneticilerinden Alice Huang'ın Çin ajanı olduğu yönündeki iddialar etrafında şekilleniyor. ABD'li milletvekilleri, **Nvidia CEO'su** ile iddia edilen ilişkiyi ulusal güvenlik merceği altına almayı hedefliyor.\n\nTechCrunch tarafından aktarılan bilgilere göre, konuya ilişkin görüş talep edilen **Nvidia yetkilileri** henüz resmi bir açıklama yapmadı.\n\n**Neden önemli?** Küresel yapay zeka pazarının lider çip sağlayıcısına yönelik bu tür soruşturma adımları, yarı iletken sektörünün sadece ticari değil, aynı zamanda uluslararası güvenlik ve siyaset alanında da kritik bir role sahip olduğunu gösteriyor.",
+  "category": "politika",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "ABD Kongresi",
+    "Megaspeed",
+    "Çin"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia",
+    "hassas"
+  ],
+  "editor_note": "İddialar Bloomberg'in ABD Temsilciler Meclisi üyelerine dayandırdığı habere dayanmaktadır; Nvidia henüz açıklama yapmamıştır.",
+  "short_title": "Jensen Huang Kongre'de ifadeye çağrılabilir",
+  "kicker": "Soruşturma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A frosted glass legal gavel resting on a matte dark slate surface with subtle warm gold reflections, surrounded by minimal geometric obsidian monoliths in a quiet studio setup.",
+  "focus_keyword": "jensen huang abd kongresi",
+  "seo_title": "Jensen Huang ABD Kongresi ifade çağrısıyla karşı karşıya",
+  "meta_description": "Jensen Huang ABD Kongresi tarafından Çin casusu olduğu iddia edilen bir yöneticiyle ilişkisi nedeniyle kapalı oturumda ifadeye çağrılabilir.",
+  "seo_slug": "jensen-huang-abd-kongresi-ifade-cagrisi",
+  "image_alt": "Karanlık bir zemin üzerinde duran saydam cam tokmak ve geometrik sütunlar",
+  "cover_text": "Jensen Huang",
+  "importance": 7,
+  "triage_reason": "Nvidia CEO'sunun Çinli ajan iddiasıyla Kongre'ye çağrılması büyük jeopolitik ve şirket önemine sahip.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T19:22:22Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "published": "2026-11-11T19:22:22Z",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "text": "Congress is gearing up to subpoena Nvidia CEO Jensen Huang to answer their questions about his affair with an alleged Chinese spy, Bloomberg reports, citing two House Republicans.\nThe report comes a week after House Republicans Brian Mast, John Moolenaar, and Rick Crawford sent a letter to Huang asking him to appear before their committees for a joint, closed-door briefing in regards to his relations with Alice Huang, the Megaspeed executive and suspected Chinese spy.\nHouse China committee Chairman Moolenaar said Wednesday on Fox Business that Huang has until the end of the day to respond to the request. If he doesn’t agree to the briefing, he’ll likely be subpoenaed, said Moolenaar.\nMast, who chairs the House Foreign Affairs Committee, on Wednesday said his committee is preparing a subpoena for Huang to send if he doesn’t respond.\nNvidia did not immediately respond to TechCrunch’s request for comment."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 585
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
