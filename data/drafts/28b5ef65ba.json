@@ -1,0 +1,70 @@
+{
+  "id": "28b5ef65ba",
+  "status": "pending",
+  "created_at": "2026-11-11T16:21:13Z",
+  "title": "OpenAI gelirleri 10 milyar dolar barajını aştı",
+  "summary": "OpenAI'ın üç aylık geliri, yeni yapay zeka modellerine olan yoğun taleple ilk kez 10 milyar dolar seviyesini aştı.",
+  "body": "OpenAI gelirleri ilk kez 10 milyar dolar barajını aşarak şirketin yılın ilk yarısındaki performansına göre önemli bir ivme kazandı. Bloomberg'in anonim kaynaklara dayandırdığı verilere göre, şirketin bu dönemdeki satışları ikinci çeyrekteki 6,7 milyar dolarlık gelire kıyasla yaklaşık yüzde 50 oranında artış gösterdi. Bu büyüme, OpenAI'ın yılın başındaki düşük büyüme eğiliminden çıkış yaptığına işaret ediyor.\n\n## Finansal büyüme ve pazar rekabeti\n\nŞirketin operasyonel karlılık tablosu da iyileşme sinyalleri veriyor. İkinci çeyrekte yüzde -150 olan düzeltilmiş faaliyet marjı, üçüncü çeyrekte yüzde -109 seviyesine geriledi. OpenAI, yıllık 50 milyar dolarlık bir gelir çalışma hızına ulaştığını belirtiyor. Ancak pazar liderliği için rekabet oldukça çetin geçiyor. Özellikle kurumsal alanda Anthropic ile girişilen mücadelede, Claude modellerinin geliştiricisi olan rakibinin gelir büyümesi açısından öne geçtiği gözlemleniyor. Anthropic, Ekim sonu itibarıyla yıllık 81 milyar dolarlık gelir çalışma hızına ulaştığını duyurdu.\n\n## Kurumsal strateji değişikliği\n\nOpenAI, geniş kullanıcı tabanının büyük çoğunluğunu ücretsiz veya düşük ücretli planlardan oluşan bireysel kullanıcıların oluşturduğunu kabul ediyor. Şirket, pazardaki konumunu güçlendirmek için stratejisinde değişikliğe giderek şu adımları atıyor:\n\n* Kurumsal odaklı ürünlerin geliştirilmesine öncelik verilmesi.\n* Görev odaklı yapay zeka ajanlarının yaygınlaştırılması.\n* Daha rekabetçi fiyatlandırma ve indirim seçeneklerinin sunulması.\n\n**Neden önemli?** Şirketin kurumsal pazara odaklanması, Meta, Google ve Amazon gibi devlerin yanı sıra açık kaynaklı modellerle rekabet eden sektördeki konumunu koruma çabasını yansıtıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "yapay zeka modelleri",
+    "finans"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber, Bloomberg kaynaklı raporlara dayanmaktadır; şirketin gelir hesaplama yöntemleri Anthropic ile farklılık göstermektedir.",
+  "short_title": "OpenAI üç aylık gelirini 10 milyar dolara taşıdı",
+  "kicker": "Finansal rapor",
+  "hero_stat": "10 milyar $",
+  "hero_stat_label": "üç aylık gelir",
+  "visual_style": "studio",
+  "visual_scene": "A balanced scale made of brushed titanium, one side holding a heavy cluster of golden spheres, the other side holding a sleek, dark obsidian monolith that is beginning to crack and emit a soft, pulsing blue light from within.",
+  "focus_keyword": "OpenAI gelirleri",
+  "seo_title": "OpenAI gelirleri 10 milyar doları geçti",
+  "meta_description": "OpenAI, artan taleple birlikte üç aylık gelirini 10 milyar dolara çıkardı. İşte şirketin finansal büyüme rakamları ve pazar rekabetine dair detaylar.",
+  "seo_slug": "openai-gelirleri-10-milyar-dolar",
+  "image_alt": "Terazi üzerinde yükselen finansal verileri temsil eden soyut bir kompozisyon.",
+  "cover_text": "OpenAI",
+  "importance": 8,
+  "triage_reason": "OpenAI'ın üç aylık gelirinin 10 milyar doları aşması önemli bir ticari gelişme.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T16:14:44Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "published": "2026-11-11T16:14:44Z",
+      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "text": "OpenAI is bouncing back from the doldrums it experienced earlier this year. The company’s quarterly revenue crossed $10 billion for the first time, thanks to strong demand for its recent AI models, Bloomberg reported, citing anonymous sources.\nIf true, that would represent an almost 50% jump from the $6.7 billion in sales the company reportedly recorded in the second quarter. That would also mark a sizable increase in its revenue growth rate, which was previously said to be about 18% between the first and second quarters of the year.\nOpenAI’s profitability picture also appears to have improved, with its adjusted operating margin narrowing from -150% in the second quarter to -109% in the third quarter, the report said.\nOpenAI, one of the first to commercialize AI models, wasn’t exactly struggling to continue growing its top-line expansion — 18% growth on top of $5.7 billion in quarterly revenue is massive by any measure, especially compared to most software businesses.\nBut it was seeing those gains be trumped by its archrival Anthropic, which has taken the lead in capturing the enterprise market for AI models and recently reported Q3 revenue of $17 billion. OpenAI’s broader focus helped it attract a large user base and gain popularity early on, and it says it has over a billion users, but it’s reasonable to assume most of those are free users or subscribers to its cheapest plans.\nStill, the company lagged Anthropic in catering to enterprises, a market where the Claude-maker has pulled ahead, at least in terms of revenue growth.\nOpenAI has recently benefited from a combination of tighter pricing, discounts, improving models, and a greater focus on building more enterprise-focused products and AI agents that can help people complete tasks.\nOpenAI has now reached an annual revenue run rate of $50 billion, according to Bloomberg. Meanwhile, Anthropic, which is seeking a $1.4 trillion valuation in an IPO likely to happen soon, said yesterday that its annual revenue run rate had increased by $10 billion within a month to $81 billion as of the end of October.\n(Note that OpenAI and Anthropic calculate their annualized revenue differently: Anthropic counts sales made by its cloud partners, while OpenAI only reports its share of some sales through its partners.)\nNone of those figures are small, of course, but the companies are also competing with models from Meta, Amazon, Microsoft, and Google, as well as a plethora of cheaper but still highly capable models from open-source AI labs, especially those from China."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 581
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
