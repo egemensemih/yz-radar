@@ -46,11 +46,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T18:49:52Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/11/openai-chatgptye-isletme-profilleri-ekledi/",
+      "title": "OpenAI, ChatGPT'ye işletme profilleri ekledi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/11/openai-chatgptye-isletme-profilleri-ekledi/#comments",
+      "published": "2026-11-11T07:00:00Z"
     }
   ],
   "source_keys": [
     "OpenAI",
-    "TechCrunch"
+    "TechCrunch",
+    "Webrazzi"
   ],
   "source_texts": [
     {
