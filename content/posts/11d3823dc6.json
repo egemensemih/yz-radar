@@ -1,0 +1,59 @@
+{
+  "id": "11d3823dc6",
+  "created_at": "2026-11-11T19:46:20Z",
+  "title": "İngiliz yapay zeka çipi girişimi Fractile 720 milyon dolar yatırım aldı",
+  "summary": "İngiltere merkezli yapay zeka çipi girişimi Fractile, 720 milyon dolarlık C Serisi yatırım turunu tamamladı.",
+  "body": "İngiltere merkezli yapay zeka çipi girişimi Fractile, **yapay zeka çipi** pazarındaki rekabeti kızıştıracak büyük bir finansman turuna imza attı. TechCrunch'ın aktardığına göre şirket, İngiltere'nin Sovereign AI Fund desteğiyle 720 milyon dolarlık C Serisi yatırım turunu kapattı.\n\n## Yeni yatırım ve değerleme\n\nThrive Capital, Founders Fund, Lightspeed Venture Partners ve Redpoint'in liderlik ettiği yatırım turu sonucunda şirketin değerlemesi İngiliz hükümetine göre 5 milyar sterlinin üzerine çıktı. Financial Times ve bir Reuters kaynağı ise bu rakamın yaklaşık 7 milyar dolar olduğunu bildirdi. Bu finansmanla birlikte Fractile, Axelera, Etched ve OLIX ile birlikte en yüksek fonlanan yapay zeka çipi girişimleri arasında yer aldı.\n\n## Donanım yaklaşımı ve hedefler\n\nFractile CEO'su Walter Goodwin LinkedIn üzerinden yaptığı açıklamada, şirketin önünde hâlâ çok iş olduğunu belirterek yeni finansmanın ilk çip ve sistemleri gelecek yıl göndermelerini sağlayacağını ifade etti. Şirketin donanım tasarımı, hafıza ve kapasite arasındaki ödünleşmeyi aşmak amacıyla DRAM'i her çipin üzerine yığma yaklaşımı üzerine kuruluyor. Ayrıca girişim, büyük dil modellerinin çipleri üzerinde maksimum hızda çalışmasını sağlamak için bir makine öğrenimi derleyicisi içeren tam yığınlı bir yaklaşım benimsiyor.\n\n**Neden önemli?** Fractile, ajantik yapay zekanın yükselişiyle birlikte karmaşık görev zincirlerinde hızdan ödün vermeden işlem maliyetlerini düşürmeyi hedefleyen yapay zeka çipi yarışında önemli bir konuma gelmeyi amaçlıyor.",
+  "category": "donanim",
+  "tags": [
+    "Fractile",
+    "yapay zeka çipi",
+    "Thrive Capital",
+    "Founders Fund",
+    "Lightspeed Venture Partners"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Fractile 720 milyon dolar yatırım aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "720 milyon $",
+  "hero_stat_label": "C Serisi yatırım",
+  "visual_style": "studio",
+  "visual_scene": "a single rectangular silicon chip resting on a dark slate surface, with neat layers of translucent glass blocks stacked precisely on top, casting subtle shadows under soft studio lighting",
+  "focus_keyword": "yapay zeka çipi",
+  "seo_title": "Fractile 720 milyon dolar yapay zeka çipi yatırımı aldı",
+  "meta_description": "İngiliz yapay zeka çipi girişimi Fractile, 720 milyon dolarlık C Serisi yatırım turunu tamamlayarak değerlemesini 5 milyar sterlinin üzerine çıkardı.",
+  "seo_slug": "fractile-720-milyon-dolar-yapay-zeka-cipi-yatirimi-aldi",
+  "image_alt": "Koyu zemin üzerinde yarı saydam cam bloklarla katmanlanmış silikon yapay zeka çipi",
+  "cover_text": "Fractile",
+  "importance": 8,
+  "triage_reason": "Fractile 720 milyon dolar yatırım alarak yapay zeka çip pazarında güç kazandı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T19:34:55Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 586
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "fractile-720-milyon-dolar-yapay-zeka-cipi-yatirimi-aldi",
+  "published_at": "2026-11-11T19:46:31Z",
+  "publish_mode": "auto"
+}
