@@ -40,10 +40,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50435660",
       "published": "2026-11-10T03:20:06Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T19:54:00Z"
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "TechCrunch"
   ],
   "source_texts": [
     {
