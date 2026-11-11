@@ -1,0 +1,88 @@
+{
+  "id": "ab1ca71419",
+  "status": "pending",
+  "created_at": "2026-11-11T15:09:27Z",
+  "title": "Google DeepMind, AlphaGenome 2 modelini duyurdu",
+  "summary": "Google DeepMind, genetik varyasyonların farklı hücre tipleri üzerindeki etkilerini tahmin eden yeni yapay zeka modeli AlphaGenome 2’yi tanıttı.",
+  "body": "Google DeepMind, biyolojik süreçleri anlamak ve hastalıkların kökenine inmek amacıyla geliştirilen yeni yapay zeka modeli AlphaGenome 2’yi duyurdu. 11 Kasım 2026’da paylaşılan bilgilere göre, model genetik varyasyonların vücuttaki farklı hücre tipleri ve durumları üzerindeki etkilerini tahmin etme konusunda uzmanlaşıyor.\n\n## AlphaGenome 2 neler sunuyor?\n\nAlphaGenome’un devamı niteliğindeki bu yeni model, 68 farklı dokudan alınan 100 milyondan fazla hücre profiliyle eğitildi. İnsan vücudundaki hücrelerin aynı DNA'ya sahip olmalarına rağmen farklı genleri aktif veya pasif hale getirebildiği biliniyor. AlphaGenome 2, bu dinamik süreci analiz ederek statik hücre atlaslarını gelişmiş birer tahmin motoruna dönüştürüyor. Model, bir önceki sürüme kıyasla gen ifadesini değiştirebilen varyasyonları iki kat daha fazla tespit edebiliyor.\n\nAraştırmacılar, bu modelin daha önce hiç görülmeyen hücre tipleri veya biyolojik durumlar üzerinde de tahmin yapabildiğini belirtiyor. Ayrıca model, deneysel veri setlerindeki eksiklikleri tespit ederek laboratuvar çalışmalarına yol gösterme kapasitesine sahip. Projede görev alan Žiga Avsec, ilaç geliştirme süreçlerinde belirli protein ve hücre tiplerinin hedeflendiğini, bu nedenle modelin sunduğu yüksek çözünürlüklü analizlerin kritik bir öneme sahip olduğunu ifade ediyor.\n\n## Erişim ve kullanım\n\nAlphaGenome 2, mevcut durumda ticari olmayan araştırmalar için AlphaGenome API aracılığıyla erişime açıldı. Ticari araştırmalar için ise sınırlı bir özel ön izleme süreci başlatıldı. Modelin yüksek detay seviyesi nedeniyle önceki versiyona göre daha yoğun hesaplama gücüne ihtiyaç duyduğu belirtiliyor; bu durum, tüm genomu kapsayan devasa çaplı analizler için kullanılmasını kısıtlıyor.\n\n**Neden önemli?** AlphaGenome 2, insan genetiğini hücre biyolojisiyle doğrudan ilişkilendirerek hastalıkların altında yatan hücresel nedenlerin çözülmesine ve yeni tedavi yöntemlerinin geliştirilmesine katkı sağlamayı amaçlıyor.",
+  "category": "arastirma",
+  "tags": [
+    "Google DeepMind",
+    "AlphaGenome 2",
+    "genetik",
+    "biyoloji",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google DeepMind'dan yeni genetik modeli",
+  "kicker": "Yeni model",
+  "hero_stat": "100 milyon",
+  "hero_stat_label": "hücre profili",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of translucent glass panels layered vertically with varying degrees of opacity, reflecting light in complex geometric patterns, representing the depth of genomic data layers.",
+  "focus_keyword": "AlphaGenome 2",
+  "seo_title": "Google DeepMind, AlphaGenome 2 modelini tanıttı",
+  "meta_description": "Google DeepMind, genetik varyasyonların hücreler üzerindeki etkilerini inceleyen yeni yapay zeka modeli AlphaGenome 2'yi duyurdu.",
+  "seo_slug": "google-deepmind-alphagenome-2-modelini-duyurdu",
+  "image_alt": "Katmanlı cam panellerin ışığı kırarak oluşturduğu karmaşık geometrik desenler.",
+  "cover_text": "AlphaGenome 2",
+  "importance": 8,
+  "triage_reason": "Google DeepMind'ın biyoloji ve tıp odaklı yeni AlphaGenome 2 modeli önemli bir bilimsel araştırma gelişmesidir.",
+  "sources": [
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T15:00:15Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T15:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google DeepMind",
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google DeepMind",
+      "kind": "official",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published": "2026-11-11T15:00:15Z",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "text": "Acknowledgements\nThe core research work was done thanks to the contributions of Adam Gayoso, Anne Mottram, Alexander Karollus, Guido Novati, Pavol Drotár, John Reid, Laetitia Meng-Papaxanthos, Adam Kosiorek, Eirini Arvaniti, Vincent Dutordoir, Soham De, Tom Ward, Lai Hong Wong, Matteo Perino, Kyle Taylor, Jun Cheng, Natasha Latysheva, Joshua Pan, Dhavanthi Hariharan, Clare Bycroft, Lauren Nicolaisen, Demis Hassabis, Pushmeet Kohli and Žiga Avsec\nWe wish to thank the following people for their support and feedback including Gabriella Stanton, Charlie Taylor, Raina Thomas, Lucas Tenório, Antonio García, Joseph Powell, Angli Xue, Trygve Bakken, Nelson Johansen, Junyue Cao, Ziyu Lu, Jacob Hepkema, Leopold Parts, Irina Voineagu, Souradeep Basu, Michal Zielinski, Jeff Cao, Ioannis Sarropoulos, Sarah Teichmann, Amanda Stafford, Eliseo Papa.\nFinally we wish to thank Evie Gray, Adriana Fernandez Lara, Alex Wilkins, Danielle Breen, Dimple Vijaykumar, Muinat Abdul, Chris Kwaku-Abdullahi, Kathryn Seager, Ryan Smith, Ross West and Gaby Pearl for their expertise in communicating this work."
+    },
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "published": "2026-11-11T15:00:00Z",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+      "text": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease — and point the way to new treatments.\nGoogle’s AlphaGenome 2 zooms in on the cellular roots of disease\nDeepMind’s new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment.\nAlphaGenome 2 is the successor to DeepMind’s genome-predicting AI model AlphaGenome, which was released last year. While nearly every cell in the human body carries the same DNA, different types of cells — from heart muscle cells and skin cells to immune cells fighting an infection — switch different genes on and off, and those patterns can change depending on what a cell is doing. As a result, the same genetic variant can have very different effects depending on the type and state of the cell.\nThe new model is designed to capture those differences, predicting the effects of genetic variants on individual cell types and states. Google said in a blog post published Wednesday that it offers a much finer-grained view than broader models like AlphaGenome, potentially revealing disease-relevant effects in specific cells that might otherwise go unnoticed.\nAlphaGenome 2 was trained on more than 100 million individual cell profiles across 68 tissues to give it that more detailed view. DeepMind says the model effectively turns static cell atlases — huge data repositories that map and catalog individual cells in detail — “into a predictive engine for human genetics.” According to the company, AlphaGenome 2 identifies nearly twice as many variants that can change gene expression in cells than its previous state-of-the-art model.\nNotably, the researchers found that AlphaGenome 2 could also make predictions about new types of cells and biological states without needing to be retrained. It could also identify gaps in experimental data, potentially helping scientists decide what to investigate next in the lab.\nFor Adam Gayoso, a research scientist at Google DeepMind involved in the project, the big breakthrough is “tying human genetics to cell biology.” AlphaGenome 2 gives researchers a way to drill down on genetic variants identified in large populations, to see what effects they may be having on a cellular level, and potentially connect those effects to disease, he told The Verge.\nGoogle DeepMind’s genomics lead Žiga Avsec told The Verge that this specificity is important if you have a goal like figuring out how to treat a particular disease. “When you develop drugs, you’re targeting specific proteins and specific cell types,” he explained, which makes having this kind of granularity vital.\nBuilding a model like AlphaGenome 2 has only recently become possible thanks to new technologies that can capture individual cells and their states at high resolution and create the vast datasets needed to train it, Avsec said. DeepMind is now working to improve its genetics models by generating more data, including for cell states that aren’t represented well today. Avsec said future versions could also potentially be trained on data “across multiple species,” giving the models a broader view of biology. Longer term, he said models like AlphaGenome 2 could feed into efforts to create “virtual cells,” digital simulations designed to mimic biological systems.\nAlthough Avsec said he views AlphaGenome 2 as a successor to AlphaGenome, it isn’t replacing it any time soon. He said its more detailed predictions come at a computational cost and are “more expensive” to produce than those of its predecessor, he said. Those demands would have made it impractical to use AlphaGenome 2 to produce the genome-wide Atlas covering “every possible DNA letter change in the human genome” that DeepMind released in September.\nGoogle says it is making AlphaGenome 2 available for non-commercial research via the AlphaGenome API from today, with a limited “private preview” for commercial research.\nThe model is the latest in a growing array of efforts by Google and rival AI labs to use the technology to tackle major problems in science and medicine. Pushmeet Kohli, who heads DeepMind’s AI for science research, has hinted that more impressive scientific results are on the way, and the organization is expected to open an automated materials science lab in the UK soon. Anthropic, meanwhile, has been experimenting with drug design and given Claude a wet lab, while OpenAI has been mowing down an impressive amount of longstanding problems in mathematics and related fields."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 579
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google DeepMind"
+}
