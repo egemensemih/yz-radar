@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-10T12:02:28Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-11T14:08:57Z"
     }
   ],
   "source_keys": [
-    "Google DeepMind"
+    "Google DeepMind",
+    "Ars Technica"
   ],
   "source_texts": [
     {
