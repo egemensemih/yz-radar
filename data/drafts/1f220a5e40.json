@@ -1,0 +1,69 @@
+{
+  "id": "1f220a5e40",
+  "status": "pending",
+  "created_at": "2026-11-11T22:46:02Z",
+  "title": "United Airlines'tan yapay zeka ajanlarına uçuş rezervasyonu yasağı",
+  "summary": "United Airlines, kullanıcıların kişisel bilgileri ve federal kuralları ihlal riski gerekçesiyle yapay zeka ajanlarının uçuş rezervasyonu yapmasını yasakladı.",
+  "body": "United Airlines, kişisel bilgilerin paylaşımı ve federal regülasyonların ihlal edilebileceği gerekçesiyle **yapay zeka ajanları** nın yolcular adına uçuş rezervasyonu yapmasını yasakladığını duyurdu. CBS News'un aktardığına göre hava yolu şirketi, dijital platformlarında ve seyahat acenteleri ile aracı siteler üzerinden bu araçların erişimini kısıtlamak için adımlar atıyor.\n\n## Yeni politikanın gerekçeleri ve güvenlik endişeleri\n\nŞirket tarafından yapılan açıklamada, üçüncü taraf yapay zeka asistanlarıyla hesap kimlik bilgilerinin paylaşılmasının hassas verileri tehlikeye atabileceği belirtildi. Bu tür araçların gerçekleştirdiği işlemlerin istenmeyen satın alımlara, hesap değişikliklerine veya MileagePlus millerinin kullanımına yol açabileceği ifade edildi. Ayrıca, bir yapay zeka ajanının uçuş için check-in yapması gibi işlemlerin, yolcuların bagajlarında yasaklı madde bulunmadığını şahsen doğrulamasını gerektiren federal düzenlemeleri ihlal edebileceği vurgulandı.\n\n## Sektördeki farklı yaklaşımlar\n\nAtmosphere Research Group havacılık analisti Henry Harteveldt, yeni politikanın şirketin müşteri rezervasyon sürecindeki kontrolü elinde tutma isteğini gösterdiğini belirtti. Harteveldt, uçuş aramalarının havayollarına maliyet yarattığını ve United'ın yapay zeka botlarının oluşturacağı arama dalgasının maliyetinden kaçınmak istediğini ifade etti. Öte yandan sektördeki diğer şirketler farklı yollar izliyor; örneğin Southwest, uçuş envanterini ChatGPT kullanıcılarının erişimine açmış durumda. United biletlerinin Kayak, Hopper ve Google Flights gibi seyahat arama motorları üzerinden rezerve edilmeye devam edeceği bildirildi.\n\n**Neden önemli?** United Airlines'ın getirdiği yeni kısıtlamalar, yapay zeka ajanlarının seyahat sektöründeki ticari ve yasal konumuna dair havayollarının aldığı ilk net önlemler arasında yer alıyor.",
+  "category": "sirketler",
+  "tags": [
+    "United Airlines",
+    "Southwest",
+    "Google Flights",
+    "ChatGPT",
+    "seyahat"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "United Airlines'tan yapay zeka ajanlarına yasak",
+  "kicker": "Ulaşım ve yapay zeka",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single polished metallic luggage tag resting on a dark slate surface, with clean minimal geometric lighting reflecting off its brushed edge",
+  "focus_keyword": "yapay zeka ajanları",
+  "seo_title": "United Airlines yapay zeka ajanlarına uçuş yasağı getirdi",
+  "meta_description": "United Airlines, güvenlik ve federal kurallar nedeniyle yapay zeka ajanlarının yolcular adına uçuş rezervasyonu yapmasını yasakladı.",
+  "seo_slug": "united-airlines-yapay-zeka-ajanlarina-ucus-yasagi-getirdi",
+  "image_alt": "Koyu zemin üzerinde parlayan metalik valiz etiketi",
+  "cover_text": "United Airlines",
+  "importance": 6,
+  "triage_reason": "Havayolu şirketlerinin yapay zeka ajanlarının otomatik bilet alımını yasaklaması sektörel bir politika gelişmesidir.",
+  "sources": [
+    {
+      "name": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50458900",
+      "published": "2026-11-11T21:24:35Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "cbsnews.com",
+      "kind": "community",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "published": "2026-11-11T21:24:35Z",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 168 # Comments: 157",
+      "text": "United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing and the possibility that such actions could violate federal rules.\nMany consumers are turning to AI agents such as and to complete tasks ranging from researching products and tracking down deals to making purchases.\nTo make an airline booking, an AI agent requires access to a customer's personal information, including credentials like payment information. United has a problem with that, saying that \"sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.\"\nThe carrier also said that using an AI agent to, for example, check in for a flight could violate federal regulations, including rules requiring travelers to verify in person that their luggage does not contain banned substances.\n\"As a result, United is taking steps to restrict access — directly within our digital platforms and indirectly via travel agencies and aggregators — to prohibit use by unauthorized, third-party personal AI agents or assistants,\" said the airline, which is updating its booking and ticketing policies to reflect the new rule.\nUnited's new policy suggests the company wants to retain control over the customer booking process, said Henry Harteveldt, an aviation analyst at Atmosphere Research Group.\n\"United is saying they don't want to add yet another, and potentially even more powerful, intermediary than they already face in terms of Google search, price-comparison metasearch sites and online travel agencies,\" he told CBS News. \"Flight searches cost airlines money, and undoubtedly United wants to avoid the expense associated with the surge of AI bot flight searches.\"\nOther airlines are taking a different tack to the emergence of AI agents. For example, Southwest has made its flight inventory viewable to ChatGPT users, who can access the airline's website through the AI app.\nUnited fares will continue to be bookable through flight aggregators such as Kayak, Hopper and Google Flights, Harteveldt said, adding that \"consumers shouldn't find it any more difficult to find good fares on the airline.\"\n\"But by blocking the AI bots, United won't make it any easier to find its fares, either,\" he said."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 589
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
