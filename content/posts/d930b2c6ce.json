@@ -1,0 +1,58 @@
+{
+  "id": "d930b2c6ce",
+  "created_at": "2026-11-12T21:35:55Z",
+  "title": "Nebius 2027 yılı için 40 milyar dolarlık yatırım planını açıkladı",
+  "summary": "Nebius, üçüncü çeyrek kazanç toplantısında 2027 için 40 milyar dolarlık harcama planı duyururken, New Jersey'deki veri merkezi gecikmeleri ve hisse düşüşü yaşadı.",
+  "body": "Nebius şirketinin üçüncü çeyrek kazanç toplantısında paylaştığı bilgilere göre, neocloud şirketi 2027 yılı için 40 milyar dolarlık harcama planı duyurdu. TechCrunch'ın aktardığına göre, bu iddialı strateji müşteri ön ödemeleri ile müşteri sözleşmelerine dayalı kredilerle finanse edilecek. Ancak şirketin New Jersey'deki tesisinde yaşanan gecikmeler ve yasal sorunlar planların bazı risklerle karşı karşıya olduğunu gösteriyor.\n\n## Microsoft sözleşmesinde gecikmeler\n\nNebius'un en büyük müşterilerinden biri olan Microsoft için Vineland, New Jersey'de kurulan yapay zeka bilgi işlem kapasitesi takvimin gerisinde kalıyor. 19,4 milyar dolara kadar değer taşıyan bu sözleşmede, Microsoft kapasitesinin yalnızca biraz üzerindeki bir kısmının yıl sonuna kadar teslim edilmesi, geri kalanının ise 2027'nin ikinci çeyreğine kalması planlanıyor. Tesisin operatörü DataOne'ın geçici jeneratörleri planlanandan hızlı devreden çıkarması ve bölgedeki çevre düzenlemeleri ile gürültü davaları projeyi etkileyen unsurlar arasında yer alıyor.\n\n## Finansman ve gelecek tahminleri\n\nŞirket yöneticilerine göre, Microsoft ve Meta ile yapılan anlaşmalar önemli ön ödemeler içeriyor ve Nebius dönemi 7,4 milyar dolar nakitle kapattı. Üçüncü çeyrekte 981 milyon dolar gelir bildiren şirket, New Jersey gibi üçüncü taraf sitelerindeki aksaklıklar nedeniyle 2026 gelir tahminini 3 milyar dolara düşürdü ve bu gelişmelerin ardından hisseleri gün sonunda %17 oranında değer kaybetti.\n\n**Neden önemli?** Nebius'un gelecekteki büyüme planları büyük ölçüde müşteri ön ödemelerine ve veri merkezi projelerinin zamanında teslim edilmesine dayanıyor ancak üçüncü taraf ortaklıklardaki gecikmeler şirketin finansal hedeflerini riske atıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nebius",
+    "Microsoft",
+    "Meta",
+    "DataOne"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nebius'tan 40 milyar dolarlık yatırım planı",
+  "kicker": "Finans ve altyapı",
+  "hero_stat": "40 milyar $",
+  "hero_stat_label": "2027 planlı harcama",
+  "visual_style": "studio",
+  "visual_scene": "a towering stack of dark matte geometric blocks standing on a reflective dark surface, with a single warm light casting long shadows across the architectural forms",
+  "focus_keyword": "Nebius 2027 yatırım",
+  "seo_title": "Nebius 2027 yılı için 40 milyar dolarlık yatırım planı",
+  "meta_description": "Nebius üçüncü çeyrek kazanç toplantısında 2027 yılı için 40 milyar dolarlık harcama planını duyurdu, ancak veri merkezi gecikmeleri yaşanıyor.",
+  "seo_slug": "nebius-2027-yilinda-40-milyar-dolar-harcayacak",
+  "image_alt": "Nebius şirketinin 40 milyar dolarlık yatırım planını ve veri merkezi projelerini temsil eden soyut mimari bloklar",
+  "cover_text": "Nebius",
+  "importance": 7,
+  "triage_reason": "Nebius'un 40 milyar dolarlık yapay zeka altyapı ve veri merkezi yatırımı önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T21:27:10Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 618
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "nebius-2027-yilinda-40-milyar-dolar-harcayacak",
+  "published_at": "2026-11-12T21:35:59Z",
+  "publish_mode": "auto"
+}
