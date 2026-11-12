@@ -1,0 +1,59 @@
+{
+  "id": "2585952714",
+  "created_at": "2026-11-12T15:16:11Z",
+  "title": "Fireworks AI siber saldırısı Notion verilerini etkiledi",
+  "summary": "Fireworks AI platformuna düzenlenen siber saldırı, şirketin bazı müşterilerinin verilerinin ele geçirilmesine ve Notion kullanıcılarının sohbet dökümlerinin sızmasına yol açtı.",
+  "body": "Fireworks AI platformuna düzenlenen bir siber saldırı, platformu kullanan kurumsal müşterilerin verilerinin tehlikeye girmesine neden oldu. Açık yapay zeka modellerine erişim sağlayan Fireworks AI, saldırganların bulut sağlayıcıları üzerinden geliştirme sistemlerine sızdığını duyurdu. Şirket, saldırganların fatura bilgilerini ve bazı veri setlerini ele geçirdiğini doğruladı.\n\n## Notion verileri nasıl etkilendi?\n\nSaldırıdan etkilenen şirketlerden biri olan Notion, Fireworks AI'ın bilgilendirmesi üzerine sistemlerini platformla ayırdığını açıkladı. Notion, 3 Kasım'da tüm bağlantılarını kestiğini ve sisteminde tutulan verileri sildiğini belirtti. İncelemeler sonucunda, saldırganların Notion'ın “Insights” özelliğini kullanan bazı kullanıcılarına ait sohbet dökümlerine ulaştığı tespit edildi. Notion, etkilenen kullanıcı oranının toplam müşteri tabanının yaklaşık %1'i seviyesinde olduğunu ifade etti. Sohbet dökümlerinin, modelle yapılan tüm girdi ve çıktıları içerdiği ancak verilerin çoğunun anonim olduğu aktarıldı.\n\n## Saldırganların motivasyonu\n\nFireworks AI, saldırganların finansal motivasyonlarla hareket ettiğini değerlendiriyor. Şirket tarafından yapılan açıklamaya göre saldırganların temel hedefi, büyük dil modellerine (LLM) erişim sağlayan yetkisiz token'ları ele geçirip üçüncü taraflara satmak. Bu yöntemle saldırganların, kendi kaynaklarını tüketmeden yapay zeka modellerini kötüye kullanmayı amaçladığı belirtildi. Fireworks AI bünyesinde geçtiğimiz Ekim ayında da bir güvenlik ihlali yaşanmıştı.\n\n**Neden önemli?** Fireworks AI siber saldırısı, teknoloji şirketlerinin birbirine olan bağımlılığını ve bir hizmet sağlayıcıya yönelik saldırının ekosistemdeki diğer birçok kurumu nasıl zincirleme şekilde etkileyebileceğini gözler önüne seriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Fireworks AI",
+    "Notion",
+    "siber saldırı",
+    "veri ihlali",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Fireworks AI saldırısı Notion verilerini etkiledi",
+  "kicker": "Güvenlik ihlali",
+  "hero_stat": "%1",
+  "hero_stat_label": "etkilenen Notion kullanıcısı",
+  "visual_style": "still_life",
+  "visual_scene": "A shattered glass sphere lying on a dark, matte surface, with fragmented reflections of light distorted across the pieces, symbolizing a broken security perimeter and fragmented data.",
+  "focus_keyword": "Fireworks AI siber saldırısı",
+  "seo_title": "Fireworks AI siber saldırısı Notion verilerini etkiledi",
+  "meta_description": "Fireworks AI'a düzenlenen siber saldırı Notion kullanıcılarının verilerini etkiledi. İşte platformdaki veri ihlali ve güvenlik açığı hakkında bilinenler.",
+  "seo_slug": "fireworks-ai-siber-saldirisi-notion-verilerini-etkiledi",
+  "image_alt": "Parçalanmış cam küre görseli, siber güvenlik ihlalini temsil ediyor.",
+  "cover_text": "Fireworks AI",
+  "importance": 6,
+  "triage_reason": "Yapay zeka altyapı sağlayıcısı Fireworks AI'ın veri sızıntısı ve siber saldırıya uğraması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T15:02:28Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 597
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "fireworks-ai-siber-saldirisi-notion-verilerini-etkiledi",
+  "published_at": "2026-11-12T15:16:27Z",
+  "publish_mode": "auto"
+}
