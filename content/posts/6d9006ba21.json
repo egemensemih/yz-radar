@@ -1,0 +1,58 @@
+{
+  "id": "6d9006ba21",
+  "created_at": "2026-11-12T17:14:07Z",
+  "title": "SoftBank'ın yapay zeka enerji yatırımı beklentilerin altında kaldı",
+  "summary": "SoftBank, yapay zeka veri merkezlerinin enerji ihtiyacını karşılamak amacıyla yaptığı doğal gaz türbini yatırımlarında 3 milyar doların üzerinde zarar açıkladı.",
+  "body": "SoftBank, yapay zeka veri merkezlerinin artan enerji talebini karşılamak adına başlattığı doğal gaz odaklı enerji hamlesinde ciddi bir finansal kayıpla karşılaştı. Şirket, 12 Kasım 2026'da duyurduğu 7,1 milyar dolarlık çeyreklik zararının yarısından fazlasının, enerji üretimi ekipmanlarına yapılan yatırımlardan kaynaklandığını belirtti. SoftBank'ın yapay zeka enerji yatırımı, özellikle doğal gaz türbinleri için ödenen iade edilemez depozitolar nedeniyle beklentilerin uzağında kaldı.\n\n## Fazla sipariş ve pazar payı beklentisi\n\nSoftBank, enerji sektöründeki tedarik zinciri kısıtlamalarını aşmak amacıyla ihtiyaç duyduğundan yaklaşık %50 daha fazla türbin siparişi vermişti. Şirket, bu stratejiyle pazarda hakimiyet kurmayı ve yapay zeka projeleri için gereken elektriği kontrol etmeyi hedefliyordu. Noreva CEO'su Peter Gardett, bu durumu bir fiyat keşfi süreci olarak tanımlayarak, şirketin türbinlere erişimi garantilemek için yüksek maliyetleri göze aldığını belirtti. Gardett, \"SB Energy, hemen türbin almak istiyorsa gelecekteki türbinleri aşırı miktarda rezerve etmekten başka çaresi yoktu\" ifadesini kullandı.\n\n## Veri merkezleri için enerji stratejisi\n\nSektör uzmanları, yapay zeka veri merkezi operatörlerinin artık doğal gazın ötesinde farklı çözümlere yöneldiğini gözlemliyor. Ascend Analytics'ten Brent Nelson, doğal gazın kış aylarındaki arz kısıtlamaları gibi riskler taşıdığını belirterek, şebeke bağlantılarının ve büyük ölçekli batarya sistemlerinin daha etkili bir güvenlik önlemi olabileceğini vurguladı. Bu değişim, doğal gaz piyasasının SoftBank'ın öngördüğünden daha yavaş gelişmesine neden oldu.\n\n**Neden önemli?** SoftBank'ın uğradığı 3 milyar doları aşan zarar, yapay zekanın devasa enerji ihtiyacı karşısında yatırımcıların yaşadığı \"elektrik çılgınlığı\" döneminin bir yansıması olarak görülüyor. Bu gelişme, doğal gazın sektör için tek çözüm olmayabileceğine işaret ediyor.",
+  "category": "sirketler",
+  "tags": [
+    "SoftBank",
+    "enerji",
+    "yatırım",
+    "veri merkezleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "SoftBank'ın enerji yatırımında 3 milyar dolar kayıp",
+  "kicker": "Enerji yatırımı",
+  "hero_stat": "3 milyar $",
+  "hero_stat_label": "kayıp miktarı",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of industrial metal turbine blades arranged in a circular formation, half of them tarnished and covered in dark, matte ash, contrasting with the other half which are polished and reflective, set against a stark, neutral background.",
+  "focus_keyword": "SoftBank yapay zeka",
+  "seo_title": "SoftBank yapay zeka enerji yatırımında milyarlarca dolar…",
+  "meta_description": "SoftBank, yapay zeka veri merkezleri için yaptığı doğal gaz türbini yatırımlarında 3 milyar doları aşan bir zararla karşılaştı. Detaylar YZ Radar'da.",
+  "seo_slug": "softbank-yapay-zeka-enerji-yatirim-zarar",
+  "image_alt": "Soyut metal türbin parçalarından oluşan, kısmen kararmış ve parlatılmış heykelsi bir kompozisyon.",
+  "cover_text": "SoftBank",
+  "importance": 6,
+  "triage_reason": "SoftBank'ın yapay zeka veri merkezleri için yaptığı enerji yatırımlarındaki milyar dolarlık kaybı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T17:00:52Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 606
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "softbank-yapay-zeka-enerji-yatirim-zarar",
+  "published_at": "2026-11-12T17:14:08Z",
+  "publish_mode": "auto"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "913546df37",
+  "created_at": "2026-11-12T17:13:52Z",
+  "title": "Yapay zeka sohbet botları sahte alışveriş siteleri öneriyor",
+  "summary": "Yapılan bir araştırma, ChatGPT, Gemini ve Perplexity gibi popüler yapay zeka araçlarının kullanıcılara zaman zaman sahte veya riskli alışveriş siteleri yönlendirdiğini ortaya koydu.",
+  "body": "Alışveriş süreçlerinde rehberlik etmesi amacıyla kullanılan yapay zeka sohbet botları, kullanıcıları beklenmedik güvenlik riskleriyle karşı karşıya bırakabiliyor. Fikri mülkiyet koruma firması Podqi tarafından gerçekleştirilen yeni bir araştırma, ChatGPT, Gemini ve Perplexity modellerinin ürün araştırması yapan kullanıcılara zaman zaman sahte veya güvenilmez internet siteleri önerdiğini ortaya koydu.\n\n## Hangi model ne kadar riskli?\n\nEylül ayında 151 farklı marka üzerinden yürütülen testlerde toplam 6.795 yanıt incelendi. Araştırma sonuçlarına göre, modellerin sahte veya riskli sitelere yönlendirme oranları şu şekilde sıralandı:\n\n* Perplexity: %15\n* ChatGPT: %8\n* Gemini: %4\n\nPodqi, test edilen modellerin gerçek perakendecileri taklit eden siteleri, orijinal markaların süresi dolmuş ve başkaları tarafından yeniden kaydedilmiş alan adlarını veya aktif olmayan sayfaları önerdiğini belirtti. ChatGPT, tespit edilen riskli sitelerle ilgili kullanıcıları uyarıda bulunma konusunda %24’lük oranla diğer modellerden daha proaktif bir yaklaşım sergiledi.\n\n## Markalar için risk oluşturuyor\n\nAraştırma, özellikle daha küçük ölçekli markalara yönelik aramalarda riskli sitelerin çıkma ihtimalinin, büyük küresel markalara kıyasla iki kat daha fazla olduğunu gösterdi. Google, Gemini'nin testlerde en iyi performansı sergilemesinden memnun olduklarını belirtirken, OpenAI ve Perplexity yetkilileri modellerini geliştirmeye ve yanıltıcı içeriklerle mücadele etmeye devam ettiklerini ifade etti. Uzmanlar, yapay zeka tarafından sunulan sonuçların doğruluğunun özellikle ödeme aşamasından önce mutlaka bağımsız kaynaklardan teyit edilmesi gerektiğini vurguluyor.\n\n**Neden önemli?** Özellikle yaklaşan tatil alışverişi döneminde yapay zeka araçlarının kullanımının artması beklenirken, sahte siteler tüketici bilgilerinin çalınması veya dolandırıcılık faaliyetleri için yeni bir risk kanalı oluşturuyor.",
+  "category": "arastirma",
+  "tags": [
+    "ChatGPT",
+    "Gemini",
+    "Perplexity",
+    "siber-guvenlik",
+    "eticaret"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka alışverişte sahte sitelere yönlendiriyor",
+  "kicker": "Araştırma sonuçları",
+  "hero_stat": "%15",
+  "hero_stat_label": "Perplexity risk oranı",
+  "visual_style": "still_life",
+  "visual_scene": "A smartphone resting on a dark wooden surface, displaying a blurred search interface. Beside it, a single cracked ceramic shopping bag figurine, highlighting the theme of deceptive retail links in AI.",
+  "focus_keyword": "yapay zeka sohbet botları",
+  "seo_title": "Yapay zeka sohbet botları sahte alışveriş siteleri öneriyor",
+  "meta_description": "Podqi tarafından yapılan yeni bir araştırma, ChatGPT, Gemini ve Perplexity gibi yapay zeka sohbet botlarının kullanıcılara sahte alışveriş siteleri sunduğunu gösterdi.",
+  "seo_slug": "yapay-zeka-sohbet-botlari-sahte-siteler",
+  "image_alt": "Akıllı telefon ekranında beliren alışveriş bağlantıları ve yanında kırık bir seramik alışveriş çantası figürü.",
+  "cover_text": "Yapay Zeka Riskleri",
+  "importance": 7,
+  "triage_reason": "Yapay zeka sohbet botlarının kullanıcıları sahte alışveriş sitelerine yönlendirdiğini gösteren kritik bir çalışma.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 603
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "yapay-zeka-sohbet-botlari-sahte-siteler",
+  "published_at": "2026-11-12T17:13:56Z",
+  "publish_mode": "auto"
+}
