@@ -57,12 +57,32 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50471431",
       "published": "2026-11-12T18:01:48Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T19:27:45Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T19:23:03Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
     "Google",
-    "Hacker News"
+    "Hacker News",
+    "TechCrunch",
+    "Ars Technica"
   ],
   "source_texts": [
     {
