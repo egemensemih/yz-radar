@@ -39,10 +39,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50458900",
       "published": "2026-11-11T21:24:35Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T17:17:58Z"
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "TechCrunch"
   ],
   "source_texts": [
     {
