@@ -1,0 +1,68 @@
+{
+  "id": "fcdfcb9b4b",
+  "status": "pending",
+  "created_at": "2026-11-12T15:02:12Z",
+  "title": "Google akıllı gözlük modelleri için ön sipariş dönemini başlattı",
+  "summary": "Google, Samsung ve gözlük üreticileriyle iş birliği yaparak Gemini destekli yeni akıllı gözlük modellerini 395 dolardan başlayan fiyatlarla satışa sundu.",
+  "body": "Google, teknoloji dünyasına entegre ettiği Gemini yapay zeka sistemini bu kez giyilebilir teknoloji alanına taşıyarak yeni akıllı gözlük modellerini piyasaya sürdü. Şirketin Samsung ile donanım, Gentle Monster ve Warby Parker ile tasarım süreçlerini yürüttüğü bu yeni cihazlar, kullanıcılara ekran içermeyen ancak yapay zeka etkileşimi odaklı bir deneyim sunmayı hedefliyor. Ars Technica'nın aktardığına göre, 12 Kasım 2026 itibarıyla ön siparişe açılan bu **Google akıllı gözlük** modelleri, kullanıcılara hem sesli komutlarla hem de dokunmatik çerçeve kontrolleriyle Gemini sistemine erişim imkanı sağlıyor.\n\n## Tasarım ve donanım seçenekleri\n\nCihazlar, hem estetik hem de işlevsel olarak farklı kullanıcı tercihlerine göre çeşitlendirilmiş durumda. Donanım altyapısı Samsung tarafından sağlanan gözlükler, yaklaşık 41 gram ağırlığa sahip. Modellerin genel özellikleri ise şöyle sıralanıyor:\n\n* Warby Parker tarafından tasarlanan Alden, Reid ve Wren modelleri 395 dolardan başlayan fiyatlarla ABD pazarında satışa sunuldu.\n* Gentle Monster tasarımı olan ve altı farklı stilde gelen modeller 449 dolardan başlayan fiyatlarla ABD ve Güney Kore'de kullanıcılarla buluşuyor.\n* Tüm modellerde şeffaf veya güneş gözlüğü lens seçenekleri ile çeşitli renk alternatifleri bulunuyor.\n\n## Gemini ile etkileşim\n\nKullanıcılar, cihaz üzerindeki entegre kamera ve sesli komut sistemi sayesinde Gemini ile doğrudan iletişim kurabiliyor. Ray-Ban Meta gözlüklerine benzer bir çalışma prensibi benimseyen sistem, telefonlardaki **Gemini Live** deneyimini günlük yaşamın içine taşımayı amaçlıyor. Cihaz üzerinde yer alan dokunmaya duyarlı yüzeyler, kullanıcılara daha hızlı bir etkileşim yöntemi sunuyor.\n\n**Neden önemli?** Akıllı gözlükler, uzun süredir tasarımın rahatlığı ve kişisel gizlilik endişeleriyle yaygın bir kullanım alanı bulmakta zorlanıyordu. Google'ın bu hamlesi, yapay zeka destekli gözlüklerin günlük moda ve teknoloji dengesini kurma çabasının yeni bir aşamasını temsil ediyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Samsung",
+    "Gemini",
+    "giyilebilir-teknoloji"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google'ın Gemini destekli akıllı gözlükleri çıktı",
+  "kicker": "Yeni ürün",
+  "hero_stat": "395 $",
+  "hero_stat_label": "başlangıç fiyatı",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist, sleek pair of eyeglasses resting on a polished obsidian surface. The frame is slightly translucent, showing delicate internal wiring structures without being distracting. Soft, neutral studio lighting creates a gentle reflection on the lens edges, emphasizing the premium material and compact design of the technology.",
+  "focus_keyword": "Google akıllı gözlük",
+  "seo_title": "Google akıllı gözlük modelleri Gemini ile duyuruldu",
+  "meta_description": "Google, Samsung ve tasarım markalarıyla geliştirdiği Gemini destekli yeni akıllı gözlüklerini duyurdu. İşte tasarım, fiyat ve özellikler.",
+  "seo_slug": "google-akilli-gozluk-modelleri-duyuruldu",
+  "image_alt": "Siyah bir zemin üzerinde duran, minimalist tasarıma sahip yeni Google akıllı gözlük modeli.",
+  "cover_text": "Gemini Glasses",
+  "importance": 8,
+  "triage_reason": "Google ve ortaklarının Gemini destekli yeni akıllı gözlüklerini duyurması önemli bir ürün lansmanıdır.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/#comments",
+      "published": "2026-11-12T14:50:17Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "published": "2026-11-12T14:50:17Z",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "text": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days. Now, Google is ready to take another swing at “intelligent eyewear” for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from Gentle Monster and Warby Parker, but they’re no impulse buy.\nThese devices are a collaboration between Google, Samsung, and the aforementioned eyewear designers. Gentle Monster and Warby Parker have each designed a few different frames, with options for transparent and tinted lenses. Samsung is providing the computing hardware that fits inside them, and Google has the software covered.\nWarby Parker has designed three frames for Google eyewear, called Alden, Reid, and Wren (see above). They are available with both standard optical and sun lenses in Pine, Saddle, and Jet Black colors at $395 and higher. Warby Parker is only selling devices in the US. Gentle Monster has gone a bit further with six styles, but Google hasn’t told us any names for those yet. They come in dark red, pink, gray, and yellow colors and are available with clear, tinted, blue, or brown lenses. The Gentle Monster styles start a little higher at $449, and they will be available in the US and South Korea.\nGoogle says the frames all weigh about 41 grams, which is not terrible but is definitely near the top for glasses generally. They will, naturally, weigh much more when you account for lenses. That will also determine the final pricing. So far, we only have the starting prices for these devices, including non-prescription lenses.\nThe setup here is similar to the Ray-Ban Meta glasses we’ve seen for a few years. There are no screens in the lenses, but you can interact with the AI system via voice or by activating the integrated camera. The experience should be similar to using Gemini Live on your phone, but it will be a lot easier to fire up the AI. You can say “Hey Gemini” or tap a touch-sensitive area of the frame to start interacting with the robot."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 596
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
