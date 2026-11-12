@@ -38,10 +38,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-11T18:00:00Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/12/google-tek-api-cagrisinda-1000-soruyu-degerlendirebilen-gemini-decision-1i-tanitti/",
+      "title": "Google, tek API çağrısında 1.000 soruyu değerlendirebilen Gemini Decision 1'ı tanıttı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/12/google-tek-api-cagrisinda-1000-soruyu-degerlendirebilen-gemini-decision-1i-tanitti/#comments",
+      "published": "2026-11-12T12:00:00Z"
     }
   ],
   "source_keys": [
-    "Google"
+    "Google",
+    "Webrazzi"
   ],
   "source_texts": [
     {
