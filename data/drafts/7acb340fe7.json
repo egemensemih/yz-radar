@@ -1,0 +1,68 @@
+{
+  "id": "7acb340fe7",
+  "status": "pending",
+  "created_at": "2026-11-12T22:37:09Z",
+  "title": "FAA yapay zeka sistemi SMART'ı tüm ABD hava sahasında kullanıma sundu",
+  "summary": "FAA, hava trafiği rötarlarını ve yakıt tüketimini azaltmayı amaçlayan 875 milyon dolarlık yapay zeka sistemi SMART'ı tüm ABD hava sahasında yaygınlaştırdı.",
+  "body": "ABD Federal Havacılık İdaresi (FAA), ülke genelinde hava trafiği sıkışıklığını yönetmek için hava trafiği kontrolörlerine rehberlik eden **FAA yapay zeka** sistemi SMART'ın kapsama alanını tüm ulusal hava sahasına genişlettiğini açıkladı. 875 milyon dolar bütçeli bulut tabanlı yazılım, uçuş rotalarından personel yoğunluğuna kadar uzanan karmaşık verileri işleyerek tahminlerde bulunuyor.\n\n## SMART sisteminin performansı ve çalışma yapısı\n\nFAA tarafından yayımlanan bilgilere göre SMART sistemi, ilk olarak 21 Eylül tarihinde Washington DC üzerindeki hava sahasında kullanılmaya başlandı. İlk test sürecinde 180 uçuşun rotasını başarıyla değiştiren sistem, uçuş başına ortalama 10 dakika zaman ve yaklaşık 80 galon yakıt tasarrufu elde edilmesini sağladı. FAA, 10 Kasım tarihli resmi açıklamasında bu olumlu sonuçları ülke genelindeki 22 bölge merkezinin tamamına yaymayı hedeflediğini bildirdi.\n\nSistem, karar alma süreçlerini desteklemek amacıyla şu verileri ve işlevleri bir araya getiriyor:\n\n- Hava durumu modelleri, uçuş yolları, trafik akışı ve kontrolör personel metriklerini birleştirerek hava trafiği kalıplarını tahmin etme\n- Uçuşlar için en uygun rotaları belirleme ve zamanlama önerilerinde bulunma\n- Havalimanlarına varacak uçakların en doğru iniş sırasını tespit etme\n\nSistemin sunduğu öneriler otomatik olarak uygulanmıyor. FAA'in Washington DC merkezli uzman insan ekibi, SMART tarafından üretilen tavsiyeleri inceleyip doğruladıktan sonra ülke çapındaki hava trafiği kontrol tesislerine iletiyor.\n\n## Sektör temsilcileri ve sendikanın yaklaşımı\n\nHavayolu şirketi üst düzey yöneticileri uygulamanın tüm ülkeye yayılmasını memnuniyetle karşılarken, hava trafiği kontrolörlerini temsil eden işçi sendikası farklı bir açıklama yaptı. Sendika yetkilileri, yapay zeka destekli bu sistemin tasarım veya test aşamalarının hiçbirine dahil edilmediklerini ifade etti.\n\n**Neden önemli?** Ülke çapındaki 22 merkezde birden devreye alınan sistem, sivil havacılıkta yakıt tasarrufu ve rötarları önleme amacıyla yapay zekadan faydalanırken insan onay mekanizmasını merkezde tutan geniş ölçekli bir saha örneği oluşturuyor.",
+  "category": "politika",
+  "tags": [
+    "FAA",
+    "SMART",
+    "ABD",
+    "hava trafiği yönetimi"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "FAA yapay zeka sistemi SMART tüm ABD'ye yayıldı",
+  "kicker": "Havacılık",
+  "hero_stat": "875 milyon $",
+  "hero_stat_label": "sistem bütçesi",
+  "visual_style": "diorama",
+  "visual_scene": "An abstract miniature diorama of translucent glass airplane models floating above a dark slate map grid, connected by fine glowing copper threads converging into a centralized crystal node.",
+  "focus_keyword": "FAA yapay zeka",
+  "seo_title": "FAA yapay zeka sistemi SMART tüm ABD'de yaygınlaştırıldı",
+  "meta_description": "FAA yapay zeka sistemi SMART'ı 22 bölgesel merkeze yayarak uçuş rötarlarını ve uçakların yakıt tüketimini azaltmayı hedeflediğini açıkladı.",
+  "seo_slug": "faa-yapay-zeka-sistemi-smart-abd-hava-sahasinda",
+  "image_alt": "Karanlık bir harita üzerinde cam uçak modellerini ve bağlantı hatlarını gösteren minimalist diorama görseli",
+  "cover_text": "SMART",
+  "importance": 7,
+  "triage_reason": "FAA, yapay zeka tabanlı hava trafik yönetimi aracını tüm ABD hava sahasına genişletti.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T22:28:47Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published": "2026-11-12T22:28:47Z",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "text": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system.\nThe Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment.\n“After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10.\nThe FAA fact sheet describes SMART as a cloud-based system that combines information about “weather patterns, flight paths, traffic flow and controller staffing metrics” to predict air traffic patterns. It is designed to make scheduling recommendations, identify optimal flight routes, and determine the best order of arrivals for aircraft.\nHowever, a human team of FAA specialists based in DC is ultimately responsible for validating the SMART system recommendations before passing them along to air traffic control facilities across the country, according to the agency."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 621
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
