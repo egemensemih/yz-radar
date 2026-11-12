@@ -75,6 +75,15 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-12T19:23:03Z"
+    },
+    {
+      "name": "antigravity.google",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50472260",
+      "published": "2026-11-12T18:52:01Z"
     }
   ],
   "source_keys": [
