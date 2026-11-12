@@ -1,0 +1,68 @@
+{
+  "id": "cadecd99a7",
+  "status": "pending",
+  "created_at": "2026-11-12T19:21:16Z",
+  "title": "LLMON nedir: Yapay zeka modelleri icin yeni isaretleme dili",
+  "summary": "Hugging Face ve IBM, büyük dil modellerinin yapılandırılmış verileri daha güvenli işlemesi için LLMON adlı yerel işaretleme dilini duyurdu.",
+  "body": "Büyük dil modellerinin bağlam yönetimini geliştirmek ve dolaylı komut enjeksiyonu açıklarını önlemek amacıyla **LLMON** (LLM Object Notation) adında yeni bir yapay zeka yerel işaretleme dili geliştirildi. Hugging Face blogunda yer alan bilgilere göre, JSON formatının aksine modeller için özel belirteçler ve etiketler kullanan bu yapı, talimatlar ile verileri birbirinden net bir şekilde ayırıyor.\n\n## LLMON modelleri neler sunuyor\n\nHugging Face duyurusuna göre, Granite 4.1 temel modellerinden türetilen granite-4.1-3b-LLMON-preview ve granite-4.1-8b-LLMON-preview olmak üzere iki deneysel ön izleme modeli yayınlandı. Bu modeller, semantik olarak tutarlı bileşenlerin anlamlı etiketlerle işaretlenmesini sağlıyor ve karmaşık JSON yapılarını kayıpsız bir şekilde dönüştürebiliyor. Geliştiriciler ayrıca iş akışları ve şablonlar içeren bir araç setine GitHub üzerinden erişebiliyor.\n\n## Güvenlik ve veri ayrımı avantajları\n\n**Doğrudan komut enjeksiyonu** gibi güvenlik tehditlerine karşı geliştirilen bu yaklaşımda, talimatlar ve veriler özel simge sınırlarıyla ayrılıyor. Açıklanan test sonuçlarına göre, bazı kıyaslama testlerinde saldırı başarı oranları sıfıra yakın seviyelere düşerken genel model yetenekleri korunuyor. Bileşenler arasındaki ilişkiler özel yürütme bloklarıyla tanımlanarak modelin ilgisiz metinleri karıştırmasının önüne geçiliyor.\n\n**Neden önemli?** LLM'lerin JSON gibi ayrıştırıcı odaklı diller yerine yapay zeka odaklı işaretleme dilleriyle çalışması, küçük ölçekli modellerin kırılganlığını azaltarak daha güvenli ve hatasız sonuçlar üretmesini sağlıyor.",
+  "category": "modeller",
+  "tags": [
+    "Hugging Face",
+    "IBM",
+    "büyük dil modelleri",
+    "yapay zeka güvenliği"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "LLMON: Yapay zeka için yeni işaretleme dili",
+  "kicker": "Yeni model",
+  "hero_stat": "2",
+  "hero_stat_label": "ön izleme modeli",
+  "visual_style": "studio",
+  "visual_scene": "a single block of translucent frosted glass with sharp geometric indentations, lit from within by a soft white glow, resting on a dark slate surface",
+  "focus_keyword": "LLMON nedir",
+  "seo_title": "LLMON nedir: Yapay zeka için yeni işaretleme dili",
+  "meta_description": "Hugging Face ve IBM tarafından duyurulan LLMON nedir? Yapay zeka modelleri için geliştirilen yeni yerel işaretleme dilinin detayları.",
+  "seo_slug": "llmon-nedir-yapay-zeka-isaretleme-dili",
+  "image_alt": "Buzlu cam blok üzerinde geometrik çizgiler bulunan minimalist stüdyo görseli",
+  "cover_text": "LLMON",
+  "importance": 6,
+  "triage_reason": "Hugging Face tarafindan duyurulan LLM odakli yeni isaretleme dili ve model guncellemeleri.",
+  "sources": [
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T19:07:35Z"
+    }
+  ],
+  "source_keys": [
+    "Hugging Face"
+  ],
+  "source_texts": [
+    {
+      "credit": "Hugging Face",
+      "kind": "official",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published": "2026-11-12T19:07:35Z",
+      "summary": "",
+      "text": "LLMs rely on their context to generate the next set of tokens. Over a long trajectory, the context fills with numerous types of components: a system prompt, past conversation turns, instructions that act on retrieved documents, tool responses or user data, requirements constraining the allowed output, and reasoning chains. The context carries a rich structure, most of which is either implicit to the model or encoded in formats such as JSON that were not designed to be digested by LLMs. This is one of the main reasons LLMs, particularly those on the smaller end of the scale, are brittle and sometimes fail in unexpected ways. The lack of explicit structure can also be exploited by attackers, for example, in the form of prompt injections.\nTo address this, we developed LLMON (LLM Object Notation, pronounced “lemon”), an LLM-native markup language for explicitly communicating structure and semantics to the models. Semantically coherent components are marked with meaningful tags which are wrapped in reserved special-token delimiters. Data schemas, including nesting, are stated in a way that is unambiguous to a causal LLM. Unique IDs make it possible to point to specific instructions, which could reside anywhere in the context, and bind them to the data payloads they should act on, analogous to the way functions are called and arguments are passed to them in programming languages.\nToday we are releasing two experimental preview models, derived from Granite 4.1 base models, trained to consume and generate LLMON-marked text: granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview. We are also releasing a GitHub repo, which includes a toolkit for working with LLMON and examples of workflows and templates.\nWhat it enables:\n- Indirect prompt injections, hidden in user data, are mostly ignored by LLMON models due to explicit instruction/data separation. For some benchmarks, attack success rates drop to nearly zero, whereas regular instruction-tuned models get hijacked with high probability. This is achieved while maintaining general capability relative to Granite 4.1 Instruct models.\n- Unrelated passages, old chat turns, and tool outputs don’t get pulled into the answer because each instruction is bound to the exact data it applies to.\n- Instructions, data, and requirements are clearly marked so that their structure and meanings at the application’s code level can be leveraged by the model. Try it out in Mellea, which has native LLMON support enabled by automatically LLMONizing its LLM calls.\n- You no longer need to worry about forcing LLMs to observe JSON structure. Use our converters to turn existing JSON into LLMON without loss. You can also define your own structure and associated tags and tune a LoRA on top of the LLMON models to understand it.\nJSON was designed for parsers, not for causal language models. The tokenizer is not constrained to respect the grammar, and structure is encoded by tokens ({, \", :) that may also appear in normal text. To a model, a quotation mark inside a document and a quotation mark that closes a field are the same token. Escaping rules that are clear to a parser are only statistical patterns to a model. Nesting depth is encoded by counting brackets, which transformers are known to be weak at, especially over long spans.\nLLMON, on the other hand, is an XML-like markup whose structural delimiters are reserved special tokens rather than characters, so structure and content use separate parts of the vocabulary. Tags are stated at the beginning of each span, and the boundaries between spans are explicit. Nested structures are stated locally so the model does not need to keep track of the hierarchy over long spans.\nSince most teams already have pipelines built around JSON, we created conversion tools and example notebooks that translate JSON to LLMON and back in a lossless manner.\nLLMON does not replace chat templates; rather, it enriches them. Where regular chat templates tell the model which part belongs to which role (system, user, assistant), LLMON tells it what each component means and how components relate to each other, within and across roles.\nThe LLMON preview models ship with their own chat template, so you build the same messages list you would pass to any chat model and call apply_chat_template as usual; it renders the LLMON shown below. The only difference is that a turn can now name its parts and mark each one exec: True or False. A part marked True is bound into the exec block at the bottom of the rendered output, which states which instruction to run and what it operates on; a part marked False is still rendered into the context but is referenced by nothing.\nmessages = [ { \"role\": \"user\",\n               \"instruction\": [{ \"value\": \"Write a short paragraph about\", \"exec\": True }],\n               \"data\": [{ \"value\": \"IBM Company\", \"exec\": True }],\n               \"requirement\": [ {\"value\": \"Use less than 10 words\", \"exec\": True},\n                                {\"value\": \"Do not use commas\", \"exec\": True}]\n             } ]\nWhich the model receives as the following (with newlines and indentation added here for readability, as the template emits none):\n<|open|>instr<|:|>»ñ<|close|>Write a short paragraph about<|open_end|>\n<|open|>data<|:|>ä¦<|close|>IBM Company<|open_end|>\n<|open|>req<|:|>Á¼<|close|>Use less than 10 words<|open_end|>\n<|open|>req<|:|>¢¬<|close|>Do not use commas<|open_end|>\n<|open|>exec<|:|>ÄÐ<|close|>\n    <|open|>exec<|.|>instruction<|close|>instr<|:|>»ñ<|open_end|>\n    <|open|>exec<|.|>input<|close|>data<|:|>ä¦<|open_end|>\n    <|open|>exec<|.|>requirement<|close|>req<|:|>Á¼<|open_end|>\n    <|open|>exec<|.|>requirement<|close|>req<|:|>¢¬<|open_end|>\n    <|open|>exec<|.|>output<|close|>assistant<|:|>ãø<|open_end|>\n<|open_end|>\n<|open|>assistant<|:|>ãø<|close|>\nThe two-character block IDs are drawn from a fixed set that this tokenizer encodes as single tokens, so addressing a block always costs two tokens regardless of which ID is drawn.\nThe role is still a single user turn, but its components reach the model as five separate addressable blocks, bound together by a sixth (the exec block) that states: run this instruction, on this data, subject to these two requirements, and put the answer in the block named here, which is the same assistant block the model then fills. A conventional template would have flattened all components into one string and left the model to infer which part was the task, which was the subject, and which were constraints.\nIndirect prompt injection is a type of attack where a malicious instruction is hidden in a data payload, such as a retrieved document, a tool response, or user-provided data. This is the problem LLMON’s instruction/data separation is designed to address.\nWe compared the LLMON previews against several open-source and closed-source models. We evaluated on the OPI benchmark, which places the injection in the data of classic NLP tasks. Several attack strategies are employed. We report ro"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 615
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hugging Face"
+}
