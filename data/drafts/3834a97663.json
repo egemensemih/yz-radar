@@ -1,0 +1,69 @@
+{
+  "id": "3834a97663",
+  "status": "pending",
+  "created_at": "2026-11-12T20:06:15Z",
+  "title": "Veri merkezlerine yönelik insansız hava aracı saldırıları bulut güvenliğini tehdit ediyor",
+  "summary": "Doğu Avrupa ve Orta Doğu'daki veri merkezlerine yönelik hava saldırıları, bulut hizmetlerinde kesintilere ve veri kayıplarına yol açarak küresel güvenlik endişelerini artırdı.",
+  "body": "Doğu Avrupa ve Orta Doğu'da bu yıl yaşanan insansız hava aracı ve füze saldırıları, modern dünyanın dijital altyapısı olan veri merkezlerine yönelik **yeni riskler** oluşturduğunu gözler önüne serdi. Ars Technica'nın aktardığına göre, söz konusu saldırılar milyonlarca kullanıcıyı etkileyen bulut hizmeti kesintilerine ve bazı Amazon Web Services müşteri verilerinin kalıcı olarak silinmesine neden oldu. Bu durum, dijital servislere bağımlı hale gelen hükümetler ve büyük teknoloji şirketleri için stratejik bir güvenlik sorunu teşkil ediyor.\n\n## Yeni güvenlik endişeleri\n\nRoyal United Services Institute (RUSI) kıdemli araştırma görevlisi Joseph Jarnecki, Ukrayna'daki çatışmalar ve Orta Doğu'da yaşanan olaylar üzerinden bulut altyapısının ulusal savunmadaki rolünü incelemeye devam ediyor. Jarnecki, özellikle İran'ın Orta Doğu'daki Amazon tesislerine yönelik saldırılarını ve tarafların birbirlerinin dijital altyapılarını hedef aldığı çatışmaları, teknolojik egemenlik ve bulut direnci açısından kritik bir dönüm noktası olarak değerlendiriyor.\n\n## Bulut direnci ve gelecek\n\nUzmanlar, modern toplumun bulut hizmetlerine olan bağımlılığını göz önüne alarak, dijital dayanıklılığın artırılması için stratejiler geliştirilmesi gerektiğine dikkat çekiyor. Jarnecki, Ukrayna'nın Batılı ortaklarıyla birlikte yürüttüğü bulut direnci çalışmalarının, NATO ve Avrupa hükümetlerinin gelecekteki bulut benimseme planları için bir örnek teşkil edebileceğini vurguluyor. Bu kapsamda, veri merkezlerinin fiziksel ve siber saldırılara karşı nasıl korunacağı konusu, savunma ajandalarının merkezinde yer almaya başladı.\n\n**Neden önemli?** Veri merkezlerine yönelik kinetik saldırıların artması, bulut tabanlı modern toplum yapısının sanılandan daha savunmasız olabileceğini gösteriyor ve dijital altyapı güvenliği konusundaki küresel yaklaşımları değiştiriyor.",
+  "category": "politika",
+  "tags": [
+    "Amazon Web Services",
+    "bulut bilişim",
+    "siber güvenlik",
+    "veri merkezi",
+    "ulusal güvenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Veri merkezlerine hava saldırısı riski",
+  "kicker": "Dijital Güvenlik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A heavy, rusted metal gear resting on a clean white surface, partially submerged in a small, glowing puddle of liquid that emits a soft blue light, suggesting the collision of industrial infrastructure with fragile digital connectivity.",
+  "focus_keyword": "veri merkezlerine yönelik",
+  "seo_title": "Veri merkezlerine yönelik saldırılar bulut güvenliğini…",
+  "meta_description": "Doğu Avrupa ve Orta Doğu'da veri merkezlerine yönelik insansız hava aracı saldırıları, bulut hizmetlerinde ciddi veri kayıplarına ve kesintilere yol açıyor.",
+  "seo_slug": "veri-merkezlerine-yonelik-saldirilar-bulut-guvenligi",
+  "image_alt": "Paslanmış metal bir çarkın üzerindeki dijital ışık yansıması, veri merkezlerine yönelik fiziksel saldırıları temsil ediyor.",
+  "cover_text": "Bulut Güvenliği",
+  "importance": 7,
+  "triage_reason": "Veri merkezlerine yönelik saldırıların bulut ve yapay zeka altyapısına etkilerini inceliyor.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/#comments",
+      "published": "2026-11-12T19:59:59Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "published": "2026-11-12T19:59:59Z",
+      "summary": "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web Services customer data. This trend represents a new concern for Big Tech companies—but also for governments and everyone else who depends on common digital services in modern life. To explore what this all means for modern society’s reliance on cloud resilience, I will be hosting a live conversation titled \"Drone attacks and data centers: New Risks for Big Tech\" on Tuesday…",
+      "text": "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web Services customer data. This trend represents a new concern for Big Tech companies—but also for governments and everyone else who depends on common digital services in modern life.\nTo explore what this all means for modern society’s reliance on cloud resilience, I will be hosting a live conversation titled “Drone attacks and data centers: New Risks for Big Tech” on Tuesday, November 17 at 1 pm ET with Joseph Jarnecki, a senior research fellow at the Royal United Services Institute (RUSI), a UK defense and security think tank. He leads RUSI’s work on how cloud services factor into national security and defense, along with tech sovereignty efforts.\nJarnecki has done extensive research on how Ukraine strengthened its cloud resilience with Western partners despite facing both cyberattacks and kinetic attacks at the start of the full-scale Russian invasion, and explored what that means for NATO and European governments’ cloud adoption plans.\nThis year, Jarnecki has written about Iran’s drone and missile strikes on Amazon data centers in the Middle East during the US-Israeli war with Iran, and the broader implications for governments and Big Tech. He has also commented on the impacts of Russia and Ukraine exchanging strikes on each other’s data centers."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 616
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
