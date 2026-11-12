@@ -40,10 +40,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-11T16:14:44Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/12/openaiin-uc-aylik-geliri-ilk-kez-10-milyar-dolari-asti/",
+      "title": "OpenAI'ın üç aylık geliri ilk kez 10 milyar doları aştı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/12/openaiin-uc-aylik-geliri-ilk-kez-10-milyar-dolari-asti/#comments",
+      "published": "2026-11-12T11:00:00Z"
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Webrazzi"
   ],
   "source_texts": [
     {
