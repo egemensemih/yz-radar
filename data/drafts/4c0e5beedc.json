@@ -84,6 +84,15 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50472260",
       "published": "2026-11-12T18:52:01Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T21:55:32Z"
     }
   ],
   "source_keys": [
@@ -91,7 +100,8 @@
     "Google",
     "Hacker News",
     "TechCrunch",
-    "Ars Technica"
+    "Ars Technica",
+    "The Verge"
   ],
   "source_texts": [
     {
