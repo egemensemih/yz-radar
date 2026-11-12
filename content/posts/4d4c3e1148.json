@@ -1,0 +1,59 @@
+{
+  "id": "4d4c3e1148",
+  "created_at": "2026-11-12T17:45:17Z",
+  "title": "Hugging Face açık kaynak yapay zeka mücadelesini sürdürecek",
+  "summary": "Nvidia CEO'su Jensen Huang'ın görevden ayrılmasının ardından Hugging Face, açık kaynak yapay zeka ekosistemini savunmaya devam edeceğini duyurdu.",
+  "body": "Nvidia Üst Yöneticisi (CEO) Jensen Huang'ın görevinden ayrılmasının ardından Hugging Face CEO'su Clément Delangue, **açık kaynak yapay zeka** ekosistemini savunmaya devam edeceklerini bildirdi. Delangue, 12 Kasım'da X platformunda yaptığı açıklamada Huang'ın ayrılışını üzüntüyle karşıladığını belirtti. Nvidia, geçtiğimiz Eylül ayında açık kaynak model platformu **Hugging Face** şirketini 12,9 milyar dolar karşılığında satın alma planını duyurmuştu. Bu işlem, Nvidia'nın Aralık 2025'teki 20 milyar dolarlık Groq anlaşmasının ardından şirket tarihinin en büyük ikinci satın alması olarak kayıtlara geçmişti.\n\n## Satın alma süreci ve açık kaynak kaygıları\nTechCrunch'ın aktardığına göre Jensen Huang, teknoloji dünyasında açık kaynaklı ve açık ağırlıklı yapay zeka modellerinin en güçlü destekçilerinden biri olarak tanınıyordu. Hugging Face CEO'su Delangue, X paylaşımında \"Açık kaynak yapay zeka için her zamankinden daha sert bir şekilde mücadele etmeye devam edeceğiz\" ifadesini kullandığını açıkladı. Nvidia'da geçici CEO'luk görevini Collette Kress üstlenirken, satın alma sürecinin 2027 yılının ilk yarısında tamamlanması hedefleniyor. ABD Adalet Bakanlığı ise Ekim ayında bu anlaşmanın pazardaki rekabete etkilerini incelemek üzere adımlar atmıştı.\n\n## Huang dönemindeki açık kaynak girişimleri\nHuang liderliğindeki Nvidia, açık kaynak modellerin tek bir tedarikçiye bağımlılığı önlediğini ve güvenliği artırdığını vurgulayarak sektörü destekleyen adımlar atmıştı. Şirket Temmuz ayında Microsoft, Meta, IBM ve Palantir'in de aralarında bulunduğu 25 şirketle ortak bir politika bildirisi yayımlamıştı. Nvidia bu dönemde açık ekosistemi güçlendirmek için şu adımları gerçekleştirdi:\n- Ağustos ayında DeepSeek ve Kimi K3 gibi Çinli şirketlerle rekabet edebilmek amacıyla Poolside yazılım girişimiyle 6 milyar dolarlık anlaşma yapılması\n- Ekim ayında kurumsal acenteler için 120 milyar parametreli Nemotron modelinin ve kişisel bilgisayarlar için iki hafif Bolt modelinin sunulması\n- Ocak ayında Las Vegas'ta düzenlenen Consumer Electronics Show (CES) konuşmasında açık kaynak modellerin yapay zekada devrim yarattığının ifade edilmesi\n\n**Neden önemli?** Açık kaynak yapay zeka alanının en önemli kurumsal destekçilerinden biri olan Jensen Huang'ın ayrılığı, Hugging Face satın almasının geleceği ve şirketlerin açık modellere yönelik stratejileri açısından kritik bir dönüm noktası oluşturuyor.",
+  "category": "acik-kaynak",
+  "tags": [
+    "Hugging Face",
+    "Nvidia",
+    "Jensen Huang",
+    "Clément Delangue",
+    "açık kaynak"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Hugging Face'ten açık kaynak mesajı",
+  "kicker": "Açık kaynak",
+  "hero_stat": "12,9 milyar $",
+  "hero_stat_label": "satın alma değeri",
+  "visual_style": "sculpture",
+  "visual_scene": "An abstract sculpture made of interlocking transparent glass frames and solid polished walnut blocks on a pale stone pedestal. Soft amber light shines through the glass frames, casting clear geometric shadows on the smooth surface below.",
+  "focus_keyword": "açık kaynak yapay zeka",
+  "seo_title": "Hugging Face açık kaynak yapay zeka kararlılığı",
+  "meta_description": "Jensen Huang'ın Nvidia'dan ayrılmasının ardından Hugging Face, açık kaynak yapay zeka mücadelesine kararlılıkla devam edeceğini duyurdu.",
+  "seo_slug": "hugging-face-acik-kaynak-yapay-zeka-mucadelesi",
+  "image_alt": "Cam ve ahşap katmanlardan oluşan soyut heykel, açık kaynak yapay zeka ekosistemindeki kararlılığı temsil ediyor.",
+  "cover_text": "Hugging Face",
+  "importance": 6,
+  "triage_reason": "Jensen Huang'ın olası ayrılığı ve açık kaynak yapay zeka üzerine sektör yansımaları.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T17:36:40Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 609
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "hugging-face-acik-kaynak-yapay-zeka-mucadelesi",
+  "published_at": "2026-11-12T17:45:27Z",
+  "publish_mode": "auto"
+}

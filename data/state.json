@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-12T17:28:22Z",
+  "last_collect": "2026-11-12T17:41:35Z",
   "last_summary_date": "2026-11-11",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:21Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 1383
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:21Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:21Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 905
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 1566,
+      "fails": 1567,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:34Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:35Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-12T17:28:22Z",
+      "last_ok": "2026-11-12T17:41:35Z",
       "count": 20
     }
   },
@@ -207,20 +207,22 @@
       "expired": 11
     },
     "2026-11-12": {
-      "tok_in": 79551,
-      "tok_out": 15218,
+      "tok_in": 84010,
+      "tok_out": 16405,
       "cost_usd": 0.0,
       "expired": 14,
-      "drafts": 12,
-      "published": 4,
-      "auto": 4
+      "drafts": 13,
+      "published": 5,
+      "auto": 5
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-12T17:18:16Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/hugging-face-acik-kaynak-yapay-zeka-mucadelesi/"
+  ],
+  "last_build": "2026-11-12T17:49:35Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
