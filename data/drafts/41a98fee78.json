@@ -84,6 +84,24 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-12T13:53:16Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T14:30:01Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T13:53:16Z"
     }
   ],
   "source_keys": [
