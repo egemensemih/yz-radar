@@ -48,11 +48,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-11T16:00:00Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/12/google-dan-yapay-zeka-destekli-grup-planlama-ozelligi-tabletop/",
+      "title": "Google'dan yapay zeka destekli grup planlama özelliği: Tabletop",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/12/google-dan-yapay-zeka-destekli-grup-planlama-ozelligi-tabletop/#comments",
+      "published": "2026-11-12T09:00:00Z"
     }
   ],
   "source_keys": [
     "Google",
-    "The Verge"
+    "The Verge",
+    "Webrazzi"
   ],
   "source_texts": [
     {
