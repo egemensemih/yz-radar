@@ -48,11 +48,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-12T18:00:00Z"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "title": "Gemini 4 Hydrogen",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50471431",
+      "published": "2026-11-12T18:01:48Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
-    "Google"
+    "Google",
+    "Hacker News"
   ],
   "source_texts": [
     {
