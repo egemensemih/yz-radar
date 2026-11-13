@@ -46,11 +46,21 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-13T16:00:12Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T20:45:10Z"
     }
   ],
   "source_keys": [
     "OpenAI",
-    "TechCrunch"
+    "TechCrunch",
+    "The Verge"
   ],
   "source_texts": [
     {
