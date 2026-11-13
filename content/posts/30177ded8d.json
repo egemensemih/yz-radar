@@ -1,0 +1,57 @@
+{
+  "id": "30177ded8d",
+  "created_at": "2026-11-13T04:09:58Z",
+  "title": "Nvidia soruşturması: Demokratlar Çin çip satışları için inceleme başlattı",
+  "summary": "Demokrat Partili milletvekilleri, Trump yönetiminin Çin'e Nvidia çip satışlarındaki rolünü incelemeye aldı. Jensen Huang ise istifa etti.",
+  "body": "Demokrat Partili milletvekilleri, 12 Kasım 2026 tarihinde **Nvidia soruşturması** kapsamında Trump yönetiminin Çin'e çip satışlarını nasıl yönettiğine dair resmi bir inceleme başlattı. TechCrunch'ın aktardığına göre, bu hamle şirketin kurucusu Jensen Huang'ın görevinden ayrılması ve Cumhuriyetçi yönetimle yaşanan gelişmelerin hemen ardından geldi.\n\n## Kongre incelemesi ve çip satışları\n\nTemsilciler Meclisi Yollar ve Araçlar Komitesi'nin en kıdemli Demokrat üyesi Rep. Richard Neal ve Senato Finans Komitesi'nin en kıdemli Demokrat üyesi Sen. Ron Wyden, Ticaret Bakanı Howard Lutnick'e bir mektup gönderdi. Mektupta, Çin'e satılan H200 çiplerinin önce Amerika Birleşik Devletleri'ne getirilip ardından tarifeye tabi tutulması ve bu süreçte gelir paylaşımı yapılması sorgulanıyor.\n\n## Jensen Huang'ın istifası ve iddialar\n\nHuang, Çin ajanı olmakla suçlanan Megaspeed yöneticisi Alice Huang ile ilişkisini itiraf etmesinin ardından kurucusu olduğu şirketten ayrıldı. Öte yandan Huang, Cumhuriyetçi liderliğindeki Kongre komitelerine kapalı oturumda ifade vermeyi kabul etti. Soruşturma kapsamında, Ticaret Bakanlığı'nın istihbarat uyarılarına rağmen Megaspeed ve bazı Asya merkezli şirketlere çip satışına neden onay verdiği de araştırılıyor.\n\n**Neden önemli?** Kongre'nin başlattığı bu ikinci soruşturma, yapay zeka çip üreticilerinin dış ticaret politikaları, hükümetle yapılan gelir paylaşımı anlaşmaları ve olası siyasi bağış ilişkileri üzerindeki denetimleri artırıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Howard Lutnick"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Demokratlardan Nvidia için Çin soruşturması",
+  "kicker": "Soruşturma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single polished dark metal microchip resting on a tilted slate slab, illuminated by a sharp, cool white overhead light beam casting a precise geometric shadow",
+  "focus_keyword": "Nvidia soruşturması",
+  "seo_title": "Nvidia soruşturması: Çin çip satışları incelemeye alındı",
+  "meta_description": "Demokrat milletvekilleri Trump yönetiminin Çin'e Nvidia çip satışları için soruşturma başlattı. Jensen Huang şirketten ayrıldı.",
+  "seo_slug": "nvidia-sorusturmasi-cin-cip-satislarinda-inceleme",
+  "image_alt": "Koyu renkli metal bir mikroçip, eğimli bir levha üzerinde sert bir ışık altında duruyor.",
+  "cover_text": "Nvidia soruşturması",
+  "importance": 8,
+  "triage_reason": "ABD Kongresi'nin Nvidia ve Jensen Huang hakkında başlattığı resmi soruşturma.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-12T22:42:51Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 622
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "nvidia-sorusturmasi-cin-cip-satislarinda-inceleme",
+  "published_at": "2026-11-13T04:10:17Z",
+  "publish_mode": "auto"
+}
