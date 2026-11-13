@@ -1,0 +1,69 @@
+{
+  "id": "9db49a3acd",
+  "status": "pending",
+  "created_at": "2026-11-13T06:26:30Z",
+  "title": "Çinli yapay zeka modellerinde Blackwell çip izleri bulundu",
+  "summary": "Forensik analizler, DeepSeek, Moonshot AI, MiniMax ve Ant Group'un yeni yapay zeka modellerinde yasaklı Blackwell çiplerinin izlerini taşıdığını ortaya koydu.",
+  "body": "Çinli yapay zeka modelleri üzerinde yapılan son adli analizler, DeepSeek, Moonshot AI, MiniMax ve Ant Group tarafından geliştirilen modellerin ihracat kısıtlamalarına tabi olan Blackwell donanımının izlerini taşıdığını ortaya koydu. Unemployment Labs tarafından yayımlanan forensik incelemeye göre, bu şirketlerin nisan ayından bu yana piyasaya sürdüğü altı modelde Blackwell mimarisine işaret eden sayısal örüntüler tespit edildi.\n\n## Model ağırlıklarında donanım izleri\n\nAraştırma, bulguların sızıntılara veya içeriden gelen bilgilere değil, modellerin kendi yayımlanan ağırlıklarına dayandığını aktarıyor. Analiz edilen DeepSeek-V4-Flash ve Kimi K3 gibi modellerin fiziksel Blackwell çiplerindeki eşleşmeleri de teyit edildi. Önceki nesil Hopper çipleri kullanan laboratuvarların son dönemde Blackwell donanımına geçiş yaptığı belirtiliyor. Örneğin DeepSeek modelleri aralık 2024'e kadar Hopper izleri taşırken, nisan 2026'da çıkan DeepSeek V4 ile Blackwell mimarisine geçti.\n\n## Sektör genelindeki yayılım sınırlı\n\nHer Çinli yapay zeka laboratuvarının henüz Blackwell çiplerine geçmediği de raporda vurgulanıyor. Alibaba, Zhipu, Tencent, Xiaomi ve StepFun gibi şirketlerin en yeni modellerinin hâlâ Hopper tabanlı olduğu gözlendi. Meituan ise LongCat-2.0 modelini tamamen yapay zeka entegre devre süper küme donanımlarında eğittiğini açıklamıştı.\n\n**Neden önemli?** Elde edilen bulgular, gelişmiş donanımlara erişildiğine dair teknik kanıt sunsa da çiplerin nerede bulunduğunu, erişimin nasıl sağlandığını veya ihracat kontrollerinin ihlal edilip edilmediğini kanıtlamıyor.",
+  "category": "arastirma",
+  "tags": [
+    "DeepSeek",
+    "Moonshot AI",
+    "MiniMax",
+    "Ant Group",
+    "Nvidia"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Çinli yapay zeka modellerinde Blackwell çip izleri",
+  "kicker": "Araştırma",
+  "hero_stat": "6",
+  "hero_stat_label": "modelde çip izi bulundu",
+  "visual_style": "macro",
+  "visual_scene": "a macro close-up of dark silicon computer chips with microscopic glowing traces, resting on a stark gray surface with tiny metallic dust particles scattered around",
+  "focus_keyword": "yapay zeka modelleri",
+  "seo_title": "Çinli yapay zeka modellerinde Blackwell çip izleri bulundu",
+  "meta_description": "Yapılan forensik analizler, DeepSeek ve Moonshot AI gibi Çinli laboratuvarların yeni yapay zeka modellerinde yasaklı Blackwell çiplerinin izlerini gösterdi.",
+  "seo_slug": "cinli-yapay-zeka-modellerinde-blackwell-cip-izleri",
+  "image_alt": "Gri zemin üzerinde parlayan silikon çip izleri ve mikro devreleri temsil eden makro görsel",
+  "cover_text": "Blackwell",
+  "importance": 7,
+  "triage_reason": "Çinli yapay zeka modellerinde ihracat kısıtlamalı GPU izlerinin bulunması politika ve donanım açısından önemli.",
+  "sources": [
+    {
+      "name": "unemploymentlabs.com",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50474883",
+      "published": "2026-11-12T21:56:11Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "unemploymentlabs.com",
+      "kind": "community",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "published": "2026-11-12T21:56:11Z",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 246 # Comments: 66",
+      "text": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs\nExecutive Summary\nOur forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models. Six models released by these companies since April 2026 contain numerical patterns matching Blackwell hardware, whereas earlier models from the same companies match NVIDIA’s older Hopper generation. The findings suggest that several leading Chinese AI developers have begun using Blackwell to train their newest models. U.S. officials and press reports had already alleged that DeepSeek and Moonshot AI were using Blackwell chips, without publishing technical evidence.\nThe evidence comes entirely from the models’ own published weights, rather than from leaks or insider accounts. We recover traces of the models’ initial values, and then search for the hardware configurations and initial configurations that reproduce them; for DeepSeek-V4-Flash and Kimi K3, we also confirmed the match on physical Blackwell chips. The fingerprint identifies how the weights were created and supports, without proving, the inference that Blackwell also performed the training. Specially configured AMD hardware, which is also restricted from export to China, is the only alternative we have identified; we have excluded it for DeepSeek-V4-Flash, and consider it very unlikely for the other five models. Notably, our findings provide technical evidence of access to advanced computing hardware, but do not establish where the chips were located, how access was obtained, or whether export controls were violated.\nTable 1. Hardware fingerprints in successive models from DeepSeek, Moonshot AI, MiniMax and Ant Group Link ↗\n• Requires a U.S. license for export to China; none have been reported.\nA Hopper fingerprint cannot distinguish an H800 from an H100 SXM or H200; the H800 identifications above are lab disclosures, not findings of this method.\nMain Findings\n- Six models from four Chinese labs read as Blackwell-trained. DeepSeek-V4-Flash and MiniMax-M3 match NVIDIA’s Blackwell-class B200 or B300 chips, which have 148 processor cores (called streaming multiprocessors, or SMs). DeepSeek-V4-Pro, Kimi K3, Kimi K3.1-Pro and Ling-3.1-flash match the GB200 or GB300 chips, also Blackwell-class, which have 152 processor cores. Kimi K3.1-Pro starts from the same seed as K3, and may be a checkpoint of K3 with further post-training.\n- Chinese labs started training on Blackwell relatively recently. DeepSeek’s models read as Hopper-trained through DeepSeek-V3 (released in December 2024), and as Blackwell from DeepSeek V4 (released in April 2026). Moonshot’s models read as Hopper through Kimi K2.5 (January 2026) and as Blackwell from K3 (July 2026). One Moonshot model sits in between: Kimi K2.7-Code, posted six weeks before K3, is built on the Hopper-era weights but contains a small part that matches the B200 or B300. MiniMax’s models read as Hopper through M2.7 (April 2026) and as Blackwell from M3 (June 2026). Ant Group’s Ling-3.0-flash (August 2026) reads as Hopper, while its Ling-3.1-flash (October 2026) reads as Blackwell. The Hopper readings do not identify a specific chip: H800s, H100 SXMs and H200s share the same fingerprint.\n- Not every Chinese AI lab has switched to Blackwell. The newest models we could read from Alibaba (Qwen), Zhipu (GLM), Tencent, Xiaomi and StepFun all read as Hopper-trained. Meituan says its LongCat-2.0 was trained entirely on “AI ASIC superpods,” and we found no NVIDIA fingerprint in the model weights it’s released.\n- The method gets known answers right. For 24 specific models, the developer has publicly said what hardware was used. In every case, our method agrees with the public announcement. NVIDIA’s own Nemotron-3 Ultra, whose technical report names the GB200 for one phase of its training, reads as 152 SMs, the same as Kimi K3.\n- The matches are far stronger than chance would explain. Even unrelated numbers can appear to match when enough combinations are tried. Across the roughly 6 trillion seed-and-layout combinations in our search, the strongest chance match would be expected to reach about 8 sigma—a measure of how far a result stands above ordinary random variation. The strongest evidence for each of the six models ranges from 49 to 1,385 sigma. Even the weakest individual test we report reaches 20 sigma.\n- The training runs were data-center scale. From each model’s size and the amount of data it was trained on, we estimate that the two largest runs, Kimi K3 and DeepSeek-V4-Pro, each needed thousands of Blackwell GPUs for two to three months, assuming each model was trained on the hardware that initialized it. Our best estimates are about 4,500 and 3,000, the equivalent of about 11,500 and 7,500 H100s, the previous-generation NVIDIA chip in which AI training clusters are commonly sized, and about 12,000 Blackwell GPUs across the five runs (Table 2). At roughly $70,000 per GPU—the cost implied by a Wall Street Journal report that about 36,000 Blackwell chips being installed in Malaysia for ByteDance’s use would cost more than $2.5 billion—the largest of these clusters would cost roughly $200 million to $300 million, and the five together more than half a billion dollars. These figures cover only the final training runs; the labs’ total spending on export-controlled GPUs is likely in the billions of dollars.\nTable 2. Rough scale of each training run Link ↗\nEach estimate is a run’s training compute divided by what one Blackwell GPU delivers over the run, rounded to the nearest 500. Training compute is about six operations per active parameter for every training token, plus attention. We assume the GPUs ran at about 20% of their peak speed, in line with other disclosed Blackwell training runs (25% for DeepSeek, which has reported 39% for its previous model), and for the run lengths shown, which we estimate from release timelines. H100 equivalents convert at NVIDIA’s published peak speeds: a B200 or B300 equals about 2.3 H100s, and a GB200 or GB300 about 2.5.\nWe are not confident in these estimates. They rest on assumptions that the weights cannot confirm: how efficiently each lab used its GPUs (often called MFU), which no lab has published for these runs; how many tokens each model was trained on (DeepSeek’s counts are its own, and we take them on trust; the others are our estimates, made from the weights by a method we have not yet published); how long each run lasted, which no lab has stated; and that training stayed on the hardware that created the weights. Run length matters most, because halving it doubles the GPU count. Two disclosed runs on the same hardware show the spread: Mistral says it trained Mistral Large 4, which has the same number of active parameters as DeepSeek-V4-Pro, on 3,800 Grace "
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 626
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}

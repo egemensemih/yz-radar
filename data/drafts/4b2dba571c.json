@@ -1,0 +1,69 @@
+{
+  "id": "4b2dba571c",
+  "status": "pending",
+  "created_at": "2026-11-13T06:26:21Z",
+  "title": "Edge0-145B yapay zeka modeli kişisel bilgisayarlarda çalışıyor",
+  "summary": "edge0.ai ekibi, 145 milyar parametreye sahip ilk açık kaynaklı yerel yapay zeka modeli Edge0-145B'yi tanıttı.",
+  "body": "Edge0-145B yapay zeka modeli kişisel bilgisayarlarda çalıştırılmak üzere geliştirildi ve edge0.ai tarafından açık kaynak olarak yayımlandı. Edge0.ai'ın duyurusuna göre, 145 milyar parametre barındıran bu yeni model, bulut tabanlı öncü modellere rakip olan kodlama ve akıl yürütme yeteneklerini dizüstü bilgisayarlara taşıyor.\n\n## Mimarisi ve Yerel Çalışma Prensibi\n\nBüyük boyutlu modellerin yerel cihazlarda çalıştırılmasını zorlaştıran bellek ve veri hareketi sorunlarını çözmek amacıyla model ve çıkarım motoru birlikte tasarlandı. Edge0-145B, büyük matrisleri seyrek uzmanlar arasında paylaşarak depolanması gereken ağırlıkları azaltıyor ve 145 milyar parametrenin sadece yaklaşık 10 milyarının her çıkarım adımında hesaplamaya katılmasına imkan tanıyor. Yükleme aşamasında ise GPU belleği, sistem belleği ve SSD erişimi boru hattı mantığıyla birleştirilerek eşzamanlı çalıştırılıyor.\n\n## Performans ve Bulut Modelleriyle Karşılaştırma\n\nİç test sonuçlarına göre Edge0-145B, belirli alanlarda bulut tabanlı öncü yapay zeka modelleriyle rekabet edebiliyor. Modelin elde ettiği bazı performans skorları şu şekildedir:\n\n- Kodlama alanında DeepSWE 1.1 üzerinde 64.6 puan alarak Qwen3.8-Flash-Next ve DeepSeek-V4-Flash-0731'i geride bıraktı.\n- Akıl yürütme ve bilgi testlerinde GPQA-Diamond üzerinde 90.4 puan elde ederek Claude-Opus-4.6 (Max) ve DeepSeek modellerine yaklaştı.\n- Yönerge takip testinde IFBench üzerinde 80.6 puan kaydetti.\n\n**Neden önemli?** Geçmişte bellek sınırları nedeniyle yerel cihazlarda çalışan yapay zeka modelleri genellikle 10 milyar parametrenin altında kalırken, Edge0-145B donanım kısıtlamalarını aşarak kişisel bilgisayarlarda tam kapsamlı yapay zeka yetenekleri sunuyor.",
+  "category": "modeller",
+  "tags": [
+    "Edge0-145B",
+    "edge0.ai",
+    "büyük dil modelleri",
+    "açık kaynak",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Edge0-145B kişisel bilgisayarlarda",
+  "kicker": "Yeni model",
+  "hero_stat": "145 milyar",
+  "hero_stat_label": "parametre",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic dark slate-grey block with a precise, razor-thin luminous teal line cutting vertically through its center, casting a soft cool glow on a matte dark gray surface",
+  "focus_keyword": "Edge0-145B yapay zeka modeli",
+  "seo_title": "Edge0-145B yapay zeka modeli bilgisayarlarda çalışıyor",
+  "meta_description": "edge0.ai tarafından duyurulan Edge0-145B yapay zeka modeli, 145 milyar parametresiyle kişisel bilgisayarlarda bulut gücünde performans sunuyor.",
+  "seo_slug": "edge0-145b-yapay-zeka-modeli-bilgisayarlarda-calisiyor",
+  "image_alt": "Koyu gri monolitik bir blok üzerinde dikey olarak parlayan ince turkuaz ışık çizgisi",
+  "cover_text": "Edge0-145B",
+  "importance": 7,
+  "triage_reason": "Yerel bilgisayarlarda çalışabilen büyük ölçekli yeni bir açık ağırlıklı model duyuruldu.",
+  "sources": [
+    {
+      "name": "edge0.ai",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50475713",
+      "published": "2026-11-12T23:06:17Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "edge0.ai",
+      "kind": "community",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "published": "2026-11-12T23:06:17Z",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 181 # Comments: 42",
+      "text": "Today, we're open-sourcing Edge0-145B and Edge0-120B, together with our unified inference framework and deployment tools. Edge0-145B is the world's first open-source on-device AI model with 145 billion parameters. It brings coding, reasoning, and agent capabilities that rival frontier cloud models to your own computer.\nOn-device AI has long forced a tradeoff between model capability and what the hardware can run. Larger models demand more memory, bandwidth, and power; smaller models can struggle with complex work. Moving that work to the cloud adds model-provider fees, data-handling constraints, and a dependence on connectivity.\nThis release addresses those constraints in four ways:\nWe're releasing the full stack so developers can reproduce the results, evaluate or fine-tune the models, and integrate them into their own products.\nGet the model weights, explore the inference framework, or try the Edge0 App.\nHow We Make 100B+ Parameter AI Run on a Personal Computer\nEdge0-145B Laptop Performance: Memory, Speed, and Power\nEdge0-145B makes a 145-billion-parameter model usable on a personal laptop. A useful local model has to fit in memory, process prompts promptly, generate fast enough to use, and keep power consumption under control. It also needs to sustain longer tasks.\nOur earlier Edge0-35B phone release reported peak memory below 2.5GB. On an iPhone 18 Pro Max, Edge0-35B delivers 37+ tokens/s using approximately 2.5GB of memory. Edge0-145B has roughly four times as many parameters; its laptop comparison reports 80+ tokens/s and 28GB peak memory. These measurements apply to different models and hardware.\nOn-device model scale over time. The chart covers 67 open models of at least 1B parameters from 14 labs, intended for phones, laptops, and AI PCs. Same-size base, instruct, and reasoning variants count once; each line tracks a lab's largest model, including releases before July 2025. Filled points mark new highs and hollow points other releases. The scale is logarithmic below 40B and linear above it. Apple is excluded because its weights are not released. Sources: vendor announcements and model cards.\nWhy On-Device Models Have Stayed Small\nMemory limits kept most on-device models below 10B parameters before September 2026. Apple Intelligence's on-device foundation model had approximately 3B parameters, while Google's Gemini Nano came in 1.8B and 3.25B versions. Even a 7B model could consume approximately 4GB of memory.\nLarger models faced a memory wall. Model weights occupy storage and must be read during generation, competing for limited memory and bandwidth with the operating system and other apps. Even an aggressively compressed 35B model could need approximately 20GB of memory, far more than a phone could make available.\nCompute, bandwidth, and power created competing constraints. Larger models offered more capability, but strained memory capacity, generation speed, and battery life. Making models smaller helped them fit, often at the cost of capability.\nPrivacy alone could not close that gap. Apple Intelligence protected user data, but Apple acknowledged that its on-device model was not designed for agentic applications requiring general world knowledge. The prevailing assumption was that on-device intelligence could not match the cloud.\nUnder the Hood of Edge0: Four Layers of Model and Inference Design\nWe designed Edge0-145B and its inference engine together to reduce the memory and data movement that make large models difficult to run locally. The design spans architecture, training, loading, and scheduling.\nArchitecture: share large matrices across sparse experts. Sharing matrices substantially reduces the weights that must be stored and moved while keeping the expert count unchanged. Each group of 64 experts shares two large matrices, while each expert retains a small set of parameters that captures its differences. Previously, every expert stored a complete set of matrices. Of the model's 145B total parameters, only approximately 10B participate in computation on each inference step.\nTraining: build for local execution from day one. We train the model in its on-device architecture from the outset, with deployment constraints built into its design. This avoids treating local deployment as a compression or pruning step after training a cloud model.\nLoading: pipeline GPU memory, system memory, and SSD access. Reading and computation overlap across three storage tiers, avoiding serial waits. Frequently used “hot experts” remain in GPU memory. An expert library of approximately 40GB sits in system memory, with experts brought into GPU memory as needed. Approximately 48GB of vocabulary data resides on the SSD and is read on demand.\nScheduling: use the CPU and GPU together. The GPU computes cached experts while the CPU handles the remaining work in parallel. Speculative decoding verifies multiple candidate tokens at once, spreading the cost of reading weights across more output tokens. These choices support the reported 80+ tokens/s decode rate.\nModel and inference-engine design work together to make 100B+ parameter inference practical on personal computers. Source: internal testing.\nTogether, these changes let parameter counts grow from tens of billions to more than a hundred billion without proportional increases in memory use, power consumption, and latency.\nWhat Edge0 Can Do: Anything From Chat to Complex Work on Your Computer\nEdge0-145B can carry a complex task through to a usable result. Its coding and reasoning capabilities support local workflows that combine planning, tool use, execution, debugging, and visual checks. The benchmarks establish its capabilities; the demonstrations show how it puts them to work.\nCoding and reasoning that rival frontier cloud models\nEdge0-145B is competitive with specific frontier cloud models across coding, reasoning, knowledge, and instruction following:\n- Coding: It scores 64.6 on DeepSWE 1.1, ahead of Qwen3.8-Flash-Next at 58.7 and DeepSeek-V4-Flash-0731 at 54.4.\n- Reasoning and knowledge: It scores 90.4 on GPQA-Diamond, close to DeepSeek-V4-Flash-0731 at 90.8 and Claude-Opus-4.6 \\(Max\\) at 91.3.\n- Instruction following: It scores 80.6 on IFBench, ahead of DeepSeek-V4-Flash-0731 at 79.2 and Claude-Opus-4.6 \\(Max\\) at 62.5.\nIts 86.52 on Terminal-Bench 2.1 also exceeds Qwen3.8-Flash-Next's 83.3, DeepSeek-V4-Flash-0731's 82.7, and Claude's 78.2. On AA-LCR, Edge0-145B scores 79.3 to Claude's 78.0. These comparisons apply to the named models and evaluations.\nScores are percentages; higher is better. A dash means no public score is available, rather than a score of zero.\nEdge0, Qwen, DeepSeek, and Claude results come from Edge0's internal evaluations. Claude-Opus-4.6 has no public DeepSWE 1.1 score. For Flint, Muse Glimmer, and Gemma 4, Terminal-Bench 2.1 and IFBench results come from the Recursive Flint evaluation; HLE, GPQA, and AA-LCR results come from Artificial Analysis.\nThe largest gains over Qwen3.8-27B, a mainstream on-de"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 625
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
