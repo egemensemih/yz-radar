@@ -1,0 +1,56 @@
+{
+  "id": "293ca74503",
+  "created_at": "2026-11-13T14:56:06Z",
+  "title": "Jensen Huang Nvidia'daki görevinden ayrıldı",
+  "summary": "Nvidia CEO'su Jensen Huang, şirketteki en üst düzey görevinden perşembe günü itibarıyla ayrıldı.",
+  "body": "Nvidia'nın CEO'su Jensen Huang, yapay zeka dünyasının en önemli şirketindeki görevinden perşembe günü itibarıyla istifa etti. The Verge'ün aktardığına göre, bu gelişme Jensen Huang destanının yalnızca bir bölümünü sonlandırırken, önümüzdeki dönemde Çin'deki ticari faaliyetler ve ABD hükümetinin politikaları nedeniyle yapay zeka sektörünü daha büyük tartışmaların bekleyebileceği ifade ediliyor.\n\n## İstifanın ardından belirsizlikler sürüyor\n\nPerşembe günü gerçekleşen ayrılığın ardından sektörde yeni sorular gündeme gelmeye başladı. Özellikle yeni seçilen Demokratların, yaşanan süreçte kimin neyi ne zaman bildiğine dair sorular yöneltmesi bekleniyor. Bununla birlikte, Huang'ın liderlik koltuğunu kimin devralacağı ve yapay zeka endüstrisinin bu yoğun denetim sürecinden nasıl etkileneceği merak konusu olmaya devam ediyor.\n\n**Neden önemli?** Yapay zeka çip pazarının kilit aktörü Nvidia'nın liderlik koltuğundaki bu değişiklik, şirketin Çin'deki ticari ilişkileri ve ABD hükümetinin sektöre yönelik denetimleri açısından yeni bir dönemin başlangıcına işaret ediyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Jensen Huang Nvidia'dan ayrıldı",
+  "kicker": "Yönetim değişimi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single polished dark metal nameplate resting on a clean concrete desk, soft natural light casting a long shadow across the surface",
+  "focus_keyword": "Jensen Huang",
+  "seo_title": "Jensen Huang Nvidia'daki görevinden ayrıldı",
+  "meta_description": "Nvidia CEO'su Jensen Huang'ın şirketteki en üst düzey görevinden ayrıldığı duyuruldu. Gelişmeler ve sektördeki olası yansımaları haberimizde.",
+  "seo_slug": "jensen-huang-nvidiadaki-gorevinden-ayrildi",
+  "image_alt": "Nvidia CEO'su Jensen Huang'ın görevinden ayrılmasını temsil eden metal isimlik görseli",
+  "cover_text": "Jensen Huang",
+  "importance": 9,
+  "triage_reason": "Nvidia CEO'su Jensen Huang'ın görevinden ayrılması sektörde büyük yankı uyandırdı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T14:47:16Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 635
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "jensen-huang-nvidiadaki-gorevinden-ayrildi",
+  "published_at": "2026-11-13T14:56:32Z",
+  "publish_mode": "auto"
+}

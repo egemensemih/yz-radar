@@ -1,0 +1,58 @@
+{
+  "id": "c7a8eb9aa1",
+  "created_at": "2026-11-13T14:56:52Z",
+  "title": "ElevenLabs, toplantı asistanı ElevenAI uygulamasını tanıttı",
+  "summary": "Ses odaklı yapay zeka şirketi ElevenLabs, toplantı notları, dikte ve ajan entegrasyonunu bir araya getiren ElevenAI uygulamasını duyurdu.",
+  "body": "Ses yapay zeka şirketi ElevenLabs, toplantı notu alma ve dikte özelliklerini bir araya getiren ElevenAI adlı deneysel uygulamasını tanıttı. TechCrunch'ın aktardığına göre, 22 milyar dolar değerlemeye sahip olan girişim, yeni aracını New York'taki 11/11 Zirvesi sırasında duyurdu ve uygulama şu an ön izleme aşamasında ertelemesiz erken erişimle sunuluyor.\n\n## ElevenAI özellikleri neler sunuyor?\n\nTechCrunch'ın haberine göre uygulama, toplantı sırasında not alarak katılımcılara kayıt alındığını bildiriyor ve kullanıcıların geçmiş görüşmelerdeki verilere ulaşmasını sağlıyor. Şirketler ayrıca ElevenAgent entegrasyonu sayesinde toplantı notlarından e-posta taslağı hazırlamak gibi takip eden eylemleri gerçekleştirebiliyor. Dikte özelliği ise 90'dan fazla dilde sesin temizlenmiş metne dönüştürülmesini destekliyor.\n\n## Yeni modeller ve kurumsal odak\n\nElevenLabs, ElevenAI uygulamasıyla şirketlerin ayrı not alıcı lisansları satın almak yerine kendi çözümlerini kullanmasını hedefliyor. Şirket ayrıca geçtiğimiz hafta canlı transkripsiyon yapabilen v3 serisi Scribe konuşmadan metne modellerini ve kurumların verileriyle ince ayar yapabileceği araçları da kullanıma sundu.\n\n**Neden önemli?** ElevenLabs, yeni uygulaması ve Scribe modelleriyle birlikte işletmelerin merkezi bilgi merkezleri olmayı ve bilgi çıkarımı ile takip eden görevleri otomatikleştirmeyi amaçlıyor.",
+  "category": "urunler",
+  "tags": [
+    "ElevenLabs",
+    "ElevenAI",
+    "Scribe",
+    "ses işleme"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ElevenLabs, ElevenAI uygulamasını duyurdu",
+  "kicker": "Yeni ürün",
+  "hero_stat": "22 milyar $",
+  "hero_stat_label": "şirket değerlemesi",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist sound wave sculpted from solid white marble, resting on a dark slate surface, illuminated by soft lateral studio light",
+  "focus_keyword": "ElevenAI uygulaması",
+  "seo_title": "ElevenLabs toplantı notu asistanı ElevenAI'ı duyurdu",
+  "meta_description": "ElevenLabs, toplantı notu alma, dikte ve ajan entegrasyonunu bir araya getiren deneysel ElevenAI uygulamasını tanıttı. Detaylar haberimizde.",
+  "seo_slug": "elevenlabs-elevenai-uygulamasini-duyurdu",
+  "image_alt": "Mermerden yontulmuş ses dalgası heykeli, ElevenLabs'in yeni ses yapay zeka uygulamasını temsil ediyor",
+  "cover_text": "ElevenAI",
+  "importance": 6,
+  "triage_reason": "ElevenLabs, ekipler için toplantı notu alma ve dikte uygulaması ElevenAI'ı duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T14:44:48Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 638
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "elevenlabs-elevenai-uygulamasini-duyurdu",
+  "published_at": "2026-11-13T14:56:52Z",
+  "publish_mode": "auto"
+}
