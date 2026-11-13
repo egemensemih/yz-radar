@@ -38,6 +38,15 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-12T22:28:47Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/#comments",
+      "published": "2026-11-13T21:20:47Z"
     }
   ],
   "source_keys": [
