@@ -1,0 +1,68 @@
+{
+  "id": "7c6898e767",
+  "status": "pending",
+  "created_at": "2026-11-13T17:41:24Z",
+  "title": "OpenAI yönetim kurulu üyesi Paul Cristiano'dan yapay zeka riski uyarısı",
+  "summary": "OpenAI Vakfı yönetim kurulu üyesi Paul Cristiano, Toronto'daki bir konferansta yaptığı açıklamada yapay zeka kazalarının ölüm riskine yol açabileceğini belirtti.",
+  "body": "OpenAI Vakfı yönetim kurulu üyesi Paul Cristiano, Toronto Convention Center'da düzenlenen bir konferans serisinde **yapay zeka riski** konusunda dikkat çekici açıklamalarda bulundu. Ars Technica'nın aktardığına göre, Alignment Research Center Yöneticisi olan Cristiano, yapay zekanın kontrolden çıkma ihtimalinin önümüzdeki aylarda gerçeğe dönüşebileceğini ifade etti.\n\n## Yapay zeka ve kontrol kaybı senaryosu\n\nKonuşmasının açılış oturumunda olası bir yapay zeka ele geçirme senaryosunu ele alan Paul Cristiano, hedef odaklı yapay zekaların gelecekte dünyadaki süreçleri tamamen yönetebileceğini savundu. Cristiano, insanlığın bu tür sistemleri durdurma çabalarının yetersiz kalabileceğini ve durumun kitlesel ölümlere ya da yaşanmaz çevre koşullarına yol açabileceğini dile getirdi.\n\n## Risk süreleri ve öngörüler\n\nBu konularda kesin bir nicel model bulunmadığını belirten Cristiano, teknolojinin en hızlı şekilde gelişmeye devam etmesi durumunda önümüzdeki altı ila on iki ay içinde ciddi bir risk görüldüğünü kaydetti. Gerçekçi politika adımlarının süreci yavaşlatabileceğini ancak riskin yine de son derece yüksek seviyede kaldığını vurgulayan yetkili, yaz aylarında yaşanan OpenAI ve Hugging Face hack olayını örnek gösterdi.\n\n**Neden önemli?** OpenAI Vakfı yönetim kurulu üyesinin yaptığı bu açıklamalar, sektör içindeki güvenlik ve hizalama tartışmalarının ne kadar kritik bir boyuta ulaştığını ve olası risk pencerelerinin ne kadar yakın görüldüğünü ortaya koyuyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "Paul Cristiano",
+    "Hugging Face",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI üyesinden yapay zeka ele geçirme uyarısı",
+  "kicker": "Araştırma",
+  "hero_stat": "6-12 ay",
+  "hero_stat_label": "kritik risk penceresi",
+  "visual_style": "studio",
+  "visual_scene": "a single sharp crystal prism resting on a dark slate surface, casting a long diagonal beam of pale light across a minimal grey background",
+  "focus_keyword": "yapay zeka riski",
+  "seo_title": "OpenAI yönetim kurulu üyesinden yapay zeka riski uyarısı",
+  "meta_description": "OpenAI Vakfı yönetim kurulu üyesi Paul Cristiano, yapay zeka sistemlerinin kontrolden çıkma riskine ve olası tehlike sürelerine dikkat çekti.",
+  "seo_slug": "openai-yonetim-kurulu-uyesinden-yapay-zeka-riski-uyarisi",
+  "image_alt": "Koyu zemin üzerinde duran ve hafif ışık yayan geometrik kristal prizma görseli",
+  "cover_text": "Yapay zeka riski",
+  "importance": 6,
+  "triage_reason": "OpenAI yönetim kurulu üyesinin yapay zeka güvenliği ve riskleri üzerine dikkat çeken açıklaması.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/#comments",
+      "published": "2026-11-13T17:25:45Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published": "2026-11-13T17:25:45Z",
+      "summary": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week , Cristiano bluntly told the audience in a Toronto Convention Center, \"I think for most people in this room, the most likely reason they will die is because of an AI accident.\" In the opening lecture of a three-part…",
+      "text": "How do you think you’re going to die?\nIf you go by the current statistics for deaths in the US, it’s reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week, Cristiano bluntly told the audience in a Toronto Convention Center, “I think for most people in this room, the most likely reason they will die is because of an AI accident.”\nIn the opening lecture of a three-part series, Cristiano outlined his worries about the risk of an impending “AI takeover.” He defined that as a situation where goal-pursuing AI systems “call the shots in the same sense that humans today call the shots and what happens on Earth” and where any human trying to stop them “would be as ineffective as if you or me was trying to stop the US military.” Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said.\nDespite his grim assessment of our collective mortality risk, Cristiano admitted in his talk that there’s no “quantitative model” that can “put a number” on the likelihood of this kind of AI takeover. In almost the same breath, though, he said that if AI continues to develop at “the most rapid trajectory,” humanity is “looking at something like a coin flip of an AI takeover,” including a “meaningful risk” of one happening in the next six to 12 months. And even with realistic policy responses slowing things down, the risk remains “exceptionally high,” he said.\nFrom here to there\nUnlike some other recent AI doomsday prognosticators who have been a bit vague about the “how” of it all, Cristiano used his lecture to spin a step-by-step tale of escalating AI threats that sounds like it could come from a science-fiction novel. That line of reasoning leans heavily on this summer’s OpenAI/Hugging Face hacking incident as an example of “roughly the things we might expect to see shortly before something really bad were to happen.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 643
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
