@@ -39,10 +39,20 @@
       "via": null,
       "via_url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/#comments",
       "published": "2026-11-12T18:57:45Z"
+    },
+    {
+      "name": "text.npr.org",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50484960",
+      "published": "2026-11-13T15:29:10Z"
     }
   ],
   "source_keys": [
-    "Ars Technica"
+    "Ars Technica",
+    "Hacker News"
   ],
   "source_texts": [
     {
