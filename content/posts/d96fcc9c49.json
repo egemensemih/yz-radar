@@ -1,0 +1,58 @@
+{
+  "id": "d96fcc9c49",
+  "created_at": "2026-11-13T14:11:49Z",
+  "title": "Claude Duet: Anthropic'in yeni kişisel yapay zeka ajanı",
+  "summary": "Anthropic, profesyoneller ve küçük işletme sahipleri için tasarladığı yeni yapay zeka ajanı Claude Duet'i duyurdu.",
+  "body": "Anthropic, profesyonellerin ve küçük işletme sahiplerinin iş akışlarını düzenlemelerine yardımcı olmayı amaçlayan yeni kişisel yapay zeka ajanı Claude Duet'i kullanıma sundu. TechCrunch ve The Verge'ün aktardığı bilgilere göre, şu an bir araştırma önizlemesi olarak sunulan bu asistan, Pro, Max ve Ultra abonelerine açık durumda. Kullanıcılar, bekleme listesine katılarak bu yeni araca erişim sağlayabiliyor.\n\n## Claude Duet neler sunuyor?\n\nKendi özel uygulamasıyla çalışan **Claude Duet**, e-posta, takvim, Slack ve Google Docs gibi çeşitli üretkenlik servisleriyle entegre olarak çalışabiliyor. Kullanıcıların verilerini analiz eden sistem, önemli gelişmeleri özetleyerek günlük görevleri hatırlatıyor ve iş takvimini yönetmeye yardımcı oluyor. Uygulama, önerilerini kullanıcıların kolayca gözden geçirebileceği kart formatında sunuyor.\n\nSistem, özellikle farklı platformlar arasındaki tutarsızlıkları belirleme ve takvimdeki boşlukları fark etme konusunda proaktif bir rol üstleniyor. Örneğin, bir toplantı notu ile Slack üzerinden gelen bir mesaj arasındaki bağlantıyı kurarak kullanıcılara hatırlatmalarda bulunabiliyor. Anthropic, ajanın hangi durumlarda kullanıcıyla iletişime geçeceğine dair karar verme yetisini geliştirmek için test süreçlerine devam ediyor.\n\n## Kullanıcı deneyimi ve sınırlamalar\n\nTest süreçlerinde, sistemin karmaşık iş akışlarını yönetmekte oldukça başarılı olduğu ancak bazen aşırı hevesli veya detay odaklı bir tutum sergileyebildiği belirtiliyor. Özellikle zaman yönetimi ve görev takibi konusunda yardımcı olan Claude Duet, yaratıcı süreçlerde yer alması konusunda ise bazı kullanıcılar için henüz yeterli olgunluğa erişmiş görünmüyor. Anthropic, sistemin nüansları ve iletişim tonlarını anlama kapasitesini geliştirmeyi hedefliyor.\n\n**Neden önemli?** Yapay zeka ajanları, yalnızca metin üretmek yerine kullanıcı adına kararlar alan ve iş süreçlerini yöneten sistemlere dönüşüyor. Claude Duet, bu yeni nesil iş asistanlarının profesyonel hayatta nasıl konumlanacağına dair önemli bir örneği temsil ediyor.",
+  "category": "urunler",
+  "tags": [
+    "Anthropic",
+    "Claude Duet",
+    "yapay zeka ajanları",
+    "üretkenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'in yeni ajanı Claude Duet",
+  "kicker": "Yeni ürün",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A minimalist workspace featuring a smooth, matte-finish desk surface with a single, elegant porcelain lamp casting a soft, warm light. Beside the lamp, a small stack of textured paper cards is fanned out slightly, each card featuring subtle geometric embossing, representing organized tasks and digital notes in a physical form.",
+  "focus_keyword": "claude duet",
+  "seo_title": "Claude Duet: Anthropic'in yeni kişisel yapay zeka ajanı",
+  "meta_description": "Anthropic'in profesyoneller için geliştirdiği yeni yapay zeka ajanı Claude Duet hakkında bilmeniz gerekenler.",
+  "seo_slug": "claude-duet-anthropic-yapay-zeka-ajani",
+  "image_alt": "Minimalist bir çalışma masası üzerinde zarif bir lamba ve yanında düzenli şekilde dizilmiş dokulu not kartları.",
+  "cover_text": "Claude Duet",
+  "importance": 6,
+  "triage_reason": "Anthropic'in tuketicilere yonelik yapay zeka ajani Claude Duet uzerine inceleme yazisi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 632
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "claude-duet-anthropic-yapay-zeka-ajani",
+  "published_at": "2026-11-13T14:11:50Z",
+  "publish_mode": "auto"
+}
