@@ -38,10 +38,20 @@
       "via": null,
       "via_url": "https://webrazzi.com/2026/11/13/langchain-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/#comments",
       "published": "2026-11-13T13:00:00Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T19:37:57Z"
     }
   ],
   "source_keys": [
-    "Webrazzi"
+    "Webrazzi",
+    "TechCrunch"
   ],
   "source_texts": [
     {
