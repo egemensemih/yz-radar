@@ -1,0 +1,67 @@
+{
+  "id": "0d2392f441",
+  "status": "pending",
+  "created_at": "2026-11-13T15:55:50Z",
+  "title": "OpenAI chatgpt wallet duyuruldu",
+  "summary": "OpenAI, yapay zeka ajanlarının kullanıcı onayıyla güvenli alışveriş yapmasını sağlayan yeni ChatGPT Wallet özelliğini tanıttı.",
+  "body": "OpenAI'ın duyurusuna göre yapay zeka ajanlarının güvenli alışveriş yapabilmesini sağlayan chatgpt wallet kullanıma sunuldu. Yeni özellik, kullanıcıların mevcut kart korumalarıyla birlikte çalışıyor.\n\n## ChatGPT Wallet özellikleri\n\nOpenAI tarafından yapılan açıklamada, sistemin kullanıcı onayıyla işlem gerçekleştirdiği belirtildi. Bu yeni ödeme altyapısı, yapay zeka araçlarının yeteneklerini ticari işlemler alanına genişletiyor.\n\n## Hangi araçlarda geçerli\n\nResmi bilgilere göre bu güvenli altyapı belirli iş ve geliştirme ortamlarında aktif olarak yer alıyor. Sistem şu platformları kapsıyor:\n\n* ChatGPT Work\n* Codex\n* dots\n\n**Neden önemli?** OpenAI'ın tanıttığı bu özellik, yapay zeka ajanlarının kullanıcı adına doğrudan satın alma süreçlerini tamamlamasına olanak tanıyor.",
+  "category": "urunler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Codex"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI ChatGPT Wallet duyuruldu",
+  "kicker": "Yeni özellik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist leather cardholder resting on a matte concrete surface, with a thin metallic thread weaving through it to symbolize secure digital transactions",
+  "focus_keyword": "chatgpt wallet",
+  "seo_title": "OpenAI ChatGPT Wallet duyuruldu",
+  "meta_description": "OpenAI, yapay zeka ajanlarının kullanıcı onayıyla güvenli alışveriş yapmasını sağlayan yeni ChatGPT Wallet özelliğini duyurdu.",
+  "seo_slug": "openai-chatgpt-wallet-duyuruldu",
+  "image_alt": "Mat beton yüzey üzerinde minimalist deri kartlık ve dijital güvenliği simgeleyen ince metalik iplik",
+  "cover_text": "ChatGPT Wallet",
+  "importance": 8,
+  "triage_reason": "OpenAI, yapay zeka ajanlarının güvenli alışveriş yapabilmesi için ChatGPT Wallet özelliğini duyurdu.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-13T15:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00Z",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 641
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
