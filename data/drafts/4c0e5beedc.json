@@ -93,6 +93,15 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-12T21:55:32Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/13/google-hizli-ve-verimli-yapay-zeka-modeli-gemini-4-hydrogeni-tanitti/",
+      "title": "Google, hızlı ve verimli yapay zeka modeli Gemini 4 Hydrogen'ı tanıttı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/13/google-hizli-ve-verimli-yapay-zeka-modeli-gemini-4-hydrogeni-tanitti/#comments",
+      "published": "2026-11-13T08:00:00Z"
     }
   ],
   "source_keys": [
@@ -101,7 +110,8 @@
     "Hacker News",
     "TechCrunch",
     "Ars Technica",
-    "The Verge"
+    "The Verge",
+    "Webrazzi"
   ],
   "source_texts": [
     {
