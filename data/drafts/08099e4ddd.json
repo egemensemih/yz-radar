@@ -1,0 +1,71 @@
+{
+  "id": "08099e4ddd",
+  "status": "pending",
+  "created_at": "2026-11-14T05:54:15Z",
+  "title": "Nvidia GPU iddiası: Şirketin girişimleri fonlayarak yapay kıtlık yarattığı öne sürüldü",
+  "summary": "Nvidia'nın, kendi GPU'larını satın almaları için yapay zeka girişimlerine fon sağladığı ve bu yolla piyasada yapay bir çip kıtlığı oluşturduğu iddia edildi.",
+  "body": "Teknoloji dünyasında gündeme gelen yeni bir **Nvidia GPU iddiası**, şirketin yapay zeka çiplerinde yapay bir kıtlık algısı oluşturduğunu öne sürüyor. TechPowerUp'ın aktardığı bilgilere göre Nvidia'nın, ürettiği grafik işlem birimlerini (GPU) satın almaları amacıyla yapay zeka girişimlerine doğrudan fon sağladığı iddia ediliyor.\n\n## Nvidia GPU iddiası ne anlama geliyor?\n\nOrtaya atılan iddialara göre şirket, yapay zeka odaklı girişimlere yatırım yaparak bu firmaların piyasadan Nvidia GPU'ları temin etmesini sağladı. Bu finansal yapı sayesinde pazarda çip tedarikine dair yapay bir talep ve bulunabilirlik sıkıntısı kurgulandığı savunuluyor.\n\nSöz konusu iddialar henüz şirket veya resmi makamlar tarafından doğrulanmış değil. Yapay zeka donanımlarına yönelik yüksek talep sürerken, bu tür finansman modellerinin pazar dinamiklerini nasıl etkilediği teknoloji dünyasında tartışılıyor.\n\n**Neden önemli?** Yapay zeka donanımlarına erişimin kritik olduğu bir dönemde, donanım üreticileri ile yatırım yapılan girişimler arasındaki finansal bağlar rekabet ve tedarik dengeleri açısından önem taşıyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "GPU",
+    "yapay zeka",
+    "donanım"
+  ],
+  "confidence": "dusuk",
+  "flags": [
+    "iddia",
+    "yetersiz_bilgi"
+  ],
+  "editor_note": "Haber tek bir kısa iddiaya dayanmaktadır. Şirket doğrulaması veya resmi inceleme detayı bulunmamaktadır.",
+  "short_title": "Nvidia'ya yapay çip kıtlığı iddiası",
+  "kicker": "İddia",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A glowing semi-transparent frosted glass graphics card chip structure on a black pedestal, surrounded by small floating translucent cubic shapes receiving light streams from the central block.",
+  "focus_keyword": "nvidia gpu iddiasi",
+  "seo_title": "Nvidia GPU iddiası: Yapay kıtlık suçlaması",
+  "meta_description": "Nvidia GPU iddiası gündemde: Şirketin kendi çiplerini satın almaları için yapay zeka girişimlerini fonlayarak kıtlık yarattığı öne sürüldü.",
+  "seo_slug": "nvidia-gpu-iddiasi-yapay-kitlik-suclamasi",
+  "image_alt": "Cam işlemci heykelinden küçük küplere ışık akışını temsil eden soyut görsel.",
+  "cover_text": "Nvidia",
+  "importance": 7,
+  "triage_reason": "Nvidia hakkındaki piyasa manipülasyonu ve çip kıtlığı iddiaları sektör için önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "techpowerup.com",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50493251",
+      "published": "2026-11-14T02:52:59Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "techpowerup.com",
+      "kind": "community",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "published": "2026-11-14T02:52:59Z",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 215 # Comments: 118",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 648
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
