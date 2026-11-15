@@ -1,0 +1,67 @@
+{
+  "id": "83e6b3fe7c",
+  "status": "pending",
+  "created_at": "2026-11-15T22:31:12Z",
+  "title": "GPT-6 Astra modeli standart model uzerinde bilimsel calismaya katki sagladi",
+  "summary": "OpenAI tarafindan yapilan aciklamaya gore GPT-6 Astra, Standart Model'in kafes uzerindeki tanimiyla ilgili bir kanitin olusturulmasinda yardimci oldu.",
+  "body": "OpenAI'ın duyurusuna göre GPT-6 Astra, fizik alanındaki karmaşık bir teorik sürecin detaylı bir kanıta dönüştürülmesinde aktif rol oynadı. Standart Model, parçacık fiziğinde temel kurutları açıklayan bir çerçeve olarak bilinirken, bu modelin matematiksel temelleri uzerinde calismalar yurutuluyor.\n\n## GPT-6 Astra ve fizik calismalari\n\nOpenAI tarafindan paylasilan bilgilere gore yapay zeka modeli, Standart Model'in kafes uzerindeki olasi tanimlarindan birinin ele alindigi surecte arastirmacilara destek oldu. Bu gelisme, yapay zeka sistemlerinin teorik fizik alanindaki karmasik arastirmalarda kullanilabilirligini gosteren yeni adimlar arasinda yer aliyor.\n\n**Neden önemli?** GPT-6 Astra modelinin bu tur bilimsel arastirmalarda kullanilmasi, yapay zekanin teorik matematik ve fizik alanlarindaki karmasik problemlerin cozumunde oynayabilecegi rolleri ortaya koyuyor.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "GPT-6 Astra",
+    "Standart Model"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "GPT-6 Astra standart model calismasinda kullanildi",
+  "kicker": "Bilimsel araştırma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a precision-engineered brass lattice frame holding floating geometric quartz crystals that refract pale morning light across a dark slate surface",
+  "focus_keyword": "GPT-6 Astra",
+  "seo_title": "GPT-6 Astra Standart Model Calismalarinda Kullanildi",
+  "meta_description": "OpenAI tarafindan yapilan aciklamaya gore GPT-6 Astra, Standart Model'in kafes uzerindeki tanimlanmasi ve kanit surecine yardimci oldu.",
+  "seo_slug": "gpt-6-astra-standart-model-calismasi",
+  "image_alt": "Pirinc kafes cerceve icinde duran kuvars kristalleri gosteren stüdyo ortamı gorseli",
+  "cover_text": "GPT-6 Astra",
+  "importance": 7,
+  "triage_reason": "Yapay zekanın bilimsel araştırmalarda ve karmaşık fizik kanıtlarında kullanımına dair önemli bir araştırma.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-15T22:00:01Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "2026-11-15T22:00:01Z",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 650
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
