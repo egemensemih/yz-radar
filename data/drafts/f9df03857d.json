@@ -1,0 +1,68 @@
+{
+  "id": "f9df03857d",
+  "status": "pending",
+  "created_at": "2026-11-16T17:42:30Z",
+  "title": "OpenAI'dan çevrim içi çocuk güvenliği için yeni araçlar ve ortaklıklar",
+  "summary": "OpenAI, çevrim içi çocuk cinsel istismarı ve sömürüsüyle mücadeleyi güçlendirmek amacıyla yeni araçlar, rehberlik ve ortaklıklar duyurdu.",
+  "body": "OpenAI çevrim içi çocuk güvenliği kapsamında önleme, tespit etme ve müdahale süreçlerini geliştirecek yeni adımlar attığını duyurdu. Şirketin resmî açıklamasına göre, çevrim içi çocuk cinsel istismarı ve sömürüsüyle mücadeleyi güçlendirmek üzere yeni araçlar, pratik rehberlik mekanizmaları ve ortaklıklar hayata geçiriliyor.\n\n## Yeni araçlar ve destek adımları\n\nOpenAI'ın duyurusuna göre, platformda çocuk güvenliğini artırmayı hedefleyen bu yenilikler, sömürü ve istismar vakalarının önlenmesi ile tespit edilmesine odaklanıyor. Yapılan çalışmaların temelini, bu tür olaylara karşı daha hızlı ve etkili yanıt verilmesini sağlayacak pratik rehberler ve stratejik iş birlikleri oluşturuyor.\n\n**Neden önemli?** Çevrim içi çocuk güvenliği önlemleri, yapay zeka platformlarının kötüye kullanımını engellemek ve dijital ortamda çocukların korunmasını sağlamak amacıyla genişletiliyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "güvenlik",
+    "yapay zeka",
+    "politikalar"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan çevrim içi çocuk güvenliği araçları",
+  "kicker": "Güvenlik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth curved porcelain ring resting on a dark slate surface, illuminated by a soft vertical light beam from above, with subtle dust motes floating in the air",
+  "focus_keyword": "çevrim içi çocuk güvenliği",
+  "seo_title": "OpenAI'dan çevrim içi çocuk güvenliği için yeni araçlar",
+  "meta_description": "OpenAI, çevrim içi çocuk cinsel istismarı ve sömürüsüyle mücadeleyi güçlendirmek için yeni araçlar ve ortaklıklar duyurduğunu açıkladı.",
+  "seo_slug": "openai-cevrim-ici-cocuk-guvenligi-araclari",
+  "image_alt": "Porselen halka formunun yumuşak ışık altında durduğu çevrim içi çocuk güvenliği konulu stüdyo görseli",
+  "cover_text": "OpenAI",
+  "importance": 6,
+  "triage_reason": "Çevrimiçi istismarla mücadele için yeni güvenlik araçları ve ortaklıklar duyuruldu.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published": "2026-11-16T17:00:00Z",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 674
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}

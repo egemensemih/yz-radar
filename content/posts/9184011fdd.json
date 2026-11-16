@@ -1,0 +1,59 @@
+{
+  "id": "9184011fdd",
+  "created_at": "2026-11-16T17:41:40Z",
+  "title": "Artex AI araçları ağ ihlallerini üç saatin altında tamamlıyor",
+  "summary": "FBI, Artex adlı açık kaynaklı yapay zeka sızma test aracının küresel çapta kritik ağları üç saatten kısa sürede ele geçirmek için kullanıldığını açıkladı.",
+  "body": "TechCrunch'ın aktardığına göre, ABD Federal Soruşturma Bürosu (FBI) tarafından yayınlanan yeni bir siber güvenlik uyarısında, hackerların ağları hızla ihlal etmek için Artex adlı **yapay zeka** destekli araçları kullandığı bildirildi. Finans, teknoloji, savunma ve hükümet gibi pek çok sektörü hedef alan bu otonom kampanyalar, insan savunmacıların yetişemeyeceği bir hızda gerçekleştiriliyor. \n\n## Artex saldırıları nasıl gerçekleştiriliyor?\n\nOrijinal olarak bir sızma testi platformu olan Artex, kullanıcıların Anthropic ve OpenAI gibi barındırılan sınır büyük dil modellerinin yanı sıra açık kaynaklı ve ABD dışı modellere bağlanmasına imkan tanıyor. FBI'ın açıklamasına göre araç, ağları tarayarak zayıflıkları tespit ediyor ve zayıf korumalar ya da çalınan parolalar üzerinden sistemi **üç saatin altında** tehlikeye atabiliyor. Temmuz ayındaki ilk çıkışından bu yana araç, Güney Kore finans kurumlarındaki ihlallerde, ConnectWise müşterilerinin Microsoft 365 bulut ortamlarında ve Barracuda sistemlerinde görüldü.\n\n## Güvenlik riskleri ve kapatılan kaynak kodlar\n\nSaldırıların ardından aracın geliştiricisi, kötü amaçlı kullanımları önlemek için yazılımı kapalı kaynak hale getirdi. Ancak FBI, eski açık kaynaklı sürümün dolaşımda kalmaya devam ettiğini ve geniş ölçüde erişilebilir olduğunu belirtiyor. Öte yandan araştırmacılar, Güney Kore saldırısında kullanılan sistem de dahil olmak üzere yüzlerce savunmasız Artex sisteminin internette şifresiz olarak açıkta bırakıldığını tespit etti.\n\n**Neden önemli?** FBI ve güvenlik şirketleri, yapay zeka destekli otonom siber saldırıların hızının geleneksel savunma yöntemlerini etkisiz kıldığını ve kurumların veri güvenliği önlemlerini acilen gözden geçirmesi gerektiğini vurguluyor.",
+  "category": "arastirma",
+  "tags": [
+    "Artex",
+    "OpenAI",
+    "Anthropic",
+    "ConnectWise",
+    "Barracuda"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Artex AI araçları üç saatte ağ ihlali yapıyor",
+  "kicker": "Siber güvenlik",
+  "hero_stat": "3 saat",
+  "hero_stat_label": "içinde ağ ihlali",
+  "visual_style": "studio",
+  "visual_scene": "a sharp obsidian glass monolith standing on a dark reflective surface, pierced by thin threads of white light that fracture into a scattered network across the base, conveying digital intrusion",
+  "focus_keyword": "artex ai",
+  "seo_title": "Artex AI araçları ağları üç saatte ele geçiriyor",
+  "meta_description": "FBI uyarısına göre Artex AI sızma test araçları, küresel ağları ve finansal kurumları üç saatin altında otonom olarak ele geçirmek için kullanılıyor.",
+  "seo_slug": "artex-ai-araclari-ag-ihlallerini-hizlandiriyor",
+  "image_alt": "Karanlık bir yüzey üzerinde parlayan obsidyen monolit ve etrafına yayılan beyaz ışık iplikleri",
+  "cover_text": "Artex AI",
+  "importance": 7,
+  "triage_reason": "Yapay zeka tabanlı açık kaynaklı siber saldırı araçlarının güvenliği tehdit etmesi önemli bir politika konusudur.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T17:36:43Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 671
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "artex-ai-araclari-ag-ihlallerini-hizlandiriyor",
+  "published_at": "2026-11-16T17:41:58Z",
+  "publish_mode": "auto"
+}
