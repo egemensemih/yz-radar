@@ -1,0 +1,58 @@
+{
+  "id": "7093c1db03",
+  "created_at": "2026-11-16T18:56:06Z",
+  "title": "Nvidia yönetim kurulu Jensen Huang’ın dönüşünü değerlendirmiyor",
+  "summary": "Nvidia yönetim kurulunun, geçen hafta istifa eden eski CEO Jensen Huang’ı yeniden göreve getirme planı olmadığı bildirildi.",
+  "body": "Nvidia yönetim kurulu, Jensen Huang’ın şirketin CEO’su olarak geri dönme olasılığını gündemine almıyor. CNBC’nin aktardığı bilgilere göre, şirket yönetimi şu an için sadece Huang hakkında yürütülen soruşturmaya odaklanmış durumda. Nvidia, Huang’ın istifasının ardından şirket içinde ve dışında oluşan yoğun geri dönüş taleplerine rağmen herhangi bir görüşme yürütmüyor.\n\n## Jensen Huang’a yönelik destek ve soruşturma süreci\nGeçtiğimiz hafta görevinden ayrılan Jensen Huang için başlatılan çevrim içi imza kampanyası 180 bini aşkın katılımcıya ulaştı. Kampanyaya destek veren isimler arasında Elon Musk, Tim Sweeney ve Amjad Masad gibi sektörün önde gelen yöneticileri yer alıyor. ABD Başkanı Donald Trump da Huang’ın dönüşünün olumlu bir adım olabileceği yönünde görüş bildirdi. Öte yandan, Financial Times'ın iddiasına göre Huang'ın bazı meslektaşlarıyla göreve geri dönme fikrini konuştuğu belirtiliyor.\n\n## Nvidia’da mevcut yönetim durumu\nNvidia, yaşanan süreçte geçici CEO olarak finans direktörü Colette Kress'i atadı. Şirket yönetimi ayrıca, Huang’ın görev süresindeki davranışlarını incelemek üzere hukuk firması Wachtell Lipton ile çalışma kararı aldı.\n\n**Neden önemli?** Huang'ın ayrılışı sonrası teknoloji dünyasından gelen güçlü geri dönüş taleplerine karşın yönetim kurulunun soruşturmayı önceliklendirmesi, şirketin yeni bir liderlik dönemine geçişte kararlı olduğunu gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Colette Kress",
+    "Donald Trump"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia’da Jensen Huang beklentisi",
+  "kicker": "Yönetim değişikliği",
+  "hero_stat": "180 bin",
+  "hero_stat_label": "imza sayısı",
+  "visual_style": "studio",
+  "visual_scene": "A singular, polished obsidian sphere resting on a perfectly flat concrete pedestal, surrounded by faint, cool-toned mist that obscures the horizon, representing focus and professional distance.",
+  "focus_keyword": "Nvidia yönetim kurulu",
+  "seo_title": "Nvidia yönetim kurulu Jensen Huang'ı düşünmüyor",
+  "meta_description": "Nvidia yönetim kurulu, istifa eden CEO Jensen Huang'ı geri çağırmayı düşünmediklerini ve mevcut soruşturmaya odaklandıklarını açıkladı.",
+  "seo_slug": "nvidia-yonetim-kurulu-jensen-huang-karari",
+  "image_alt": "Siyah bir küre ve beton kaide, Nvidia’daki yönetim belirsizliğini temsil eden minimalist bir görsel.",
+  "cover_text": "Nvidia",
+  "importance": 6,
+  "triage_reason": "Nvidia CEO'su Jensen Huang'ın olası dönüşü hakkındaki yönetim kurulu iddiaları şirket stratejisini ilgilendiriyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T18:43:35Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 676
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "nvidia-yonetim-kurulu-jensen-huang-karari",
+  "published_at": "2026-11-16T18:56:17Z",
+  "publish_mode": "auto"
+}
