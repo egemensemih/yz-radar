@@ -1,0 +1,70 @@
+{
+  "id": "84312d69e4",
+  "status": "pending",
+  "created_at": "2026-11-16T07:16:40Z",
+  "title": "ChatGPT Wallet duyuruldu: Yapay zeka ajanları artık alışveriş yapabilecek",
+  "summary": "OpenAI, yapay zeka ajanlarının kullanıcılar adına alışveriş yapıp ödeme işlemlerini tamamlamasını sağlayan ChatGPT Wallet'ı tanıttı.",
+  "body": "OpenAI tarafından 16 Kasım'da duyurulan **ChatGPT Wallet**, yapay zeka ajanlarının kullanıcılar adına alışveriş yaparak ödeme sürecini tamamlamasına olanak tanıyor. American Express, Mastercard ve Visa iş birliğiyle geliştirilen yeni özellik, başlangıçta ABD'deki belirli ChatGPT Pro kullanıcılarına sunuluyor.\n\n## Güvenli ödeme mekanizması\n\nWebrazzi'nin aktardığına göre, sistem OpenAI'ın **Dots** adını verdiği kişisel yapay zeka ajanları üzerinden çalışıyor. Kullanıcılar ödeme kartlarını sisteme ekledikten sonra ajanlarından ürün satın almalarını isteyebiliyor. Satın alma aşamasında toplam tutar ve kullanılacak kart gösterilirken, işlem Face ID veya parmak izi gibi güvenlik doğrulamalarıyla tamamlanıyor. OpenAI'ın açıklamasına göre yapay zeka ajanı kullanıcının gerçek kart bilgilerine erişmiyor; bunun yerine ödeme ağı tarafından bir ödeme tokenı oluşturuluyor. Böylece kart numaraları ajanla veya işletmeyle paylaşılmıyor.\n\n## Gelecek planları ve işletmeler için araçlar\n\nMevcut sürümde kullanıcıların her satın alma işlemini ayrı ayrı onaylaması gerekirken, şirket ilerleyen dönemde harcama limiti veya ürün kategorisi gibi kurallar tanımlanarak bazı alışverişlerin önceden onaylanabileceğini belirtiyor. OpenAI ayrıca işletmeler için Commerce Partner Playbook adlı bir rehber yayınladı. Bu kapsamda Adyen, Checkout.com, Stripe ve çeşitli dolandırıcılık önleme şirketleriyle ortaklık yürütülüyor.\n\n**Neden önemli?** OpenAI verilerine göre ChatGPT'yi haftada 1,2 milyar kişi kullanıyor ve platformun ödeme adımını da içeren bu yapıya geçmesi, ajan tabanlı ticareti yapay zeka şirketleri ile e-ticaret platformları arasındaki yeni rekabet alanlarından biri haline getiriyor.",
+  "category": "urunler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Dots",
+    "American Express",
+    "Mastercard",
+    "Visa"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan ChatGPT Wallet duyuruldu",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "1,2 milyar",
+  "hero_stat_label": "haftalık kullanıcı",
+  "visual_style": "studio",
+  "visual_scene": "a smooth minimalist wallet sculpted from matte dark grey stone, resting on a brushed titanium surface with a single thin line of soft amber light cutting across the edge",
+  "focus_keyword": "ChatGPT Wallet",
+  "seo_title": "ChatGPT Wallet duyuruldu: Yapay zeka ile alışveriş",
+  "meta_description": "OpenAI, yapay zeka ajanlarının kullanıcılar adına güvenli alışveriş yapmasını sağlayan ChatGPT Wallet özelliğini tanıttı.",
+  "seo_slug": "chatgpt-wallet-yapay-zeka-alisveris",
+  "image_alt": "Mat taş dokulu minimalist cüzdan ve üzerinde amber rengi ışık çizgisi bulunan stüdyo ortamı",
+  "cover_text": "ChatGPT Wallet",
+  "importance": 8,
+  "triage_reason": "Yapay zeka ajanlarının ödeme yapabilmesini sağlayan önemli bir ürün lansmanı.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/16/openai-yapay-zeka-ajanlarinin-alisveris-yapmasini-saglayan-chatgpt-walleti-tanitti/",
+      "title": "OpenAI, yapay zeka ajanlarının alışveriş yapmasını sağlayan ChatGPT Wallet'ı tanıttı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/16/openai-yapay-zeka-ajanlarinin-alisveris-yapmasini-saglayan-chatgpt-walleti-tanitti/#comments",
+      "published": "2026-11-16T07:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "OpenAI, yapay zeka ajanlarının alışveriş yapmasını sağlayan ChatGPT Wallet'ı tanıttı",
+      "url": "https://webrazzi.com/2026/11/16/openai-yapay-zeka-ajanlarinin-alisveris-yapmasini-saglayan-chatgpt-walleti-tanitti/",
+      "published": "2026-11-16T07:00:00Z",
+      "summary": "OpenAI, yapay zeka ajanlarının kullanıcılar adına alışveriş yapıp ödeme sürecini tamamlamasını sağlayan ChatGPT Wallet'ı tanıttı. American Express, Mastercard ve Visa ile birlikte geliştirilen özellik...",
+      "text": "OpenAI, yapay zeka ajanlarının kullanıcılar adına alışveriş yapıp ödeme sürecini tamamlamasını sağlayan ChatGPT Wallet'ı tanıttı. American Express, Mastercard ve Visa ile birlikte geliştirilen özellik, ilk etapta ABD'deki belirli ChatGPT Pro kullanıcılarına sunuluyor.\nChatGPT Wallet, OpenAI'ın Dots adını verdiği kişisel yapay zeka ajanları üzerinden çalışıyor. Kullanıcılar ödeme kartlarını cüzdana bir kez ekledikten sonra ajanlarından bir ürün satın almalarını isteyebiliyor. Satın alma aşamasına gelindiğinde ise kullanıcıya ürünler, toplam tutar ve kullanılacak kart gösteriliyor. İşlem, Face ID veya parmak izi gibi bir güvenlik doğrulamasının ardından tamamlanıyor.\nOpenAI'a göre sistemin önemli noktalarından biri, yapay zeka ajanının kullanıcının gerçek kart bilgilerine erişmemesi. Kullanıcının satın alma işlemini onaylamasının ardından ödeme ağı, gerçek kart bilgileri yerine kullanılacak bir ödeme tokenı oluşturuyor. Böylece kart numarası, yapay zeka ajanıyla veya alışveriş yapılan işletmeyle doğrudan paylaşılmıyor.\nSiparişin tamamlanabilmesi için teslimat adresi ve iletişim bilgileri gibi gerekli bilgiler ise ajan tarafından işletmeye iletilebiliyor. Kullanıcılar aynı zamanda mevcut kredi kartı puanları ve uygun işlemlerde itiraz gibi kartlarının sunduğu korumalardan yararlanmaya devam ediyor.\nYapay zeka ajanlarına alışveriş bütçesi tanımlanabilecek\nChatGPT Wallet'ın mevcut sürümünde kullanıcıların her satın alma işlemini ayrı ayrı onaylaması gerekiyor. OpenAI ise ilerleyen dönemde ajanlara daha fazla yetki verilmesini planlıyor. Şirket, kullanıcıların harcama limiti, ürün kategorisi veya belirli zaman aralıkları gibi kurallar tanımlayarak bazı alışverişleri önceden onaylayabileceğini belirtiyor. Böylece ajanların belirlenen sınırlar içinde alışveriş sürecini daha bağımsız şekilde tamamlaması mümkün olacak.\nOpenAI'ın paylaştığı verilere göre ChatGPT'yi haftada 1,2 milyar kişi kullanıyor. Şirket, kullanıcıların önemli bir kısmının, ürün araştırmak, seçenekleri karşılaştırmak ve satın alma kararları vermek için platformdan yararlandığını belirtiyor. ChatGPT Wallet ile OpenAI'ın yapay zekanın alışveriş sürecindeki rolünü ürün araştırmasının ötesine taşıyarak ödeme aşamasına kadar genişlettiğini söylemek mümkün.\nİşletmeler için de ajan tabanlı ticaret araçları geliyor\nOpenAI, ChatGPT Wallet ile birlikte işletmelere yönelik Commerce Partner Playbook adlı bir rehber de yayınladı. Rehber; ürün bilgilerinin yapay zeka ajanları tarafından erişilebilir hale getirilmesi ve internet sitelerinin ajanları engellememesi gibi başlıklara odaklanıyor. Aynı şekilde ödeme ile dolandırıcılık önleme sistemlerinin ajanlar tarafından gerçekleştirilen işlemleri doğru şekilde tanıyabilmesi de ele alnıyor. Şirket bu kapsamda Adyen, Checkout.com ve Stripe gibi ödeme sağlayıcılarının yanı sıra Forter, Riskified, Sardine ve Signifyd gibi dolandırıcılık önleme şirketleriyle de çalışıyor.\nAslına bakarsanız, yapay zeka ajanlarının e-ticaret sitelerine erişimi de sektörün karşı karşıya olduğu sorunlardan biri. Bazı perakendeciler, yapay zeka ajanlarının sitelerini kullanmasını engelliyor. Hatta geçtiğimiz haftalarda Amazon'un, Meta’nın Muse ajanının alışveriş erişimini engellediğini de hatırlatmakta fayda var. Bu yaklaşımın, bu tarz servislerin yaygınlaşmasını önleyebileceğini söyleyebiliriz.\nChatGPT Wallet, başlangıçta 18 yaş ve üzerindeki, ABD'de bulunan ChatGPT Pro abonelerine ve ABD'de verilmiş uygun American Express, Mastercard ve Visa kartlarına açılıyor. OpenAI, sınırlı kullanıma sunulan özelliği bankalar, ödeme ağları ve işletmelerle birlikte test ettikten sonra daha geniş bir kullanıcı kitlesine ulaştırmayı hedefliyor. OpenAI'ın ödeme adımını da bu yapıya eklemesiyle birlikte ajan tabanlı ticaret, yapay zeka şirketleri ile e-ticaret platformları arasındaki yeni rekabet alanlarından biri olmaya aday."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 651
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
