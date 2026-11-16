@@ -1,0 +1,59 @@
+{
+  "id": "6a8de199f2",
+  "created_at": "2026-11-16T19:26:37Z",
+  "title": "Apple Intelligence kullanım limiti iOS 27.3 beta sürümüyle test edilmeye başlandı",
+  "summary": "Apple, gelişmiş yapay zeka ve Siri özelliklerine günlük kullanım sınırları getirmeyi test ediyor. iCloud Plus aboneleri daha yüksek limitlere erişebilecek.",
+  "body": "16 Kasım 2026 tarihinde yayınlanan iOS 27.3, iPadOS 27.3 ve macOS 27.3 beta sürümleriyle birlikte **Apple Intelligence kullanım limiti** test edilmeye başlandı. The Verge'ün MacRumors'a dayandırdığı habere göre şirket, bulut tabanlı karmaşık Siri ve yapay zeka işlemlerine cihaz başına günlük kısıtlama getirmeyi planlıyor.\n\n## Apple Intelligence kullanım limiti hangi hizmetleri kapsıyor?\n\nTemel Siri komutları ve basit talepler ücretsiz ve sınırsız kalmaya devam ederken, bulut işlem gücüne dayanan daha karmaşık özellikler günlük limitlere tabi tutulacak. MacRumors'ın aktardığı bilgilere göre kısıtlama uygulanacak dört ana kategori bulunuyor:\n\n- Çok adımlı ve kişisel bağlam içeren Siri talepleri,\n- Fotoğraflar uygulamasındaki görsel üretme, temizleme veya genişletme araçları,\n- Apple Foundation Cloud ve Cloud Pro modellerine dayanan Kestirmeler otomasyonları,\n- Aynı bulut modellerini kullanan üçüncü taraf uygulamalar.\n\nApple, özelliklerin günlük tam olarak kaç kez kullanılabileceğini henüz açıklamadı ancak sınırların göreve göre değişeceğini belirtti. Kullanıcılar limite yaklaştıklarında ve ulaştıklarında bildirim alacak.\n\n## iCloud Plus abonelikleri ve ek limitler\n\nGünlük limitler her gece yarısı sıfırlanacak olsa da, **iCloud Plus** aboneliği bulunan kullanıcılar daha yüksek kullanım haklarına sahip olacak. 50 GB'lık başlangıç paketi hariç tutulmak üzere, aylık 2,99 dolarlık 200 GB planı 2 kat, 9,99 dolarlık 2 TB planı 5 kat, 29,99 dolarlık 6 TB planı 10 kat ve 59,99 dolarlık 12 TB planı ise 20 kat daha fazla günlük kullanım hakkı sunacak. Aile paylaşımı kapsamındaki aboneliklerde ise ortak bir kullanım havuzu oluşturulacak.\n\n**Neden önemli?** Yapay zeka modellerinin bulut sunucularındaki yüksek işlem maliyeti, teknoloji şirketlerini ücretsiz erişim imkanlarını abonelik paketleriyle kısıtlamaya yönlendiriyor.",
+  "category": "urunler",
+  "tags": [
+    "Apple",
+    "Siri",
+    "Apple Intelligence",
+    "iOS 27.3",
+    "iCloud Plus"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple Intelligence için günlük sınır testi başladı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "20 kat",
+  "hero_stat_label": "en yüksek plan ek limiti",
+  "visual_style": "sculpture",
+  "visual_scene": "An abstract sculpture made of stacked frosted glass disks, each layer slightly larger than the one below, lit from within by a soft amber light on a plain matte dark grey surface.",
+  "focus_keyword": "Apple Intelligence kullanım limiti",
+  "seo_title": "Apple Intelligence kullanım limiti ve iCloud Plus planları",
+  "meta_description": "Apple, iOS 27.3 beta sürümünde Apple Intelligence kullanım limiti testlerine başladı. Detaylar ve iCloud Plus abonelik hakları haberimizde.",
+  "seo_slug": "apple-intelligence-kullanim-limiti-ve-icloud-plus",
+  "image_alt": "Şeffaf cam disklerden oluşan soyut heykel: Apple Intelligence kullanım limitlerini temsil eden görsel",
+  "cover_text": "Apple Intelligence",
+  "importance": 6,
+  "triage_reason": "Apple'ın Siri yapay zeka özellikleri için günlük kullanım sınırı test etmesi önemli bir mobil AI gelişmesi.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T19:24:40Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 679
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-intelligence-kullanim-limiti-ve-icloud-plus",
+  "published_at": "2026-11-16T19:26:49Z",
+  "publish_mode": "auto"
+}
