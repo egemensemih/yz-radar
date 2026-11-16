@@ -1,0 +1,59 @@
+{
+  "id": "3910ebd9ec",
+  "created_at": "2026-11-16T20:46:33Z",
+  "title": "ABD veri merkezleri orta büyüklükte bir ülkeden daha fazla elektrik tüketiyor",
+  "summary": "Nature Sustainability dergisinde yayımlanan yeni bir araştırma, ABD'deki büyük veri merkezlerinin tek başına yaklaşık 148 ülkeden daha fazla elektrik tükettiğini ortaya koydu.",
+  "body": "ABD veri merkezleri elektrik tüketimi konusunda orta büyüklükteki ülkeleri geride bırakarak önemli bir çevresel etki yaratıyor. Nature Sustainability dergisinde yayımlanan yeni bir araştırma, bu devasa tesislerin enerji kullanımı ve yol açtığı karbon kirliliğine ışık tutuyor. Harvard T.H. Chan Halk Sağlığı Fakültesi'nden Gianluca Guidi ve ekibinin yürüttüğü çalışmaya göre, üretken yapay zeka altyapılarını desteklemek için inşa edilen büyük ölçekli tesisler fosil yakıtlara büyük ölçüde bağımlı durumda.\n\n## Uydu görüntüleriyle yapılan analiz\n\nAraştırmacılar, ABD genelinde **403 büyük veri merkezi** tespit etmek için uydu görüntülerinden faydalandı. Çevresel Koruma Ajansı (EPA) verileriyle Mayıs 2024 ile Nisan 2025 tarihleri arasında bu tesislerin ne kadar elektrik tükettiği hesaplandı. Bu süreçte incelenen tesislerin yaklaşık 82 terawatt-saat elektrik harcadığı, bunun da ABD'nin toplam elektrik tüketiminin yüzde 1,8'ine denk geldiği belirlendi. MIT'den John Sterman'ın aktardığına göre bu rakam, aralarında Avusturya, İsrail ve Venezuela'nın da bulunduğu 148 ülkenin bireysel yıllık elektrik tüketiminden daha yüksek.\n\n## Karbon emisyonları ve fosil yakıt bağımlılığı\n\nÇalışma, söz konusu tesislerin elektrik talebinin 25,7 milyon metrik ton CO2 emisyonuna yol açtığını gösterdi. Bu miktar Danimarka'nın yıllık karbon ayak izine kıyaslanabilir düzeyde bulunuyor. Tüketilen elektriğin yaklaşık yüzde 54'ünün gaz ve kömür gibi fosil yakıtlardan geldiği belirtiliyor. Cornell Üniversitesi'nden Fengqi You, artan enerji talebini karşılamak için kurulan altyapıların onlarca yıl çalışabileceğine ve bunun uzun vadeli karbon kilitlenmesine neden olabileceğine dikkat çekti. Veri merkezi işletmecilerinin enerji tüketim verilerini paylaşmaması nedeniyle araştırmacıların uydu görüntüleri gibi dolaylı yöntemler kullanmak zorunda kaldığı da vurgulanan detaylar arasında yer alıyor.\n\n**Neden önemli?** Araştırma bulguları, aynı bilgi işlem altyapısının bulunduğu elektrik şebekesine bağlı olarak çok farklı karbon ayak izlerine sahip olabileceğini ortaya koyuyor. Uzmanlar, yerel enerji karmasının ve tesislerin konumunun iklim krizine etkisini sınırlamak için politika yapıcıların şeffaflık zorunluluğu getirmesi gerektiğini savunuyor.",
+  "category": "arastirma",
+  "tags": [
+    "Harvard",
+    "Nature Sustainability",
+    "ABD",
+    "yapay zeka",
+    "veri merkezleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD veri merkezlerinin elektrik tüketimi",
+  "kicker": "Araştırma",
+  "hero_stat": "82 terawatt-saat",
+  "hero_stat_label": "yıllık elektrik tüketimi",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "ABD veri merkezleri",
+  "seo_title": "ABD veri merkezleri bir ülkeden fazla elektrik harcıyor",
+  "meta_description": "Nature Sustainability araştırmasına göre ABD veri merkezleri 148 ülkeden daha fazla elektrik tüketiyor ve yüksek oranda fosil yakıta bağımlı.",
+  "seo_slug": "abd-veri-merkezleri-ulkelerden-fazla-elektrik-tuketiyor",
+  "image_alt": "Buzlu cam küplerden yükselen grafik ve veri merkezlerinin enerji tüketimini temsil eden soyut stüdyo görseli",
+  "cover_text": "Nature Sustainability",
+  "importance": 6,
+  "triage_reason": "ABD'deki veri merkezlerinin elektrik tüketimi üzerine yeni bir akademik araştırma.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T20:27:58Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 685
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "abd-veri-merkezleri-ulkelerden-fazla-elektrik-tuketiyor",
+  "published_at": "2026-11-16T20:46:42Z",
+  "publish_mode": "auto"
+}
