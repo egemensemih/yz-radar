@@ -1,0 +1,86 @@
+{
+  "id": "6e048396b2",
+  "status": "pending",
+  "created_at": "2026-11-16T17:26:38Z",
+  "title": "OpenAI akademik araştırmacılar için ücretsiz erişim kapsamını genişletti",
+  "summary": "OpenAI, dünya genelinde 200.000 akademisyene en güncel yapay zeka modellerine ücretsiz erişim imkanı sunacağını duyurdu.",
+  "body": "OpenAI akademik araştırmacılar için ücretsiz erişim programını genişleterek, dünya çapında 200.000 araştırmacıya şirket bünyesindeki **frontier modeller** olarak adlandırılan en ileri yapay zeka sistemlerine ücretsiz erişim hakkı tanıyacağını açıkladı. 16 Kasım 2026 tarihinde yapılan resmi duyuruya göre bu hamle, bilimsel çalışmaların yapay zeka desteğiyle hızlandırılmasını amaçlıyor.\n\n## Bilimsel araştırmalarda yapay zeka kullanımı\nŞirket tarafından yayımlanan güncel veriler, halihazırda 1.800'den fazla bilim insanının ChatGPT platformunu akademik süreçlerine dahil ettiğini gösteriyor. Araştırmacılar bu sistemleri temel olarak şu alanlarda kullanıyor:\n\n* Günlük iş akışlarının planlanması ve yönetimi\n* Araştırma süreçlerindeki üretkenliğin artırılması\n* Bilimsel keşif beklentilerinin ve veri analiz süreçlerinin geliştirilmesi\n\n## Araştırma kapasitesini artırma hedefi\nOpenAI, akademik topluluğa sunduğu bu imkanla birlikte bilimsel keşif süreçlerinde teknolojinin rolünü güçlendirmeyi hedefliyor. Frontier modeller olarak tanımlanan bu ileri düzey sistemler, karmaşık veri setlerinin analiz edilmesi ve literatür taraması gibi zorlu görevlerde araştırmacılara yardımcı olmayı sürdürüyor. Programın kapsamının genişletilmesi, daha fazla akademisyenin bu araçlardan faydalanmasına olanak tanıyacak.\n\n**Neden önemli?** OpenAI'ın attığı bu adım, yapay zekanın akademik dünyada standart bir araştırma aracı haline gelmesi yolunda önemli bir eşik olarak değerlendiriliyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "yapay zeka modelleri",
+    "akademik araştırma"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan akademisyenlere ücretsiz model erişimi",
+  "kicker": "Yeni program",
+  "hero_stat": "200.000",
+  "hero_stat_label": "araştırmacıya ücretsiz erişim",
+  "visual_style": "studio",
+  "visual_scene": "A clean studio shot of a stack of archival paper folders bound by a glowing, translucent thread that radiates a soft, steady light, symbolizing the intersection of traditional research and modern intelligence.",
+  "focus_keyword": "akademik araştırmacılar için ücretsiz erişim",
+  "seo_title": "OpenAI akademik araştırmacılar için ücretsiz erişim başlattı",
+  "meta_description": "OpenAI, dünya genelinde 200.000 akademik araştırmacıya en ileri yapay zeka modellerine ücretsiz erişim hakkı sağlayan yeni programını duyurdu.",
+  "seo_slug": "openai-akademik-arastirmacilar-icin-ucretsiz-erisim",
+  "image_alt": "Arşiv klasörlerini birbirine bağlayan parlak bir ışık hüzmesi, akademik çalışma ve yapay zeka iş birliğini temsil ediyor.",
+  "cover_text": "OpenAI",
+  "importance": 7,
+  "triage_reason": "OpenAI, dünya genelinde 200 bin araştırmacıya sınır model erişimi sağlıyor.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T17:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T12:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published": "2026-11-16T17:00:00Z",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "text": ""
+    },
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published": "2026-11-16T12:00:00Z",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 667
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}

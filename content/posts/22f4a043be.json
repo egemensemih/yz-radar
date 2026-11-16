@@ -1,0 +1,59 @@
+{
+  "id": "22f4a043be",
+  "created_at": "2026-11-16T17:26:58Z",
+  "title": "OpenAI çocuk istismarı ile mücadele için yeni araçlarını duyurdu",
+  "summary": "OpenAI, çocukların cinsel istismarına yönelik içerikleri tespit etmek için yeni bir görsel sınıflandırıcı geliştirdi ve ChatGPT üzerinde önleyici uyarılar başlattı.",
+  "body": "OpenAI, çocukların cinsel istismarı ile mücadele (CSAM) kapsamında yeni güvenlik araçlarını ve güncel ChatGPT politikalarını 16 Kasım 2026 tarihinde kamuoyu ile paylaştı. Şirket, yapay zeka araçlarının kullanımına yönelik artan güvenlik endişeleri çerçevesinde, hem istismar içeriklerini tespit etmeye yarayan yeni bir görsel sınıflandırıcıyı hem de platform içi önleyici mekanizmaları devreye aldığını duyurdu.\n\n## Yeni görsel sınıflandırma teknolojisi\n\nTechCrunch'ın aktardığına göre OpenAI, Ulusal Kayıp ve İstismara Uğrayan Çocuklar Merkezi (NCMEC) ile iş birliği içinde geliştirilen yeni bir görsel sınıflandırıcıyı kullanıma sundu. Yapay zeka tarafından oluşturulan içerikler de dahil olmak üzere istismar belirtilerini tespit edebilen bu sistem, API üzerinden belirli şirketlere ücretsiz olarak sağlanıyor. Yapılan ilk testlerde, sistemin daha az görseli işaretlemesine rağmen aynı sayıda zararlı içeriği yakalayabildiği ve işaretlenen içeriklerin istismar barındırma olasılığının iki kat daha yüksek olduğu belirtildi.\n\n## ChatGPT üzerinde kullanıcı koruması\n\nOpenAI, ChatGPT kullanıcılarının çocukları cinsel obje haline getiren içeriklere erişimini veya bu tür içerikler oluşturmasını engellemek adına platforma yeni uyarı ekranları ekledi. Çocukları istismar etmeye yönelik istemlerde bulunan kullanıcılara uyarı gösteren sistem, bu kişileri özel destek birimlerine yönlendiriyor. Bunun yanı sıra, tekrarlanan ihlallerde hesapların 24 saat süreyle askıya alınacağı ve kalıcı hesap silme işlemlerinin uygulanabileceği açıklandı. Şirket, bu düzenlemeleri Protect Children ve Lucy Faithfull Foundation gibi kuruluşlarla birlikte şekillendirdiğini belirtti.\n\n## Geliştiriciler ve kolluk kuvvetleri için kaynaklar\n\nŞirket, kendi araçlarını kullanan geliştiriciler için çocuk güvenliğine odaklanan rehberler yayımlamaya başladı. Aynı zamanda kolluk kuvvetlerine yönelik özel eklentiler, veri analiz araçları ve kullanım kılavuzları da sağlandığı ifade edildi. OpenAI, son 12 ay içinde güvenliğe yönelik bir yol haritası yayımlama, içerik politikalarını güncelleme ve gençlere özel bir ChatGPT sürümü çıkarma gibi adımlar attığını vurguladı.\n\n**Neden önemli?** Çocukların cinsel istismarına yönelik içeriklerin yapay zeka tarafından üretilme riski, teknoloji şirketleri üzerinde ciddi bir hukuki ve etik baskı oluşturuyor. OpenAI'ın bu adımları, özellikle Common Sense Media gibi kuruluşların dile getirdiği güvenlik risklerine karşı geliştirilen somut önlemler olarak öne çıkıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "güvenlik",
+    "NCMEC",
+    "yapay zeka güvenliği"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan yeni çocuk koruma araçları",
+  "kicker": "Güvenlik güncellemesi",
+  "hero_stat": "%48",
+  "hero_stat_label": "daha az hatalı işaretleme",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of delicate, interlocking stone rings balanced carefully on a smooth, polished obsidian surface. The rings are matte white, suggesting stability and focus, surrounded by soft, diffused light that creates long, clean shadows, symbolizing the systematic and careful nature of the new safety classification tools.",
+  "focus_keyword": "çocuk istismarı ile mücadele",
+  "seo_title": "OpenAI çocuk istismarı ile mücadele araçlarını yayımladı",
+  "meta_description": "OpenAI, çocukların cinsel istismarı ile mücadele için geliştirdiği görsel sınıflandırıcıyı ve yeni ChatGPT güvenlik önlemlerini duyurdu.",
+  "seo_slug": "openai-cocuk-istismari-ile-mucadele",
+  "image_alt": "Soyut beyaz taş halkalar, çocuk güvenliği araçlarının yapısal ve dikkatli koruma yaklaşımını temsil ediyor.",
+  "cover_text": "Güvenlik Araçları",
+  "importance": 6,
+  "triage_reason": "OpenAI, CSAM ile mucadele icin yeni goruntu siniflandiricisi ve ChatGPT uyarilari yayinladi.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 668
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "openai-cocuk-istismari-ile-mucadele",
+  "published_at": "2026-11-16T17:26:59Z",
+  "publish_mode": "auto"
+}
