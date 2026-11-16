@@ -1,0 +1,59 @@
+{
+  "id": "ebd7fd91a0",
+  "created_at": "2026-11-16T15:10:57Z",
+  "title": "ABD yapay zeka çipi ihracat kurallarını uzaktan erişime karşı sıkılaştırıyor",
+  "summary": "ABD Ticaret Bakanlığı, Çinli şirketlerin ve diğer kısıtlı ülkelerin yapay zeka altyapılarına uzaktan erişimini engellemek amacıyla yeni ihracat kontrolleri getiriyor.",
+  "body": "TechCrunch'ın aktardığına göre, ABD yönetimi Çinli şirketlerin ve diğer kısıtlı ülkelerin uzaktan yapay zeka altyapılarına erişimini engellemek amacıyla **yapay zeka çipi** ihracat kontrollerini sıkılaştırmaya hazırlanıyor. Geçici kural kapsamında, dünya genelindeki veri merkezlerine yapay zeka çipi ve sunucu sevk etmek için lisans zorunluluğu getiriliyor.\n\n## Yeni ihracat kuralları neleri kapsıyor?\n\nABD Ticaret Bakanlığı'nın duyurduğu yeni düzenleme, Çin, Rusya, İran ve Kuzey Kore'nin de aralarında bulunduğu D:5 grubu ülkelerindeki şirketleri hedef alıyor. Kurallar, 12 milyon toplam işlem performansının üzerinde kapasite sunabilen veri merkezleri veya ağlar için geçerli oluyor. Bu eşik, yaklaşık 750 adet Nvidia H100 veya H200 çipinin azami işlem gücüne denk geliyor.\n\nBunun yanı sıra Malezya, Singapur, Endonezya, Tayland ve Brezilya'ya yapılacak ileri düzey yarı iletken transferleri için de yeni lisans şartları ekleniyor. Bakanlık, bu ülkelerin normalin üzerinde sapma riski taşıdığını belirtiyor. Öte yandan düzenleme, e-ticaret veya sosyal medyada kullanılanlar gibi ticari tavsiye sistemlerini kapsam dışı bırakıyor ve Ocak 2025 tarihli eski yapay zeka yayılım kuralını yürürlükten kaldırıyor.\n\n**Neden önemli?** Yeni düzenlemeler, kaygılı ülkelerdeki şirketlerin ABD yapay zeka yarı iletkenlerini kullanarak gelişmiş yapay zeka modelleri eğitmesini engellemeyi ve ulusal güvenliği korumayı amaçlıyor.",
+  "category": "politika",
+  "tags": [
+    "Nvidia",
+    "ABD Ticaret Bakanligi",
+    "ihracat kontrolleri",
+    "veri merkezleri",
+    "yari iletken"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD'den yapay zeka çipi ihracatına yeni kural",
+  "kicker": "Regülasyon",
+  "hero_stat": "12 milyon",
+  "hero_stat_label": "toplam işlem performansı sınırı",
+  "visual_style": "studio",
+  "visual_scene": "a single frosted glass server rack standing upright in soft white studio light, with thin amber glowing fiber optic strands weaving through the metal slots and resting neatly on a light gray concrete floor",
+  "focus_keyword": "yapay zeka çipi",
+  "seo_title": "ABD yapay zeka çipi ihracat kurallarını sıkılaştırdı",
+  "meta_description": "ABD yönetimi, Çinli şirketlerin yapay zeka altyapılarına uzaktan erişimini engellemek için yeni çip ihracatı ve veri merkezi kurallarını hazırlıyor.",
+  "seo_slug": "abd-yapay-zeka-cipi-ihracat-kurallarini-sikilastiriyor",
+  "image_alt": "Beyaz stüdyo ortamında hafif amber ışık yayan mat cam sunucu rafı ve fiber optik kablolar",
+  "cover_text": "AI Chip Controls",
+  "importance": 8,
+  "triage_reason": "ABD'nin yapay zeka çip ihracatına getirdiği yeni kısıtlamalar küresel teknoloji politikalarını doğrudan etkiler.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T15:02:34Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 655
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "abd-yapay-zeka-cipi-ihracat-kurallarini-sikilastiriyor",
+  "published_at": "2026-11-16T15:11:00Z",
+  "publish_mode": "auto"
+}
