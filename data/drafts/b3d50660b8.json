@@ -1,0 +1,68 @@
+{
+  "id": "b3d50660b8",
+  "status": "pending",
+  "created_at": "2026-11-16T16:14:59Z",
+  "title": "NVIDIA Vera Rubin platformu MLPerf testlerinde öne çıktı",
+  "summary": "NVIDIA, yeni Vera Rubin platformunun MLPerf Training v6.1 benchmark testlerinde yüksek performans sergilediğini ve agentic yapay zeka süreçlerinde verimlilik sağladığını duyurdu.",
+  "body": "NVIDIA, 16 Kasım 2026'da yayımlanan sonuçlara göre, yeni Vera Rubin platformunun MLPerf Training v6.1 benchmark testlerinde ve ilk kez katıldığı MLPerf Endpoints değerlendirmelerinde üstün bir performans sergilediğini duyurdu. Platform, büyük dil modellerinden görüntü oluşturmaya kadar çeşitli alanlardaki tüm testleri başarıyla tamamlayarak dikkat çekti.\n\n## Vera Rubin performans verileri\n\nNVIDIA'nın açıklamasına göre, Vera Rubin NVL72 sistemi, önceki nesil NVIDIA GB300 NVL72 sistemine kıyasla GPU başına iki katına varan bir performans artışı sundu. Ölçeklenebilirlik noktasında ise Vera Rubin, DeepSeek-V3 benchmark testinde 256'dan 1.024 GPU'ya çıkarak yaklaşık %97 oranında verimlilik elde etti. Bu yüksek verimlilik sayesinde eğitim süresi 16 dakikadan dört dakikaya kadar kısaldı. Şirket, bu sistemlerin CUDA destekli yazılım yığını ile optimize edilmeye devam edeceğini belirtti.\n\n## Agentic yapay zekada verimlilik\n\nMLPerf Endpoints kapsamında yapılan testler, sistemlerin agentic yani bağımsız karar alabilen yapay zeka modelleri üzerindeki yeteneklerini ölçtü. Vera Rubin platformu, Kimi K3 gibi agentic iş akışları için geliştirilen modellerde, önceki nesillere kıyasla watt başına 10 kat daha fazla işlem hacmi (throughput) sundu. Bu durum, veri merkezlerinin güç kısıtlamaları dahilinde daha fazla kullanıcıya aynı anda ve daha hızlı hizmet verebilmesini sağlıyor.\n\n**Neden önemli?** Yapay zeka sistemlerinin daha hızlı eğitilmesi, bilimsel araştırmaların ve dolandırıcılık tespiti gibi kritik süreçlerin güncel verilerle çok daha kısa sürede uyum sağlamasına olanak tanıyor.",
+  "category": "donanim",
+  "tags": [
+    "NVIDIA",
+    "yapay zeka",
+    "benchmark",
+    "donanım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "NVIDIA Vera Rubin MLPerf'te zirvede",
+  "kicker": "Donanım gelişmeleri",
+  "hero_stat": "10 kat",
+  "hero_stat_label": "agentic AI performans artışı",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of interconnected, brushed-aluminum structural beams forming a rising architectural grid, with small, soft-glowing violet light spheres suspended at the junctions to represent data flow, set against a dark, minimalist matte background.",
+  "focus_keyword": "NVIDIA Vera Rubin",
+  "seo_title": "NVIDIA Vera Rubin platformu MLPerf testlerinde öne çıktı",
+  "meta_description": "NVIDIA, yeni Vera Rubin platformunun MLPerf Training ve Endpoints testlerinde sergilediği performans sonuçlarını ve verimlilik verilerini açıkladı.",
+  "seo_slug": "nvidia-vera-rubin-mlperf-testleri",
+  "image_alt": "Soyut metalik yapı ve ışık küreleri NVIDIA Vera Rubin donanımını temsil ediyor.",
+  "cover_text": "Vera Rubin",
+  "importance": 8,
+  "triage_reason": "Yeni nesil Vera Rubin platformunun MLPerf testlerindeki rekor performansı.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T16:00:25Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "source_texts": [
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "published": "2026-11-16T16:00:25Z",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "text": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.\nNVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic work a system delivers with each watt of power.\nThese results are just the beginning. Vera Rubin performance will keep climbing through continuous optimization of NVIDIA’s CUDA-powered software stack, so the infrastructure that customers invest in today delivers more value over time.\nNVIDIA Sweeps MLPerf Training v6.1\nAI agents are now everywhere, writing code, running business workflows, answering customer questions and, as this week’s SC26 conference highlights, advancing scientific research.\nFaster training means smarter agents can reach users sooner, drug discovery models can keep pace with new lab data and fraud-detection models can adapt to new threats faster.\nMLPerf Training measures how fast a system can train a range of AI models to a target level of accuracy.\nThe NVIDIA platform was the only one with results on every benchmark this round, spanning large language models, image generation, recommender systems and reinforcement learning post-training. In its debut, Vera Rubin NVL72 delivered up to 2x more performance per GPU than the highly optimized NVIDIA GB300 NVL72 system — early results that show the pace of generation-over-generation innovation.\nNVIDIA also demonstrated performance at scale. On the DeepSeek-V3 benchmark, Vera Rubin NVL72 scaled from 256 to 1,024 GPUs with about 97% efficiency: quadrupling the GPUs cut time to train from 16 minutes to about four.\nNVIDIA also ran the benchmark on 10,240 GPUs with GB300 systems, representing the largest scale in this round. Microsoft Azure matched that scale with 10,240 NVIDIA GPUs with GB200 systems.\nResults at this scale matter because adding GPUs only speeds up training if they can work together efficiently. NVIDIA NVLink scale-up networking connects the GPUs within each system so they act as one, while NVIDIA Quantum-X800 InfiniBand and Spectrum-X Ethernet scale-out networking link those systems across the data center. Combined with optimized software, this keeps thousands of GPUs working in concert, helping developers build more intelligent models while cutting training times.\nNVIDIA Vera Rubin Leads Agentic Inference on MLPerf Endpoints\nAn AI agent for travel that plans and books a whole trip — or an IT agent that finds and fixes a problem before anyone files a ticket — may reason, call tools and check its work many times to finish a single task.\nEach of those steps generates tokens. Because AI data centers are limited by power, the more tokens a system can generate each second for every watt of power, the more agents it can serve and the more value it creates.\nMLPerf Endpoints tests systems on real agentic coding and enterprise workflows, and checks that the agents still complete their tasks correctly. NVIDIA Vera Rubin leads across all of its agentic benchmarks.\nFor example, in a provisional result for Kimi K3, a large open model built for agentic workflows, Vera Rubin NVL72 systems deliver more than 10x the throughput per watt of NVIDIA GB300 NVL72 at the same response speed.\nEvery AI service has to balance serving many users at once against responding quickly to each one. Vera Rubin shifts that entire curve, serving more users while responding faster.\nLeadership Across Benchmarks and Workloads\nNVIDIA partners participated extensively in MLPerf Training, with submissions from 20 organizations: ASUS, Azure, Cisco, CoreWeave, Crusoe, Dell Technologies, Firmus, Fujitsu, Giga Computing, Google Cloud, HPE, Inventec, Krai, Lambda, Nebius, Oracle, Quanta Cloud Technology (QCT), Supermicro, TTA and the University of Florida.\nTheir submissions show how NVIDIA’s programmable platform, with open source libraries and frameworks, lets a vast ecosystem of partners innovate and optimize AI training performance.\nThe lead extends beyond MLPerf.\nVera Rubin also delivers leading performance on independent benchmarks including SemiAnalysis AgentX and Artificial Analysis AgentPerf, showcasing how the same NVIDIA infrastructure can productively run everything from pretraining and post-training to agentic inference, as well as workloads beyond AI, such as the high-performance computing showcased at SC26 this week.\nDive deeper into the results in the MLPerf Training and MLPerf Endpoints technical blogs."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 658
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: NVIDIA"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "faf4d9f752",
+  "status": "pending",
+  "created_at": "2026-11-16T16:15:42Z",
+  "title": "Nvidia, yapay zeka ajanları için Rubin HPC işlemcisini ve CUDA-X kütüphanelerini duyurdu",
+  "summary": "Nvidia, SC26'da bilimsel simülasyonları hızlandırmak amacıyla geliştirilen yeni Rubin HPC grafik işlemcisini ve genişletilmiş CUDA-X kütüphanelerini tanıttı.",
+  "body": "Nvidia, yapay zeka ajanlarının bilimsel keşifleri, mühendisliği ve veri analitiği iş akışlarını hızlandırması amacıyla geliştirilen yeni Rubin HPC grafik işlemcisini ve genişletilmiş CUDA-X kütüphanelerini duyurdu. SC26'da tanıtılan bu yeni donanım ve yazılım araçları, araştırmacıların devasa veri setlerini daha hızlı işleyerek karmaşık sistemleri modellemesine olanak tanıyor.\n\n## Rubin HPC ve yeni CUDA-X kütüphaneleri\n\nNvidia Vera Rubin platformunun bir parçası olan Rubin HPC grafik işlemcisi, tek bir çip üzerinde 50.000'den fazla CUDA çekirdeği barındırıyor. Şirketin açıklamasına göre sistem, veri hareketini ve hesaplamayı birlikte ölçeklendirerek çekirdeklerin veri beklemesini engelliyor ve 2028 yılında piyasaya sürülmesi bekleniyor. Öte yandan cuPhoton, cuPotential ve açık kaynaklı cuSpa gibi genişletilmiş NVIDIA CUDA-X kütüphaneleri, astrofizikten malzeme bilimine kadar pek çok alanda yapay zeka ajanlarına gelişmiş hesaplama araçları sunuyor.\n\n## Bilimsel araştırmalarda hız kazanımı\n\nYeni kütüphaneler ve donanım, astronomi ve biyoloji gibi veri yoğunluğun yüksek olduğu alanlarda çığır açan hızlanmalar sağlıyor:\n\n- cuPhoton.xBeam modülü, Event Horizon Telescope verilerini kullanarak kara delik gözlem korelasyon süresini bir aydan sekiz dakikaya indiriyor.\n- cuPotential, moleküler simülasyon yazılımlarını 3 kata kadar hızlandırarak ilaç keşfi süreçlerini destekliyor.\n- Açık kaynaklı cuSpa, hücre çokgeni hesaplamalarını hızlandırarak CPU kullanımına kıyasla 900 kat daha hızlı devasa uzamsal grafikler oluşturulmasını sağlıyor.\n\n**Neden önemli?** Yapay zeka ajanlarının bilimsel ve mühendislik simülasyonlarında daha etkin rol oynaması, hipotez, simülasyon ve değerlendirme döngüsünü kısaltarak yeni malzemelerin, moleküllerin ve tasarımların keşif süresini dramatik ölçüde hızlandırıyor.",
+  "category": "donanim",
+  "tags": [
+    "Nvidia",
+    "Rubin HPC",
+    "CUDA-X",
+    "yapay zeka ajanları",
+    "bilimsel simülasyon"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia, Rubin HPC işlemcisini ve CUDA-X araçlarını duyurdu",
+  "kicker": "Donanım",
+  "hero_stat": "50.000",
+  "hero_stat_label": "CUDA çekirdeği",
+  "visual_style": "studio",
+  "visual_scene": "a single monolithic rectangular silicon chip resting on a dark slate slab, surrounded by faint concentric rings of soft amber light that suggest high computational data flow",
+  "focus_keyword": "Nvidia Rubin HPC",
+  "seo_title": "Nvidia Rubin HPC ve CUDA-X Kütüphaneleri Duyuruldu",
+  "meta_description": "Nvidia, bilimsel keşifleri ve yapay zeka ajanlarını hızlandırmak üzere tasarlanan yeni Rubin HPC işlemcisini ve CUDA-X kütüphanelerini tanıttı.",
+  "seo_slug": "nvidia-rubin-hpc-ve-cuda-x-kutuphaneleri-duyuruldu",
+  "image_alt": "Nvidia Rubin HPC işlemcisini temsil eden koyu renkli zemin üzerindeki silikon çip ve ışık halkaları",
+  "cover_text": "Rubin HPC",
+  "importance": 7,
+  "triage_reason": "Rubin HPC duyurusu ve bilimsel yapay zeka ajanları için CUDA-X kütüphaneleri.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T16:00:16Z"
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T16:00:01Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "source_texts": [
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "published": "2026-11-16T16:00:16Z",
+      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+      "text": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.\nThe speedups are helping scientists analyze larger datasets and model more complex systems.\nThe new libraries give AI agents the tools to help researchers make discoveries faster than ever.\nBringing Black Holes Into Focus\nSeeing a black hole takes a telescope the size of Earth. The Event Horizon Telescope links radio dishes worldwide, generating petabytes of data that can take months to process.\nWith NVIDIA cuPhoton.xBeam, a module within the cuPhoton Toolkit, black hole observations from the Event Horizon Telescope can now be correlated orders of magnitude faster than ever. Analysis that once took over a month now takes eight minutes.\nBy combining global radio dishes into Earth-sized aperture, cuPhoton delivers unprecedented astronomical imaging resolution. cuPhoton successfully correlated observations of powerful black hole jets J1924 and 3C279 in the night sky — making it a reality to reconstruct a Messier 87* black hole galaxy in real time.\nThe entire pipeline, from data loading and processing to visualization, runs on distributed multi-GPU systems or a compact NVIDIA DGX Spark system, helping scientists study how gas spirals inward under a black hole’s powerful gravitational pull.\nSteering Fusion Simulations\nSustaining plasma at millions of degrees is essential to achieving stable, continuous fusion energy. But simulating its behavior is costly: on petascale systems, a single time step can take days, with simulations running for weeks. Experiments also generate data faster than traditional pipelines can process it, often leaving scientists waiting until experiments end to analyze results.\nPacific Fusion researchers used NVIDIA cuPhoton.xLens module to extract insights while plasma simulations run, helping them visualize what’s happening as results emerge.\nThe NVIDIA cuPhoton.xLens module extracts insights while plasma simulations run, helping researchers understand what’s happening as results emerge. Researchers can couple the entire pipeline with an NVIDIA Nemotron-powered agent running locally on the same system, enabling interactive analysis that can help steer simulations in real time to inform fusion reactor target and chamber design.\nExploring Potential Medicines\nMolecular simulations help scientists evaluate drug designs before costly laboratory experiments. NVIDIA cuPotential, built on work by researchers at Simons Foundation’s Flatiron Institute and D. E. Shaw Research, accelerates existing simulation software by up to 3x while improving calculation stability and accuracy. It expedites synthetic data creation for generative AI models, finding previously unknown molecular binding sites and calculating the strength of molecular interactions.\nNVIDIA is working with Schrödinger and the AMBER, NAMD, GROMACS, LAMMPS and Open Molecular Software Foundation communities to bring cuPotential acceleration to molecular dynamics engines and workflows.\nCadence, Fathom Therapeutics, Topos Bio, Genesis Molecular AI and Terray Therapeutics are adopting it for drug discovery.\nAccelerating Materials Research\nDaviator, a collection of batched GPU kernels for the widely used Vienna Ab initio Simulation Package, is coming to NVIDIA ALCHEMI — delivering quantum-mechanical calculations up to 22x faster and at up to 75% lower cost. With Daviator, researchers building simulation models can now use GPU acceleration across atomistic systems of all sizes to generate the millions of calculations of atomic interactions needed for model training and inference, including for small systems that previously ran faster on CPUs.\nAt Lawrence Berkeley National Laboratory, the NVIDIA DAQIRI networking library connects a high-speed electron microscopy detector to GPU processing, moving analysis into the experiment itself. Researchers can identify useful signals, discover previously unknown regions of interest and decide what to measure next while measurements are being taken.\nThe workflow supports atomic-resolution materials studies that can distinguish elements, laying the groundwork for future automated experiments.\nRevealing Biology at Scale\nThe newly open source cuSpa accelerates cell polygon calculations, enabling developers to generate massive spatial graphs for next-generation patient and cancer models at Memorial Sloan Kettering Cancer Center, with a 900x speedup compared with using CPUs.\nCodeveloped with scverse, the rapids-singlecell framework accelerates single-cell analysis — and is now available in a single, agent-ready container. Using the tool, Therna Biosciences processed data 200x faster for therapeutic design. 10x Genomics integrated rapids-singlecell in its new Sentira platform, helping academic researchers, biopharma teams and foundation model builders accelerate the path from large-scale spatial data to biological insights.\nAnd the NVIDIA GPU-accelerated HMMER library, also open source, accelerates the annotation of predicted protein sequences, supporting data preparation for biological foundation models. At Basecamp Research, benchmark searches ran up to 84x faster than with standard HMMER, reducing the time required to annotate the large biological datasets used to train the company’s therapeutic design models.\nExplore NVIDIA CUDA-X libraries. Learn more in this technical blog on GPU-powered black hole reconstruction."
+    },
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "published": "2026-11-16T16:00:01Z",
+      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
+      "text": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.\nAs agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next steps. Rubin HPC will accelerate those simulations, shortening the path from exploration to scientific discovery and industrial design.\nThe Rubin HPC GPU features a record number of CUDA cores — more than 50,000 on a single GPU — as well as a sparse data acceleration capability that keeps those cores fed with data, and accelerates GPU-to-GPU connectivity with seventh-generation NVIDIA NVLink interconnect technology.\nScientists and engineers rely on simulation to understand complex systems before committing to experiments or physical prototypes. Working with agents, these teams can explore more candidate materials, molecules and designs. This increases demand for the GPU-accelerated simulations needed to evaluate those ideas and guide next steps.\n“For agents tackling science and engineering, faster simulation means faster discovery,” said Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA. “Rubin HPC accelerates the simulations agents use to test ideas and guide their next steps, helping scientists and engineers explore more possibilities and bring breakthroughs closer.”\nTurning Faster Computation Into Faster Discovery\nAcross climate models, engineering simulations, genomic analysis and financial risk, scientific computing workloads take a similar shape: an application reaches into an immense dataset, gathers a handful of scattered values, calculates a result and repeats this on an enormous scale.\nTo help address the challenge, Rubin HPC will offer a balanced design, scaling data movement and compute together rather than increasing compute alone.\nThat balance is what optimizes Rubin HPC for scientific computing. It keeps the GPU’s record number of CUDA cores supplied with data, so they spend their time computing rather than waiting. This accelerates recurring patterns of every simulation workload — from sparse matrix operations to stencil computations to sorting and reductions.\nThese patterns are prevalent across data analytics, science and engineering workloads, which is why a purpose-built GPU delivering the broadest acceleration can help unlock cross-industry breakthroughs.\nNVIDIA CUDA-X libraries offer a growing set of optimized implementations of complex algorithms for agents to use, including those most relevant to simulation and analytics. Used together with Rubin HPC, the libraries can give agents the fastest glide path to reasoning outcomes.\nAnd faster agent-invoked simulations mean faster feedback — shortening the loop of hypothesis, simulation and refinement, so researchers and engineers can choose next steps sooner and point lab work at the most promising candidates.\nRubin HPC is expected to be available in 2028."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 659
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: NVIDIA"
+}
