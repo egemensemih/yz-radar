@@ -1,0 +1,69 @@
+{
+  "id": "bc8fd47aea",
+  "status": "pending",
+  "created_at": "2026-11-16T16:27:54Z",
+  "title": "Nvidia, Slurm desteğiyle kuantum bilişim entegrasyonunu kolaylaştırıyor",
+  "summary": "Nvidia, süper bilgisayar merkezlerinde kuantum işlemcilerin yönetimini hızlandırmak için Slurm iş yükü planlayıcısına genişletilmiş destek getirdiğini duyurdu.",
+  "body": "Nvidia, 16 Kasım 2026'da yaptığı duyuruyla, süper bilgisayar merkezlerinde kuantum işlemci (QPU) entegrasyonunu hızlandırmak için Slurm iş yükü planlayıcısına yönelik yeni desteklerini açıkladı. Bu geliştirme, bilim insanlarının kuantum ve klasik bilgisayar kaynaklarını tek bir arayüz üzerinden, mevcut iş akışlarını değiştirmeden kullanabilmelerine olanak tanıyor. Kuantum işlemci kurulumlarının son beş yılda yedi katına çıktığı küresel ölçekte, yaklaşık 30 süper bilgisayar merkezinde 50'den fazla QPU devreye alınmış durumda.\n\n## Kuantum ve süper bilgisayar entegrasyonu\n\nNvidia tarafından paylaşılan bilgilere göre, Slurm üzerindeki bu genişleme, IBM, Pasqal ve diğer kuantum donanım üreticilerinin kendi teknolojilerini herhangi bir süper bilgisayar merkezine entegre etmelerini kolaylaştırıyor. Yeni sürüm, donanım üreticilerine her merkez için ayrı yazılım geliştirme zorunluluğunu ortadan kaldıran standart bir arayüz sunuyor. QRMI ve QDMI gibi yaygın arayüzleri destekleyen bu yapı, Alice & Bob, IQM, Quantinuum ve MQSC gibi sektör temsilcileri tarafından şimdiden benimsenmiş durumda.\n\n## CUDA-Q platformunda yenilikler\n\nSlurm entegrasyonu, Nvidia'nın hibrit kuantum-klasik hesaplama için geliştirdiği **CUDA-Q** açık platformunun bir parçası olarak konumlanıyor. SC26 konferansı kapsamında tanıtılan güncellemeler arasında şunlar öne çıkıyor:\n\n* Yeni TCBP-JOBS kod çözücü, endüstri standartlarından 20.000 kat daha hızlı çalışma kapasitesi sunuyor.\n* Kuantum hata düzeltme çalışmaları için hızlandırılmış prototipleme ve test imkanı sağlanıyor.\n* Kimya ve malzeme bilimi gibi özel alanlar için yeniden kullanılabilir algoritma bileşenleri geliştirildi.\n\nFermilab, bu platformu kullanarak beş ay sürecek çalışmaları üç hafta içinde tamamladığını raporladı. Ayrıca, QunaSys gibi kurumlar binin üzerinde **Nvidia Hopper GPU** kullanarak yüksek hassasiyette kuantum simülasyonları gerçekleştirerek platformun bilimsel araştırmalardaki etkisini artırıyor.\n\n**Neden önemli?** Slurm sisteminin kuantum işlemcilerle uyumlu hale gelmesi, farklı donanım üreticileri ve süper bilgisayar merkezleri arasındaki yazılım darboğazını ortadan kaldırarak kuantum araştırmalarının verimliliğini artırmayı hedefliyor.",
+  "category": "donanim",
+  "tags": [
+    "Nvidia",
+    "kuantum-bilisim",
+    "Slurm",
+    "CUDA-Q",
+    "süper-bilgisayar"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia'dan kuantum ve süper bilgisayar entegrasyonu",
+  "kicker": "Donanım",
+  "hero_stat": "20.000x",
+  "hero_stat_label": "daha hızlı kod çözücü",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of interconnected crystalline geometric pillars standing on a dark reflective surface, with soft light refracting through them to symbolize the integration of different computing architectures, no text or labels.",
+  "focus_keyword": "kuantum bilişim entegrasyonu",
+  "seo_title": "Nvidia, kuantum bilişim entegrasyonunu Slurm ile…",
+  "meta_description": "Nvidia, süper bilgisayar merkezlerinde kuantum işlemcilerin yönetimini standart hale getiren yeni Slurm desteğini ve CUDA-Q güncellemelerini duyurdu.",
+  "seo_slug": "nvidia-kuantum-bilisim-entegrasyonu",
+  "image_alt": "Soyut kristal sütunlar, farklı bilişim mimarilerinin entegrasyonunu temsil ediyor.",
+  "cover_text": "CUDA-Q",
+  "importance": 6,
+  "triage_reason": "Santas ve kuantum bilgisayarların entegrasyonu için Slurm genişletilmesi.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-16T16:00:47Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "source_texts": [
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "published": "2026-11-16T16:00:47Z",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows […]",
+      "text": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.\nMany of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows and tools, enabling computational chemists, nuclear physicists and materials scientists to bring quantum computing into their research domains without friction.\nIn a new release, Slurm builds on previous work with IBM, Pasqal and the wider quantum computing community to allow QPU builders to create a single interface to their hardware for every supercomputing center, through a simple file. This makes it easier than ever for HPC centers and QPU builders to integrate and serve their hardware.\nThe expansion is already being adopted by Alice & Bob, IBM, IQM, Pasqal, Quantinuum and MQSC and supports the widely used QRMI and QDMI interfaces.\nBeating the Bottleneck\nUntil now, integrating a QPU into a supercomputing center meant a new software challenge for every new QPU or supercomputing center. By building on existing quantum-HPC interfaces such as QRMI and QDMI, the Slurm expansion allows QPU builders to reuse their integrations across all their deployments. It also means that supercomputing centers can add new quantum processors to their existing scheduling and resource-management workflows without developing bespoke QPU-specific solutions.\nFor quantum computing to advance science, it needs to be used by scientists. Now scientists can run quantum-classical applications developed with platforms such as NVIDIA CUDA-Q with Slurm coordinating access to all the processing they need.\nSlurm 26.11 will be available later this month.\nOrchestrating Resources in an Open Quantum-GPU Platform\nThe Slurm expansion adds a community-developed orchestration layer to NVIDIA’s open platform for quantum-GPU supercomputing, which centers around the CUDA-Q open platform for hybrid quantum-classical computing. At SC26, new releases expand all aspects of the platform:\nCUDA-Q QEC allows researchers developing quantum error correction to rapidly prototype and test new ideas, including with a new decoder server. A new TCBP-JOBS decoder is 20,000x faster than the industry standard.\nCUDA-Q gets an expanded layer of fault-tolerant primitives that application builders can use to realistically compile their ideas. Fermilab has already used CUDA-Q to perform studies in three weeks that would normally have taken five months.\nCUDA-Q Algorithms provides reusable components for builders of quantum applications, including new capabilities in helping design the loading data into quantum circuits and tools specifically for chemistry and materials applications\nCUDA-Q Pulse gives quantum hardware builders a layer for shaping the ‘pulses’ needed to control qubits on a QPU, including tools to GPU accelerate their generation.\nThe quantum ecosystem around the world is continuing to build with this platform. Quantum Motion integrated its QUICHE chemistry framework with CUDA-Q. Altera and Oxford Quantum Circuits designed an FPGA-based controller connecting qubit control and readout to GPUs through NVQLink.\nAt supercomputing scale, QunaSys used cuQuantum and 1,024 NVIDIA Hopper GPUs on ABCI-Q to simulate more than 300 million quantum operations, reaching chemical accuracy for a four-hydrogen-atom model. NVIDIA researchers used JUPITER to simulate 104 qubits under realistic noise, testing fault-tolerant designs before they’re built.\nLearn more about NVIDIA quantum computing technologies."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 661
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: NVIDIA"
+}
