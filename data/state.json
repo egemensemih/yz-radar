@@ -206,7 +206,8 @@
       "tok_in": 8570,
       "tok_out": 1415,
       "cost_usd": 0.0,
-      "drafts": 1
+      "drafts": 1,
+      "expired": 1
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
