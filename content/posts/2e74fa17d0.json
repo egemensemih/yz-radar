@@ -1,0 +1,59 @@
+{
+  "id": "2e74fa17d0",
+  "created_at": "2026-11-17T16:48:18Z",
+  "title": "Megaspeed soruşturması devam ediyor: ABD Adalet Bakanlığı açıklama yaptı",
+  "summary": "ABD Adalet Bakanlığı ve Ticaret Bakanlığı, Singapur merkezli Megaspeed şirketine yönelik ihracat ihlali adli sürecinin devam ettiğini resmi olarak açıkladı.",
+  "body": "ABD Adalet Bakanlığı ile Ticaret Bakanlığı, 17 Kasım 2026 tarihinde yaptıkları açıklamada Singapur merkezli veri merkezi firmasını hedef alan **Megaspeed soruşturması** sürecinin devam ettiğini bildirdi. Resmi duyuru, soruşturmanın geçmişte durdurulduğuna ilişkin basına yansıyan haberlerin ardından kamuoyunu bilgilendirmek amacıyla paylaşıldı. İnceleme, Nvidia tarafından üretilen gelişmiş çiplerin ihracat denetimlerini aşarak Çin'e aktarılıp aktarılmadığı konusuna odaklanıyor.\n\n## Megaspeed soruşturması kapsamında yaşananlar\n\nBakanlıkların açıklamasına göre Ticaret Bakanlığı, 2024 yılında potansiyel ihracat denetimi ihlalleri nedeniyle Megaspeed hakkında ilk incelemeyi başlattı. Mayıs 2025'te Nvidia'dan Megaspeed firmasına doğrudan ya da dolaylı yapılan satışlara ilişkin kayıtlar talep edildi. Nvidia ise Haziran 2025'te Megaspeed şirketini satışı yasaklı kurumlar listesine ekledi.\n\nAynı dönemde Ticaret Bakanlığına bağlı Sanayi ve Güvenlik Bürosu yetkilileri, Singapur kolluk kuvvetleriyle birlikte Megaspeed tesislerinde yerinde denetim yaptı ve dönemin icra kurulu başkanı Alice Huang ile görüştü. Bu denetim adımlarının ardından cezai soruşturmanın yürütülmesi görevi ABD Adalet Bakanlığına devredildi.\n\n## İstifa ve ulusal güvenlik denetimleri\n\nSüreç, Nvidia kurucusu **Jensen Huang** ile eski Megaspeed yöneticisi Alice Huang arasındaki ilişkinin kamuoyuna yansıması ve Jensen Huang'ın görevinden istifa etmesiyle yeni bir boyut kazandı. Megaspeed yetkilileri Alice Huang'ın Ağustos 2025'te şirketten ayrıldığını ifade ederken, ABD yetkilileri olası yasa dışı faaliyetlere karşı yasal süreçlerin kararlılıkla işletileceğini duyurdu.\n\n**Neden önemli?** Küresel yapay zeka ve donanım tedarik zincirinde kritik yer tutan çip ihracat kısıtlamaları, devlet kurumlarının en üst düzey denetimlerine tabi tutuluyor. Bu incelemenin sonuçları, çip üreticileri ile uluslararası veri merkezleri arasındaki ticari ilişkiler ve güvenlik denetimleri açısından bağlayıcı emsaller oluşturabilir.",
+  "category": "politika",
+  "tags": [
+    "Nvidia",
+    "Megaspeed",
+    "ABD Adalet Bakanlığı",
+    "Jensen Huang",
+    "çip ihracatı"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ABD Adalet Bakanlığından Megaspeed açıklaması",
+  "kicker": "Çip ticareti",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A polished dark slate pedestal holding a translucent frosted glass semiconductor chip severed in half by a thin beam of white light, with soft dramatic spotlighting in a minimal black studio setting.",
+  "focus_keyword": "Megaspeed soruşturması",
+  "seo_title": "Megaspeed soruşturması: ABD'den çip ihracatı açıklaması",
+  "meta_description": "ABD Adalet Bakanlığı, Singapur merkezli Megaspeed soruşturması sürecine ilişkin resmi açıklama yaparak adli incelemenin sürdüğünü bildirdi.",
+  "seo_slug": "megaspeed-sorusturmasi-abd-adalet-bakanligi-aciklama",
+  "image_alt": "Siyah stüdyo zemininde duran ve ışık hüzmesiyle ayrılmış cam çip sembolü",
+  "cover_text": "Megaspeed",
+  "importance": 7,
+  "triage_reason": "ABD Adalet Bakanlığı, Nvidia CEO'sunun istifasıyla bağlantılı veri merkezi şirketini soruşturuyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T16:19:03Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 704
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "megaspeed-sorusturmasi-abd-adalet-bakanligi-aciklama",
+  "published_at": "2026-11-17T16:48:41Z",
+  "publish_mode": "auto"
+}

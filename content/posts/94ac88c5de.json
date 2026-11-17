@@ -1,0 +1,58 @@
+{
+  "id": "94ac88c5de",
+  "created_at": "2026-11-17T16:48:54Z",
+  "title": "Daydream yeni yapay zeka asistanı ile kişisel stilist dönemini başlatıyor",
+  "summary": "Moda odaklı girişim Daydream, kullanıcıların giyim tercihlerine göre alışveriş yapabilen ve kıyafet kombinleyen yeni yapay zeka asistanını duyurdu.",
+  "body": "E-ticaret sektöründeki deneyimiyle tanınan Julie Bornstein tarafından kurulan Daydream, moda dünyasında kişisel stilist görevini üstlenen yeni yapay zeka asistanını 17 Kasım 2026'da kullanıma sundu. TechCrunch'ın aktardığına göre, Daydream Agent adlı bu yazılım, kullanıcıların zevklerine, vücut yapılarına ve bütçelerine uygun kıyafetleri belirleyerek alışveriş sürecini kişiselleştirmeyi hedefliyor. 2023 yılında kurulan ve bugüne kadar 50 milyon dolar yatırım alan girişim, Haziran 2025'teki lansmanından bu yana 2 milyondan fazla kullanıcıya ulaştığını açıkladı.\n\n## Daydream Agent neler sunuyor?\n\nKullanıcılar, yapay zeka asistanı aracılığıyla sanal deneme kabini özelliklerinden yararlanabiliyor. Uygulama, kullanıcının daha önce kaydettiği kıyafetleri yüklenen fotoğraflar üzerinde denemesine olanak tanıyor ve tek tıkla satın alma imkanı sunuyor. Ayrıca, kullanıcılar kendi mevcut gardıroplarını ve ajandalarını sisteme bağlayarak, yaklaşan etkinlikler için kendi kıyafetlerinden kombinler oluşturabiliyor. Sistemin temel çalışma prensibi, 10 binin üzerindeki markadan gelen güncel fiyat ve stok verilerini, gelişmiş moda odaklı yapay zeka modelleriyle birleştirmeye dayanıyor.\n\n## İnsan dokunuşu ve kişiselleştirme\n\nModa alanının bilimsel verilerden ziyade sanatsal bir bakış açısı gerektirdiğini savunan Daydream, yapay zekayı desteklemek amacıyla \"Stylist in Residence\" (Yerleşik Stilist) pozisyonunu oluşturdu. İlk olarak uluslararası stilist Francesca Salih ile çalışmaya başlayan şirket, yapay zekanın sunduğu tavsiyelerin stil uzmanlığından güç almasını sağlıyor. Kullanıcıların alışveriş kararlarını daha rahat vermeleri için oluşturulan \"kıyafet askısı\" (clothing rack) özelliği, beğenilen ürünlerin sepette bekletilmek yerine daha sonra karşılaştırılmak üzere kaydedilmesine imkan tanıyor.\n\n**Neden önemli?** Meta'nın Muse gibi uygulamalarındaki veriler, kullanıcıların yapay zeka asistanlarını yoğunlukla alışveriş için kullandığını gösteriyor. Daydream'in bu hamlesi, üretken yapay zekanın sadece metin tabanlı değil, kişisel tercihlere dayalı görsel ve ticari bir rehber olarak kullanımının arttığını ortaya koyuyor.",
+  "category": "urunler",
+  "tags": [
+    "Daydream",
+    "yapay-zeka-asistanlari",
+    "e-ticaret",
+    "moda"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Daydream'den kişisel yapay zeka stilisti",
+  "kicker": "Yeni ürün",
+  "hero_stat": "50 milyon $",
+  "hero_stat_label": "toplam yatırım",
+  "visual_style": "still_life",
+  "visual_scene": "A clean, minimalist arrangement of high-end fashion accessories including a silk scarf and a structured leather handbag resting on a polished stone pedestal, bathed in soft, natural morning light casting gentle, elongated shadows.",
+  "focus_keyword": "yapay zeka asistanı",
+  "seo_title": "Daydream yeni yapay zeka asistanı ile stilistlik yapıyor",
+  "meta_description": "Daydream, kullanıcıların stilini öğrenen ve alışveriş yapan yeni yapay zeka asistanı Daydream Agent'ı tanıttı. İşte detaylar.",
+  "seo_slug": "daydream-yeni-yapay-zeka-asistani-tanitti",
+  "image_alt": "Minimalist moda aksesuarları ve bir el çantasının doğal ışık altındaki estetik görünümü.",
+  "cover_text": "Daydream Agent",
+  "importance": 6,
+  "triage_reason": "Kişisel stilist ve alışveriş yapabilen yeni yapay zeka ajanı tanıtıldı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T16:32:55Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 707
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "daydream-yeni-yapay-zeka-asistani-tanitti",
+  "published_at": "2026-11-17T16:48:54Z",
+  "publish_mode": "auto"
+}
