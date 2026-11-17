@@ -1,0 +1,68 @@
+{
+  "id": "b02cc4aba8",
+  "status": "pending",
+  "created_at": "2026-11-17T18:17:32Z",
+  "title": "Astra for Law hukuk alanında değerlendirmelerde zirveye yerleşti",
+  "summary": "OpenAI, hukuk alanında 24 farklı kategoride en yüksek performansı gösteren yeni modeli Astra for Law'u ChatGPT Enterprise kullanıcılarına sunuyor.",
+  "body": "OpenAI, 17 Kasım 2026'da yaptığı duyuruyla hukuk alanına odaklanan yeni modeli Astra for Law'u tanıttı. Hukuk dünyasındaki süreçleri desteklemek amacıyla geliştirilen bu yeni **yapay zeka** çözümü, 24 farklı hukuk dalını kapsayan geniş kapsamlı bir değerlendirme sürecinde rakiplerini geride bırakarak birinci sırada yer aldı.\n\n## Hukuki süreçlerde yeni nesil destek\n\nAstra for Law, karmaşık hukuki metinlerin analizi ve yasal değerlendirmeler konusunda yüksek bir performans sergilemeyi hedefliyor. Model, özellikle hukuk profesyonellerinin ihtiyaç duyduğu hassasiyet ve kapsamlı bilgi tarama süreçlerini iyileştirmek için tasarlandı.\n\n## Erişim imkanları\n\nOpenAI'ın açıklamasına göre, yeni modele erişim süreci halihazırda başlamış durumda. Mevcut ChatGPT Enterprise aboneleri, platform üzerinden modelin yeteneklerini kullanmak için erişim talebinde bulunabiliyor. Şirket, bu adımıyla kurumsal müşterilerinin yasal operasyonlarındaki **verimliliği** artırmayı planlıyor.\n\n**Neden önemli?** Astra for Law, OpenAI'ın genel yetenekli modellerinin yanı sıra belirli meslek dallarına yönelik uzmanlaşmış yapay zeka araçlarının yaygınlaştığını gösteriyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "Astra for Law",
+    "ChatGPT Enterprise",
+    "hukuk teknolojileri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Astra for Law kullanıma sunuldu",
+  "kicker": "Yeni model",
+  "hero_stat": "24",
+  "hero_stat_label": "hukuk alanı",
+  "visual_style": "studio",
+  "visual_scene": "A balanced scale made of brushed silver, with a stack of thin, illuminated glass tablets resting on one side, glowing with a soft, steady white light, set against a deep slate grey background.",
+  "focus_keyword": "Astra for Law",
+  "seo_title": "Astra for Law hukuk alanında değerlendirmelerde zirvede",
+  "meta_description": "OpenAI, hukuk alanında 24 kategoride birinci olan Astra for Law modelini ChatGPT Enterprise kullanıcıları için erişime açtı.",
+  "seo_slug": "astra-for-law-duyuruldu",
+  "image_alt": "Hukuk alanında başarıyı simgeleyen dengeli bir terazi ve üzerinde parlayan cam tabletler.",
+  "cover_text": "Astra for Law",
+  "importance": 8,
+  "triage_reason": "Hukuk alanına özel geliştirilen yeni yapay zeka ürünü ve kurumsal erişim duyurusu.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "title": "Astra for Law leads in legal intelligence",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T00:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 720
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}

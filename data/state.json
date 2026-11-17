@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-17T18:03:31Z",
+  "last_collect": "2026-11-17T18:16:54Z",
   "last_summary_date": "2026-11-17",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
-      "count": 1403
+      "last_ok": "2026-11-17T18:16:50Z",
+      "count": 1405
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:50Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:50Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 908
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2030,
+      "fails": 2031,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:30Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-17T18:03:31Z",
+      "last_ok": "2026-11-17T18:16:51Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 19,
+      "fails": 20,
       "last_ok": "2026-11-17T13:23:32Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -204,10 +204,10 @@
       "auto": 8
     },
     "2026-11-17": {
-      "tok_in": 86954,
-      "tok_out": 19880,
+      "tok_in": 92866,
+      "tok_out": 21683,
       "cost_usd": 0.0,
-      "drafts": 18,
+      "drafts": 20,
       "expired": 1,
       "published": 6,
       "auto": 6
@@ -219,6 +219,37 @@
   "indexnow_queue": [],
   "last_build": "2026-11-17T17:53:33Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i4"
+        ],
+        "topic": "Pedestal AI raises $4.7 million for supply chain agents",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "sirketler",
+        "reason": "Tedarik zinciri için yapay zeka ajanları geliştiren girişim küçük ölçekli yatırım aldı."
+      },
+      "items": [
+        {
+          "key": "48c46304656078a6",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+          "via": null,
+          "via_url": null,
+          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+          "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+          "published": "2026-11-17T18:04:16Z",
+          "html_source": false,
+          "tid": "i4"
+        }
+      ],
+      "at": "2026-11-17T18:16:56Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }

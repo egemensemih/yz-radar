@@ -1,0 +1,69 @@
+{
+  "id": "b706d9ddfb",
+  "status": "pending",
+  "created_at": "2026-11-17T18:17:11Z",
+  "title": "GPT-6.2 Astra ve Sol modelleri duyuruldu",
+  "summary": "OpenAI, daha iyi profesyonel çıktılar, kodlama ve bilgisayar kullanımı sunan GPT-6.2 Astra ve Sol modellerini duyurdu.",
+  "body": "GPT-6.2 Astra ve Sol modelleri, OpenAI'ın resmi duyurusuna göre geliştirilmiş profesyonel yetenekler ve artırılmış verimlilikle kullanıcıların erişimine sunuldu. ChatGPT Work, Codex ve API üzerinden erişilebilen bu yeni modeller, daha düşük maliyetle daha yüksek performans sağlamayı hedefliyor.\n\n## Yeni modellerin özellikleri\n\nOpenAI'ın aktardığına göre yeni sürümler; gelişmiş kodlama becerileri, daha doğru profesyonel çıktılar ve bilgisayar kullanımı gibi alanlarda önemli iyileştirmeler içeriyor. Şirket, bu güncellemeyle birlikte hem bireysel geliştiricilerin hem de kurumsal kullanıcıların iş akışlarında daha yüksek verimlilik elde etmesini amaçlıyor.\n\n## Erişim ve kullanım alanları\n\nDuyuruya göre GPT-6.2 serisi üyeleri şu platformlar üzerinden kullanılabiliyor:\n\n* ChatGPT Work\n* Codex\n* API\n\n**Neden önemli?** OpenAI tarafından yapılan açıklamaya göre GPT-6.2 Astra ve Sol, daha düşük maliyetle artırılmış işlem verimliliği sağlayarak yapay zeka araçlarının profesyonel ve kurumsal alanlardaki kullanım alanlarını genişletiyor.",
+  "category": "modeller",
+  "tags": [
+    "OpenAI",
+    "GPT-6.2",
+    "ChatGPT",
+    "Codex",
+    "büyük dil modelleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "GPT-6.2 Astra ve Sol duyuruldu",
+  "kicker": "Yeni model",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic dark grey matte obsidian slab resting on a brushed stainless steel surface, a sharp narrow beam of warm amber light cutting horizontally across its upper edge, creating a precise gradient of shadow and illumination",
+  "focus_keyword": "GPT-6.2 Astra ve Sol",
+  "seo_title": "GPT-6.2 Astra ve Sol modelleri duyuruldu",
+  "meta_description": "OpenAI tarafindan duyurulan GPT-6.2 Astra ve Sol modelleri hakkindaki en guncel bilgilere, ozelliklere ve kullanim alanlarina bu haberden ulasabilirsiniz.",
+  "seo_slug": "gpt-6-2-astra-ve-sol-modelleri-duyuruldu",
+  "image_alt": "Mat siyah obsidian blok üzerinde yatan ince amber rengi ışık çizgisiyle GPT-6.2 Astra ve Sol duyurusunu temsil eden stüdyo…",
+  "cover_text": "GPT-6.2",
+  "importance": 10,
+  "triage_reason": "OpenAI'ın yeni nesil amiral gemisi yapay zeka modellerini duyurduğu büyük bir gelişme.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T17:45:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "2026-11-17T17:45:00Z",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 719
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
