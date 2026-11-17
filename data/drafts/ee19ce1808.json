@@ -1,0 +1,69 @@
+{
+  "id": "ee19ce1808",
+  "status": "pending",
+  "created_at": "2026-11-17T17:18:42Z",
+  "title": "Google, Gemini 4 Hydrogen modelini ve yeni özelliklerini duyurdu",
+  "summary": "Google, Gemini 4 Hydrogen modeline dayanan yeni özelliklerini kullanıma sundu. Güncelleme ile birlikte Gemini, kullanıcılar adına işlem yapabilen bir asistana dönüşüyor.",
+  "body": "Google, Gemini 4 Hydrogen modelini temel alan yeni özelliklerini 17 Kasım 2026 itibarıyla kullanıma sundu. Şirketin duyurusuna göre, Gemini artık e-posta, takvim, fotoğraflar ve ödeme yöntemleri gibi kişisel verilerle entegre çalışarak kullanıcıların günlük görevlerini üstlenen bir asistana dönüşüyor. Yeni yetenekler; ABD, Japonya, Güney Kore, Kanada, Avustralya ve Hindistan'da ücretsiz olarak sunuluyor.\n\n## Gemini 4 Hydrogen neler yapabiliyor?\nGemini, **Agent Payments Protocol** (AP2) adı verilen yeni bir ödeme protokolü sayesinde kullanıcılar adına alışveriş yapabiliyor. Mastercard ve Visa gibi platformlarla entegre olan bu sistem, kullanıcılara harcama limitleri belirleme ve dijital token kullanımı gibi güvenlik önlemleri sunuyor. Ayrıca Gemini; servis randevusu alma, elektrik faturası analizi, market siparişi verme ve okul programlarını takvime işleme gibi karmaşık görevleri de gerçekleştirebiliyor.\n\nSistem, şu an dünya genelinde 60'tan fazla popüler uygulama ile bağlantı kurabiliyor. Geliştiriciler ise şirketin 'Connected Apps Platform' üzerinden sisteme dahil olabiliyor. Gemini, görevleri yerine getirirken kritik adımlardan önce kullanıcı onayı alıyor ve işlemlerini donanım seviyesinde izole edilmiş sanal makinelerde yürütüyor.\n\n## Veri güvenliği ve gizlilik\nGoogle, Gemini'ın gerçekleştirdiği işlemlerin güvenliğini sağlamak için çok katmanlı bir savunma stratejisi izlediğini belirtiyor. Gemini, Google Cloud’un **Agent Compute Engine** teknolojisini kullanarak, her kullanıcı için özel olarak oluşturulan ve diğer kullanıcılardan izole edilmiş sanal ortamlarda çalışıyor. Şirket, kullanıcıların istedikleri zaman bağlantılı uygulamaları devre dışı bırakabileceğini veya sohbet geçmişlerini silebileceğini vurguluyor.\n\n**Neden önemli?** Gemini, basit bir sohbet robotu olmaktan çıkıp internet üzerinde aktif olarak işlem yapabilen ve kullanıcıların günlük rutinlerini yönetebilen bir aracı haline geliyor. Bu durum, kişisel asistan teknolojilerinin kullanıcı verileri ve otonom satın alma süreçleriyle nasıl entegre edildiğini gösteriyor.",
+  "category": "modeller",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Gemini 4 Hydrogen",
+    "yapay zeka ajanları",
+    "kişisel asistan"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini artık kullanıcılar adına işlem yapabiliyor",
+  "kicker": "Yeni model",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of translucent, frosted-glass geometric shapes arranged on a dark, matte surface. Some shapes are interconnected by thin, glowing fiber-optic lines representing data flows, while a small, metallic ring rests near the center, symbolizing a transaction. The lighting is soft and diffuse, emphasizing the contrast between the sharp glass edges and the warm, ambient light.",
+  "focus_keyword": "gemini 4 hydrogen",
+  "seo_title": "Gemini 4 Hydrogen ile yapay zeka asistana dönüştü",
+  "meta_description": "Google, Gemini 4 Hydrogen modelini ve kullanıcıların günlük görevlerini üstlenen yeni otonom asistan özelliklerini duyurdu.",
+  "seo_slug": "google-gemini-4-hydrogen-modeli-duyuruldu",
+  "image_alt": "Soyut buzlu cam formları ve ışık hatları ile temsil edilen dijital asistan teknolojisi",
+  "cover_text": "Gemini 4 Hydrogen",
+  "importance": 6,
+  "triage_reason": "Google, Gemini görevlerini altı ülkede ücretsiz yapıyor ve Workspace entegrasyonunu genişletiyor.",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "title": "Put Gemini to work for you",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google",
+      "kind": "official",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published": "2026-11-17T17:00:00Z",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "text": "Put Gemini to work for you\nThe best assistant knows you and helps you get things done. Today, you can now hand off even more tasks to Gemini and move on with your day. We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to save you time and money.\nStarting now, this update is rolling out free of charge for hundreds of millions of people across the U.S., Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model. We’re also rolling out a set of advanced features, starting in the U.S.\nHow it’s changing my daily routine\nIf your emails, calendar, passwords, photos, files, and payment cards are already in the Google ecosystem, Gemini is your best choice as a personal assistant because this sensitive data already lives at Google securely, and you don’t have to send it elsewhere.\nHere’s how I’m using it.\nRecently, our minivan’s check-engine light came on. Ugh. I pulled out Gemini and told it, \"Our minivan is overdue for a service appointment. Please call the two nearest dealerships and figure out how to get an appointment early Friday morning over the next month or so.\"\nBecause Gemini already knows we drive a 2019 Honda Odyssey and where we live through Personal Intelligence, it found the nearest shops on Google Maps and called both at once 1 . Thankfully, I didn’t have to suffer through any hold music. Gemini did the job, found a time in my Google Calendar when I was free, and added the Friday early morning appointment in less than five minutes. Done. (On the dealership's end, Gemini disclosed right away that it's an AI. Businesses can opt out whenever they want, and Gemini won’t give out my payment or private account info unless I say so.)\nIn the background, Gemini called both dealerships at once, sat through the hold music for me, booked an appointment at the shop that accepts appointments vs. walk-ins only, and put Friday's appointment on my calendar without me having to check it.\nLast month it saved us real money after we got hit with a surprise $389 electric bill. I gave Gemini permission to access our utility portal with the new Google Password Manager integration and asked for it to analyze our past billing statements in my email. Gemini worked for a few minutes, and then nailed it. The primary culprit was our heat pump, which it turns out was kicking on around 4 p.m., right in the middle of peak pricing. My wife and I never would have caught that digging through the PDFs and emails ourselves.\nI use it for smaller stuff, too. For our upcoming holiday trip back to Oklahoma, I recently asked Gemini to give me the best options for a USB-C charger. Gemini quickly compared chargers thanks to Google’s Shopping Graph, asked me follow-up questions about the wattage and color, and then helped me check out using the new Google Pay integration. The best part: it also found a discount code so I saved an extra $10. Done.\nGemini now uses the Agent Payments Protocol (AP2) to make purchases like this. We’re working with American Express (coming soon), Mastercard, and Visa to keep your purchases secure with digital tokens on supported cards. And when you shop with Gemini, you still earn your card's points, cashback, or purchase protections during checkout. You can also set a hard spending cap upfront, and Gemini is designed to stay within your budget. All of your receipts and tracking info land straight in Google Wallet, which is expanding to iOS starting today. Up next, we’ll integrate the Universal Commerce Protocol (UCP) into Gemini so everyone can expect an even faster and more reliable shopping experience from discovery to checkout.\nGemini lets you set the spending limit and still earn every airline mile, cashback point, and perk on your card.\nGemini helps with weeknight dinners, too. I recently stared down a nearly empty fridge rushing out the door in the morning, and I texted Gemini with the new RCS integration 2 : “Add lasagna, strawberries, cucumbers, and vanilla ice cream to our Instacart order.” On the walk out, I saw an empty Cheerios box in the pantry, so I snapped a photo and sent a quick follow-up: “Add this too.” Gemini added it, and then handed me off to Instacart to complete the order. Groceries were on the doorstep when we got home. Done. Today, Gemini connects with more than 60 popular apps and, as a developer, you can apply to join our Connected Apps Platform.\nMy wife and I also use Gemini to sort out medical bills, keep track of insurance renewals, and stay on top of our kids' schedules. Earlier this week, I forwarded a batch of school emails from Gmail to gemini@google.com. In less than a minute, every date was on my calendar with my wife invited. Better yet, it noticed a conflict during basketball practice and asked if I wanted to text one of the other parents to trade carpool duty.\nHow we protect your data\nAs Gemini becomes more capable, we continually advance our security defenses. When you assign Gemini a task, it uses Google Cloud’s Agent Compute Engine to work in a hardware-isolated virtual machine that’s dedicated to your account and never shared with other users. Each virtual machine is sandboxed, so Gemini works in a separate, isolated environment that’s regularly tested by our security red teams. This sandbox is just one of multiple layers of defense, including prompt-injection filters that scan search results, webpages, and more alongside Google Safe Browsing to limit which links Gemini can open.\nAs Gemini works on a task, you can jump in to give it more instructions at any point, and it’s also designed to pause and check with you before critical steps. For example, Gemini is designed to ask for your confirmation or pre-approval before clicking \"Buy,\" and will ask clarifying questions if an instruction is ambiguous. For routine stuff you already trust, like adding those Cheerios to your grocery cart, you can set that to “Always allow” so it doesn’t pester you.\nAnd finally, we give you access to settings and tools that help you safeguard your data and protect your privacy. You can adjust task settings, disconnect Google and third-party apps, or delete chat history anytime. For a closer look at how we’ve implemented a multi-layer defense-in-depth security strategy, read our technical paper.\nAnd please participate in our bug bounty program through Google’s AI Vulnerability Reward Program (AI VRP) to advance the security of agentic systems.\nHow you can help us improve\nWhile we’ve tested tasks extensively to minimize mistakes, we haven't eliminated all of them. You may encounter situations where a task fails to complete or misses the mark. When you see this, please provide feedback by giving the response a “thumbs down.”\nFor example, the way personal assistants navigate the web is still evolving as sites are still adapting to these new use cases. On some sites, Gemini can make it most of the way through and then hand the screen back to you"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 711
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google"
+}
