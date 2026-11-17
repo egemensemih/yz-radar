@@ -1,0 +1,58 @@
+{
+  "id": "0a4510f167",
+  "created_at": "2026-11-17T14:20:43Z",
+  "title": "Spotify Artist Profile Protection aracı ile deepfake şarkılarla mücadele ediyor",
+  "summary": "Spotify, sanatçıların profillerinde yanlış veya yapay zeka tarafından üretilmiş müziklerin yer almasını engelleyen yeni bir kontrol aracını kullanıma sundu.",
+  "body": "Spotify, platformdaki sanatçı profillerinin doğruluğunu korumak amacıyla geliştirdiği Artist Profile Protection adlı yeni aracı tüm kullanıcılarına açtığını duyurdu. TechCrunch'ın aktardığına göre, bu özellik sanatçıların kendi adları altında yayınlanan müzikleri denetlemelerine ve hatalı veya izinsiz içerikleri profillerinden ayırmalarına olanak tanıyor.\n\n## Artist Profile Protection nasıl çalışıyor?\n\nSanatçılar, Spotify for Artists paneli üzerinden erişebilecekleri bu özellik sayesinde adlarına yeni bir müzik yüklendiğinde bildirim alabiliyor. Varsayılan ayarlarda içerikler planlandığı gibi yayına girerken, sanatçılar dilerse tüm yeni yayınların profillerinde görünmesi için manuel onay gerektiren gelişmiş ayarı aktif edebiliyor. Spotify'ın Küresel Pazarlama ve Politika Başkanı Sam Duboff, \"Sanatçı profili kendi kontrollerinde olmalı\" ifadesiyle sistemin sanatçıların dijital kimliklerini koruma odaklı olduğunu vurguladı.\n\n## Sektörel bir çözüm arayışı\n\nBu hamle, dijital müzik platformlarında artan yapay zeka destekli içerik ve yanlış eşleşme sorunlarına karşı bir önlem olarak hayata geçirildi. Daha önce sektörde yaşanan benzer sorunlar kapsamında, Sony Music'in dijital platformlardan 260.000'den fazla yapay zeka üretimi şarkının kaldırılmasını talep ettiği bildirilmişti. Spotify, beta sürecinde binlerce sanatçıyla çalışarak geliştirdiği bu çözümle, müzik endüstrisi genelinde bir standart oluşturmayı hedeflediğini belirtiyor.\n\n**Neden önemli?** Spotify'ın bu girişimi, yapay zeka ile üretilen içeriklerin platformlarda yarattığı dezenformasyon ve hak ihlalleri sorununa karşı geliştirilen ve sanatçılara doğrudan kontrol yetkisi veren ilk yayın servisi çözümü olma özelliğini taşıyor.",
+  "category": "urunler",
+  "tags": [
+    "Spotify",
+    "yapay zeka",
+    "müzik endüstrisi",
+    "telif hakları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Spotify'dan sanatçılar için profil koruma aracı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "260.000",
+  "hero_stat_label": "kaldırılan deepfake şarkı",
+  "visual_style": "still_life",
+  "visual_scene": "A clean, minimalist desk surface with a vintage analog record label card resting on top of a digital tablet screen showing a verification checkmark, soft side lighting casting a gentle shadow.",
+  "focus_keyword": "Spotify Artist Profile Protection",
+  "seo_title": "Spotify Artist Profile Protection ile deepfake önlemi",
+  "meta_description": "Spotify, sanatçıların profillerini yapay zeka içeriklerinden korumak için Artist Profile Protection aracını kullanıma sundu. Detaylar için tıklayın.",
+  "seo_slug": "spotify-artist-profile-protection-devrede",
+  "image_alt": "Spotify üzerinde sanatçı profillerini korumayı temsil eden dijital doğrulama simgesi ve bir müzik plağı tasarımı.",
+  "cover_text": "Profile Protection",
+  "importance": 6,
+  "triage_reason": "Spotify sanatçılara ait yapay zeka derin kopya (deepfake) şarkılarını önlemek için yeni araç duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 699
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "spotify-artist-profile-protection-devrede",
+  "published_at": "2026-11-17T14:20:46Z",
+  "publish_mode": "auto"
+}
