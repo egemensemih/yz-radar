@@ -1,0 +1,69 @@
+{
+  "id": "5c3a5715c3",
+  "status": "pending",
+  "created_at": "2026-11-17T16:31:24Z",
+  "title": "NVIDIA bilimsel çalışmalar için yeni yapay zeka araçlarını tanıttı",
+  "summary": "NVIDIA, Chicago'da düzenlenen SC26 konferansında, araştırmacıların kendi sistemlerinde çalıştırabileceği yeni yapay zeka ajan araçlarını ve Rubin HPC GPU'sunu duyurdu.",
+  "body": "NVIDIA, 17 Kasım 2026'da Chicago'da başlayan SC26 konferansı kapsamında bilimsel araştırmalara yönelik geliştirdiği yeni teknolojileri tanıttı. Şirket, araştırmacıların deney planlama, kod çalıştırma ve sonuçları analiz etme süreçlerini otomatikleştiren **yapay zeka ajanları** için yeni yazılım araçları sundu. NVIDIA'nın hiperscale ve yüksek performanslı bilişimden sorumlu başkan yardımcısı Ian Buck, gelecekte simülasyonun yapay zeka ve kuantum teknolojileriyle birleşerek bilimsel araştırmaların temelini oluşturacağını belirtti.\n\n## Bilimsel araştırmalar için açık modeller\n\nTanıtılan yenilikler arasında yer alan Nemotron for Science, bilimsel çalışmalar için tasarlanmış açık kaynaklı bir model olarak dikkat çekiyor. Nemotron 3.5 Super VL modelini temel alan bu platform, özellikle yaşam bilimleri ve kimya alanında araştırmacılara kendi verileri üzerinde çalışma imkanı tanıyor. Buck, Argonne Ulusal Laboratuvarı'nda bu araç setiyle geliştirilen bir ajanın, tek bir komutla hipotezleri test edip yeni bağlanma bölgeleri tanımlayabildiğini ifade etti. Ayrıca, KTH Kraliyet Teknoloji Enstitüsü'nden bir ajanın, GROMACS kurulumlarındaki hataları kendi kendine düzelterek test vakalarının %81'ini başarıyla onarabildiği paylaşıldı.\n\n## Donanım yenilikleri ve kuantum çalışmaları\n\nNVIDIA, bilimsel analizler ve yapay zeka hesaplamaları için geliştirilen yeni **Rubin HPC GPU** platformunu da duyurdu. 2028 yılında kullanıma sunulması beklenen bu yeni GPU, Hopper mimarisine kıyasla üç kat daha fazla, yani 50.000'den fazla CUDA çekirdeğine sahip. Şirket ayrıca IBM ve Fermi Ulusal Hızlandırıcı Laboratuvarı ile kuantum bilişim alanında yeni bir iş birliği başlattı. Bu ortaklık, kuantum hata düzeltme süreçlerini hızlandırmayı ve hesaplama sürelerini haftalardan dakikalara indirmeyi hedefleyen yeni algoritmalar geliştirmeyi amaçlıyor.\n\n**Neden önemli?** NVIDIA'nın tanıttığı bu yeni ajan tabanlı sistemler ve yüksek performanslı donanımlar, bilimsel araştırmaların yürütülmesinde kullanılan hesaplama süreçlerini hızlandırmayı ve araştırmacıların kendi veri egemenliklerini korumalarını hedefliyor.",
+  "category": "donanim",
+  "tags": [
+    "NVIDIA",
+    "yapay zeka ajanları",
+    "yüksek performanslı bilişim",
+    "IBM",
+    "Rubin HPC"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "NVIDIA'dan yeni bilimsel yapay zeka araçları",
+  "kicker": "Donanım ve Yazılım",
+  "hero_stat": "50.000",
+  "hero_stat_label": "CUDA çekirdeği",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of floating obsidian-colored geometric pillars arranged in a circle, connected by thin, glowing threads of light that represent data flow, set against a dark, minimalist industrial background.",
+  "focus_keyword": "yapay zeka ajanları",
+  "seo_title": "NVIDIA'dan bilimsel araştırmalar için yapay zeka ajanları",
+  "meta_description": "NVIDIA, bilimsel deneyleri planlayan ve analiz eden yeni yapay zeka ajanlarını ve Rubin HPC GPU platformunu SC26 konferansında tanıttı.",
+  "seo_slug": "nvidia-yeni-yapay-zeka-ajanlari-duyurdu",
+  "image_alt": "NVIDIA'nın SC26'da tanıttığı bilimsel yapay zeka ajan teknolojisini temsil eden soyut geometrik formlar.",
+  "cover_text": "Nemotron for Science",
+  "importance": 7,
+  "triage_reason": "NVIDIA'nın bilimsel araştırmalar ve yapay zeka ajanları için duyurduğu yeni araçlar önemli bir donanım/yazılım gelişmesi.",
+  "sources": [
+    {
+      "name": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T14:00:10Z"
+    }
+  ],
+  "source_keys": [
+    "NVIDIA"
+  ],
+  "source_texts": [
+    {
+      "credit": "NVIDIA",
+      "kind": "official",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "published": "2026-11-17T14:00:10Z",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "text": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.\nIn NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance computing. He also detailed a new collaboration in quantum computing with IBM and Fermi National Accelerator Laboratory.\n“The frontier of computing and the new scientific stack is going to be simulation, as always, but combined with AI and the future of quantum,” said Buck, vice president of hyperscale and high-performance computing at NVIDIA.\nBuck opened the talk by looking back to his first public talk on CUDA, at an SC06 tutorial in Tampa, Florida, 20 years ago. NVIDIA now offers more than 1,000 CUDA-X libraries, he said.\nOpen Models for Science Agents\n“[Agents] have been just a game changer in how we interface with our supercomputers, with our devices, our instruments and how we can do the research,” Buck said.\nSimulation remains the foundation of scientific computing, “which will always be on the top,” Buck said, with AI, quantum and now agents working alongside it.\nNemotron for Science combines the Nemotron 3.5 Super VL open model with a new open chemistry dataset and post-training recipes for life sciences and chemistry, Buck explained. Researchers can run it locally on a DGX Spark, a workstation or their own supercomputer.\nAt Argonne National Laboratory, Buck said, an agent built with the toolkit took a single prompt, planned and tested hypotheses, chose which simulations to run and identified two new binding sites.\n“You own your data. You own the model,” Buck said.\nBuck highlighted other agents already in use:\n- GROMACS: An agent from KTH Royal Institute of Technology repairs broken GROMACS setups on its own. In one overnight run on a single DGX Spark, it fixed 81% of test cases.\n- SETI Institute: At the Allen Telescope Array, an agent took a one-line prompt to plot a methanol line. Buck explained that it then retuned for Doppler shift on its own [NGC 869 vs. 896, check slide].\n- Nsight AI Porting Agent: NVIDIA’s new agent ported a routine from the Weather Research and Forecasting (WRF) model to GPUs, Buck said, speeding it up more than 5x using about 150 million tokens.\nCPUs for the Agent Loop\nAgents lean on CPUs to run tool calls between model steps, Buck explained.\n“That’s exactly what agents need,” he said. “They need a CPU that can run, evaluate, run the tool, perform the operations, gather the results.”\nDKRZ, the German Climate Computing Center, has selected Vera CPUs for its HLRE-5 supercomputer, expected in early 2028. Buck said it joins Vera systems already announced at Texas Advanced Computing Center.\nA New GPU for Science\nRubin HPC is a new GPU in the Vera Rubin platform, built for science, engineering, analytics and AI, Buck said.\nIt supports precisions from FP64 to FP4, adds sparse-data acceleration and connects over seventh-generation NVIDIA NVLink. With more than 50,000 CUDA cores, it has about three times as many as Hopper, Buck said. It is expected in 2028.\nQuantum Error Correction\nBuck said a simulation on Jülich’s JUPITER supercomputer showed that a technique called magic state cultivation can cut the operations needed for one logical step tenfold. The work is being added to CUDA-Q.\nNVIDIA, IBM and Fermilab announced plans today for a quantum computing co-design platform to support error-correction and applications research. NVIDIA and IBM are pairing NVIDIA DGX B200 systems with IBM quantum computers, including those powered by IBM Quantum Nighthawk.\nBuck also introduced a new breakthrough for quantum decoding. The goal, Buck explained, is to cut decoding latency from about 300 microseconds to 10. A new CUDA-Q decoding algorithm, TCBP-JOBS, cuts error-correction research computation from 12 weeks to 45 minutes, he said.\nNetworking\nBuck also showed one of the first deployments of NVIDIA Photonics co-packaged optics switches, at Lambda. He said they are 15x more reliable on bit errors and link flaps.\nSee notice regarding software product information."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 703
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: NVIDIA"
+}
