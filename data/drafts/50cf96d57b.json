@@ -38,10 +38,20 @@
       "via": null,
       "via_url": "https://webrazzi.com/2026/11/17/model-ml-250-milyon-dolar-yatirimla-15-milyar-dolar-degerlemeye-ulasti/#comments",
       "published": "2026-11-17T13:00:00Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T19:32:11Z"
     }
   ],
   "source_keys": [
-    "Webrazzi"
+    "Webrazzi",
+    "TechCrunch"
   ],
   "source_texts": [
     {
