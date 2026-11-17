@@ -1,0 +1,59 @@
+{
+  "id": "a62ce3649b",
+  "created_at": "2026-11-17T19:04:42Z",
+  "title": "Google Spark AI aracını Tasks olarak yeniden markaladı",
+  "summary": "Google, Spark yapay zeka ajanını Tasks adıyla ücretsiz kullanıma sundu. Gemini 4 Hydrogen modelinden güç alan yeni araç, takvim ve e-posta yönetimi yapabiliyor.",
+  "body": "Google, Spark olarak bilinen yapay zeka ajanını \"Tasks\" ismiyle yeniden markalayarak geniş kitlelerin kullanımına sundu. The Verge tarafından aktarılan bilgilere göre, daha önce yalnızca Google AI Pro ve Ultra abonelerine açık olan bu özellik, artık Gemini üzerinden ücretsiz olarak erişilebilir durumda. Tasks, temel olarak Google'ın yeni Gemini 4 Hydrogen adlı yapay zeka modelinden güç alıyor. Kullanıcılar, Gemini arayüzündeki ana sayfada yer alan geçiş düğmesini kullanarak \"Chat\" modundan \"Tasks\" moduna geçiş yapabiliyor.\n\n## Tasks ile sunulan yeni özellikler\n\nYeniden adlandırılan Tasks, kullanıcıların günlük rutinlerini kolaylaştırmayı hedefliyor. Özellik sayesinde yapay zeka, yemek planları oluşturma, takvim yönetimi ve e-posta içeriklerini tarayarak gereksiz abonelikleri veya tekrarlayan harcamaları tespit etme gibi görevleri yerine getirebiliyor. Bazı ülkelerde ise sistemin yetenekleri daha kapsamlı bir hal alıyor.\n\nAmerika Birleşik Devletleri, Kanada, Japonya, Kore, Avustralya ve Hindistan'daki kullanıcılar için sunulan ek özellikler şunları içeriyor:\n\n* İşletmeleri arayarak fiyat karşılaştırması yapma ve envanter kontrolü sağlama.\n* Google Pay üzerinden ürün satın alma işlemleri gerçekleştirme.\n* Google Password Manager tarafından desteklenen hesaplara otomatik giriş yapma.\n* E-posta veya kısa mesaj yoluyla görev atama.\n\n## Güvenlik ve gizlilik standartları\n\nGoogle, Tasks işlevini gerçekleştirirken \"hesabınıza özel donanım izolasyonlu bir sanal makine\" kullandığını ve bu işlemlerin başka kullanıcılarla hiçbir şekilde paylaşılmadığını belirtiyor. Yapay zeka ajanının, satın alma gibi hassas işlemler sırasında kullanıcının onayını almak için durakladığı ifade ediliyor. Ayrıca kullanıcılar, sistem görevlerini yerine getirirken talimatlar vererek süreci yönlendirebiliyor.\n\n**Neden önemli?** Google'ın bu hamlesi, Claude Duet, OpenAI’ın Dots ve Meta’nın Muse modelleri gibi sektörde yaygınlaşan ajan tabanlı yapay zeka rekabetindeki yerini sağlamlaştırmayı amaçlıyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Gemini 4 Hydrogen",
+    "yapay zeka ajanları",
+    "Tasks"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Spark artık Tasks adıyla ücretsiz",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "diorama",
+  "visual_scene": "A small, isometric desk setup inside a glass cube. A digital assistant node is represented by a soft, glowing orb hovering above a stack of physical paper documents, with a tiny, stylized mechanical arm gently interacting with a simplified calendar icon.",
+  "focus_keyword": "Google Spark AI",
+  "seo_title": "Google Spark AI artık Tasks adıyla ücretsiz sunuluyor",
+  "meta_description": "Google, Spark AI ajanını Tasks olarak güncelledi ve ücretsiz kullanıma açtı. Gemini 4 Hydrogen destekli yeni özellikleri ve detayları inceleyin.",
+  "seo_slug": "google-spark-ai-tasks-olarak-yenilendi",
+  "image_alt": "Dijital bir asistanın çalışma masası üzerinde belgelere müdahale etmesini simgeleyen diorama tarzı görsel",
+  "cover_text": "Tasks",
+  "importance": 7,
+  "triage_reason": "Google'ın yapay zeka ajanını Tasks adıyla ücretsiz sunması önemli bir ürün hamlesidir.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T18:58:01Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 725
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-spark-ai-tasks-olarak-yenilendi",
+  "published_at": "2026-11-17T19:04:56Z",
+  "publish_mode": "auto"
+}
