@@ -1,0 +1,59 @@
+{
+  "id": "d33849cad6",
+  "created_at": "2026-11-17T22:40:57Z",
+  "title": "Amazon ve Google halka arz sonrası Anthropic hisselerinin yüzde 30'una sahip olacak",
+  "summary": "Anthropic'in halka arz sürecine ilişkin detaylar netleşirken, Amazon ve Google'ın şirketteki toplam payının yüzde 30'a yakın olacağı açıklandı.",
+  "body": "TechCrunch'ın aktardığına göre, yapay zeka şirketi Anthropic, büyük bulut sağlayıcıları Amazon ve Google ile yapılan yatırım anlaşmalarına dair yeni ayrıntıları 17 Kasım 2026 tarihinde paylaştı. Yapılan açıklamaya göre, halka arz sonrasında **Amazon ve Google** şirketin hisselerinin yaklaşık yüzde 30'unu elinde bulunduracak. Bu ortaklık yapısı, yapay zeka sektöründeki büyük teknoloji yatırımlarının geleceği açısından dikkat çekici bir tablo ortaya koyuyor.\n\n## Hisseler ve dönüştürülebilir senetler\n\nAnthropic'in sunduğu dosyalara göre Amazon'un toplam payı yüzde 14,7 oranında gerçekleşecek. Şirket, 2023 ve 2024 yıllarında yaptığı milyarlarca dolarlık yatırımlar karşılığında hisse senedine dönüştürülebilir senetler elde etmişti. Bu senetlerin bir kısmını halka arz sürecinde oy hakkı olmayan özel bir sınıftaki hisselere dönüştürmeyi seçen Amazon, dilerse elindeki senetlerin tamamını dönüştürerek şirkette yüzde 23,8 oranında pay sahibi olabileceği potansiyeli de elinde tutuyor. Öte yandan Google, hisse senedi dönüştürme işlemleri ve özel tahsisli satışlar aracılığıyla halka arz sonrasında yüzde 13,7 oranında paya sahip olacak. Dosyalarda, AMD, Broadcom, Google, Micron, Microsoft, Nvidia ve TSMC Partners gibi dev isimlerin de yer aldığı bir grubun toplam 26 milyar dolarlık oy hakkı olmayan hisse alımı konusunda mutabakata vardığı, bu kapsamda Google ve Nvidia'nın ayrı ayrı 10 milyar dolarlık alım taahhüdünde bulunduğu belirtildi.\n\n## Uzun vadeli bulut taahhütleri\n\n* Amazon'un sahip olduğu pay, halka arz kapsamında dönüştürülen senetler yoluyla yaklaşık yüzde 15 seviyesinde şekilleniyor.\n* Google ise halka arz sürecindeki özel yerleştirme ve senet dönüşümleriyle yüzde 14'ün altında bir orana ulaşıyor.\n* Halka arzda oy hakkı olmayan hisse stokundan pay almak üzere bir araya gelen teknoloji devleri arasında Nvidia ve Google 10'ar milyar dolarlık taahhütle öne çıkıyor.\n\n**Neden önemli?** Açıklanan veriler, dev bulut ve donanım sağlayıcılarının yapay zeka ekosistemindeki stratejik ortaklıklarını ve finansal ağırlıklarını gözler önüne sererken, Amazon'un ayrıca gelecek on yılda 100 milyar dolardan fazla bulut hizmeti harcaması taahhüdüyle AWS üzerinden ek kazanç sağlayacağını gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Amazon",
+    "Google",
+    "Nvidia",
+    "Claude"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Amazon ve Google Anthropic hisselerinin yüzde 30'una ortak",
+  "kicker": "Halka arz",
+  "hero_stat": "%30",
+  "hero_stat_label": "toplam pay",
+  "visual_style": "studio",
+  "visual_scene": "three distinct frosted-glass columns of varying heights standing on a dark stone surface, catching warm light from a single overhead source, with several small polished metallic spheres resting near the base",
+  "focus_keyword": "Amazon ve Google",
+  "seo_title": "Amazon ve Google Anthropic halka arzı sonrası ortak oluyor",
+  "meta_description": "Anthropic'in halka arz detaylarına göre Amazon ve Google şirketin yüzde 30'una yakın hisseye sahip olacak. Detaylar haberimizde.",
+  "seo_slug": "amazon-ve-google-anthropic-halka-arzi-sonrasi-ortak-oluyor",
+  "image_alt": "Anthropic halka arzını temsil eden üç adet buzlu cam sütun ve metal küreler",
+  "cover_text": "Anthropic IPO",
+  "importance": 8,
+  "triage_reason": "Amazon ve Google'ın Anthropic halka arzı sonrası ortaklık payları sektör için büyük önem taşıyor.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T22:29:05Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 729
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "amazon-ve-google-anthropic-halka-arzi-sonrasi-ortak-oluyor",
+  "published_at": "2026-11-17T22:40:59Z",
+  "publish_mode": "auto"
+}
