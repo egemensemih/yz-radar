@@ -1,0 +1,59 @@
+{
+  "id": "6ba95807d9",
+  "created_at": "2026-11-17T18:31:19Z",
+  "title": "Pedestal AI tedarik zinciri yönetimi için 4,7 milyon dolar yatırım aldı",
+  "summary": "Pedestal AI, tedarik zinciri süreçlerini yapay zeka aracılığıyla optimize etmek amacıyla 4,7 milyon dolar tohum yatırım ile gizlilikten çıktı.",
+  "body": "Tedarik zinciri süreçlerini otonom sistemlerle optimize etmeyi hedefleyen **Pedestal AI**, TechCrunch'ın aktardığına göre 17 Kasım'da 4,7 milyon dolar tohum yatırım alarak gizlilik sürecini sonlandırdı. Şirketin geliştirdiği yapay zeka ajanları, teslimat süreçlerindeki sürtünmeleri azaltmayı ve sevkiyatları daha güvenilir hale getirmeyi amaçlıyor. Kurucu ortak ve CEO Raj Aggarwal, mevcut yapay zeka sistemlerinin dağınık ve sürekli değişen verilerle başa çıkmada oldukça işlevsel olduğunu belirtiyor.\n\n## Tedarik zincirinde yapay zeka kullanımı\n\nŞirket tarafından geliştirilen otonom ajanlar, sürücülerin yapması gereken bazı görevleri devralarak pratik alanlarda önemli sonuçlar elde ediyor. Örneğin büyük bir mobilya firması için devreye sokulan yapay zeka sistemi, teslimattan 30 dakika önce müşterileri arayarak özel talimatlar topladı ve bu sayede kaçırılan teslimat oranını %20 oranında azalttı. Aramanın başarısız olması durumunda ise farklı bir sistem üzerinden kısa mesaj gönderiliyor.\n\n## Yatırım turu ve pazar dinamikleri\n\nEclipse liderliğinde gerçekleştirilen tohum yatırım turuna RRE, Converge VC, Timescale VC ve VitalStage katılım gösterdi. Sağlanan finansman; ürün ve mühendislik ekibinin büyütülmesi, pazarlama organizasyonunun geliştirilmesi ve ek dağıtımların desteklenmesi için kullanılacak. Sektördeki diğer girişimler arasında Tesla eski çalışanlarının kurduğu envanter odaklı Atomic ve Uber eski çalışanlarının kurduğu tahminsel analitik girişimi Loop da yer alıyor.\n\n**Neden önemli?** Tedarik zinciri alanındaki yüksek hacimli ve kolay ölçülebilir sonuçlar, pekiştirmeli öğrenme sistemlerinin eğitilmesi için uygun bir ortam sunuyor ve bu çözümler doğrudan müşteri maliyetlerine etki edebiliyor.",
+  "category": "sirketler",
+  "tags": [
+    "Pedestal AI",
+    "Eclipse",
+    "Raj Aggarwal",
+    "Atomic",
+    "Loop"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Pedestal AI 4,7 milyon dolar yatırım aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "4,7 milyon $",
+  "hero_stat_label": "tohum yatırım",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "Pedestal AI",
+  "seo_title": "Pedestal AI tedarik zinciri için 4,7 milyon dolar aldı",
+  "meta_description": "Pedestal AI, tedarik zinciri operasyonlarını otonom yapay zeka ajanlarıyla yönetmek amacıyla 4,7 milyon dolar tohum yatırım aldığını duyurdu.",
+  "seo_slug": "pedestal-ai-tedarik-zinciri-4-7-milyon-dolar-yatirim-aldi",
+  "image_alt": "Buzlu cam küplerden oluşan grafik ve yuvarlanan seramik küreler",
+  "cover_text": "Pedestal AI",
+  "importance": 6,
+  "triage_reason": "Tedarik zinciri için yapay zeka ajanları geliştiren girişim küçük ölçekli yatırım aldı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T18:04:16Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 721
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "slug": "pedestal-ai-tedarik-zinciri-4-7-milyon-dolar-yatirim-aldi",
+  "published_at": "2026-11-17T18:31:45Z",
+  "publish_mode": "auto"
+}
