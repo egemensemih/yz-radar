@@ -1,0 +1,59 @@
+{
+  "id": "bdd55f0b19",
+  "created_at": "2026-11-17T14:10:53Z",
+  "title": "Nvidia ulusal güvenlik komitesi kurdu",
+  "summary": "Jensen Huang'ın istifasının ardından Nvidia, ulusal güvenlik ve ihracat denetimi konularında doğrudan yönetim kurulu düzeyinde gözetim sağlayacak yeni bir komite kurdu.",
+  "body": "Nvidia, CEO Jensen Huang'ın görevinden ayrılmasının ardından ulusal güvenlik politikalarını ve ihracat denetimi uyum süreçlerini yönetmek üzere yeni bir komite kurduğunu duyurdu. TechCrunch'ın aktardığına göre, bu yeni oluşum, şirketin küresel ticaret risklerini takip etme ve uyum sağlama konusunda yönetim kurulu düzeyinde denetim mekanizması oluşturma amacını taşıyor. \n\n## Yeni yönetim yapısı\n\nNvidia'nın geçici CEO'su olarak görev alan CFO Collette Kress liderliğinde kurulan bu komite, en az üç ayda bir toplanacak. Komite başkanlığını direktör Suzanne Nora Johnson üstlenirken, yönetim kurulu üyeleri Stephen C. Neal ve John O. Dabiri de kurulda yer alıyor. Mevcut ulusal güvenlik ve küresel ticaret uyum ekipleri, faaliyetleri konusunda artık doğrudan bu yönetim kurulu komitesine rapor verecek.\n\n## İhracat kısıtlamaları ve inceleme\n\nBu hamle, ABD Ticaret Bakanlığı'nın yapay zeka çiplerine ve veri merkezlerine yönelik yeni ihracat kısıtlamaları hazırlığında olduğu bir döneme denk geldi. Bakanlığın bu düzenlemesi, şirketlerin mevcut kuralları aşarak yurt dışındaki yapay zeka altyapılarına uzaktan erişim sağlamasını engellemeyi hedefliyor. Bu yeni denetim süreci, Nvidia'daki çip kaçakçılığı iddiaları ve Huang'ın Çin'e yönelik ihracat kısıtlamalarının hafifletilmesi konusundaki tutumuna ilişkin süregelen tartışmaların ardından gündeme geldi. \n\n**Neden önemli?** Jensen Huang'ın, Çin ile bağlantılı olduğundan şüphelenilen bir kişiyle ilişki yaşadığına dair iddialar üzerine istifa etmesi, şirketin denetim süreçlerinde köklü bir yapı değişikliğine yol açtı. Eski CEO Huang'ın bu ay sonunda ABD Kongresi'nde ifade vermesi bekleniyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Collette Kress",
+    "ihracat denetimi",
+    "ABD"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nvidia'da yeni güvenlik komitesi",
+  "kicker": "Şirket yönetimi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of sharp-edged black obsidian blocks arranged in a circular formation on a polished dark surface, reflecting subtle blue light from above, symbolizing strict governance and oversight.",
+  "focus_keyword": "Nvidia ulusal güvenlik",
+  "seo_title": "Nvidia ulusal güvenlik komitesi kurdu",
+  "meta_description": "Nvidia, Jensen Huang'ın istifasının ardından ulusal güvenlik ve ihracat denetimi için yönetim kurulu düzeyinde yeni bir komite kurdu.",
+  "seo_slug": "nvidia-ulusal-guvenlik-komitesi-kurdu",
+  "image_alt": "Nvidia'nın kurduğu yeni güvenlik komitesini temsil eden siyah obsidyen bloklar.",
+  "cover_text": "Nvidia",
+  "importance": 6,
+  "triage_reason": "Nvidia ulusal güvenlik politikaları ve ihracat denetimleri için yeni komite kurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T14:05:30Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 696
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "nvidia-ulusal-guvenlik-komitesi-kurdu",
+  "published_at": "2026-11-17T14:10:54Z",
+  "publish_mode": "auto"
+}
