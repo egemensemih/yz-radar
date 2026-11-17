@@ -1,0 +1,60 @@
+{
+  "id": "1963b05960",
+  "created_at": "2026-11-17T17:49:15Z",
+  "title": "Proton Lumo masaüstü uygulaması Windows, macOS ve Linux için yayınlandı",
+  "summary": "Proton, gizlilik odaklı yapay zeka asistanı Lumo'nun masaüstü sürümlerini Windows, macOS ve Linux platformlarında kullanıma sundu.",
+  "body": "Gizlilik odaklı yazılımlarıyla tanınan Proton, yapay zeka asistanı Lumo'nun masaüstü sürümlerini kullanıma sundu. TechCrunch'ın aktardığına göre 17 Kasım 2026'da duyurulan Proton Lumo masaüstü uygulaması; Windows, macOS ve Linux işletim sistemlerinde kişisel dosyalar, bağlı uygulamalar ve yerel otomasyonlarla çalışma imkanı tanıyor.\n\n## Proton Lumo masaüstü entegrasyonları ve izin denetimi\n\nYeni uygulama, cihaz üzerindeki dosya sistemi erişimi, kabuk komutları çalıştırma ve tarayıcı içeriği çekme gibi yerel araçları destekliyor. Yapay zeka ajanı; Proton'un kendi e-posta servisinin yanı sıra Confluence, Dropbox ve Jira gibi üçüncü taraf platformlarla da entegre olabiliyor. Sistem ayrıca dış veri kaynaklarıyla iletişim kurmak için geliştirilen yerel ve uzaktan **Model Context Protocol** (MCP) sunucularını da destekliyor.\n\nKullanıcılar, yapay zeka ajanının gerçekleştirebileceği eylemler üzerinde ayrıntılı kontrol sahibi oluyor. Uygulama kapsamında şu güvenlik ve kontrol imkanları sunuluyor:\n\n- Otomatik çalıştırılacak, kullanıcı onayı gerektirecek veya tamamen engellenecek eylemleri her entegrasyon için ayrı belirleme\n- Belirli sohbetlerde araçları tek tıkla kapatabilme\n- Özel izin seviyelerine sahip zamanlanmış görevler oluşturma\n- Talimat ve şablonların tekrar kullanılmasını sağlayan **Skills** özelliğinden yararlanma\n\n## İsviçre merkezli gizlilik ve yeni donanım yatırımı\n\nProton'un açıklamasına göre sohbet geçmişi ve bağlı dosyalardan elde edilen veriler hiçbir zaman kişiselleştirilmiş reklamlar için kullanılmıyor veya yapay zeka modellerinin eğitilmesinde değerlendirilmiyor. Uçtan uca şifreleme sayesinde sohbet geçmişi yalnızca kullanıcı tarafından okunabiliyor. Veriler, ABD CLOUD Yasası kapsamının dışında kalan Avrupa altyapısında tutuluyor ve İsviçre gizlilik yasalarıyla korunuyor. Şirket ayrıca sunucu tarafında hiçbir kayıt tutmadığını vurguluyor.\n\nŞirket altyapı tarafında da yatırımlarına devam ediyor. Proton, İsviçre'de Open Compute Project standartlarına uygun olarak kurduğu ilk NVIDIA B300 kümesinin faaliyete geçtiğini duyurdu.\n\n**Neden önemli?** Masaüstünde çalışan yapay zeka ajanlarının dosya sistemine tam erişim istemesi veri güvenlik risklerini artırırken, Proton kişisel verilerin reklam veya model eğitimi için kullanılmayacağını taahhüt ederek gizlilik odaklı bir alternatif sunuyor.",
+  "category": "urunler",
+  "tags": [
+    "Proton",
+    "Lumo",
+    "Model Context Protocol",
+    "Nvidia B300",
+    "Windows",
+    "macOS"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Proton Lumo masaüstü sürümleri yayınlandı",
+  "kicker": "Masaüstü uygulaması",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist dark translucent glass vault door standing open on a clean polished concrete floor, revealing a softly lit geometric prism inside, matte metal textures, subtle ambient lighting, high contrast studio photography",
+  "focus_keyword": "Proton Lumo masaüstü",
+  "seo_title": "Proton Lumo masaüstü uygulaması çıktı",
+  "meta_description": "Proton Lumo masaüstü uygulaması Windows, macOS ve Linux için yayınlandı. Gizlilik odaklı yapay zeka asistanının tüm detayları haberimizde.",
+  "seo_slug": "proton-lumo-masaustu-uygulamasi-yayinlandi",
+  "image_alt": "Karanlık ve şeffaf cam kapı arkasında aydınlatılmış geometrik prizma",
+  "cover_text": "Proton Lumo",
+  "importance": 7,
+  "triage_reason": "Proton'un gizlilik odaklı masaüstü yapay zeka asistanı Lumo'yu piyasaya sürmesi dikkat çekici bir ürün duyurusu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T17:32:25Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 715
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "proton-lumo-masaustu-uygulamasi-yayinlandi",
+  "published_at": "2026-11-17T17:49:27Z",
+  "publish_mode": "auto"
+}
