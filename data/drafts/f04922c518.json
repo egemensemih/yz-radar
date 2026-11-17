@@ -1,0 +1,68 @@
+{
+  "id": "f04922c518",
+  "status": "pending",
+  "created_at": "2026-11-17T17:07:41Z",
+  "title": "Google Gemini veri eğitimi için yeni kontrol seçenekleri sunuyor",
+  "summary": "Google, kullanıcıların sohbet geçmişlerini silmeden yapay zeka eğitim süreçlerini yönetebilmelerine olanak tanıyan yeni ayarları kullanıma sundu.",
+  "body": "Google, Gemini kullanıcılarına verilerinin yapay zeka eğitiminde kullanılması üzerinde daha fazla denetim imkanı tanıyan yeni ayarlarını yayınlamaya başladı. Ars Technica'nın aktardığına göre, kullanıcılar artık sohbet geçmişlerini koruyarak bu verilerin model eğitimine katkıda bulunmasını engelleyebilecek. Google Gemini veri gizliliği konusundaki bu güncellemeyle birlikte, kullanıcılar için geçmişte zorunlu olan kısıtlamalar esnetiliyor.\n\n## Gemini veri eğitimi nasıl yönetilecek?\n\nŞu ana kadar Gemini kullanıcıları, verilerinin yapay zeka eğitiminde kullanılmasını engellemek için tüm sohbet geçmişini kapatmak zorundaydı; bu da geçmiş konuşmalara erişimi imkansız kılıyordu. Yeni güncellemeyle birlikte, sohbet geçmişi ile model eğitimi için veri paylaşımı birbirinden bağımsız iki farklı ayar haline getirildi. Kullanıcılar, Gemini ayarlarındaki \"Etkinlik\" sekmesi veya Google hesabı üzerinden \"Veri ve Gizlilik\" bölümüne giderek, kendi verilerinin model eğitiminde kullanılmasını devre dışı bırakabiliyor.\n\n## Kapsam ve sınırlandırmalar\n\nBu düzenleme yalnızca gelecekteki etkileşimleri kapsıyor. Kullanıcıların daha önce paylaştığı veriler, Google'ın modellerini geliştirmek üzere veri setinde tutulmaya devam edilecek. Şirket, kişisel bilgileri filtrelemeye çalıştığını belirtse de, geçmiş etkileşimlerin üç yıla kadar saklanabileceğini ifade ediyor. **Neden önemli?** Bu değişiklik, kullanıcıların kişisel verilerinin yapay zeka modellerinin eğitilmesi üzerindeki denetimini artırarak, hizmet kullanım kolaylığı ile veri gizliliği arasındaki dengeyi yeniden yapılandırıyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "veri gizliligi",
+    "yapay zeka"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini için yeni veri kontrolü",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "3 yıl",
+  "hero_stat_label": "veri saklama süresi",
+  "visual_style": "still_life",
+  "visual_scene": "A minimalist workspace featuring a stack of thin, frosted glass layers placed next to a sleek, modern smartphone. The top glass layer is slightly offset, showing a soft, diffuse light reflecting through the edges, symbolizing distinct privacy layers within a digital system.",
+  "focus_keyword": "Google Gemini veri",
+  "seo_title": "Google Gemini veri kullanımı için yeni gizlilik ayarları",
+  "meta_description": "Google Gemini kullanıcıları artık sohbet geçmişlerini kaybetmeden verilerinin yapay zeka eğitiminde kullanılmasını engelleyebilecek.",
+  "seo_slug": "google-gemini-veri-egitimi-ayarlari",
+  "image_alt": "Gemini veri gizliliği ayarlarını simgeleyen katmanlı cam levhalar",
+  "cover_text": "Gemini",
+  "importance": 6,
+  "triage_reason": "Google, Gemini kullanıcılarına sohbet geçmişini kaybetmeden AI eğitimi dışına çıkma seçeneği sunuyor.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "title": "Google will let you opt out of AI training in Gemini without losing your history",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T16:50:10Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Google will let you opt out of AI training in Gemini without losing your history",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "published": "2026-11-17T16:50:10Z",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "text": "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design. The more you use Gemini, the more data Google collects to train and improve its generative AI chatbot. The options to limit training on your data have been scant, but Google is finally adding more controls to the Gemini app.\nThe change currently rolling out to Gemini will separate your chat history from training, which allows you to retain basic AI functionality without handing Google quite so much control over your data. Prior to this change, the only way to opt out of contributing your chat contents (including attachments) for training was to turn off your history. That made it impossible to go back and pick up a chat down the road.\nAs the new settings roll out, users will see separate toggles for model training and chat history. The history setting will continue to support an adjustable limit, but you will no longer have to change it to stop Google from training on your Gemini usage. Meanwhile, AI training will be an opt-out situation. You’ll need to find the toggle to block Google from using your chats for AI training. It’s under Activity in the Gemini settings. You can also access the menu from your Google account under Data and Privacy > My Activity > Other activity > Gemini Apps Activity.\nImportantly, this only applies to future interactions with Gemini. If you have previously fed any data into Google’s AI, that’s already part of the training data. That can include your inputs, Gemini’s responses, uploaded files, tool calls, your location, and data from connected apps. Google says it may retain this data for up to three years to improve its models. The company has previously noted it attempts to filter personal information out of the Gemini activity history, but that isn’t a guarantee."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 710
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
