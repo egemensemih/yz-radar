@@ -1,0 +1,69 @@
+{
+  "id": "03ddf493eb",
+  "status": "pending",
+  "created_at": "2026-11-18T17:22:49Z",
+  "title": "Gemini Android uygulaması düşük bellekli cihazlara ulaşıyor",
+  "summary": "Google, Gemini yapay zeka uygulamasını düşük bellekli Android cihazlar için optimize ederek yüz milyonlarca yeni kullanıcıya erişim sağladı.",
+  "body": "Google, Gemini Android uygulaması için gerçekleştirdiği mimari güncellemelerle, düşük bellek kapasitesine sahip cihazlarda yapay zeka deneyimini erişilebilir hale getirdiğini duyurdu. 18 Kasım 2026'da yapılan resmi açıklamaya göre, özellikle internete, eğitime ve iş süreçlerine sınırlı donanım imkanlarıyla bağlanan kullanıcılar için geliştirilen bu adım, uygulamanın Android (Go edition) cihazlarda sorunsuz çalışmasını sağlıyor. \n\n## Yeni özellikler neler sunuyor?\n\nDonanım kısıtlamaları nedeniyle daha önce yalnızca temel sesli komutlarla sınırlı olan cihazlar, artık Google'ın gelişmiş kişisel yapay zeka asistanı yeteneklerine kavuşuyor. Kullanıcılar Gemini üzerinden şu olanaklardan yararlanabiliyor:\n\n*   Gemini Live ile 45'ten fazla dilde sesli pratik yapma veya sohbet etme.\n*   Kamera aracılığıyla notları veya formları tarayarak öğrenme ve çeviri yapma.\n*   Nano Banana modeliyle özel görseller oluşturma.\n\n## Erişim ve dağıtım\n\nUygulamayı kullanmak isteyen kullanıcılar, Google Play üzerinden Gemini'yi indirebiliyor veya desteklenen telefonlarda güç düğmesine basılı tutarak asistana erişebiliyor. Google ayrıca, Transsion gibi iş ortaklarının piyasaya süreceği yeni cihazlarda Gemini uygulamasının yüklü olarak geleceğini belirtti.\n\n**Neden önemli?** Düşük bellekli cihazlara yönelik bu genişleme, dünya genelinde yüz milyonlarca kullanıcının modern yapay zeka araçlarına donanım bariyerine takılmadan ulaşabilmesine olanak tanıyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Android",
+    "yapay zeka",
+    "mobil"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini düşük bellekli cihazlara geldi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A series of smooth, matte-finish ceramic tiles arranged in a vertical gradient, representing memory sectors. A single, glowing fiber-optic strand weaves through the gaps between the tiles, emitting a soft, cool-toned light that highlights the structural simplicity of the interface.",
+  "focus_keyword": "Gemini Android uygulaması",
+  "seo_title": "Gemini Android uygulaması düşük bellekli cihazlara geldi",
+  "meta_description": "Google, Gemini Android uygulamasını düşük bellekli cihazlar için optimize ederek geniş kitlelerin kullanımına sundu.",
+  "seo_slug": "gemini-android-uygulamasi-dusuk-bellekli-cihazlar",
+  "image_alt": "Minimalist seramik bloklar arasından süzülen fiber optik ışık demeti.",
+  "cover_text": "Gemini",
+  "importance": 6,
+  "triage_reason": "Google, Gemini uygulamasını düşük donanımlı Android cihazlara genişleterek erişilebilirliği artırıyor.",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google",
+      "kind": "official",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published": "2026-11-18T17:00:00Z",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "text": "The Gemini app is now available on lower-memory Android devices.\nFor hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business.\nUntil recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory.\nInstead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live, point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 761
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google"
+}
