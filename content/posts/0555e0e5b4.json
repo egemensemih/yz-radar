@@ -1,0 +1,60 @@
+{
+  "id": "0555e0e5b4",
+  "created_at": "2026-11-18T17:41:16Z",
+  "title": "ABD'li bankalardan yapay zeka finans ajanları kararı: Sorumluluk kullanıcılarda",
+  "summary": "Citibank ve diğer büyük ABD bankaları, hesap erişimi verilen üçüncü taraf yapay zeka ajanlarının yol açabileceği kayıplardan ve siber saldırılardan müşterilerin sorumlu olacağını duyurdu.",
+  "body": "Kişisel finans yönetimi için **yapay zeka finans ajanları** kullanan banka müşterilerine ABD'li dev finans kuruluşlarından uyarı geldi. TechCrunch'ın aktardığına göre, ABD'nin üçüncü en büyük ticari bankası Citibank, hizmet şartlarını güncelleyerek üçüncü taraf yapay zeka araçlarına hesap erişimi veren müşterilerin olası tüm zararlardan sorumlu tutulacağını bildirdi.\n\n## Bankaların yapay zeka finans ajanları politikası netleşiyor\n\nCitibank'ın yayınladığı yeni kullanıcı sözleşmesine göre, yapay zeka araçlarının sebep olduğu hatalı işlemlerin yanı sıra veri sızıntısı veya korsanlık durumlarında da sorumluluk tamamen kullanıcıya ait olacak. Bir Citibank sözcüsü TechCrunch'a yaptığı açıklamada, üçüncü taraf yapay zeka ajanlarına hesap erişimi veren müşterilerin \"bu araçlar aracılığıyla yürütülen faaliyetlerden sorumlu olduklarını pekiştirmek\" istediklerini belirtti.\n\nBenzer adımlar ABD'nin en büyük iki bankası JPMorgan ve Bank of America tarafından geçtiğimiz ay atılmıştı. 18 Kasım'da ülkenin sekizinci büyük bankası PNC ile Citizens bankası da benzer kullanım şartlarını devreye soktu. Bankalar, müşterilerin hesap bilgilerini teslim ettiği **üçüncü taraf araçlar** üzerindeki kontrol eksikliğinin ciddi güvenlik riskleri oluşturduğunu vurguluyor. Finans kurumları müşterilerin zararlarını tazmin etmeyeceğini açıklarken, kendi sundukları yapay zeka çözümlerinin ek bir sorumluluk getirmeden kullanılabileceğini ifade ediyor.\n\n## Sektörün güvenlik ve rekabet çekinceleri\n\nYapay zeka şirketleri kişisel finans alanına girerek harcama analizi yapabilen ve otomatik işlem gerçekleştiren yazılımlar sunmayı hedeflerken, bu durum güvenlik kadar rekabet tartışmalarını da beraberinde getiriyor. Yapay zeka sağlayıcılarının yaklaşımı da farklılık gösteriyor. Örneğin Anthropic, Kasım ayı başında kullanıma sunduğu finansal analiz aracını yalnızca \"salt okunur\" olarak kurguladı ve sistemin para transferi yapmasını engelledi. Bankalar ise üçüncü taraf araçların kendi hizmet ağlarına doğrudan müdahale etmesini hem güvenlik açığı hem de müşteri ilişkilerine yönelik bir tehdit olarak değerlendiriyor.\n\n**Neden önemli?** Üçüncü taraf yapay zeka ajanlarının finansal sistemlerle entegrasyonu hızlanırken, bankaların aldığı bu sert tavır tüketicilerin otomatik finans araçlarını benimseme sürecini yavaşlatabilir. Sorumluluğun tamamen kullanıcıya bırakılması, yapay zeka girişimlerinin hizmet modellerini ve erişim yöntemlerini yeniden gözden geçirmesine yol açabilir.",
+  "category": "sirketler",
+  "tags": [
+    "Citibank",
+    "JPMorgan",
+    "Bank of America",
+    "Anthropic",
+    "yapay zeka ajanları",
+    "bankacılık"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Bankalardan yapay zeka ajanlarına karşı önlem",
+  "kicker": "Finans ve regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a delicate clear glass padlock standing upright on a dark slate surface next to a chrome bank vault handle, illuminated by neutral overhead studio lighting with soft highlights",
+  "focus_keyword": "yapay zeka finans ajanlari",
+  "seo_title": "Yapay zeka finans ajanları için bankalardan kritik karar",
+  "meta_description": "ABD'nin önde gelen bankaları, yapay zeka finans ajanları kullanan müşterilerin tüm güvenlik risklerini ve zararları üstleneceğini açıkladı.",
+  "seo_slug": "abdli-bankalardan-yapay-zeka-finans-ajanlari-karari",
+  "image_alt": "Koyu gri taş zemin üzerinde duran cam bir kilit ve banka kasası kolu görseli",
+  "cover_text": "Citibank",
+  "importance": 6,
+  "triage_reason": "Bankalar, yapay zeka ajanlarıyla yapılan finansal işlemlerde sorumluluğun kullanıcıda olduğunu açıklamaya başladı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T17:32:10Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 762
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "abdli-bankalardan-yapay-zeka-finans-ajanlari-karari",
+  "published_at": "2026-11-18T17:41:18Z",
+  "publish_mode": "auto"
+}
