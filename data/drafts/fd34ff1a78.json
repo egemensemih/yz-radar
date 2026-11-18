@@ -1,0 +1,68 @@
+{
+  "id": "fd34ff1a78",
+  "status": "pending",
+  "created_at": "2026-11-18T19:51:02Z",
+  "title": "KPMG denemesinde yapay zeka ajanları denetçilerden daha derin sorular sordu",
+  "summary": "KPMG UK tarafından yürütülen deneme projesinde, yapay zeka ajanlarının bazı finansal konularda insan denetçilerden daha derinlemesine inceleme yaptığı açıklandı.",
+  "body": "Financial Times'ın aktardığına göre, KPMG denemesinde yapay zeka ajanları, bir FTSE 250 şirketinin mali tablolarını inceleyerek insan denetçilere kıyasla daha derinlemesine sorular yöneltti. KPMG UK tarafından 100'den fazla yapay zeka ajanı kullanılarak gerçekleştirilen bu deney, profesyonel hizmetler sektöründe yapay zekanın rolüne dair önemli bir dönüm noktasına işaret ediyor.\n\n## Project Exponential kapsamındaki çalışmalar\n\nProject Exponential kod adlı proje, yapay zekanın sadece idari işlerde destek sağlamasının ötesine geçerek tüm denetim iş akışında otonom ajanlar olarak görev almasını sağladı. Ajanlar bilgi toplama, veri analizi, taslak sonuç oluşturma ve sonraki adımları önerme gibi görevleri yerine getirdi.\n\nKPMG UK denetim başkanı Cath Burnet, teknolojinin bazı durumlarda normal denetim ekibinden çok daha derinlere indiğini ve insan denetçilerin akıl edemediği sorular sorduğunu belirtti. Ancak çalışma, resmi olarak onaylanmış yasal bir denetim olarak kabul edilmedi ve bir denetim ortağı tarafından denetim amaçlı olarak onaylandı.\n\n## Gelecekteki zorluklar ve denetim sektörü\n\nSistem tamamen otonom çalışmasa da, düzenleyici gerekliliklerin eşleştirilmesi gibi noktalarda insan müdahalesine ihtiyaç duyuldu. Şirket, bu girişimi 20 büyük denetime daha genişletmeyi planlıyor; ancak veri kalitesi ve teknolojinin olgunlaşması hâlâ önemli birer engel olarak duruyor.\n\n**Neden önemli?** KPMG'nin gerçekleştirdiği deney, otonom yapay zeka ajanlarının finansal denetim gibi karmaşık ve insan uzmanlığı gerektiren alanlarda dahi geleneksel ekipleri zorlamaya başladığını gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "KPMG",
+    "yapay zeka ajanlari",
+    "finansal denetim",
+    "Project Exponential"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka ajanları denetimde insanları geride bıraktı",
+  "kicker": "Araştırma",
+  "hero_stat": "100+",
+  "hero_stat_label": "yapay zeka ajanı",
+  "visual_style": "studio",
+  "visual_scene": "a neat grid of rigid white ceramic blocks on a dark slate surface, with one translucent amber glass block slightly shifted and leaning out of alignment, representing autonomous audit agents",
+  "focus_keyword": "KPMG denemesinde yapay zeka",
+  "seo_title": "KPMG denemesinde yapay zeka ajanları insanları geçti",
+  "meta_description": "KPMG denemesinde yapay zeka ajanları, insan denetçilere kıyasla finansal sorunları daha derinlemesine inceledi ve daha iyi sorular sordu.",
+  "seo_slug": "kpmg-denemesinde-yapay-zeka-ajanlari-sorular",
+  "image_alt": "KPMG denemesinde kullanılan yapay zeka ajanlarını temsil eden seramik ve cam bloklar",
+  "cover_text": "Project Exponential",
+  "importance": 6,
+  "triage_reason": "Yapay zeka ajanlarının denetim testlerinde muhasebecileri geride bırakması iş dünyasında yapay zeka kullanımını gösteriyor.",
+  "sources": [
+    {
+      "name": "europeanbusinessmagazine.com",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50547777",
+      "published": "2026-11-18T15:49:34Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "europeanbusinessmagazine.com",
+      "kind": "community",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "published": "2026-11-18T15:49:34Z",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 151 # Comments: 76",
+      "text": "LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI agents examining the accounts of a major UK-listed company sometimes investigated financial issues more deeply and asked better questions than its human audit team.\nThe experiment, conducted by KPMG UK using more than 100 AI agents, marks an important development in the application of artificial intelligence to one of the most labour-intensive areas of the financial services industry. It also raises an uncomfortable question for the accountancy profession: if machines can increasingly perform the analytical work traditionally undertaken by highly trained professionals, how quickly will the economics of auditing change?\nAccording to the Financial Times, the project, codenamed Project Exponential, examined the financial statements of an unnamed FTSE 250 company. The AI agents worked alongside a conventional audit team, undertaking tasks across the audit process rather than simply assisting with isolated administrative functions.\nKPMG UK head of audit Cath Burnet said the technology had, in several instances, gone considerably deeper into issues than the regular audit team, identifying areas requiring further investigation and asking questions that human auditors had not necessarily raised.\nThe findings suggest that AI’s potential in professional services may extend well beyond improving productivity. It could fundamentally change how complex financial information is examined, interpreted and challenged.\nFrom supporting accountants to conducting audits\nProject Exponential represents a shift from using AI as a supporting tool towards deploying autonomous agents across an entire audit workflow.\nThe agents collected information, analysed and documented data, developed draft conclusions and observations, and suggested subsequent steps. They were also able to work alongside one another, effectively dividing responsibilities and coordinating elements of the investigation.\nThe technology was developed over approximately four months. However, KPMG was careful to distinguish the experiment from a formally approved statutory audit. Although an audit partner signed off on the experimental exercise, its findings were not used as the basis for formally approving the company’s accounts.\nHuman oversight remained essential. During the trial, an auditor had to intervene when one AI agent failed to correctly match regulatory requirements with the company’s documentation. The episode illustrates both the capabilities and limitations of current AI systems when dealing with complex regulatory frameworks.\nKPMG plans to expand the initiative to as many as 20 larger audits, although the firm acknowledges that the technology is not yet sufficiently mature to be deployed across thousands of engagements. Data quality also remains a significant obstacle, with some businesses lacking the clean, structured information required for AI agents to operate effectively.\nA challenge to the Big Four business model?\nThe implications for the accountancy industry could be substantial.\nTraditional auditing relies on large teams of junior accountants undertaking detailed and repetitive work, supervised by experienced managers and partners. AI agents potentially offer a different operating model, automating significant portions of data collection, analysis and documentation while allowing senior professionals to concentrate on complex judgements and exceptions.\nFor firms such as KPMG, Deloitte, PwC and EY, the attraction is clear: faster audits, potentially lower operating costs and the ability to analyse much larger volumes of financial information.\nHowever, whether those savings will ultimately be passed on to clients remains uncertain. KPMG has acknowledged the potential for significant time savings but has not confirmed whether AI-driven efficiencies will translate into lower audit fees.\nHuman judgement remains the final safeguard\nThe transition also presents regulatory and professional challenges. The UK’s Financial Reporting Council has warned that the use of AI must not undermine auditor independence, integrity or professional scepticism.\nThere are also concerns about data security, over-reliance on automated conclusions and the possibility of AI generating inaccurate or fabricated information. The fundamental responsibility for an audit opinion remains with the human auditor, regardless of the technology used.\nThe KPMG experiment does not establish that AI can replace accountants or independently deliver a reliable statutory audit. It does, however, demonstrate that AI agents are beginning to challenge professionals in areas that were once considered dependent on human expertise.\nFor the accountancy profession, the question is no longer simply whether AI will become part of the audit process. It is how much of that process will eventually be performed by machines — and what role human accountants will play when it does."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 779
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "gunbatimi",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
