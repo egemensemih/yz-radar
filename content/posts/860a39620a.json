@@ -1,0 +1,58 @@
+{
+  "id": "860a39620a",
+  "created_at": "2026-11-18T11:26:17Z",
+  "title": "Suno Visuals özelliği ile platforma yapay zeka video üretimi eklendi",
+  "summary": "Yapay zeka müzik platformu Suno, şarkılara otomatik dudak senkronizasyonlu klip ve albüm kapağı oluşturmayı sağlayan Visuals özelliğini kullanıma sundu.",
+  "body": "18 Kasım'da yapay zeka müzik platformu Suno, ürettiği parçalara video ve kapak görseli eklemeyi sağlayan yeni **Suno Visuals özelliği** duyurusunu gerçekleştirdi. Web, iOS ve Android uygulamalarında erişime açılan araç, kullanıcıların yapay zeka ile oluşturduğu müziklere 15 saniyeye kadar kısa videolar ve görseller üretmesine imkan tanıyor.\n\n## Suno Visuals özelliği nasıl çalışıyor?\n\nVisuals aracı üzerinden video üretimi yapılırken başlangıç veya bitiş karesi olarak kullanılacak referans görseller üç farklı yöntemle belirlenebiliyor: Suno'nun sunduğu karakter şablonları, kullanıcının yüklediği fotoğraflar veya metin komutlarıyla platform içinde doğrudan üretilen görseller. Sistem, şarkı sözleriyle uyumlu otomatik **dudak senkronizasyonu** özelliğini de barındırıyor.\n\nKullanıcılar yeni araçla birlikte şu imkanlara erişebiliyor:\n- 15 saniyelik klip parçalarını daha uzun videolar halinde birleştirmek için özel video zaman çizelgesi\n- Yatay veya dikey en-boy oranlarını ayarlama ve özelleştirilebilir şarkı sözü metinleri ekleme\n- Albüm kapakları ve küçük resimler için doğrudan komutlar üzerinden görsel oluşturma\n\n## Model altyapısı ve kredi sistemi\n\nVisuals özelliğinin arka planında MiniMax firmasının H3 mimarisine dayanan H3 Move AI modeli yer alıyor. Suno'nun aktardığına göre model; sanatçıların, kamuya mal olmuş kişilerin veya telif hakkıyla korunan içeriklerin izinsiz kullanımını engellemek amacıyla ek metin ve görsel filtreleriyle donatıldı.\n\nYeni özellik için müzik üretiminde kullanılan kredilerden ayrı olarak \"Visuals kredileri\" adı verilen yeni bir harcama sistemi sunuldu. Ekim ayında seslendirme odaklı Speech özelliğini duyuran platform, bir yandan yüksek profilli telif davalarıyla mücadele ederken bir yandan da ürün yelpazesini genişletiyor. Ancak lansman sonrasında bazı kullanıcılar, yeni video araçları yerine öncelikle mevcut ses kalitesinin geliştirilmesini talep ettiklerini dile getiriyor.\n\n**Neden önemli?** Müzik odaklı yapay zeka girişimlerinin ses üretiminin ötesine geçerek çoklu ortam platformuna dönüşme çabası hız kazanıyor. Suno, içerik üreticilerine tek noktada görsel ve video çözümleri sunarken telif korumaları ve ek kullanım ücretleriyle yeni bir ekosistem kurmayı hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Suno",
+    "MiniMax",
+    "Visuals",
+    "H3 Move AI"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Suno yapay zeka video ve görsel üretimi başlattı",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "15 saniye",
+  "hero_stat_label": "maksimum klip süresi",
+  "visual_style": "still_life",
+  "visual_scene": "A sleek wooden vinyl record player sitting on a clean stone table, with a translucent glowing neon acrylic frame floating right above the turntable surface reflecting soft colored light.",
+  "focus_keyword": "Suno Visuals özelliği",
+  "seo_title": "Suno Visuals özelliği duyuruldu: Şarkılara yapay zeka klip",
+  "meta_description": "Suno Visuals özelliği ile yapay zeka şarkılarınıza 15 saniyelik klip ve kapak görseli hazırlayabilirsiniz. Yeni video aracının tüm detayları.",
+  "seo_slug": "suno-visuals-ozelligi-yapay-zeka-video-olusturma",
+  "image_alt": "Taş masa üzerindeki pikap ve üzerinde yüzen şeffaf ışıklı çerçeve ile Suno Visuals video özelliğini simgeleyen görsel",
+  "cover_text": "Suno Visuals",
+  "importance": 7,
+  "triage_reason": "Suno, müzik üretiminin yanı sıra şarkılar için yapay zeka video ve görsel oluşturma özelliğini tanıttı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T11:16:53Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 741
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "suno-visuals-ozelligi-yapay-zeka-video-olusturma",
+  "published_at": "2026-11-18T11:26:20Z",
+  "publish_mode": "auto"
+}
