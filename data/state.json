@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-18T16:06:02Z",
+  "last_collect": "2026-11-18T16:20:45Z",
   "last_summary_date": "2026-11-17",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:44Z",
       "count": 1407
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 910
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2097,
+      "fails": 2098,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:01Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:02Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:06:02Z",
+      "last_ok": "2026-11-18T16:20:45Z",
       "count": 20
     }
   },
@@ -203,8 +203,8 @@
       "auto": 8
     },
     "2026-11-18": {
-      "tok_in": 106420,
-      "tok_out": 20575,
+      "tok_in": 108526,
+      "tok_out": 20700,
       "cost_usd": 0.0,
       "drafts": 18,
       "expired": 13,
@@ -218,6 +218,37 @@
   "indexnow_queue": [],
   "last_build": "2026-11-18T15:55:44Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Sam Altman comments on Jensen Huang stepping down from Nvidia",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "sirketler",
+        "reason": "Yapay zeka sektörünün önde gelen isimlerinden Jensen Huang'ın istifasına ilişkin OpenAI CEO'su Sam Altman'ın değerlendirmeleri."
+      },
+      "items": [
+        {
+          "key": "319e08473b4aa091",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+          "via": null,
+          "via_url": null,
+          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+          "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+          "published": "2026-11-18T16:14:09Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-11-18T16:20:53Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
