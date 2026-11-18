@@ -1,0 +1,59 @@
+{
+  "id": "f906baaca6",
+  "created_at": "2026-11-18T19:21:47Z",
+  "title": "ABD Kongresi'nde dijital mağduriyetler için yeni yasal düzenleme arayışı",
+  "summary": "ABD'li milletvekilleri, deepfake mağdurlarının dava açmasını kolaylaştırmayı ve çocuk istismarı iddialarında zorunlu tahkim uygulamasına son vermeyi hedefliyor.",
+  "body": "ABD Kongresi, yıl sonuna yaklaşırken dijital platformlardaki mağduriyetlere karşı yasal korumaları genişletmek için harekete geçti. Milletvekilleri, özellikle deepfake içerik üreticilerine ve kullanıcıların mahkemeye gitmesini engelleyen \"zorunlu tahkim\" (forced arbitration) sözleşmelerine odaklanıyor. Senate Judiciary alt komitesi, Roblox gibi platformların çocuklara yönelik istismar iddialarında bu sözleşmeleri kullanarak yargı sürecinden kaçındığı iddiasını görüşmek üzere bir oturum düzenledi.\n\n## Yargı yolu açılmak isteniyor\n\nSenatör Josh Hawley, şirketlerin düzenlemelerden kaçınmak için başvurduğu zorunlu tahkim süreçlerini sona erdirecek yeni bir yasa tasarısı sundu. Bu tasarı, çocuklara yönelik cinsel istismar veya \"çocuk siber yaralanması\" gibi durumlarda, şirketlerin kullanıcılarını mahkeme yerine kendi belirledikleri tahkim süreçlerine zorlamasını geçersiz kılmayı amaçlıyor. Uzmanlar, şirketlerin kamuya açık mahkemelerde yargılanmasının, davranışlarını hızla değiştirmeleri üzerinde etkili olacağını savunuyor.\n\n## Deepfake içeriklere karşı Defiance Act\n\nKongre gündemindeki bir diğer başlık ise, rıza dışı üretilen müstehcen deepfake içeriklerin mağdurlarını korumayı amaçlayan Defiance Act tasarısı oldu. Paris Hilton ve diğer mağdur hakları savunucularının desteklediği yasa, kurbanların bu içerikleri oluşturan kişilere tazminat davası açabilmesinin önünü açmayı hedefliyor. Paris Hilton, kişisel olarak 100 binden fazla yapay zeka tarafından oluşturulmuş müstehcen görsel ve videoya maruz kaldığını belirterek, bu tür içeriklerin yarattığı tahribata dikkat çekti.\n\n**Neden önemli?** Kongre'nin yasama dönemi bitmeden geçirmek istediği bu düzenlemeler, Section 230 gibi teknoloji şirketlerini koruyan geniş yasal kalkanların, bireysel mağduriyetler karşısında sınırlanabileceğini gösteriyor. Tasarıların yasalaşması halinde, teknoloji şirketleri ve dijital şiddet uygulayan kişiler yeni bir hukuki sorumluluk dalgasıyla karşı karşıya kalabilir.",
+  "category": "politika",
+  "tags": [
+    "ABD",
+    "deepfake",
+    "yapay zeka",
+    "hukuk",
+    "internet güvenliği"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Kongre'de dijital mağduriyetler için yasa arayışı",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A heavy, rusted iron key resting on a pristine, white marble surface, partially illuminated by a sharp, directional beam of light cutting through the shadows.",
+  "focus_keyword": "dijital mağduriyetler",
+  "seo_title": "ABD Kongresi dijital mağduriyetler için harekete geçti",
+  "meta_description": "ABD Kongresi, deepfake içerik ve online çocuk istismarı mağdurlarının yasal yollara başvurmasını kolaylaştıracak yeni tasarıları görüşüyor.",
+  "seo_slug": "abd-kongresi-dijital-magduriyetler-icin-yeni-duzenleme",
+  "image_alt": "Mermer zemin üzerinde duran paslı bir anahtar, dijital mağduriyetlere karşı yasal çözüm arayışını simgeliyor.",
+  "cover_text": "Defiance Act",
+  "importance": 6,
+  "triage_reason": "ABD senatosunun derin sahte ve çevrim içi zararlar için yeni yasalar hazırlaması.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T19:07:29Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 776
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "abd-kongresi-dijital-magduriyetler-icin-yeni-duzenleme",
+  "published_at": "2026-11-18T19:21:51Z",
+  "publish_mode": "auto"
+}
