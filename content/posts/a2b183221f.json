@@ -1,0 +1,58 @@
+{
+  "id": "a2b183221f",
+  "created_at": "2026-11-18T18:37:01Z",
+  "title": "Disney, Star Wars animatronics projelerinde yapay zeka kullanmaya başlıyor",
+  "summary": "Walt Disney Imagineering, ziyaretçilerle gerçek zamanlı etkileşime girebilen yeni Anzellan robotlarını tanıttı.",
+  "body": "Walt Disney Imagineering R&D birimi, Amazon AWS bulut altyapısı ve yapay zeka modelleriyle çalışan yeni nesil **Star Wars animatronics** prototiplerini görücüye çıkardı. The Verge'ün aktardığına göre, bu sistem önceden belirlenmiş rutinler yerine, ziyaretçilerin hareketlerine ve konuşmalarına gerçek zamanlı olarak tepki verebilen üç farklı Anzellan karakterini içeriyor.\n\n## Yeni etkileşim teknolojisi\n\nVilo Vele, Kado Bre'a ve Jibu Bre'a isimli bu karakterler, kendilerine ait gizli kamera ve mikrofon donanımları aracılığıyla çevresindeki etkileşimleri algılıyor. Elde edilen veriler, AWS bulut sunucuları üzerinde çalışan yapay zeka modelleri tarafından işleniyor. Sistemdeki \"hızlı karar modeli\" göz teması gibi anlık tepkileri yönetirken, daha kapsamlı modeller ise uzun süreli diyalogları planlıyor.\n\n## Kurgusal sadakat ve sınırlamalar\n\nDisney, bu robotların yapay zeka destekli olmasına rağmen tamamen serbest bir etkileşim sunmadığını belirtiyor. Animatroniklerin gerçekleştirdiği tüm hareketler ve kurduğu cümleler, Disney Imagineers tarafından önceden yazılıyor. Bu yaklaşım, karakterlerin kişilik özelliklerini korumayı ve hikaye evrenine sadık kalmayı amaçlıyor. Robotlar, yapay zekanın yönlendirmesiyle hareket etse de, belirlenmiş senaryonun dışına çıkmıyor.\n\nBu yeni karakterler, Kasım ayı sonundaki AWS re:Invent konferansında ilk kez kamuoyuna sergilenecek. İlerleyen dönemlerde söz konusu teknolojinin Star Wars: Galaxy's Edge gibi Disney park alanlarında kullanılması planlanıyor.\n\n**Neden önemli?** Geleneksel animatronik sistemlerde kullanılan kuklacılık yöntemlerinin yerini bulut tabanlı yapay zekaya bırakması, Disney parklarındaki karakter etkileşimlerinin daha dinamik hale gelebileceğini gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Disney",
+    "Amazon Web Services",
+    "Star Wars",
+    "robotik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Disney'in yapay zekalı Star Wars robotları",
+  "kicker": "Yeni prototipler",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "Three small, intricately detailed metallic alien figures standing on a clean pedestal, surrounded by soft, diffuse studio lighting that highlights their textured surfaces and articulated joints, with faint fiber-optic strands suggesting a digital connection in the background.",
+  "focus_keyword": "Star Wars animatronics",
+  "seo_title": "Star Wars animatronics: Disney'den yapay zekalı yeni robotlar",
+  "meta_description": "Disney, ziyaretçilerle gerçek zamanlı etkileşime girebilen Star Wars animatronics prototiplerini AWS teknolojisiyle geliştirdiğini duyurdu.",
+  "seo_slug": "disney-star-wars-animatronics-yapay-zeka",
+  "image_alt": "Disney'in yeni geliştirdiği Anzellan karakterlerini temsil eden detaylı metalik robot figürleri",
+  "cover_text": "Star Wars",
+  "importance": 6,
+  "triage_reason": "Disney, ziyaretçilerle yapay zeka kullanarak etkileşime giren Star Wars robotlarını tanıttı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T17:50:57Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 773
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "disney-star-wars-animatronics-yapay-zeka",
+  "published_at": "2026-11-18T18:37:02Z",
+  "publish_mode": "auto"
+}
