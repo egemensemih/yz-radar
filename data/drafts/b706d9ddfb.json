@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-17T17:45:00Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/18/openai-gpt-6-2-astra-ve-gpt-6-2-sol-modellerini-kullanima-sundu/",
+      "title": "OpenAI, GPT-6.2 Astra ve GPT-6.2 Sol modellerini kullanıma sundu",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/18/openai-gpt-6-2-astra-ve-gpt-6-2-sol-modellerini-kullanima-sundu/#comments",
+      "published": "2026-11-18T08:00:00Z"
     }
   ],
   "source_keys": [
-    "OpenAI"
+    "OpenAI",
+    "Webrazzi"
   ],
   "source_texts": [
     {
