@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-18T21:35:43Z"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Gemini 4 Neon",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50552424",
+      "published": "2026-11-18T21:34:07Z"
     }
   ],
   "source_keys": [
-    "Google DeepMind"
+    "Google DeepMind",
+    "Hacker News"
   ],
   "source_texts": [
     {
