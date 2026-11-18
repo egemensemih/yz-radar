@@ -1,0 +1,58 @@
+{
+  "id": "ed916c8c1c",
+  "created_at": "2026-11-18T18:08:29Z",
+  "title": "Google yapay zeka modu için geçici sohbet özelliğini duyurdu",
+  "summary": "Google, Arama servisine entegre edilen yapay zeka modu için gizli mod benzeri geçici sohbet özelliğini kullanıma sundu. Yeni özellikle diyaloglar arama geçmişine kaydedilmeyecek.",
+  "body": "18 Kasım'da yayımlanan şirket blog gönderisine göre Google, arama motorundaki **google yapay zeka modu** (AI Mode) arayüzü için gizli mod benzeri geçici sohbet özelliğini duyurdu. Yeni imkan sayesinde kullanıcılar, yapay zeka ile gerçekleştirdikleri diyalogları arama geçmişlerine veya öneri sistemlerine kaydetmeden sürdürebilecek.\n\nGoogle Arama uzun süredir hesapla ilişkilendirilmek istenmeyen aramalar için gizli mod seçeneği sunuyordu. Benzer bir yapının aktarıldığı yeni özellik, doğrudan arama sonuçları içinde açılan sohbet paneline entegre edildi.\n\n## Google yapay zeka modu sohbetleri nasıl çalışıyor?\n\nTechCrunch'ın aktardığına göre, kullanıcıların bu özelliği kullanmak için herhangi bir sistem ayarını değiştirmesi gerekmiyor. Yapay zeka modunun sağ üst köşesinde yer alan geçici başlık simgesine tıklanarak oturum başlatılabiliyor. Bu seçenek aktifleştiğinde, yürütülen sohbet kullanıcının hesabından tamamen bağımsız hale geliyor.\n\nGeçici oturum boyunca verilen yanıtlar geçmiş kullanıcı tercihlerinden etkilenmiyor ve gelecekte sunulacak kişiselleştirilmiş içerikleri şekillendirmiyor. Kullanıcı geçici sohbet penceresini kapattığında otomatik olarak standart arama akışına dönüyor.\n\n## Küresel dağıtım ve erişim\n\nGoogle Gemini gibi bağımsız yapay zeka araçlarında geçici sohbet opsiyonu daha önce mevcuttu. Şirket, arama arayüzüne eklenen bu özellikle kişisel veya tek seferlik araştırmaların arama geçmişine yansımasını istemeyen kullanıcılara kolaylık sağlamayı hedefliyor. Özellik masaüstü ve mobil cihazlarda, desteklenen tüm dillerde küresel olarak kullanıma sunulmaya başlandı.\n\n**Neden önemli?** Yapay zeka destekli arama deneyiminin yaygınlaşmasıyla birlikte kullanıcı gizliliği ve algoritma kişiselleştirmesinin kontrolü kritik hale geliyor. Bu güncelleme, kullanıcıların geçmiş verilerini kirletmeden tek seferlik aramalar yapmasına olanak tanıyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Google Search",
+    "Gemini",
+    "arama motorları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Arama'nın yapay zeka moduna gizli mod geldi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a clean studio setup with a frosted glass screen displaying a glowing padlock icon made of clear crystal, soft studio lights casting subtle shadows on a matte beige marble surface",
+  "focus_keyword": "google yapay zeka modu",
+  "seo_title": "Google yapay zeka modu için geçici sohbet özelliği",
+  "meta_description": "Google yapay zeka modu için arama geçmişine kaydolmayan geçici sohbet özelliğini duyurdu. Yeni güncelleme masaüstü ve mobilde küresel olarak açıldı.",
+  "seo_slug": "google-yapay-zeka-modu-gecici-sohbet-ozelligi",
+  "image_alt": "Mat bej mermer yüzey üzerinde şeffaf kristal kilit sembolü barındıran buzlu cam ekran",
+  "cover_text": "Google AI Mode",
+  "importance": 6,
+  "triage_reason": "Google, yapay zeka aramaları için geçmişe kaydedilmeyen gizli mod özelliğini duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T18:04:05Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 767
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-yapay-zeka-modu-gecici-sohbet-ozelligi",
+  "published_at": "2026-11-18T18:08:30Z",
+  "publish_mode": "auto"
+}
