@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-18T03:55:40Z",
+  "last_collect": "2026-11-18T04:10:55Z",
   "last_summary_date": "2026-11-17",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 1406
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 908
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2050,
+      "fails": 2051,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:49Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:39Z",
+      "last_ok": "2026-11-18T04:10:50Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-17T22:55:43Z",
+      "last_ok": "2026-11-18T04:10:55Z",
       "count": 20
     }
   },
@@ -203,10 +203,10 @@
       "auto": 8
     },
     "2026-11-18": {
-      "tok_in": 16939,
-      "tok_out": 3377,
+      "tok_in": 21821,
+      "tok_out": 4728,
       "cost_usd": 0.0,
-      "drafts": 3,
+      "drafts": 4,
       "expired": 3,
       "published": 1,
       "auto": 1
@@ -218,6 +218,67 @@
   "indexnow_queue": [],
   "last_build": "2026-11-18T04:01:08Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i4"
+        ],
+        "topic": "Satya Nadella discusses economic and political impacts of AGI",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "Microsoft CEO'sunun AGI ve ekonomi politikaları üzerine değerlendirmeleri vizyoner bir söyleşi niteliğinde."
+      },
+      "items": [
+        {
+          "key": "698ced14e342737d",
+          "source": "The Verge",
+          "kind": "media",
+          "credit": "The Verge",
+          "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+          "via": null,
+          "via_url": null,
+          "title": "Satya Nadella says he’s AGI-pilled now",
+          "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+          "published": "2026-11-17T23:41:18Z",
+          "html_source": false,
+          "tid": "i4"
+        }
+      ],
+      "at": "2026-11-18T04:10:58Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i7"
+        ],
+        "topic": "Google AI search answers driving significant drop in traditional search traffic",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Google'ın yapay zeka arama yanıtlarının geleneksel web trafiğini önemli ölçüde düşürdüğünü gösteren bir analiz."
+      },
+      "items": [
+        {
+          "key": "695d1f9a1cf63d53",
+          "source": "Hacker News",
+          "kind": "community",
+          "credit": "revscope.co",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "via": "Hacker News",
+          "via_url": "https://news.ycombinator.com/item?id=50540178",
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 172 # Comments: 116",
+          "published": "2026-11-18T00:17:58Z",
+          "html_source": false,
+          "tid": "i7"
+        }
+      ],
+      "at": "2026-11-18T04:10:58Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
