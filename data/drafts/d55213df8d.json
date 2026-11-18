@@ -1,0 +1,120 @@
+{
+  "id": "d55213df8d",
+  "status": "pending",
+  "created_at": "2026-11-18T08:46:57Z",
+  "title": "Anthropic Public Benefit Fund kurularak hisselerinin bir kısmını kamu yararına ayırdı",
+  "summary": "Anthropic, şirket büyümesine bağlı olarak hisselerini kamu yararına aktaracak Anthropic Public Benefit Fund'ı kurduğunu duyurdu.",
+  "body": "Anthropic Public Benefit Fund duyurusu ile yapay zeka şirketi, büyüme oranına bağlı olarak hisselerinin bir kısmını kamu yararına tahsis edecek yeni bir yapı kurduğunu açıkladı. Şirketin açıklamasına göre, başlangıçta hisselerin %5'i bu fona aktarılırken, şirket değerindeki her %50'lik artış için yönetim kurulu kararıyla ek %2'lik pay eklenebilecek.\n\n## Kamu yararı ve fon yapısı\n\nKurulan fon, LLC formatında yapılandırıldı ve siyasi bağışlar ile lobicilik faaliyetleri için kesinlikle kullanılmayacak. Şirket kurucularının daha önceden taahhüt ettiği %80'lik hisse bağışı ve çalışanların katıldığı hisse bağış eşleştirme programıyla birlikte, şirketin yaklaşık %20'si kamu yararına adanmış durumda.\n\n## Bilimsel ve toplumsal programlar\n\nAnthropic, yapay zekanın iş gücü piyasasına etkileri ve ekonomik istikrarsızlık riskleriyle mücadele için daha önce 200 milyon dolar taahhüt etmişti. Yeni fon, bu gibi alanlarda daha cesur adımlar atılmasını sağlayacak. Öte yandan şirket, yapay zeka araçlarını bilimsel araştırmalarda yaygınlaştırmak amacıyla Alfred P. Sloan Foundation, Simons Foundation, Schmidt Sciences, US National Science Foundation ve Open Source for Science Fund gibi 20 bilimsel kurum ve vakıfla iş birliğini genişletti.\n\n**Neden önemli?** Şirket büyümesine paralel olarak kamu yararına aktarılan hisse payının artmasını sağlayan bu yapı, yapay zeka sektöründe kaynakların toplumsal ve bilimsel projelere yönlendirilmesinde yeni bir model sunuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Claude"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic Public Benefit Fund kuruldu",
+  "kicker": "Kurumsal gelişme",
+  "hero_stat": "%5",
+  "hero_stat_label": "başlangıçtaki hisse payı",
+  "visual_style": "studio",
+  "visual_scene": "a single frosted glass sphere resting on a polished dark stone surface, reflecting soft natural light from a high side window",
+  "focus_keyword": "Anthropic Public Benefit Fund",
+  "seo_title": "Anthropic Public Benefit Fund kuruldu",
+  "meta_description": "Anthropic, şirket büyümesine bağlı olarak hisselerini kamu yararına aktaracak Anthropic Public Benefit Fund fonunun kurulduğunu açıkladı.",
+  "seo_slug": "anthropic-public-benefit-fund-kuruldu",
+  "image_alt": "Buzlu cam küp ve taş zemin üzerinde ışık yansımaları",
+  "cover_text": "Public Benefit Fund",
+  "importance": 6,
+  "triage_reason": "Anthropic'in çeşitli ortaklıklar, yatırımlar ve kurumsal güncellemeleri rutin şirket haberleridir.",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/announcements",
+      "title": "Announcements",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Investing in the public benefit",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and research institutions",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    }
+  ],
+  "source_keys": [
+    "Anthropic"
+  ],
+  "source_texts": [
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Announcements",
+      "url": "https://www.anthropic.com/news/announcements",
+      "published": null,
+      "summary": "",
+      "text": "- Oct 21, 2026 Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n- Oct 2, 2026 Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\n- Aug 27, 2026 Expanding our support for scientists Starting today, 10,000 scientists around the world can get Claude at no cost to start. Verified principal investigators qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year.\n- Jul 20, 2026 Apply for Anthropic’s AI for Science rare disease research grants Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease."
+    },
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published": null,
+      "summary": "",
+      "text": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline.\nAs a public benefit corporation, most of our work in pursuit of our mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude for nonprofits and scientific institutions. These activities have both a public benefit component and for-profit value, so we house them directly in the company.\nThe Anthropic Public Benefit Fund will have increased flexibility and scale, enabling us to pursue our mission in new ways: for example, we might explore large donations to traditional nonprofits or direct distributions to specific populations.\nOne example is labor market impacts. AI may generate enormous economic value, but it could also cause instability for many workers. Anthropic has already committed $200 million to studying and addressing this issue, but given the pace of AI progress, bolder approaches may be needed. The Fund will have the versatility to pursue them.\nWe’re establishing the Anthropic Public Benefit Fund as an LLC—rather than a 501(c)(3) or other format—to give adjustability between different forms of giving. None of the Anthropic equity held by the LLC will be used for lobbying or political giving, in the US or abroad.\nBecause of the way the Fund is structured, the more Anthropic grows, the larger the share of the company that can be dedicated expressly to the public good. It is common practice for tech companies to offer escalating compensation awards to their executives. We are instead directing that equity to the public benefit.\nThis builds on commitments our co-founders and employees have already made. When Anthropic was founded, our co-founders pledged to donate 80% of their equity holdings, and since founding we have also operated an equity donation match program that allows employees to pledge equity which Anthropic matches. Approximately half of our employees participate in this program. When combined with today’s announcement, roughly 20% of Anthropic shares will be dedicated to the public good, plus any additional percentage that could be added if the company reaches specific valuation milestones.\nIn the coming months, we will share more about the Anthropic Public Benefit Fund’s structure and governance, including the valuation milestones that may add to its stake. We will also report on our progress to date against our mission in an upcoming public benefit report."
+    },
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "AI for Science expands to foundations and research institutions",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "published": null,
+      "summary": "",
+      "text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program, which gives free Claude credits to researchers working on high-impact scientific projects.\nWe started the AI for Science program in May 2025 with the belief that AI could significantly speed up scientific progress. Our goal is to increase access to AI tools and resources to enable researchers to deepen and expand their own scientific work. (Over the last few months, we’ve also launched our discounted Team plan for scientists and have supported hundreds of projects across biology, medicine, physics, chemistry, climate science, and mathematics.)\nScientists have told us that they’re working with Claude to generate hypotheses, design experiments, swiftly analyze complex data, and communicate findings. With scientists at the center of this transformation, the field is setting the questions and developing the research projects that will help us tackle some of humanity’s toughest problems.\nOver the past year, we’ve started to expand this work and partner with scientific organizations to build collaborative research projects. For instance, we partnered with HHMI Janelia Research Campus to develop the Model Hardware Standard (MHS), a shared specification that lets AI agents safely operate lab instruments. MHS is currently in research preview. We also support the Allen Institute, a leader in creating large open datasets and tools to advance research on the brain, cells, and the immune system. The institute is building teams of AI agents to analyze that data, turning months of manual analysis into hours.\nAI for Science began by supporting individual scientists. By partnering with institutions and foundations, we’re now able to reach more researchers across many fields. Many of these projects will also produce public goods that benefit the wider scientific community: open datasets, open-source software, open standards, and shared libraries. We look forward to seeing how AI resources can expand what scientists can attempt and lead to new discoveries.\nScience funders and societies\nScience funders and societies play an enormous role in finding and funding original, high-impact projects. We’re sharing Claude credits with the following organizations, which will distribute these resources to ambitious researchers aiming to use AI for scientific research:\n- The Alfred P. Sloan Foundation. Founded in 1934, it supports original research and education in science, technology, engineering, mathematics, and economics.\n- The Simons Foundation. This foundation advances the frontiers of research in mathematics and basic sciences through grants and its Flatiron Institute.\n- Schmidt Sciences. Founded in 2024 by Eric and Wendy Schmidt, it works to accelerate scientific knowledge and breakthroughs with the most promising, advanced tools to support a thriving planet. The organization prioritizes research in areas poised for impact, including AI and advanced computing, astrophysics, biosciences, climate, and space—and supports researchers in a variety of disciplines through its science systems program.\n- Open Source for Science Fund, a program of Renaissance Philanthropy. This is a time-bound philanthropic fund at Renaissance Philanthropy sustaining and evolving the open-source software stack that underpins science.\n- The US National Science Foundation. This $9 billion federal agency established by Congress in 1950 promotes the progress of science, advances national health and defense, and funds competitive research and education, accounting for about 25% of federal support for basic research at US colleges and universities.\n- CAS, a division of the American Chemical Society. For more than a century, CAS has indexed the world’s published chemistry, and it maintains the CAS REGISTRY®, the standard system for identifying chemical substances.\nInstitutions\nLeading research institutions produce some of the world’s most important scientific advances, data, instruments, and tools. These institutional partners will use Claude credits inside their organizations to enable scientific discovery:\n- Space Telescope Science Institute. STScI runs science operations for NASA’s Hubble, James Webb, and Roman space telescopes. Managed by the Association of Universities for Research in Astronomy (AURA), STScI also holds one of the largest astronomy data archives used by scientists worldwide.\n- Wellcome Sanger Institute. One of the world’s leading genomics centers, it generates genomic and functional data at scale, with work that spans human genetics, biodiversity, and drug development.\n- The Francis Crick Institute. Based in London, it’s one of Europe’s largest biomedical research institutes, with more than 100 research groups studying the biology behind health and disease.\n- Imperial College London, Department of Life Sciences. One of Europe’s largest life science departments, it conducts research ranging from the structure of single molecules to whole ecosystems, with a focus on health, disease, and climate resilience.\n- EMBL. The European Molecular Biology Laboratory is Europe’s intergovernmental life science laboratory, with six sites across the continent delivering both research and services across experimental and computational approaches in biology. EMBL’s European Bioinformatics Institute (EMBL-EBI) hosts a number of key open data resources that biologists use every day, such as Ensembl, Protein Data Bank in Europe, and Europe PMC.\n- Gladstone Institutes. An independent biomedical research institute in San Francisco, it integrates AI and data science across its work on cardiology, neurology, infectious diseases, cancer, and autoimmune diseases.\nResearch projects and initiatives\nAs part of this work, we’re also continuing to support innovative research by providing Claude credits directly to specific research initiatives, focusing on problems with the potential for large public impact. The new projects are:\n- FlyWire, Princeton University (neuroscience). It produced the first complete wiring map of an adult fruit fly’s brain and develops open data and tools for connectomics, enabling researchers to discover how neural circuits give rise to perception and behavior.\n- LEAP, Columbia University (Earth system). Learning the Earth with Artificial Intelligence and Physics is a National Science Foundation center that combines machine learning with physics to improve how climate models capture clouds, oceans, and land.\n- AstroPath, Johns Hopkins University (cancer research). Built by a pathologist and an astrophysicist from the Mark Foundation Center for Advanced Genomics and Imaging and the Bloomberg~Kimmel Institute for Cancer Immunotherapy, AstroPath uses calibration methods from astronomical surveys to image tumors cell by cell, with measurements consistent across slides and labs.\n- gnomAD, Broad Institute (genomics and rare disease). The Genome A"
+    },
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "published": null,
+      "summary": "",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 740
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Anthropic"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2faa5b1b25",
+  "status": "pending",
+  "created_at": "2026-11-18T08:46:41Z",
+  "title": "Anthropic halka arz için SEC'e S-1 formu ile başvurdu",
+  "summary": "Anthropic, A sınıfı adi hisse senetlerinin halka arzı için ABD Menkul Kıymetler ve Borsa Komisyonu'na S-1 formu ile kayıt başvurusunda bulundu.",
+  "body": "Anthropic halka arz sürecini başlatmak amacıyla, A sınıfı adi hisse senetlerinin teklifi için ABD Menkul Kıymetler ve Borsa Komisyonu'na (SEC) S-1 formunda kayıt beyannamesi sunduğunu duyurdu. Şirketin resmi açıklamasına göre, planlanan halka arz işlemlerinin detayları henüz netlik kazanmış değil.\n\n## Nasdaq borsası planı\n\nAnthropic'in duyurusuna göre, A sınıfı adi hisse senetlerinin Nasdaq Global Select Market üzerinde \"ANT\" sembolü ile işlem görmesi planlanıyor. Bununla birlikte, halka arz edilecek hisse adedi ve fiyat aralığı henüz belirlenmedi.\n\n## Kayıt süreci ve hazırlıklar\n\nSEC'e sunulan kayıt beyannamesi henüz yürürlüğe girmiş durumda değil. Bu aşamada söz konusu menkul kıymetlerin satışı veya alım tekliflerinin kabulü yasal olarak mümkün bulunmuyor.\n\n**Neden önemli?** Anthropic'in S-1 formu ile yaptığı bu resmi başvuru, şirketin halka arz sürecindeki ilk adımı oluşturuyor; ancak kayıt süreci henüz tamamlanmadı.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "Nasdaq",
+    "SEC"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic halka arz için başvurdu",
+  "kicker": "Halka arz",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte obsidian block standing upright on a pale gray stone surface, flanked by a delicate arch made of bent brass wire casting a clean shadow",
+  "focus_keyword": "Anthropic halka arz",
+  "seo_title": "Anthropic halka arz için SEC'e S-1 formu ile başvurdu",
+  "meta_description": "Anthropic, A sınıfı adi hisse senetlerinin halka arzı için SEC'e S-1 formu ile başvurdu. Hisselerin Nasdaq borsasında işlem görmesi planlanıyor.",
+  "seo_slug": "anthropic-halka-arz-icin-sec-basvurusu",
+  "image_alt": "Anthropic halka arz başvurusunu temsil eden minimalist siyah obsidiyen blok ve pirinç kemer yerleşimli stüdyo görseli",
+  "cover_text": "Anthropic",
+  "importance": 10,
+  "triage_reason": "Anthropic'in halka arz için SEC'e S-1 başvurusu yapması yapay zeka sektöründe devasa bir gelişmedir.",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
+    }
+  ],
+  "source_keys": [
+    "Anthropic"
+  ],
+  "source_texts": [
+    {
+      "credit": "Anthropic",
+      "kind": "official",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "published": null,
+      "summary": "",
+      "text": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” The number of shares of Class A common stock to be offered and the price range for the proposed offering have not yet been determined.\nThe proposed offering will be made only by means of a prospectus. Copies of the preliminary prospectus, when available, may be obtained from: Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, NY 10282, by telephone at (866) 471-2526, or by email at prospectus-ny@ny.email.gs.com; or Morgan Stanley & Co. LLC, Attention: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014.\nA registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. Today’s announcement does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 739
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Anthropic"
+}
