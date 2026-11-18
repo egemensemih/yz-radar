@@ -1,0 +1,59 @@
+{
+  "id": "ba90c68ff2",
+  "created_at": "2026-11-18T15:51:15Z",
+  "title": "Nvidia ve AMD gelirleri artarken yapay zeka çip talebi hız kesmiyor",
+  "summary": "Öncü yapay zeka laboratuvarlarının kısa süreli duraklama kararlarına rağmen Nvidia ve AMD rekor çip gelirleri açıkladı.",
+  "body": "The Verge'ün aktardığına göre, bu yaz döneminde bazı yapay zeka laboratuvarlarının öncü model eğitimlerine kısa süreli ara vermesi sektörde çip talebinin düşebileceği endişelerine yol açmıştı. Ancak The Verge haberine göre bu yavaşlama uzun sürmedi ve çip üreticilerinin finansal sonuçları talebin canlı kaldığını gösterdi. \n\n## Rekor gelirler ve Vera Rubin etkisi\n\nNvidia, 25 Ekim'de sona eren üç aylık dönemde veri merkezi gelirlerinin bir önceki yıla göre yüzde 110 artarak 107,6 milyar dolara ulaştığını duyurdu. Şirket, Vera Rubin NVL72 adlı en gelişmiş yapay zeka sisteminin sevkiyatına başladı ve bu platform ilk çeyreğinde yaklaşık 20 milyar dolar gelir üretti. Benzer şekilde AMD de veri merkezi satışlarının neredeyse iki katına çıkarak 8,5 milyar dolara ulaştığı ve toplam gelirinin 13,4 milyar dolara yükseldiği en büyük çeyreğini geride bıraktı.\n\n## Çıkarım iş yükleri ve düşen jeton fiyatları\n\nCounterpoint Research verilerine göre, öncü model eğitimindeki olası yavaşlamalar çip pazarını küçültmek yerine harcamaların yeniden dağılmasına yol açıyor. Mevcut modelleri çalıştırma süreci olan çıkarım (inference) alanındaki artan talep, tüm hızlandırıcı türleri için ek altyapı ihtiyacı yaratıyor. Ayrıca düşen jeton fiyatları yapay zeka kullanımını tetiklerken, bu durum bilgi işlem gücü sağlayan şirketlerin lehine bir tablo sunuyor.\n\n**Neden önemli?** Öncü yapay zeka laboratuvarlarının eğitim süreçlerini kısa süreliğine durdurması çip piyasasındaki büyüme ivmesini durdurmadı; artan çıkarım talebi ve rekor çip sevkiyatları sektörün güçlü kalmasını sağladı.",
+  "category": "donanim",
+  "tags": [
+    "Nvidia",
+    "AMD",
+    "OpenAI",
+    "Anthropic",
+    "Vera Rubin"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Yapay zeka çip talebi hız kesmiyor",
+  "kicker": "Donanım",
+  "hero_stat": "107,6 milyar $",
+  "hero_stat_label": "veri merkezi geliri",
+  "visual_style": "studio",
+  "visual_scene": "a tall stack of translucent frosted-glass cubes rising like a bar chart, the top cube glowing warm amber, tiny ceramic spheres rolling off the edge onto a soft surface",
+  "focus_keyword": "yapay zeka çip talebi",
+  "seo_title": "Nvidia ve AMD gelirleri artarken yapay zeka çip talebi",
+  "meta_description": "Öncü yapay zeka model eğitimlerindeki kısa aralara rağmen Nvidia ve AMD rekor gelir açıkladı. Yapay zeka çip talebi ve sektörün son durumunu inceleyin.",
+  "seo_slug": "yapay-zeka-cip-talebi-hiz-kesmiyor",
+  "image_alt": "Buzlu cam küplerden oluşan grafik ve çip talebini temsil eden nesneler",
+  "cover_text": "Vera Rubin",
+  "importance": 7,
+  "triage_reason": "Yapay zeka modellerinin güvenlik riskleri ve sınır eğitimi duraklatmaları hakkında önemli bir analiz.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T15:44:02Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 753
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "yapay-zeka-cip-talebi-hiz-kesmiyor",
+  "published_at": "2026-11-18T15:51:36Z",
+  "publish_mode": "auto"
+}
