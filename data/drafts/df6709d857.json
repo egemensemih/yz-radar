@@ -41,10 +41,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-18T22:11:15Z"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title": "Anthropic prices initial public offering",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
     }
   ],
   "source_keys": [
-    "TechCrunch"
+    "TechCrunch",
+    "Anthropic"
   ],
   "source_texts": [
     {

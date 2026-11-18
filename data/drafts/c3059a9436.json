@@ -1,0 +1,68 @@
+{
+  "id": "c3059a9436",
+  "status": "pending",
+  "created_at": "2026-11-18T23:35:55Z",
+  "title": "OpenAI kodlama ajanlarının yapay zeka araştırmalarındaki etkisini ölçüyor",
+  "summary": "OpenAI, kodlama ajanlarının yapay zeka araştırmalarını nasıl hızlandırdığını, performansın nerede düzensiz kaldığını ve bunun özyinelemeli kendi kendine iyileşme için ne anlama geldiğini inceliyor.",
+  "body": "OpenAI kodlama ajanlarının yapay zeka araştırmalarını nasıl hızlandırdığını inceleyen yeni bir araştırma raporu yayımladı. Şirketin resmen duyurduğuna göre, bu ajanların katkıları ve performans seviyeleri çeşitli alanlarda farklılık gösteriyor.## Kodlama ajanlarının performansı\n\nOpenAI'ın aktardığına göre, araştırma süreçlerinde görev üstlenen yapay zeka ajanlarının yetenekleri ve sağladığı hızlanma her alanda eşit düzeyde ilerlemiyor. Şirket, bu teknolojilerin performansının oldukça engebeli bir seyir izlediğini belirtti.\n\n## Özyinelemeli kendi kendine iyileşme\n\nAçıklanan bulgular arasında, kodlama ajanlarının yapay zeka geliştirme döngüsüne ve özyinelemeli kendi kendine iyileşme süreçlerine yönelik ne tür sinyaller verdiği de ele alınıyor.\n\n**Neden önemli?** OpenAI'ın paylaştığı bu değerlendirmeler, kodlama ajanlarının yapay zeka araştırmalarındaki mevcut sınırlarını ve gelecekteki olası gelişim yönlerini anlamak adına önemli veriler sunuyor.",
+  "category": "arastirma",
+  "tags": [
+    "OpenAI",
+    "kodlama ajanlari",
+    "yapay zeka",
+    "arastirma"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI kodlama ajanlarının araştırmalardaki etkisini inceledi",
+  "kicker": "Araştırma",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a minimalist clay block carved with sharp geometric stairs climbing upwards, beside a smooth matte sphere resting on a polished dark concrete slab",
+  "focus_keyword": "kodlama ajanları",
+  "seo_title": "OpenAI kodlama ajanlarının yapay zeka araştırmalarındaki…",
+  "meta_description": "OpenAI kodlama ajanlarının yapay zeka araştırmalarını nasıl hızlandırdığını, performansın engebeli doğasını ve özyinelemeli iyileşmeyi açıkladı.",
+  "seo_slug": "openai-kodlama-ajanlari-arastirma",
+  "image_alt": "OpenAI kodlama ajanlarının yapay zeka araştırmalarındaki etkisini temsil eden geometrik stüdyo heykeli",
+  "cover_text": "OpenAI",
+  "importance": 7,
+  "triage_reason": "OpenAI'ın kodlama ajanlarının yapay zeka araştırmalarını nasıl hızlandırdığına dair yeni araştırma sonuçları.",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T08:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "OpenAI"
+  ],
+  "source_texts": [
+    {
+      "credit": "OpenAI",
+      "kind": "official",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18T08:00:00Z",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "text": ""
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 784
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: OpenAI"
+}
