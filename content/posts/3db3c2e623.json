@@ -1,0 +1,59 @@
+{
+  "id": "3db3c2e623",
+  "created_at": "2026-11-18T04:44:39Z",
+  "title": "Satya Nadella: Yapay genel zeka ekonomik yapıyı kökten değiştirebilir",
+  "summary": "Microsoft Üst Yöneticisi Satya Nadella, yapay genel zekanın ekonomi ve siyaset üzerinde yaratacağı köklü değişimlere dikkat çekti.",
+  "body": "Microsoft Üst Yöneticisi (CEO) Satya Nadella, yapay genel zekanın (AGI) ekonomi ve siyaset yapısı üzerinde yaratabileceği sarsıcı değişikliklere odaklandığını belirtti. San Francisco'daki Microsoft Ignite etkinliğinin ardından düzenlenen yuvarlak masa toplantısında konuşan Nadella, teknolojinin yayılımı ve olası ekonomik monopol riskleri üzerine değerlendirmelerde bulundu.\n\n## Ekonomik yapı ve tekel riski\n\nThe Verge'ün aktardığına göre Nadella, yapay zekanın sadece teknoloji şirketleri arasındaki dar bir rekabet olarak görülmemesi gerektiğini vurguladı. Sınır modeli geliştiren tek bir yapay zekanın piyasada tekel haline gelmesinin demokrasinin sonunu ve ekonominin çöküşünü tetikleyebileceğini belirten Nadella, \"Eğer Marksist tarzı bir bakış açısıyla sadece tek bir firma kalırsa, o zaman hepimiz için bitti demektir\" ifadelerini kullandı. \n\n## Model bilinci ve şirketlerin geleceği\n\nAnthropic tarafından geliştirilen modellerin bilinçli olup olmadığı tartışmalarına da değinen Nadella, Claude gibi sınır modellerinin bilince sahip olduğunu düşünmediğini ifade etti. Microsoft AI CEO'su Mustafa Süleyman'ın şirketlerin modellere ahlaki statü vermemesi gerektiği yönündeki görüşünü hatırlatan Nadella, insan sermayesinin token sermayesine dönüşmesi durumunda geleneksel şirket yapı اینکه ne olacağının sorgulanması gerektiğini kaydetti.\n\n**Neden önemli?** Satya Nadella'nın açıklamaları, yapay zeka pazarındaki rekabetin trilyonlarca dolarlık piyasa değerinden öte, küresel ekonomik yapının ve demokrasinin geleceğini nasıl şekillendireceğine dair endüstrideki üst düzey stratejik tartışmaları gözler önüne seriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "Satya Nadella",
+    "Mustafa Süleyman",
+    "Anthropic",
+    "Claude"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nadella: Yapay genel zeka ekonomiyi dönüştürecek",
+  "kicker": "Yapay zeka ekonomisi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth solid block of dark grey basalt stone resting on a brushed steel surface, illuminated by a single warm overhead light casting a long sharp shadow",
+  "focus_keyword": "yapay genel zeka",
+  "seo_title": "Satya Nadella: Yapay genel zeka ekonomiyi değiştirebilir",
+  "meta_description": "Microsoft CEO'su Satya Nadella, yapay genel zekanın ekonomik yapı ve demokrasi üzerindeki olası sarsıcı etkilerine dikkat çekti.",
+  "seo_slug": "satya-nadella-yapay-genel-zeka-ekonomiyi-degistirebilir",
+  "image_alt": "Gri bazalt taş blok üzerinde parlayan tek bir ışık kaynağını gösteren stüdyo görseli",
+  "cover_text": "AGI",
+  "importance": 6,
+  "triage_reason": "Microsoft CEO'sunun AGI ve ekonomi politikaları üzerine değerlendirmeleri vizyoner bir söyleşi niteliğinde.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-17T23:41:18Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 734
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "satya-nadella-yapay-genel-zeka-ekonomiyi-degistirebilir",
+  "published_at": "2026-11-18T04:44:41Z",
+  "publish_mode": "auto"
+}

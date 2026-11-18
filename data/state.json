@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-18T04:25:39Z",
+  "last_collect": "2026-11-18T04:40:49Z",
   "last_summary_date": "2026-11-17",
   "mode_override": null,
   "paused": false,
@@ -22,72 +22,73 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:46Z",
       "count": 1406
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:46Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:46Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 908
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2051,
+      "fails": 2052,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:49Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-18T04:10:50Z",
+      "last_ok": "2026-11-18T04:40:47Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 0,
+      "fails": 1,
       "last_ok": "2026-11-18T04:10:55Z",
-      "count": 20
+      "count": 20,
+      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
     }
   },
   "day_counts": {
@@ -203,52 +204,24 @@
       "auto": 8
     },
     "2026-11-18": {
-      "tok_in": 21821,
-      "tok_out": 4728,
+      "tok_in": 24597,
+      "tok_out": 5539,
       "cost_usd": 0.0,
-      "drafts": 4,
+      "drafts": 5,
       "expired": 7,
-      "published": 1,
-      "auto": 1
+      "published": 2,
+      "auto": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-18T04:01:08Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/satya-nadella-yapay-genel-zeka-ekonomiyi-degistirebilir/"
+  ],
+  "last_build": "2026-11-18T04:44:49Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i4"
-        ],
-        "topic": "Satya Nadella discusses economic and political impacts of AGI",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "politika",
-        "reason": "Microsoft CEO'sunun AGI ve ekonomi politikaları üzerine değerlendirmeleri vizyoner bir söyleşi niteliğinde."
-      },
-      "items": [
-        {
-          "key": "698ced14e342737d",
-          "source": "The Verge",
-          "kind": "media",
-          "credit": "The Verge",
-          "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-          "via": null,
-          "via_url": null,
-          "title": "Satya Nadella says he’s AGI-pilled now",
-          "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
-          "published": "2026-11-17T23:41:18Z",
-          "html_source": false,
-          "tid": "i4"
-        }
-      ],
-      "at": "2026-11-18T04:10:58Z"
-    },
     {
       "story": {
         "item_ids": [
