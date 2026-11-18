@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-18T16:50:57Z",
+  "last_collect": "2026-11-18T17:05:48Z",
   "last_summary_date": "2026-11-17",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 1407
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
-      "count": 910
+      "last_ok": "2026-11-18T17:05:38Z",
+      "count": 911
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2100,
+      "fails": 2101,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:38Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-18T16:50:53Z",
+      "last_ok": "2026-11-18T17:05:39Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 1,
-      "last_ok": "2026-11-18T16:35:42Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-18T17:05:48Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -204,10 +203,10 @@
       "auto": 8
     },
     "2026-11-18": {
-      "tok_in": 110950,
-      "tok_out": 21533,
+      "tok_in": 117098,
+      "tok_out": 22813,
       "cost_usd": 0.0,
-      "drafts": 19,
+      "drafts": 20,
       "expired": 13,
       "published": 6,
       "auto": 6
@@ -219,6 +218,37 @@
   "indexnow_queue": [],
   "last_build": "2026-11-18T16:40:08Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Gemini Android support expansion",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "urunler",
+        "reason": "Google, Gemini uygulamasını düşük donanımlı Android cihazlara genişleterek erişilebilirliği artırıyor."
+      },
+      "items": [
+        {
+          "key": "8e6075d168e06821",
+          "source": "Google",
+          "kind": "official",
+          "credit": "Google",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "via": null,
+          "via_url": null,
+          "title": "The Gemini app is now available on lower-memory Android devices.",
+          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+          "published": "2026-11-18T17:00:00Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-11-18T17:05:53Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
