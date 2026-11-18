@@ -1,0 +1,59 @@
+{
+  "id": "68dab1ff14",
+  "created_at": "2026-11-18T16:36:00Z",
+  "title": "Sam Altman'dan Jensen Huang açıklaması: Yapay zeka endüstrisini onsuz düşünmek zor",
+  "summary": "OpenAI yöneticileri Sam Altman ve Greg Brockman, görevden ayrılan eski Nvidia CEO'su Jensen Huang hakkında New York Times DealBook Summit'te konuştu.",
+  "body": "Yapay zeka endüstrisinin önde gelen isimlerinden OpenAI CEO'su Sam Altman, Jensen Huang'ın görevden ayrılmasının ardından yapay zeka sektörüne dair değerlendirmelerde bulundu. New York Times DealBook Summit etkinliğinde konuşan Altman, Nvidia'nın eski CEO'su hakkında önemli ifadeler kullandı.\n\n## Jensen Huang ve Nvidia ortaklığı\n\nTechCrunch'ın aktardığına göre, OpenAI CEO'su Sam Altman ve Başkan Greg Brockman, skandallarla gündeme gelen ve geçen hafta görevinden ayrılan Jensen Huang ile özel olarak görüştüklerini açıkladılar. Altman, Nvidia'nın kurucusunun sektöre erken dönemde verdiği desteğe dikkat çekerek, “Jensen took one of the earliest big bets on us. We took a big bet on Nvidia” dedi.\n\nOpenAI, yıllardır Nvidia ile yakın bir çalışma yürütüyor. Nvidia, bu yılın başlarında OpenAI'a 30 milyar dolar yatırım yapmış ve OpenAI teknolojilerine güç sağlayan çiplerin tasarımını üstlenmişti. Greg Brockman ise Huang ailesiyle olan dostluklarına değinerek Nvidia'nın kalıcı bir yapıya sahip olduğunu ve ortaklığa devam etmek istediklerini belirtti.\n\n## Göreve dönüş tartışmaları\n\nJensen Huang'ın şirkete dönmesi için Elon Musk dahil yaklaşık 200 bin kişinin imza attığı bir dilekçe hazırlandı. Ancak Nvidia yöneticileri Salı günkü kazanç çağrısında, Huang'ın geri dönme teklifine rağmen yeniden atama planlarının olmadığını duyurdu. Altman ise Huang'ın geleceğiyle ilgili spekülasyonlara mesafeli yaklaşarak herkesin rastgele teoriler üretmesini eleştirdi.\n\n**Neden önemli?** Jensen Huang'ın ayrılığı ve OpenAI liderliğinin bu süreçteki açıklamaları, sektörün en büyük çip tedarikçisi ile en büyük yapay zeka geliştiricisi arasındaki ortaklığın geleceği açısından dikkat çekiyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "Nvidia",
+    "Sam Altman",
+    "Greg Brockman",
+    "Jensen Huang"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Sam Altman'dan Jensen Huang açıklaması",
+  "kicker": "Endüstri kulisleri",
+  "hero_stat": "30 milyar $",
+  "hero_stat_label": "Nvidia'nın OpenAI yatırımı",
+  "visual_style": "studio",
+  "visual_scene": "a heavy block of polished dark obsidian stone resting on a brushed titanium surface, a single thread of warm amber light cutting through a precise vertical fracture across the center",
+  "focus_keyword": "Jensen Huang",
+  "seo_title": "Sam Altman'dan Jensen Huang açıklaması ve Nvidia ortaklığı",
+  "meta_description": "OpenAI CEO'su Sam Altman ve Greg Brockman, görevden ayrılan Nvidia eski CEO'su Jensen Huang ve iki şirket arasındaki ortaklık hakkında konuştu.",
+  "seo_slug": "sam-altman-jensen-huang-aciklamasi",
+  "image_alt": "Cilalı obsidyen taş üzerinde amber ışık çizgisi, yapay zeka endüstrisindeki gelişmeleri temsil ediyor",
+  "cover_text": "Jensen Huang",
+  "importance": 7,
+  "triage_reason": "Yapay zeka sektörünün önde gelen isimlerinden Jensen Huang'ın istifasına ilişkin OpenAI CEO'su Sam Altman'ın değerlendirmeleri.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T16:14:09Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 756
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "sam-altman-jensen-huang-aciklamasi",
+  "published_at": "2026-11-18T16:36:02Z",
+  "publish_mode": "auto"
+}
