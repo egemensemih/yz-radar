@@ -1,0 +1,59 @@
+{
+  "id": "058e2d1308",
+  "created_at": "2026-11-19T15:29:28Z",
+  "title": "ChatGPT live dictation özelliği ile anlık ses dökümü sunmaya başladı",
+  "summary": "OpenAI, ChatGPT için sesli girdileri konuşurken metne dönüştüren yeni Live Dictation özelliğini küresel çapta kullanıma sundu.",
+  "body": "ChatGPT live dictation özelliği, kullanıcıların sesli girdilerini yapay zeka tarafından işlenme sürecinde anlık olarak metne dönüştürmesine olanak tanıyor. The Verge tarafından aktarılan bilgilere göre, 19 Kasım 2026 tarihinde kullanıma sunulan bu güncelleme ile birlikte sistem artık ses kaydının bitmesini beklemeden süreci başlatabiliyor. Yeni işlev, web arayüzü ile masaüstü, iOS ve Android uygulamaları dahil olmak üzere tüm ChatGPT planlarında erişilebilir durumda.\n\n## Hızlı ve kesintisiz sesli notlar\n\nKullanıcılar, ekranlarında beliren ses dalgası simgesine tıklayarak yapay zekanın ürettiği metin dökümünü canlı olarak takip edebiliyor. İşlem tamamlandıktan sonra ortaya çıkan metin, doğrudan komut kutusunda düzenlenebiliyor. OpenAI, bu geliştirme ile birlikte önceki sürümlerde bulunan 10 dakikalık ses kaydı sınırlamasını da kaldırdığını duyurdu. Şirket, bu düzenlemenin genel kullanım deneyimini daha güvenilir bir hale getirdiğini belirtiyor.\n\n## Erişilebilirlik ve geçmiş güncellemeler\n\nBu güncelleme, ChatGPT'nin yılın ilerleyen dönemlerinde gerçekleştirilen iki yönlü sesli sohbet modu revizyonunun bir devamı niteliğinde. Mevcut durumda kullanıcılar, sesli mesajları yazıya dökmek veya bunları madde işaretli listelere dönüştürmek için de bu hızlı dikte özelliğinden faydalanabiliyor. Geçen yıl duyurulan ve halen beta aşamasında olan diğer 'kayıt modu' ise yalnızca Plus, Enterprise, Edu, Business ve Pro aboneliklerine sahip çalışma alanları için sunulmaya devam ediyor.\n\n**Neden önemli?** Sesli komutların işlenme süresindeki gecikmenin azaltılması ve kayıt süre limitinin kaldırılması, ChatGPT'nin özellikle toplantı notu alma veya uzun sesli girdiler oluşturma süreçlerinde daha verimli bir araç olarak kullanılmasını hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "yapay zeka",
+    "ses işleme",
+    "mobil uygulama"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "ChatGPT'ye canlı ses dökümü özelliği geldi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A singular, smooth porcelain microphone shape suspended in a vacuum, with thin, iridescent silk threads flowing outward from its center, representing the real-time conversion of audio waves into text streams.",
+  "focus_keyword": "ChatGPT live dictation",
+  "seo_title": "ChatGPT live dictation özelliği ile anlık metin dönüştürme",
+  "meta_description": "OpenAI'ın yeni ChatGPT live dictation özelliği, sesli notları konuşurken metne dönüştürerek daha hızlı ve sınırsız kayıt imkanı sunuyor.",
+  "seo_slug": "chatgpt-live-dictation-ozelligi-duyuruldu",
+  "image_alt": "Soyut porselen mikrofon ve çevresinde yayılan ipek iplikler, canlı metin dökümünü simgeliyor",
+  "cover_text": "Live Dictation",
+  "importance": 6,
+  "triage_reason": "ChatGPT için gerçek zamanlı dikte ve sesli girdi özelliğinin küresel olarak yayınlanması.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T15:16:45Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 800
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "chatgpt-live-dictation-ozelligi-duyuruldu",
+  "published_at": "2026-11-19T15:29:32Z",
+  "publish_mode": "auto"
+}
