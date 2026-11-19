@@ -1,0 +1,59 @@
+{
+  "id": "7c5c26eef9",
+  "created_at": "2026-11-19T04:07:45Z",
+  "title": "Okullarda Google Gemini zorunluluğu ABD'deki büyük eğitim bölgelerini harekete geçirdi",
+  "summary": "Google'ın arama motorundan yapay zekayı ayırmama kararı üzerine New York, Los Angeles ve Chicago okul bölgeleri alternatif arama araçlarını değerlendirmeye başladı.",
+  "body": "ABD'nin en büyük eğitim bölgeleri, **okullarda Google Gemini** özelliklerini kapatmanın Google Arama erişimini de sonlandıracak olması nedeniyle şirketin ürünlerine alternatif aramaya başladı. The New York Times'ın aktardığına göre New York, Los Angeles ve Chicago'daki devlet okulları, teknoloji devinin yapay zekayı temel arama motoruyla zorunlu olarak birleştiren yeni politikasını değerlendiriyor.\n\n## Okullardan yapay zeka dayatmasına tepki\n\nGoogle'ın eğitimden sorumlu başkan yardımcısı Chris Phillips, arama motoru ile yapay zekanın derinden entegre edildiğini ve Google'ın yapay zeka yeteneklerini kapatan okulların Google Arama hizmetine de erişemeyeceğini açıkladı. Bu açıklamanın ardından New York Şehri Belediye Başkanı Zohran Mamdani ve Senatör Bernie Sanders kararı sert biçimde eleştirdi. Kısa süre önce anaokulundan sekizinci sınıfa kadar olan sınıflarda yapay zeka kullanımını yasaklayan Mamdani ve diğer yetkililer, şirketin tutumunu baskı olarak nitelendirdi.\n\nNew York Şehri devlet okulları şansölyesi Kamar H. Samuels, Google tutumunu gözden geçirmezse farklı arama seçeneklerini araştıracaklarını bildirdi. Benzer şekilde Chicago devlet okulları yönetimi de yapay zekasız bir arama sürümü sunulmaması durumunda başka arama çözümlerine yöneleceklerini aktardı. Eğitimciler, üretken yapay zekanın öğrencilerin eleştirel düşünme becerileri ve sınav başarıları üzerindeki olumsuz etkilerinden endişe ediyor.\n\n## Google geri adım sinyali verdi\n\nThe Verge'e açıklamada bulunan Google sözcüsü Laura Breen, şirketin öğrencilerin ezbere kaçmasını önlemek amacıyla adım adım problem çözdüren \"Rehberli Öğrenme\" (Guided Learning) adını verdiği yetenekleri test etmeye başladığını belirtti. Breen ayrıca gelecek yıl okullar için denetim sistemini güncelleyeceklerini ifade etti. Yeni yaklaşıma göre okullar hangi servisleri etkinleştireceğine bizzat karar verene kadar **Gemini**, Gemini Notebook ve Google Arama varsayılan olarak kapalı tutulacak.\n\n**Neden önemli?** ABD genelinde sınıflar Google Classroom ve Chromebook ekosistemine yoğun şekilde bağımlı olsa da karar, dev teknoloji şirketlerinin yapay zekayı temel kamu hizmetlerine entegre etme baskısının eğitim kurumlarında ciddi dirençle karşılaştığını gösteriyor.",
+  "category": "politika",
+  "tags": [
+    "Google",
+    "Gemini",
+    "The New York Times",
+    "The Verge",
+    "Chromebook"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Okullarda zorunlu Google Gemini krizi",
+  "kicker": "Eğitim politikası",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A clean wooden school desk standing alone, with a heavy carved glass prism split down the middle into two distinct halves under neutral studio light",
+  "focus_keyword": "okullarda Google Gemini",
+  "seo_title": "Okullarda Google Gemini kararı tepki çekti",
+  "meta_description": "Okullarda Google Gemini özelliklerini zorunlu kılan karar sonrası New York ve Chicago gibi büyük okul bölgeleri Google Arama yerine alternatifler arıyor.",
+  "seo_slug": "okullarda-google-gemini-arama-krizi",
+  "image_alt": "Ortadan ikiye ayrılmış cam prizmanın ahşap okul sırası üzerindeki stüdyo çekimi",
+  "cover_text": "Google Gemini",
+  "importance": 7,
+  "triage_reason": "Büyük okul bölgelerinin yapay zeka özellikleri nedeniyle Google Arama'yı bırakmayı değerlendirmesi önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T23:18:35Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 785
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "okullarda-google-gemini-arama-krizi",
+  "published_at": "2026-11-19T04:07:48Z",
+  "publish_mode": "auto"
+}
