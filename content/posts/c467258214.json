@@ -1,0 +1,59 @@
+{
+  "id": "c467258214",
+  "created_at": "2026-11-19T22:36:20Z",
+  "title": "Apple yapay zeka ajanı geliştirmek için yeni mühendisler arıyor",
+  "summary": "Apple, web'de gezinebilen, uygulamalar arası çalışan ve kod yazabilen kendi otonom yapay zeka ajanını geliştirmek için yeni iş ilanları açtı.",
+  "body": "Bloomberg'in ortaya çıkardığı bir iş ilanına göre Apple, web'de gezinme, uygulamalar arasında çalışma ve kod yazma gibi karmaşık görevleri üstlenebilecek kendi Apple yapay zeka ajanı üzerinde çalışıyor. Şirket, çok adımlı süreçleri yürütecek otonom asistan projesine liderlik edecek mühendisler arıyor.\n\n## Apple yapay zeka ajanı neler yapabilecek?\n\nYayınlanan iş ilanına göre geliştirilen yapay zeka ajanı; uygulamalar, web tarayıcıları, komut satırları, kodlar ve uygulama programlama arayüzleri (API) üzerinde çok adımlı görevleri planlayıp yürütebilecek. İlanda ayrıca, bu ana ajanın süreç boyunca uzmanlaşmış alt ajanları da koordine edebileceği belirtiliyor.\n\nAjanın; Siri, Kullanıcı Arayüzü Çerçeveleri (UI Frameworks) ve **Apple Foundation Models** birimleriyle yakın iş birliği içinde geliştirileceği aktarılıyor. Bloomberg'in aktardığına göre şirket, gelecekte ajanın Safari sekmelerini düzenleme veya Fotoğraflar uygulamasında görselleri döndürüp kırpma gibi yeteneklere sahip olmasını hedefliyor.\n\n## iOS 27.3 ve pazardaki rekabet\n\nApple, Eylül ayında sunduğu Siri güncellemesinin ardından yaklaşan iOS 27.3 sürümüyle geliştiricilere Siri yapay zekasını tüm uygulamalara entegre etme imkanı tanımaya hazırlanıyor. Şirketin bu adımı; Meta'nın Muse, OpenAI'ın Dots, Anthropic'in Duet ve Google'ın Tasks gibi pazardaki diğer yapay zeka ajanlarıyla rekabet etmesini sağlayacak.\n\n**Neden önemli?** Teknoloji devleri arasındaki rekabet soru-cevap asistanlarından, kullanıcı adına cihaz üzerinde doğrudan işlem yapabilen otonom sistemlere kayıyor. Apple'ın kendi işletim sistemi ve donanım ekosistemine entegre edeceği bir ajan, yapay zeka asistanlarının günlük kullanım biçimini değiştirebilir.",
+  "category": "sirketler",
+  "tags": [
+    "Apple",
+    "Siri",
+    "Apple Foundation Models",
+    "iOS 27.3",
+    "yapay zeka ajanları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Apple kendi yapay zeka ajanını geliştiriyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A minimalist design object in a sleek dark studio setting, featuring floating concentric rings made of clear polished glass and subtle metallic elements intermingling smoothly to symbolize multi-task coordination, bathed in soft directional light.",
+  "focus_keyword": "Apple yapay zeka ajanı",
+  "seo_title": "Apple yapay zeka ajanı geliştirmek için adım attı",
+  "meta_description": "Apple yapay zeka ajanı geliştirmek için yeni bir ekibe liderlik edecek mühendisler arıyor. Detaylar ve Siri entegrasyonu haberimizde.",
+  "seo_slug": "apple-yapay-zeka-ajani-gelistirmek-icin-muhendis-ariyor",
+  "image_alt": "Karanlık bir stüdyo ortamında birbiriyle bağlantılı şeffaf cam halkalardan oluşan minimalist yapı.",
+  "cover_text": "Apple AI Agent",
+  "importance": 7,
+  "triage_reason": "Apple'ın kendi yapay zeka ajanı üzerinde çalışması ve mühendis alımı yapması önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T22:31:41Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 818
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "apple-yapay-zeka-ajani-gelistirmek-icin-muhendis-ariyor",
+  "published_at": "2026-11-19T22:36:33Z",
+  "publish_mode": "auto"
+}
