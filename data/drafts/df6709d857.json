@@ -50,11 +50,21 @@
       "via": null,
       "via_url": null,
       "published": null
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/19/anthropic-81-milyar-dolarlik-halka-arz-icin-hisse-fiyatini-83-dolar-olarak-belirledi/",
+      "title": "Anthropic, 81 milyar dolarlık halka arz için hisse fiyatını 83 dolar olarak belirledi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/19/anthropic-81-milyar-dolarlik-halka-arz-icin-hisse-fiyatini-83-dolar-olarak-belirledi/#comments",
+      "published": "2026-11-19T08:00:00Z"
     }
   ],
   "source_keys": [
     "TechCrunch",
-    "Anthropic"
+    "Anthropic",
+    "Webrazzi"
   ],
   "source_texts": [
     {
