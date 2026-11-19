@@ -37,10 +37,20 @@
       "via": null,
       "via_url": null,
       "published": null
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T14:25:37Z"
     }
   ],
   "source_keys": [
-    "Anthropic"
+    "Anthropic",
+    "The Verge"
   ],
   "source_texts": [
     {
