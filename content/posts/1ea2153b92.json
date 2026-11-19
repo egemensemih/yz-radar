@@ -1,0 +1,60 @@
+{
+  "id": "1ea2153b92",
+  "created_at": "2026-11-19T14:13:47Z",
+  "title": "Superhuman Go yapay zeka asistanı tüm platforma yayılıyor",
+  "summary": "Superhuman, Go adını verdiği yapay zeka asistanını Docs ve Mail dahil tüm ürünlerine entegre ediyor. Güncelleme, kişiselleştirilmiş bağlam ve 20 yeni ajan desteği sunuyor.",
+  "body": "Eski adıyla Grammarly olarak bilinen üretkenlik şirketi Superhuman, 19 Kasım'da yaptığı açıklamayla **Superhuman Go** yapay zeka asistanını tüm ürün ekosistemine entegre ettiğini duyurdu. Yeni güncellemeyle birlikte asistan, farklı uygulamalar arasında bağlam kurarak kullanıcılara özel öneriler sunabiliyor.\n\n## Superhuman Go yetenekleri ve yeni entegrasyonlar\n\nTechCrunch'ın aktardığına göre güncellenen Go asistanı, imleçle hizalı şekilde çalışarak kullanıcının yazım stilini öğreniyor ve e-postalarda veya Docs belgesinde bu stile uygun taslaklar hazırlayabiliyor. Ayrıca takvim takibi yapabilen ve e-postaları izleyerek proaktif yanıtlar üretebilen asistan, arka planda otomatik rutinler çalıştırabiliyor.\n\nSuperhuman, Go SDK aracılığıyla platforma 20 yeni bağlı ajan eklendiğini bildirdi. Bu entegrasyonlar arasında öne çıkan servisler şunlardır:\n\n* DeepL ve Legora\n* Amplitude ve Databricks\n* Blackboard\n\nŞirket ayrıca, kurumsal veritabanı ve bağlı araçlardan bilgi çekerek arama yapabilen enterprise search özelliğini de devreye aldı. Mail tarafında daha önce kullanılan temel yapay zeka sisteminin yerini alan Superhuman Go, Google ve Outlook hesaplarındaki e-postaları düzenleme yeteneğine de kavuştu.\n\n## Toplantı notları ve kullanım istatistikleri\n\nEylül ayında not alma uygulaması Fathom'u bünyesine katan Superhuman, canlı ortaklaşa not tutma özelliğini de erişime açtı. Asistan, toplantı sonrasında teklif taslağı hazırlamak gibi kararları otomatik olarak alabiliyor.\n\nSuperhuman CEO'su Shishir Mehrotra, Go asistanının 1 milyondan fazla aktif kullanıcıya ulaştığını ifade etti. Mehrotra, asistanın ağırlıklı olarak iş odaklı tasarlanmasına rağmen kişisel e-posta ve takvim süreçlerinde de kullanıcılara yardımcı olduğunu belirtti.\n\n**Neden önemli?** Üretkenlik yazılımları arasındaki rekabet artarken, yapay zeka asistanlarının tek bir görevin ötesine geçip kullanıcının tüm çalışma bağlamını anlaması kritik bir avantaj haline geliyor. Superhuman'ın genişleyen ajan ekosistemi, iş akışlarını tek bir merkezden yönetme çabasını gösteriyor.",
+  "category": "urunler",
+  "tags": [
+    "Superhuman",
+    "Grammarly",
+    "Superhuman Go",
+    "Fathom",
+    "DeepL",
+    "üretkenlik yazılımları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Superhuman Go tüm platforma entegre edildi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "1 milyon",
+  "hero_stat_label": "aktif kullanıcı",
+  "visual_style": "studio",
+  "visual_scene": "a clean minimalist glowing glass orb sitting on a polished obsidian surface, surrounded by small floating translucent geometric shapes symbolizing interconnected agents and apps",
+  "focus_keyword": "Superhuman Go",
+  "seo_title": "Superhuman Go yapay zeka asistanı genişletiliyor",
+  "meta_description": "Superhuman, Superhuman Go yapay zeka asistanını tüm ürünlerine yayıyor. 20 yeni ajan entegrasyonu ve proaktif özelliklerin ayrıntılarını öğrenin.",
+  "seo_slug": "superhuman-go-yapay-zeka-asistanini-yeniledi",
+  "image_alt": "Siyah cam yüzey üzerinde parlayan küre ve etrafındaki geometrik cisimler: Superhuman Go asistanını temsil eden görsel",
+  "cover_text": "Superhuman Go",
+  "importance": 6,
+  "triage_reason": "Superhuman, Go yapay zeka asistanını e-posta ve doküman uygulamalarına entegre ettiğini duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T14:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 796
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "lavanta",
+    "cover_v": 1
+  },
+  "slug": "superhuman-go-yapay-zeka-asistanini-yeniledi",
+  "published_at": "2026-11-19T14:13:48Z",
+  "publish_mode": "auto"
+}
