@@ -1,0 +1,69 @@
+{
+  "id": "17a6c532f8",
+  "status": "pending",
+  "created_at": "2026-11-19T10:09:48Z",
+  "title": "Snapchat'ten yapay zeka asistanlarıyla AR Lens geliştirme aracı: Easy Lens CLI",
+  "summary": "Snapchat, Claude Code ve Cursor gibi yapay zeka asistanlarıyla kod yazmadan artırılmış gerçeklik filtreleri ve oyunlar geliştirmeyi sağlayan Easy Lens CLI aracını duyurdu.",
+  "body": "Webrazzi'nin aktardığına göre Snapchat, yapay zeka araçlarıyla artırılmış gerçeklik (AR) filtreleri ve oyunlar geliştirmeyi kolaylaştıran yeni aracını duyurdu. Easy Lens CLI adı verilen araç, geliştiricilerin Claude Code, Cursor ve Codex gibi yapay zeka asistanlarını kullanarak Snapchat için Lens oluşturmasına imkan tanıyor.\n\n## Easy Lens CLI ile kod yazmadan AR lens geliştirme\n\nSnapchat kullanıcılarının fotoğraf ve videolarına ekleyebildiği Lens'ler, yüz filtreleri, animasyonlar ve çevreye dijital nesneler ekleyen artırılmış gerçeklik efektlerinden oluşuyor. Yeni araçla geliştiriciler, hazırlamak istedikleri Lens'i günlük dille tarif edebiliyor ve yapay zeka asistanı bu tarif doğrultusunda gerekli çalışmaları yaparak Lens'i oluşturuyor. Şirketin verdiği bilgiye göre bir oyunun fikir aşamasından Snapchat'te yayımlanmasına kadar geçen süre tek bir güne indirilebiliyor.\n\n## Kapsam ve gelir imkanları\n\nSnapchat, 100'den fazla artırılmış gerçeklik aracı ve 50 yapay zeka destekli içerik oluşturma aracının kullanılabildiğini belirtiyor. Mac, Windows ve Linux bilgisayarlarda kullanılabilen araçla şu imkanlar sunuluyor:\n\n* Kamera filtreleri ve güzellik efektleri hazırlama\n* Mevcut tarayıcı oyunlarını Snapchat'e taşıma\n* Reklam ve kampanyalarda etkileşimli AR deneyimleri oluşturma\n\nÖte yandan Snapchat, Lens geliştiren içerik üreticilerine gelir elde etme imkanı da sunuyor. Şirketin Lens+ Payouts programına katılan geliştiriciler, oluşturdukları Lens'lerden kazanç sağlayabiliyor ve şirket geçtiğimiz ay bu program kapsamında içerik üreticilerine toplam 1,8 milyon dolar ödeme yaptığını açıkladı.\n\n**Neden önemli?** Easy Lens CLI, kod bilgisi gerektirmeyen yapay zeka entegrasyonu sayesinde Snapchat platformunda artırılmış gerçeklik içeriklerinin üretim sürecini hızlandırmayı ve geniş bir içerik üretici kitlesine ulaştırmayı hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Snapchat",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "artırılmış gerçeklik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Snapchat'ten yapay zeka destekli AR aracı: Easy Lens CLI",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "1,8 milyon $",
+  "hero_stat_label": "geçen ayki üretici ödemesi",
+  "visual_style": "studio",
+  "visual_scene": "a smooth matte black cylindrical desktop device casting a soft geometric light pattern onto a textured grey surface, accompanied by small floating translucent glass shards",
+  "focus_keyword": "Easy Lens CLI",
+  "seo_title": "Snapchat Easy Lens CLI ile yapay zeka AR lens geliştirme",
+  "meta_description": "Snapchat, Claude Code ve Cursor gibi yapay zeka asistanlarıyla kod yazmadan AR lens ve oyun geliştirmeyi sağlayan Easy Lens CLI aracını duyurdu.",
+  "seo_slug": "snapchat-easy-lens-cli-ar-gelistirme-araci",
+  "image_alt": "Mat siyah silindirik cihaz ve gri yüzey üzerinde yansıyan geometrik ışık desenleri",
+  "cover_text": "Easy Lens CLI",
+  "importance": 6,
+  "triage_reason": "Snapchat, geliştiriciler için yapay zeka entegreli yeni AR Lens geliştirme aracı Easy Lens CLI'ı duyurdu.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/19/snapchat-ten-yapay-zeka-asistanlariyla-ar-lens-gelistirme-araci-easy-lens-cli/",
+      "title": "Snapchat'ten yapay zeka asistanlarıyla AR Lens geliştirme aracı: Easy Lens CLI",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/19/snapchat-ten-yapay-zeka-asistanlariyla-ar-lens-gelistirme-araci-easy-lens-cli/#comments",
+      "published": "2026-11-19T10:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Snapchat'ten yapay zeka asistanlarıyla AR Lens geliştirme aracı: Easy Lens CLI",
+      "url": "https://webrazzi.com/2026/11/19/snapchat-ten-yapay-zeka-asistanlariyla-ar-lens-gelistirme-araci-easy-lens-cli/",
+      "published": "2026-11-19T10:00:00Z",
+      "summary": "Snapchat, yapay zeka araçlarıyla artırılmış gerçeklik (AR) filtreleri ve oyunlar geliştirmeyi kolaylaştıran yeni aracını duyurdu. Easy Lens CLI adı verilen araç, geliştiricilerin Claude Code, Cursor v...",
+      "text": "Snapchat, yapay zeka araçlarıyla artırılmış gerçeklik (AR) filtreleri ve oyunlar geliştirmeyi kolaylaştıran yeni aracını duyurdu. Easy Lens CLI adı verilen araç, geliştiricilerin Claude Code, Cursor ve Codex gibi yapay zeka asistanlarını kullanarak Snapchat için Lens oluşturmasına imkan tanıyor.\nSnapchat kullanıcılarının fotoğraf ve videolarına ekleyebildiği Lens'ler, yüz filtreleri, animasyonlar ve çevreye dijital nesneler ekleyen artırılmış gerçeklik efektlerinden oluşuyor. Yeni araçla geliştiriciler, hazırlamak istedikleri Lens'i günlük dille tarif edebiliyor. Yapay zeka asistanı ise bu tarif doğrultusunda gerekli çalışmaları yaparak Lens'i oluşturuyor. Üstelik geliştiricilerin kod yazmayı bilmesi de gerekmiyor.\nEasy Lens CLI, Lens oluşturmanın yanı sıra test etme, hataları düzeltme ve hazırlanan içeriği Snapchat'te yayımlama gibi işlemleri de üstleniyor. Geliştiriciler bu araçla kamera filtreleri, güzellik efektleri ve oyunlar hazırlayabiliyor. Snapchat, 100'den fazla artırılmış gerçeklik aracı ve 50 yapay zeka destekli içerik oluşturma aracının kullanılabildiğini belirtiyor. Şirketin verdiği bilgiye göre bir oyunun fikir aşamasından Snapchat'te yayımlanmasına kadar geçen süre tek bir güne indirilebiliyor.\nYeni araç, yalnızca profesyonel geliştiricilere değil, farklı alanlarda içerik üreten kişi ve şirketlere de hitap ediyor. Oyun geliştiricileri mevcut tarayıcı oyunlarını Snapchat'e taşıyabilirken markalar ve reklam ajansları da kampanyalarında kullandıkları görsel ve videoları etkileşimli AR deneyimlerine dönüştürebiliyor.\nÖte yandan Snapchat, Lens geliştiren içerik üreticilerine gelir elde etme imkanı da sunuyor. Şirketin Lens+ Payouts programına katılan geliştiriciler, oluşturdukları Lens'lerden kazanç sağlayabiliyor. Snapchat, geçtiğimiz ay bu program kapsamında içerik üreticilerine toplam 1,8 milyon dolar ödeme yaptığını açıkladı. Mac, Windows ve Linux bilgisayarlarda kullanılabilen Easy Lens CLI, Snapchat için yeni artırılmış gerçeklik içerikleri geliştirme sürecini daha geniş bir kitleye açmayı hedefliyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 794
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
