@@ -1,0 +1,59 @@
+{
+  "id": "a9ecf4961e",
+  "created_at": "2026-11-19T18:21:51Z",
+  "title": "Gemini bilgisayar kullanımı özelliği macOS için yayınlandı",
+  "summary": "Google, Gemini masaüstü uygulamasının macOS üzerinde kullanıcı adına uygulama içi görevleri yerine getirebilen yeni bilgisayar kullanımı özelliğini duyurdu.",
+  "body": "Google, 19 Kasım 2026'da yaptığı duyuruyla Gemini masaüstü uygulamasına macOS üzerinde **bilgisayar kullanımı** yeteneğini eklediğini açıkladı. Bu yeni özellik, yapay zekanın yerel uygulamalar ve web tarayıcıları arasında gezinerek kullanıcı adına çok adımlı görevleri tamamlamasına olanak tanıyor. Gemini, bu işlemleri gerçekleştirirken kullanıcıya canlı bir önizleme sunuyor ve bu sırada kullanıcının kendi imleç hakimiyetini korumasına imkan veriyor.\n\n## Gemini neler yapabiliyor?\n\nTechCrunch'ın aktardığına göre, bu yeni yetenek özellikle tekrarlayan ve zaman alan iş akışlarında verimliliği artırmayı hedefliyor. Gemini'ın gerçekleştirebileceği başlıca işlemler şunlardır:\n\n* Çeşitli web sitelerindeki formları doldurma.\n* Birden fazla dosya üzerinde aynı işlemleri tekrarlama.\n* Dosyaları belirlenen kriterlere göre klasörlere düzenleme.\n* Dosyalardan veya çevrimiçi panellerden sunumlar oluşturma.\n\nKullanıcılar, yapay zeka tarafından atılan her adımı süreç ilerlerken duraklatabiliyor, iptal edebiliyor veya onay verebiliyor. Bu kontrol mekanizması, sistemin güvenli bir şekilde çalışmasını sağlarken kullanıcının sürece tam hakimiyetini destekliyor.\n\n## Erişim ve kısıtlamalar\n\nGoogle, bu yeni özelliği başlangıç aşamasında sadece Amerika Birleşik Devletleri'nde ve İngilizce dilinde kullanıma sundu. Özelliği kullanmak isteyenlerin, Gemini masaüstü uygulamasına sahip olmaları ve Google AI Plus, Pro ya da Ultra aboneliklerinden birine dahil olmaları gerekiyor. Şirket, özelliğin diğer pazarlara veya farklı platformlara ne zaman genişletileceğine dair henüz bir bilgi paylaşmadı.\n\n**Neden önemli?** Google, OpenAI, Anthropic ve Meta gibi rakiplerinin sunduğu **ajan tabanlı** (agentic) özelliklere katılarak, yapay zekayı bir sohbet botu olmaktan çıkarıp işletim sistemi düzeyinde bir yardımcıya dönüştürme stratejisini güçlendiriyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Gemini",
+    "macOS",
+    "yapay zeka",
+    "yazılım"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Gemini artık Mac üzerinde görevleri yönetebiliyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "A clean, metallic desktop surface holding a solitary, matte-finish laptop partially open. Floating above the trackpad is a soft, glowing orb of translucent light, suggesting interaction without physical touch. The background is a calm, neutral grey gradient, emphasizing the sleekness of the hardware.",
+  "focus_keyword": "gemini bilgisayar kullanımı",
+  "seo_title": "Gemini bilgisayar kullanımı özelliği macOS'a geldi",
+  "meta_description": "Google, Gemini uygulamasının macOS üzerinde kullanıcı adına uygulama içi işlemleri gerçekleştirebilen bilgisayar kullanımı özelliğini yayınladı.",
+  "seo_slug": "gemini-bilgisayar-kullanimi-macos-ozelligi",
+  "image_alt": "Gemini'ın macOS üzerinde bilgisayar kullanımı özelliğini temsil eden şık ve minimalist bir tasarım görseli.",
+  "cover_text": "Gemini",
+  "importance": 8,
+  "triage_reason": "Google, Gemini için Mac masaüstü uygulamasında çok adımlı iş akışlarını yöneten yapay zeka ajanı özelliğini duyurdu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T18:09:11Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 805
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "gemini-bilgisayar-kullanimi-macos-ozelligi",
+  "published_at": "2026-11-19T18:22:13Z",
+  "publish_mode": "auto"
+}
