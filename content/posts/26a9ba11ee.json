@@ -1,0 +1,58 @@
+{
+  "id": "26a9ba11ee",
+  "created_at": "2026-11-19T20:21:02Z",
+  "title": "Jensen Huang istifa süreci: Nvidia yönetiminde kriz ve yeni gelişmeler",
+  "summary": "Nvidia kurucu ortağı ve CEO'su Jensen Huang, hakkında ortaya çıkan iddiaların ardından görevinden ayrıldı. Şirkette geçici CEO olarak Colette Kress görevlendirildi.",
+  "body": "Nvidia kurucu ortağı Jensen Huang, kişisel ilişkileri ve ulusal güvenlik endişelerini beraberinde getiren iddiaların ardından 2026 yılının Kasım ayında CEO'luk görevinden ayrıldı. TechCrunch'ın aktardığına göre, 63 yaşındaki iş insanı evlilik dışı ilişkileri bulunduğunu itiraf etmesinin hemen ardından görevini devretti. Bu gelişme, yapay zeka çipi pazarının en büyük aktörlerinden biri olan şirkette yönetim değişikliğini tetikledi.\n\n## İstifa süreci ve iddialar\n\nABD'li yetkililer, Huang'ın ilişkide olduğu öne sürülen Megaspeed yöneticisi Alice Huang'ın Pekin'e bilgi aktaran bir Çin casusu olabileceği ihtimalini araştırıyor. Singapur merkezli Megaspeed, son iki yılda milyarlarca dolarlık Nvidia çipi satın almış ve şirket hakkında daha önce yasa dışı çip transferi şüpheleriyle soruşturma başlatılmıştı. Yaşanan bu gelişmelerin ardından The New York Times, Jensen Huang'ın şirketin sağlık birimi başkan yardımcısı Kimberly Powell ve ismi açıklanmayan başka bir çalışanla daha ilişkisi olduğunu öne sürdü. The Wall Street Journal'ın haberine göre ise Huang, görevden ayrılmadan önce halefi olarak gördüğü CFO Colette Kress'in stratejik karar alma süreçlerinde yetersiz kalabileceğini dile getirmişti.\n\n## Nvidia'da son durum ve finansal hedefler\n\nNvidia yönetim kurulu başkanı Harvey C. Jones, Jensen Huang'ın yeniden göreve getirilmesinin düşünülmediğini belirtti. Geçici CEO Colette Kress, 17 Kasım 2026'da yaptığı açıklamada şirketin üç aylık gelirinin yıllık bazda artış göstererek beklentileri aştığını ve 115,8 milyar dolara ulaştığını bildirdi. Ayrıca şirket, tartışmalara yol açan bir açık kapı uygulamasına son vererek Çin'e H200 çipi satışını durdurma kararını duyurdu.\n\n**Neden önemli?** Yapay zeka altyapısında kritik öneme sahip olan Nvidia'daki bu liderlik değişimi ve federal soruşturmalar, küresel teknoloji rekabeti ile ulusal güvenlik dengelerini doğrudan etkiliyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Colette Kress",
+    "Megaspeed"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Jensen Huang Nvidia'dan ayrıldı",
+  "kicker": "Yönetim krizi",
+  "hero_stat": "115,8 milyar $",
+  "hero_stat_label": "üç aylık gelir",
+  "visual_style": "studio",
+  "visual_scene": "a single dark graphite architectural model of a shattered geometric tower resting on a smooth concrete pedestal, illuminated by a sharp side light casting long shadows",
+  "focus_keyword": "Jensen Huang istifa",
+  "seo_title": "Jensen Huang istifa süreci: Nvidia yönetiminde kriz",
+  "meta_description": "Nvidia kurucu ortağı Jensen Huang'ın istifa süreci, Çin casusluğu iddiaları ve şirketin son finansal durumu hakkında güncel gelişmeler.",
+  "seo_slug": "jensen-huang-istifa-sureci-ve-nvidia-gelismeleri",
+  "image_alt": "Karanlık bir kaide üzerinde duran soyut geometrik heykel, Jensen Huang'ın Nvidia'daki istifasını temsil ediyor",
+  "cover_text": "Jensen Huang",
+  "importance": 9,
+  "triage_reason": "Nvidia CEO'su Jensen Huang'ın istifası ve ulusal güvenlik etkileri nedeniyle büyük küresel gelişme.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T20:18:49Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 813
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "slug": "jensen-huang-istifa-sureci-ve-nvidia-gelismeleri",
+  "published_at": "2026-11-19T20:21:06Z",
+  "publish_mode": "auto"
+}
