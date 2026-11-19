@@ -57,11 +57,21 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50554374",
       "published": "2026-11-19T00:29:45Z"
+    },
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/19/google-gpt-6-2-sol-ve-claude-opus-5-5-e-rakip-gemini-4-neon-u-tanitti/",
+      "title": "Google, GPT-6.2 Sol ve Claude Opus 5.5'e rakip Gemini 4 Neon'u tanıttı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/19/google-gpt-6-2-sol-ve-claude-opus-5-5-e-rakip-gemini-4-neon-u-tanitti/#comments",
+      "published": "2026-11-19T11:00:00Z"
     }
   ],
   "source_keys": [
     "Google DeepMind",
-    "Hacker News"
+    "Hacker News",
+    "Webrazzi"
   ],
   "source_texts": [
     {
