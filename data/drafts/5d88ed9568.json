@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-19T20:22:17Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T21:58:06Z"
     }
   ],
   "source_keys": [
-    "The Verge"
+    "The Verge",
+    "TechCrunch"
   ],
   "source_texts": [
     {
