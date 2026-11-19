@@ -1,0 +1,58 @@
+{
+  "id": "9132a6b176",
+  "created_at": "2026-11-19T20:06:38Z",
+  "title": "Google ana sayfa yapay zeka sohbetlerini kenar çubuğuna taşıyor",
+  "summary": "Google, ana sayfasına eklediği kenar çubuğuyla kullanıcıların son yapay zeka sohbetlerine ve Gemini Notebook bağlantılarına erişmesini sağlıyor.",
+  "body": "Google ana sayfa yapay zeka sohbetlerini doğrudan arama ekranına entegre eden yeni bir tasarımı kullanıma sunuyor. Google Ürün Başkan Yardımcısı Robby Stein tarafından X platformunda paylaşılan bilgilere göre, kullanıcılar artık arama motorunun ana sayfasında bir kenar çubuğu açarak yapay zeka ile gerçekleştirdikleri son etkileşimleri görüntüleyebilecek.\n\n## Google ana sayfa yapay zeka entegrasyonu nasıl çalışıyor?\n\nThe Verge'ün aktardığına göre, kullanıcılar ekranın sol tarafında beliren gri çubuğa tıklayarak bu yeni kenar çubuğunu aktifleştirebiliyor. Açılan panel, kullanıcıların Google üzerindeki yapay zeka aramalarını düzenlemesine olanak tanıyor. Kenar çubuğunda sunulan öne çıkan özellikler şu şekilde sıralanıyor:\n\n- **AI Mode** kullanılarak yapılan son aramaların ve sohbetlerin listesi\n- Yeni bir sohbet başlığı başlatma ve geçmiş sohbetler içinde arama yapma seçeneği\n- **Gemini Notebook** bağlantısını doğrudan kenar çubuğuna entegre etme imkanı\n\nGoogle ana sayfası yıllardır kullanıcılara yalnızca ortada tek bir arama çubuğu sunan minimalist bir yapıyla hizmet veriyordu. Yeni kenar çubuğu, bu klasik arama deneyimini belirgin şekilde değiştiriyor.\n\n## Arama alışkanlıklarındaki değişim\n\nGoogle yöneticisi Robby Stein, bu tasarım değişikliğinin gerekçesini açıklarken kullanıcıların artık arama motoruna tek bir yanıtla tamamlanmayan daha detaylı sorularla geldiğini ifade etti. Stein, yapılan dâhili testlerde bu kenar çubuğunun kullanıcıların web üzerinde keşif yapmaya devam etmelerine ve çalışmalarında ilerleme kaydetmelerine büyük katkı sağladığını vurguladı.\n\n**Neden önemli?** Geleneksel arama motoru anlayışı yerini sürekli sohbet tabanlı yapay zeka etkileşimlerine bırakırken, Google ana sayfasındaki minimalist yapısını bu yeni alışkanlıklara göre şekillendiriyor. Bu adım, arama deneyimini anlık sonuç bulma sürecinden çok adımlı bir araştırma sürecine dönüştürmeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Google Search",
+    "Gemini Notebook",
+    "Robby Stein"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google ana sayfasına yapay zeka sohbet çubuğu ekliyor",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A modern minimalist desk with a sleek vertical frosted gray glass panel standing on the left side, catching subtle natural light next to a clean white surface.",
+  "focus_keyword": "Google ana sayfa yapay zeka",
+  "seo_title": "Google ana sayfa yapay zeka sohbetleriyle yenileniyor",
+  "meta_description": "Google ana sayfa yapay zeka sohbetlerini içeren yeni bir kenar çubuğunu kullanıma sunuyor. Güncellemenin detayları YZ Radar'da.",
+  "seo_slug": "google-ana-sayfa-yapay-zeka-sohbetleri-kenar-cubugu",
+  "image_alt": "Google ana sayfasındaki yeni yapay zeka kenar çubuğunu temsil eden minimalist panel görseli",
+  "cover_text": "Google Search",
+  "importance": 7,
+  "triage_reason": "Google, yapay zeka sohbetlerini doğrudan ana sayfasına entegre ederek kullanıcı deneyimini güncelliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Google is putting AI chats right on the homepage",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T20:05:06Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 810
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "google-ana-sayfa-yapay-zeka-sohbetleri-kenar-cubugu",
+  "published_at": "2026-11-19T20:06:49Z",
+  "publish_mode": "auto"
+}
