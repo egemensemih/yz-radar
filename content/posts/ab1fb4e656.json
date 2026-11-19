@@ -1,0 +1,59 @@
+{
+  "id": "ab1fb4e656",
+  "created_at": "2026-11-19T04:40:14Z",
+  "title": "Microsoft çalışanlarına istifa seçeneği sunarak iş yapış şeklini dönüştürüyor",
+  "summary": "Microsoft CEO'su Satya Nadella, şirketin yapay zeka odaklı çalışma modeline geçişi kapsamında 60 bin çalışana gönüllü ayrılma teklifi sunduklarını açıkladı.",
+  "body": "Microsoft CEO'su Satya Nadella, Ekim ayında yaklaşık 60 bin çalışana gönüllü olarak işten ayrılma teklifi sunmasının arkasındaki temel stratejiyi açıkladı. Şirketin yapay zeka odaklı bir yapıya geçişini hızlandırmak isteyen yönetim, çalışanların bu değişime uyum sağlamak veya kariyerlerine başka bir yerde devam etmek arasında seçim yapmalarına olanak tanıyan bir süreç başlattı. Microsoft bünyesindeki iş süreçlerinin köklü bir **yapay zeka** dönüşümünden geçtiğini vurgulayan Nadella, bu adımın zorunlu bir işten çıkarma yerine çalışanlara kontrol imkanı sağladığını belirtti.\n\n## Yeni çalışma modeli: Yönetici olarak çalışanlar\n\nNadella'ya göre, Microsoft'un gelecekteki çalışma yapısında yazılımcılar dahil herkes, yapay zeka sistemlerini yöneten birer \"yönetici\" rolüne bürünecek. Nadella, Microsoft 365 uygulamaları için geliştirilen Cowork isimli yapay zeka ajanını örnek göstererek, sadece 11 yazılımcıdan oluşan bir ekibin, doğrudan ürünü geliştirmek yerine ürünü üreten bir \"yazılım fabrikası\" kurguladığını ifade etti. Şirketin, çalışanların iş yapış şekillerini kökten değiştirmeyi hedeflediği bu süreçte, teknik rollerin yerini yapay zeka ajanlarını denetleyen bir iş akışı alıyor.\n\n## Dönüşüm süreci ve çalışan psikolojisi\n\nNadella, yapay zeka devrimiyle ilgili spekülasyonların ve \"işlerin tamamen elden gideceği\" yönündeki yaygın söylemlerin çalışanlar arasında büyük bir endişe yarattığına dikkat çekiyor. Çalışanların kendi kaderleri üzerindeki kontrolü kaybetme korkusunu hafifletmek için şeffaflığı önemsediklerini belirten CEO, bu **yapısal değişikliklerin** sancılı olabileceğini ancak şirketin \"AI-first\" (yapay zeka öncelikli) bir kuruluşa dönüşmesi için gerekli olduğunu savundu. Nadella, bu değişimi kabul edip adaptasyon sürecine girmek istemeyenlere bir seçenek sunmanın, şirketin geleceği için atılan stratejik bir adım olduğunu sözlerine ekledi.\n\n**Neden önemli?** Microsoft gibi yarım asırlık bir teknoloji devinin, mevcut iş gücü yapısını yapay zeka ajanları etrafında yeniden kurgulamaya çalışması, geleneksel şirketlerin dijital dönüşüm süreçlerinde karşılaştığı en büyük yapısal zorluklardan birini ortaya koyuyor.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "Satya Nadella",
+    "yapay zeka",
+    "yazılım mühendisliği",
+    "iş dünyası"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Microsoft'ta gönüllü ayrılma süreci",
+  "kicker": "Stratejik dönüşüm",
+  "hero_stat": "60 bin",
+  "hero_stat_label": "istifa teklifi",
+  "visual_style": "still_life",
+  "visual_scene": "A clean, modern office desk with an open laptop, a single glowing translucent cube resting on a notebook, and a small stack of neatly arranged papers nearby, symbolizing the transition from manual work to AI-led tasks.",
+  "focus_keyword": "microsoft çalışanları",
+  "seo_title": "Microsoft çalışanları için gönüllü ayrılma teklifi: Nadella…",
+  "meta_description": "Microsoft CEO'su Satya Nadella, şirketin yapay zeka odaklı dönüşümü kapsamında 60 bin çalışanına gönüllü istifa teklifi sunduğunu açıkladı.",
+  "seo_slug": "microsoft-calisanlari-istifa-secenegi",
+  "image_alt": "Microsoft'un yeni yapay zeka odaklı çalışma modelini simgeleyen soyut bir ofis masası görseli.",
+  "cover_text": "Microsoft",
+  "importance": 6,
+  "triage_reason": "Satya Nadella'nın yapay zeka dönüşümü kapsamında çalışanlara gönüllü ayrılma teklif etmesini açıklaması.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T00:42:56Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 788
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "microsoft-calisanlari-istifa-secenegi",
+  "published_at": "2026-11-19T04:40:30Z",
+  "publish_mode": "auto"
+}

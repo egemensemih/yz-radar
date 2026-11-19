@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-19T04:20:46Z",
+  "last_collect": "2026-11-19T04:35:44Z",
   "last_summary_date": "2026-11-18",
   "mode_override": null,
   "paused": false,
@@ -22,73 +22,72 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:41Z",
       "count": 1413
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:41Z",
       "count": 21
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:41Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 913
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2128,
+      "fails": 2129,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:41Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-19T04:05:42Z",
+      "last_ok": "2026-11-19T04:35:42Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
-      "last_ok": "2026-11-18T23:20:52Z",
-      "count": 20,
-      "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
+      "fails": 0,
+      "last_ok": "2026-11-19T04:35:44Z",
+      "count": 20
     }
   },
   "day_counts": {
@@ -204,52 +203,24 @@
       "auto": 10
     },
     "2026-11-19": {
-      "tok_in": 31171,
-      "tok_out": 5144,
+      "tok_in": 33807,
+      "tok_out": 6149,
       "cost_usd": 0.0,
-      "drafts": 4,
-      "expired": 6,
-      "published": 1,
-      "auto": 1
+      "drafts": 5,
+      "expired": 7,
+      "published": 2,
+      "auto": 2
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
-  "indexnow_queue": [],
-  "last_build": "2026-11-19T04:07:55Z",
+  "indexnow_queue": [
+    "https://egemensemih.github.io/yz-radar/haber/microsoft-calisanlari-istifa-secenegi/"
+  ],
+  "last_build": "2026-11-19T04:40:37Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i2"
-        ],
-        "topic": "Microsoft CEO Satya Nadella explains employee buyouts driven by AI",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "sirketler",
-        "reason": "Satya Nadella'nın yapay zeka dönüşümü kapsamında çalışanlara gönüllü ayrılma teklif etmesini açıklaması."
-      },
-      "items": [
-        {
-          "key": "c8a4b2ac137e196f",
-          "source": "TechCrunch",
-          "kind": "media",
-          "credit": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-          "via": null,
-          "via_url": null,
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-          "published": "2026-11-19T00:42:56Z",
-          "html_source": false,
-          "tid": "i2"
-        }
-      ],
-      "at": "2026-11-19T04:05:47Z"
-    },
     {
       "story": {
         "item_ids": [
