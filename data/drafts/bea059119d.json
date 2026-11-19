@@ -38,6 +38,24 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-18T08:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Explore the Codex Security Plugin",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T00:00:00Z"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "See PR scans in action",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T00:00:00Z"
     }
   ],
   "source_keys": [
