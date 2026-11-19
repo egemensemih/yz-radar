@@ -1,0 +1,70 @@
+{
+  "id": "13b68547d0",
+  "status": "pending",
+  "created_at": "2026-11-19T17:54:35Z",
+  "title": "Meta Muse veri sızıntısı ile gündemde: Kullanıcı verilerinin karıştığı iddia ediliyor",
+  "summary": "Meta çalışanlarının şirket içi paylaşımlarına göre yapay zeka ajanı Muse, farklı hesaplara ait verileri karıştırarak banka bakiyeleri ve özel mesajlar gibi hassas bilgileri açığa çıkarıyor.",
+  "body": "Reuters'ın şirket içi yazışmalara dayandırdığı haberine göre Meta çalışanları, şirketin yeni yapay zeka asistanı nedeniyle bir **Meta Muse veri sızıntısı** ve gizlilik riski yaşandığını dile getirdi. TechCrunch'ın aktardığı bilgilere göre yapay zeka ajanı, farklı kullanıcı hesapları arasındaki sohbetleri birbirine karıştırarak üçüncü taraflara ait kişisel ve finansal kayıtları alakasız kullanıcılara iletiyor.\n\n## Başka kullanıcılara ait veriler sohbetlere karıştı\n\nŞirket çalışanlarının dahili platformlarda paylaştığı deneyimlere göre Muse; kullanıcıların talep etmediği çocuk bakımı isteklerini, kariyer tavsiyelerini, sipariş edilmemiş ürün kayıtlarını ve başkalarına ait banka hesap bakiyelerini sohbet ekranlarına yansıttı.\n\nBir çalışanın aktardığı örnekte, hava durumu ve gelgit bilgisi sorgulanan sıradan bir sohbete Muse tarafından beklenmedik bir ekleme yapıldı. Yapay zeka ajanının, Capital One hesabındaki 2722,58 dolar ile Charles Schwab hesabındaki 5899,57 dolarlık bakiye güncellemelerini yanıtın içerisine iliştirdiği belirtildi. Başka bir şirket içi paylaşımda ise bir çalışan, kişisel telefonundaki Muse uygulamasının kendisine uçtan uca şifreli mesajlaşma servisi Signal üzerinden kız kardeşinden gelen bir mesajı yanıtlama hatırlatması yaptığını bildirdi. Çalışan, uygulamanın diğer yazılımlara erişimine izin vermediğini ve bu durumun ciddi bir gizlilik ihlali oluşturduğunu ifade etti.\n\n## Hızlı büyüme ve yanıtsız kalan sorular\n\nEylül ayında kullanıma sunulan Meta Muse, kısa sürede 10 milyondan fazla indirmeye ulaşarak en hızlı büyüyen uygulamalar arasına girmişti. Şirket içi incelemelere yansıyan bu entegrasyon ve veri izolasyonu sorunlarıyla ilgili olarak Meta, yöneltilen yorum taleplerine henüz bir yanıt vermedi.\n\n**Neden önemli?** Hızla milyonlarca kullanıcıya ulaşan yapay zeka ajanlarının cihaz içi uygulamalara ve kişisel hesaplara entegrasyonu arttıkça, çoklu kullanıcı oturumları arasındaki veri yalıtımının korunamaması büyük güvenlik açıkları yaratıyor.",
+  "category": "urunler",
+  "tags": [
+    "Meta",
+    "Muse",
+    "yapay zeka ajanları",
+    "Signal"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Haber, Reuters'ın Meta çalışanlarının şirket içi paylaşımlarına dayandırdığı iddialara dayanıyor. Meta resmi bir yanıt vermedi.",
+  "short_title": "Meta Muse ajanı verileri karıştırıyor iddiası",
+  "kicker": "Gizlilik sorunu",
+  "hero_stat": "10 milyon",
+  "hero_stat_label": "indirme sayısı",
+  "visual_style": "still_life",
+  "visual_scene": "a collection of translucent frosted-glass filing envelopes on a dark slate surface, with thin glowing paper slips accidentally sliding between different envelopes, lit by soft blue and amber studio light",
+  "focus_keyword": "Meta Muse veri sızıntısı",
+  "seo_title": "Meta Muse veri sızıntısı iddialarıyla karşı karşıya",
+  "meta_description": "Meta Muse veri sızıntısı iddiaları gündemde. Şirket içi raporlara göre yapay zeka ajanı Muse, farklı kullanıcıların özel hesap verilerini karıştırıyor.",
+  "seo_slug": "meta-muse-veri-sizintisi-iddialari",
+  "image_alt": "Buzlu cam zarflar ve aralarına karışan ışıklı kağıtlar: Meta Muse'daki veri karışıklığını temsil eden görsel",
+  "cover_text": "Muse",
+  "importance": 8,
+  "triage_reason": "Meta'nın AI ajanı Muse'un kullanıcıların özel verilerini sızdırması ciddi bir güvenlik ve etik sorunu.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T17:38:40Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "published": "2026-11-19T17:38:40Z",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "text": "Meta employees have raised concerns that the company’s AI agent Muse has been mixing up conversations across different accounts and exposing private user data, according to a new Reuters report that looked at internal company posts.\nIn some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn’t belong to them.\nOne employee told colleagues that Muse had randomly sent an extra message in a chat about weather and tide information, saying: “BTW, two bank updates, your Capital One balance is $2722.58, your Charles Schwab balance is $5899.57.”\nIn another example, an employee using the AI agent on her personal phone received a reminder from Muse to respond to a message from her sister on Signal, the popular end-to-end encrypted messaging app.\n“This seems like an extreme privacy violation. I definitely did not grant it access to other apps, or recall being asked about this,” the employee said in her post, according to the report.\nLaunched in September, Muse is one of the fastest-growing apps on record, with more than 10 million downloads.\nMeta did not immediately respond to TechCrunch’s request for comment."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 803
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
