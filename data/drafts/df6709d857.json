@@ -68,12 +68,31 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-19T16:19:41Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T16:59:23Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "title": "Anthropic starts trading on Wall Street",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-19T16:52:01Z"
     }
   ],
   "source_keys": [
     "TechCrunch",
     "Anthropic",
-    "Webrazzi"
+    "Webrazzi",
+    "The Verge"
   ],
   "source_texts": [
     {
