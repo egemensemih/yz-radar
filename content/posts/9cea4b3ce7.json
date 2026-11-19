@@ -1,0 +1,57 @@
+{
+  "id": "9cea4b3ce7",
+  "created_at": "2026-11-19T05:17:49Z",
+  "title": "Satya Nadella: Kritik altyapıdaki yamalanamaz yazılımlar risk oluşturuyor",
+  "summary": "Microsoft CEO'su Satya Nadella, DealBook Zirvesi'nde yaptığı açıklamada, kritik altyapı sistemlerindeki yamalanamaz yazılımların yapay zeka destekli siber saldırılar karşısında büyük risk taşıdığını belirtti.",
+  "body": "Microsoft CEO'su Satya Nadella, kritik altyapı sistemlerindeki yamalanamaz yazılımların yapay zeka destekli siber saldırılar karşısında büyük risk taşıdığını belirtti. TechCrunch'ın aktardığına göre Nadella, The New York Times tarafından düzenlenen DealBook Zirvesi'nde yaptığı konuşmada, ulaşım sistemleri ve donanımları yöneten birçok yazılımın düzeltilemeyen güvenlik açıklarına sahip olduğunu ifade etti.\n\n## Yamalanamaz cihazlar ve internet bağlantısı\n\nNadella açıklamasında, donanım yazılımları, soğutucular ve havalandırma sistemleri gibi kritik altyapı unsurlarının internete bağlı olduğuna dikkat çekti. Ekonominin akıllılaştırılması sürecinde birçok eski cihazın internete bağlanmasının yeni zorluklar doğurduğunu belirten Nadella, bu sistemlerin çoğunun düzeltilemez açıklar barındırdığını vurguladı. \n\nKonuşma, Microsoft Outlook, NSA, FAA ve Apple'ı etkileyen son büyük ölçekli kesintilerin arka planında gerçekleşti. Yetkililer bu kesintilerin siber saldırılardan kaynaklandığı iddialarını reddetse de, yapay zeka destekli saldırı tehdidi şirketleri yeni savunma stratejileri geliştirmeye yöneltiyor. Nadella, Outlook kesintisinin \"gizli bir hatadan\" kaynaklandığını ve olaydan gerekli dersleri çıkaracaklarını ifade etti.\n\n## Yapay zeka ve yama hızı ikilemi\n\nNadella ayrıca, yazılım açıklarını kapatma sürecinin saldırı hızıyla yarışacak şekilde hızlandığını ancak bunun da başka istikrarsızlık sorunlarına yol açtığını kaydetti. Yapay zekanın sofistike siber saldırıları kolaylaştırdığını belirten Microsoft CEO'su, açıkların artık keşfedilir keşfedilmez anında üretime yansıtılması gerektiğini, bunun da sistemlerde istikrarsızlık yaratabileceğini söyledi.\n\n**Neden önemli?** Yapay zeka destekli siber saldırıların artması, internete bağlı kritik altyapılarda bulunan yamalanamaz yazılımların güvenlik açıklarını acil bir tehdit haline getiriyor ve şirketleri gerçek zamanlı savunma sistemlerini modernize etmeye zorluyor.",
+  "category": "sirketler",
+  "tags": [
+    "Microsoft",
+    "Satya Nadella",
+    "siber guvenlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Nadella: Kritik altyapı yamalanamaz yazılımlarla dolu",
+  "kicker": "Siber güvenlik",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a dense cluster of vintage metal server racks with glowing amber indicator lights, partially obscured by a thick, heavy layer of translucent frosted glass, suggesting hidden and unfixable vulnerabilities",
+  "focus_keyword": "kritik altyapı",
+  "seo_title": "Satya Nadella: Kritik altyapıdaki yazılımlar riskli",
+  "meta_description": "Microsoft CEO'su Satya Nadella, kritik altyapı sistemlerindeki yamalanamaz yazılımların yapay zeka çağında büyük siber riskler barındırdığını söyledi.",
+  "seo_slug": "satya-nadella-kritik-altyapi-guvenlik-aciklari",
+  "image_alt": "Buzlu cam arkasında kalan sunucu raflarını temsil eden stüdyo görseli",
+  "cover_text": "Kritik altyapı",
+  "importance": 6,
+  "triage_reason": "Microsoft CEO'su Satya Nadella'nın yapay zeka siber güvenlik zorlukları ve altyapı hakkında açıklamaları.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-18T23:45:00Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 791
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "slug": "satya-nadella-kritik-altyapi-guvenlik-aciklari",
+  "published_at": "2026-11-19T05:18:02Z",
+  "publish_mode": "auto"
+}
