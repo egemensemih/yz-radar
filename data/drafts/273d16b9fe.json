@@ -1,0 +1,69 @@
+{
+  "id": "273d16b9fe",
+  "status": "pending",
+  "created_at": "2026-11-20T12:16:45Z",
+  "title": "Architect Labs Frostbite ile yapay zekanın tasarladığı CPU duyuruldu",
+  "summary": "Architect Labs, yapay zeka sistemleri tarafından sıfırdan tasarlanan ve doğrulanan Frostbite işlemci mimarisini tanıttı.",
+  "body": "Architect Labs, yapay zeka sistemleri tarafından sıfırdan keşfedilen, tasarlanan ve doğrulanan yeni işlemci mimarisi Architect Labs Frostbite duyurusunu gerçekleştirdi. 20 Kasım 2026 tarihinde yayımlanan teknik makaleye göre şirket, insan tasarımı mimarilerin ötesine geçmek amacıyla genel amaçlı bir CPU ve buna ait yeni bir komut seti geliştirdi.\n\n## Etkileşim ağlarına dayanan tasarım\n\nGeleneksel işlemci mimarileri program bileşenleri arasındaki bağımlılıkları gizlediği için performansı artırmak adına karmaşık önbellek hiyerarşilerine ihtiyaç duyuyor. Architect Labs ise Frostbite tasarımında etkileşim ağları yaklaşımını benimsedi. Bu yaklaşımda her hesaplama adımı yerel olarak gerçekleşiyor, tüm bağımlılıklar açıkça tanımlanıyor ve her değerin yalnızca tek bir sahibi bulunıyor. Bu sayede işlemci, geleneksel çekirdeklerin veri bağımlılıklarını çözmek için harcadığı karmaşık mekanizmalara ve güç tüketen önbellek tutarlılık sistemlerine gereksinim duymuyor.\n\n## Architect Labs Frostbite performans değerleri\n\nŞirketin aktardığı bilgilere göre yapay zeka ajanları derleyici, komut seti mimarisi, mikro mimari, RTL doğrulama ve nihai GDS serilim aşamalarının tamamını otonom olarak yürüttü. Geliştirme sürecinde Arcmodel isimli sistem modelini oluşturmak için ASL adında yeni bir belirteç dili kullanıldı.\n\nYapılan testlerde öne çıkan ayrıntılar şunlar oldu:\n\n- 15 tanesi değerlendirme aşamasına kadar saklı tutulan toplam 25 farklı iş yükü üzerinde test gerçekleştirildi.\n- Modern ve silikon düzeyinde kanıtlanmış çift komutlu sıralı bir superscalar CPU çekirdeğine kıyasla watt başına 4,59 kat performans elde edildi.\n- Test setine Kalman filtresi, PCA, sonlu elemanlar analizi, LU çözümü ve LZ4 sıkıştırma açma gibi pratik iş yükleri dahil edildi.\n\n**Neden önemli?** Architect Labs, yapay zeka sistemlerinin yetenekleri arttıkça veri merkezlerinden ağ anahtarlarına kadar tüm çip sınıflarının benzer köklü mimari dönüşümlerden geçeceğini öngörüyor.",
+  "category": "donanim",
+  "tags": [
+    "Architect Labs",
+    "Frostbite",
+    "işlemci mimarisi",
+    "CPU",
+    "ASL"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Architect Labs yapay zeka tasarımı CPU'yu duyurdu",
+  "kicker": "Yeni mimari",
+  "hero_stat": "4,59 kat",
+  "hero_stat_label": "watt başına performans artışı",
+  "visual_style": "sculpture",
+  "visual_scene": "A modern floating sculpture made of interconnected translucent glass nodes and thin metallic rods, forming a complex non-overlapping network structure on a dark slate surface, illuminated by warm studio light.",
+  "focus_keyword": "Architect Labs Frostbite",
+  "seo_title": "Architect Labs Frostbite işlemci mimarisini duyurdu",
+  "meta_description": "Architect Labs Frostbite mimarisi ile yapay zeka tarafından tasarlanan ve watt başına 4,59 kat yüksek performans sunan yeni CPU duyuruldu.",
+  "seo_slug": "architect-labs-frostbite-islemci-mimarisi",
+  "image_alt": "Şeffaf cam düğümler ve metal çubuklardan oluşan ağ heykeli: Architect Labs Frostbite mimarisini simgeleyen görsel",
+  "cover_text": "Frostbite",
+  "importance": 7,
+  "triage_reason": "Yapay zeka tarafından tasarlanan ve doğrulanan ilk CPU mimarisi donanım dünyası için önemli bir gelişme.",
+  "sources": [
+    {
+      "name": "architectlabs.com",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50572503",
+      "published": "2026-11-20T10:01:41Z"
+    }
+  ],
+  "source_keys": [
+    "Hacker News"
+  ],
+  "source_texts": [
+    {
+      "credit": "architectlabs.com",
+      "kind": "community",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "published": "2026-11-20T10:01:41Z",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 158 # Comments: 104",
+      "text": "Abstract\nIn our previous post, Redwood, we showed that given an architecture, our AI systems could implement, verify, and deploy an inference accelerator in record time. However, similar to other scientific domains, we believe that AI systems, given the correct freedom and guardrails, can co-design software and hardware together, making optimizations across the stack and opening a design space so large it was previously inaccessible. We set out to answer the question: “Could our AI systems & tools lead to a novel hardware discovery that radically outperforms human-made designs?”\nToday, we're introducing Frostbite, a general-purpose CPU with a new instruction set built from the ground up. Frostbite exploits the properties of interaction nets, namely that every step is local, every dependency is explicit, and every value has exactly one owner, to reach a step-function gain in CPU performance that has long stagnated. On a set of 25 initially chosen workloads, including 15 held out until the final evaluation, we achieved a 4.59x performance-per-watt multiple when compared to a modern, silicon-proven superscalar (dual-issue, in-order) CPU core.\nOur AI systems autonomously iterated over the compiler, ISA, architecture, microarchitecture, RTL, verification, and final GDS. When we took a closer look at the discovered architectural primitives, we were surprised to find novel hardware implementations and runtime features that would have otherwise been difficult to architect. In spite of stagnation in CPU core improvement, we were able to take a workload concept all the way to a final GDS, and prove a step-function increase in perf/W and perf/area. We believe that as AI systems become more capable, every class of chip we know today, from datacenter-grade CPUs, to AI accelerators, to networking switches and NICs, will go through similar fundamental architectural shifts.\nIntroduction to interaction nets\nMainstream programming languages, when compiled for general-purpose CPUs, hide the dependencies between the parts of a program. Any piece of code may read or write any variable through a shared, mutable state, and so modern CPU hardware assumes the worst case and rediscovers, at runtime, which instructions actually depend on each other. Moreover, single-core CPU performance has largely stalled since the early 2000s, pushing people towards large multicore CPUs such as Intel Xeon, AMD Zen, and NVIDIA Vera. This forces CPUs to maintain the illusion that every core sees the same memory, and keeping that illusion consistent and performant requires deep cache hierarchies and coherence protocols that cost area and power, and scale poorly.\nInteraction nets1 take a different approach. A program is a graph of nodes, and computation happens by rewriting pairs of nodes that are connected through their ports. Every rewrite only touches a small, local part of the graph. Because each node has exactly one principal port, no two of these active pairs ever overlap, so they can be rewritten in any order, or all at once, and the result is always the same. Interaction nets are also linear: every value is used exactly once, so there is no shared mutable state for the hardware to guard. Languages such as Vine2compile ordinary-looking programs directly to interaction nets. For an excellent introduction to interaction nets and why they suit hardware, we highly recommend Tendrils' “On Interaction Nets.” 3\nFig. 1 shows the difference on a small search problem, placing five queens on a five-by-five board. The sequential program visits one candidate at a time. The interaction net exposes all of its independent work: on average, about twelve interactions are ready to run at every step. Nothing about the program was rewritten to get this parallelism; the dependencies were simply never thrown away.\nIn theory, this should have two large advantages. The first is multithreading for free: rather than varying levels of coarse and fine-grained parallelism, parallelism comes straight from the program. No threads, locks, or race conditions, and none of the out-of-order machinery a conventional core uses to dig it back out. The second is that, since every value has one owner and every step is local, data can live in small local memories next to where it is used. That removes much of the area and power a conventional chip spends on large caching subsystems, and much of the system-level complexity of keeping those caches coherent.\nProcess\nFrostbite was designed with zero architectural priors. We followed the process below, riding multiple agent swarms along the way.\nArchitecture exploration and selection\nTo begin architectural exploration, we had to establish the set of workloads Frostbite should do exceedingly well in. We decided to look at different ways a program could expose its work: many independent pieces at once, rounds of parallel work, long sequential chains, data-dependent branches, and recursion. Under each category, we created a search set and a held-out eval set to evaluate the final Frostbite on, ensuring the design generalized to programs it was never tuned on. The kernels for FFT, radixsort, and LU follow the implementation in the SPLASH-2 benchmark, although 64 times smaller, because at regular sizes they are not suitable for exploratory work.\nLater, we added five more practical workloads to the held-out set: a Kalman filter, PCA, finite element analysis, an LU solve, and LZ4 decompression.\nAgents synthesized research papers and existing benchmarks, and built Python models to trade off high-level architectural ideas against each other, before narrowing to a single architectural concept. The output of this exploration was a 141-page PDF covering the proposed programming model, the runtime, and the high-level blocks of the chip. This was nowhere near the final architecture, but rather a starting point where all the prior findings, high-level requirements, constraints, experiments, and runtime traits were described. Once the first architectural iteration completed (first RTL generation), this was deleted, since many of the numbers and estimates were well off what was physically possible.\nFormal contracts and system modeling\nOnce the architecture candidate was selected, our system moved on to building the full software model of the chip. Building software models is essential when exploring an architectural space, as they allow fast iteration between the workloads, the ISA, and the abstracted view of the hardware. Whether we build a CPU, GPU, NPU, or networking switch, mastering this iteration loop allows the fastest exploration of the design space within a finite time. To do this repeatedly, we designed a new in-house specification language, ASL, and wrote Frostbite's system model “Arcmodel” in it. ASL supports machine-checkable translations and refinements between RTL, system models, UVM, SVA, and more, all against a formally backed specification. Its power and performance estimates are accurate to within 1–5"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 822
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "buz",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Hacker News"
+}
