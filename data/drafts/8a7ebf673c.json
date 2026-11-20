@@ -1,0 +1,69 @@
+{
+  "id": "8a7ebf673c",
+  "status": "pending",
+  "created_at": "2026-11-20T22:01:33Z",
+  "title": "Meta net sıfır hedefi için belirlediği 2030 takvimini gözden geçiriyor",
+  "summary": "Meta, yapay zeka altyapısına yönelik beklenenden hızlı büyüyen talep ve rekor seviyeye ulaşan emisyonlar nedeniyle 2030 net sıfır hedefini yeniden değerlendirdiğini duyurdu.",
+  "body": "Meta, yayımladığı sürdürülebilirlik raporunda **Meta net sıfır hedefi** kapsamında belirlediği 2030 takvimini artan yapay zeka altyapı yatırımları nedeniyle yeniden değerlendirdiğini açıkladı. Ars Technica'nın aktardığı raporda, şirketin sera gazı emisyonlarında büyük teknoloji rakiplerini geride bırakan bir artış kaydedildiği belirtildi.\n\nMeta Veri Merkezleri Başkan Yardımcısı Rachel Peterson ve Sürdürülebilirlik Başkanı Blair Swedeen raporun sunuş kısmında, \"Uzun vadeli hedeflerimiz değişmedi ancak çalışma ortamımız değişti\" ifadelerini kullandı. Yöneticiler, yapay zeka altyapısına olan talebin neredeyse her tahminin ötesinde hızlı büyüdüğünü ve bu nedenle ara hedefler ile takvimlerin güncel faaliyet koşullarına göre tekrar ele alındığını bildirdi.\n\n## Meta net sıfır hedefi neden erteleniyor?\n\nŞirketin yayımladığı verilere göre Meta'nın toplam karbon emisyonu 2024 yılında 15,6 milyon metrik ton CO2 eşdeğeri seviyesindeyken, 2025 yılında 21,7 milyon metrik tonun üzerine çıktı. Şirket, emisyonlardaki bu keskin yükselişin temel nedeni olarak veri merkezi sunucuları gibi sermaye malları yatırımlarını gösterdi.\n\nMeta'nın yıllık sera gazı salınımı, ABD'nin Hawaii, Maine ve South Dakota gibi eyaletlerinin toplam emisyonunu geride bırakarak Idaho eyaletinin emisyon seviyesine yaklaştı.\n\n## Rakip şirketlerdeki durum ve altyapı baskısı\n\nGoogle, Microsoft ve Amazon gibi diğer teknoloji devleri şimdilik resmi sürdürülebilirlik hedeflerine bağlı kaldıklarını açıklasa da, tüm şirketler devasa yapay zeka veri merkezlerinin enerji ihtiyacını karşılamakta zorlanıyor. Yenilenebilir enerji yatırımlarına rağmen, teknoloji şirketleri elektrik üretimi için sıkça doğal gaz yakıtlı santrallere bağımlı kalmaya devam ediyor.\n\n**Neden önemli?** Meta'nın iklim hedeflerini gözden geçirmesi, hızlı yapay zeka yarışının çevresel maliyetlerinin sürdürülebilirlik taahhütleriyle açıkça çatışmaya başladığını resmi düzeyde doğruluyor.",
+  "category": "sirketler",
+  "tags": [
+    "Meta",
+    "yapay zeka",
+    "veri merkezleri",
+    "emisyon",
+    "sürdürülebilirlik"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Meta 2030 net sıfır iklim hedefini gözden geçiriyor",
+  "kicker": "İklim ve altyapı",
+  "hero_stat": "21,7 milyon",
+  "hero_stat_label": "ton CO2 eşdeğeri emisyon",
+  "visual_style": "sculpture",
+  "visual_scene": "A minimalist sculptural composition featuring dark charcoal-textured monolithic blocks contrasting with transparent glass power conduits. Soft ambient side lighting accentuates geometric edges, with a faint warm amber glow at the base, creating a calm industrial atmosphere.",
+  "focus_keyword": "Meta net sıfır hedefi",
+  "seo_title": "Meta net sıfır hedefi için 2030 takvimini gözden geçiriyor",
+  "meta_description": "Meta net sıfır hedefi kapsamındaki 2030 takvimini artan yapay zeka altyapı yatırımları ve yükselen emisyonlar nedeniyle yeniden değerlendiriyor.",
+  "seo_slug": "meta-net-sifir-hedefi-2030-takvimini-gozden-geciriyor",
+  "image_alt": "Koyu renkli monolitik bloklar ve şeffaf cam yapılardan oluşan soyut iklim ve altyapı heykeli görseli.",
+  "cover_text": "Meta",
+  "importance": 6,
+  "triage_reason": "Meta, yapay zeka veri merkezlerinin artan karbon emisyonları nedeniyle 2030 hedefinden vazgeçiyor.",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-20T21:47:10Z"
+    }
+  ],
+  "source_keys": [
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published": "2026-11-20T21:47:10Z",
+      "summary": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers. The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and…",
+      "text": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers.\nThe company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”\n“We are re-evaluating our timelines, sequencing, and interim milestones—including the 2030 timeframe for our net zero emissions goal and our near-term intensity targets—so our approach reflects current operating realities while keeping progress transparent year over year,” Peterson and Swedeen wrote in the report.\nMeta’s statement about re-evaluating its 2030 emissions goal is a significant public acknowledgment, given that Amazon, Google, and Microsoft have all stuck by their original sustainability goals so far.\nBut all the companies have acknowledged challenges in balancing their original sustainability goals against the breakneck buildout of hyperscale data centers. Despite efforts to invest in more renewable energy projects, Meta and its rivals are still often pushing forward on AI data centers that rely on burning natural gas to generate electricity.\nRising emissions\nMeta’s report described the company’s total emissions as surging from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million metric tonnes in 2025.\nThat would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho, while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire. The company attributed much of this emissions increase to “capital goods,” like as data center servers."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 838
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Ars Technica"
+}
