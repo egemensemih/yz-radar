@@ -66,6 +66,15 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50574383",
       "published": "2026-11-20T13:29:59Z"
+    },
+    {
+      "name": "nbcnews.com",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "kind": "community",
+      "via": "Hacker News",
+      "via_url": "https://news.ycombinator.com/item?id=50578794",
+      "published": "2026-11-20T17:44:01Z"
     }
   ],
   "source_keys": [
