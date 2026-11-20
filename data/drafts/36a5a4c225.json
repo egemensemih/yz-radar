@@ -1,0 +1,69 @@
+{
+  "id": "36a5a4c225",
+  "status": "pending",
+  "created_at": "2026-11-20T08:09:10Z",
+  "title": "OpenAI ChatGPT performansını artırmak için Performance Factory sistemini geliştirdi",
+  "summary": "OpenAI, ChatGPT'deki performans sorunlarını hızla tespit edip çözmek amacıyla Codex tabanlı Performance Factory sistemini devreye aldı.",
+  "body": "OpenAI, ChatGPT altyapısındaki performans sorunlarını daha verimli yönetebilmek amacıyla geliştirdiği Performance Factory adlı sistemi duyurdu. Webrazzi'nin aktardığına göre, Codex destekli bu sistem, yazılım geliştirme sürecindeki performans düşüşlerini tespit etmekten çözüm üretmeye kadar olan adımları otomatize ediyor. OpenAI mühendisleri geçmişte performans sorunlarını manuel inceleme yöntemleri ve 30'un üzerinde farklı araçla çözmeye çalışıyordu; ancak sistemin karmaşıklığı ve geliştirme hızının artması bu süreci zorlaştırdı. Bu durumu aşmak için mühendislerin tecrübeleri, Codex'e bir beceri olarak tanımlanan \"perf-forensics\" yapısına aktarıldı.\n\n## Performance Factory nasıl çalışıyor?\nSistem, görevleri yöneten ve işleri Codex ajanlarına dağıtan dört temel bileşenden oluşuyor. Bir performans uyarısı tetiklendiğinde, sistem ilgili kod değişikliklerini, günlük kayıtlarını ve ölçümleri inceleyerek sorunun temel kaynağını araştırıyor. OpenAI, hatalı teşhisleri önlemek adına çift aşamalı bir kontrol mekanizması kurdu; ilk ajan sorunu analiz ederken, ikinci bir ajan bu bulguları sorgulayarak alternatif açıklamalar üzerinde duruyor. İlk uygulaması olan Regression Workflow, üç aylık sürede 1.700'den fazla inceleme gerçekleştirdi.\n\n## Otomatik düzeltmelerin geleceği\nSistemin hazırladığı düzeltmelerin uygulanması aşamasında halen insan denetimi büyük önem taşıyor. OpenAI verilerine göre, 600'den fazla incelemede kök neden belirlenirken, bunlardan 400'ü için çözüm önerisi oluşturuldu. Şu ana kadar yaklaşık 15 düzeltme doğrudan Codex tarafından kodlanarak sisteme dahil edildi. Şirket, gelecek dönemde özellikle düşük riskli performans sorunlarının daha az insan müdahalesiyle çözülmesini hedefliyor.\n\n**Neden önemli?** Performance Factory, yapay zeka ajanlarının sadece kod yazma aşamasında değil, yazılım bakım ve performans izleme gibi teknik süreçlerde de aktif sorumluluk üstlenmeye başladığını kanıtlıyor.",
+  "category": "sirketler",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Codex",
+    "yazılım geliştirme",
+    "yapay zeka ajanları"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan Performance Factory sistemi",
+  "kicker": "Yazılım geliştirme",
+  "hero_stat": "600",
+  "hero_stat_label": "tespit edilen sorun",
+  "visual_style": "sculpture",
+  "visual_scene": "A cluster of smooth ceramic pillars of varying heights, connected by thin, glowing fiber optic filaments that pulsate with soft light, representing an automated diagnostic network.",
+  "focus_keyword": "performance factory",
+  "seo_title": "OpenAI, ChatGPT için Performance Factory sistemini duyurdu",
+  "meta_description": "OpenAI, ChatGPT performans sorunlarını hızla tespit edip çözmek amacıyla geliştirdiği Codex destekli Performance Factory sistemini detaylandırdı.",
+  "seo_slug": "openai-performance-factory-sistemini-duyurdu",
+  "image_alt": "Performance Factory sistemini simgeleyen soyut, ışıklı seramik sütunlar ve bağlantı ağları",
+  "cover_text": "Performance Factory",
+  "importance": 6,
+  "triage_reason": "OpenAI'ın ChatGPT performansını artırmak için Codex destekli yeni aracı ve teknik detayları.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/20/openai-chatgpt-yi-hizlandirmak-icin-codex-destekli-performance-factory-yi-gelistirdi/",
+      "title": "OpenAI, ChatGPT'yi hızlandırmak için Codex destekli Performance Factory'yi geliştirdi",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/20/openai-chatgpt-yi-hizlandirmak-icin-codex-destekli-performance-factory-yi-gelistirdi/#comments",
+      "published": "2026-11-20T08:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "OpenAI, ChatGPT'yi hızlandırmak için Codex destekli Performance Factory'yi geliştirdi",
+      "url": "https://webrazzi.com/2026/11/20/openai-chatgpt-yi-hizlandirmak-icin-codex-destekli-performance-factory-yi-gelistirdi/",
+      "published": "2026-11-20T08:00:00Z",
+      "summary": "OpenAI, ChatGPT'nin performansını etkileyen sorunları daha hızlı tespit edip çözmek için geliştirdiği Performance Factory adlı sisteminin detaylarını paylaştı. Codex destekli sistem, performans düşüşl...",
+      "text": "OpenAI, ChatGPT'nin performansını etkileyen sorunları daha hızlı tespit edip çözmek için geliştirdiği Performance Factory adlı sisteminin detaylarını paylaştı. Codex destekli sistem, performans düşüşlerinin nedenlerini araştırmaktan çözüm üretmeye ve yapılan değişikliklerin sonuçlarını kontrol etmeye kadar birçok süreci otomatik hale getiriyor.\nOpenAI'ın paylaştığı verilere göre Performance Factory'nin ilk uygulaması olan Regression Workflow, üç aydan biraz uzun bir sürede 1.700'den fazla incelemeyi takip etti ve 600'den fazla performans sorununun temel nedenini belirledi. Bu da günde ortalama 17 otomatik incelemeye karşılık geliyor.\nŞirketin bu sistemi geliştirmesinin arkasında, yapay zeka destekli yazılım geliştirme süreçlerinin giderek hızlanması bulunuyor. OpenAI mühendisleri daha önce performans sorunlarını tespit etmek için sistem ölçümlerini, günlük kayıtlarını ve kod değişikliklerini manuel olarak inceliyordu. Zamanla bu çalışmalar için 30'dan fazla araç geliştirildi. Ancak yazılım geliştirme hızlandıkça performans sorunlarını incelemek de daha fazla zaman almaya başladı.\nOpenAI, bu süreci kolaylaştırmak amacıyla mühendislerin kullandığı inceleme yöntemlerini perf-forensics adlı bir Codex becerisine dönüştürdü. Böylece Codex, performans sorunlarının ne zaman başladığını, hangi işlemleri etkilediğini ve olası nedenlerini araştırabilir hale geldi.\nPerformance Factory nasıl çalışıyor?\nPerformance Factory, görevleri yöneten, işleri Codex ajanlarına dağıtan ve sonuçları takip eden dört temel bileşenden oluşuyor. Sistem, Codex'in OpenAI'ın bulut altyapısında çalışmasını sağlayarak kod depolarına, performans ölçümlerine, günlük kayıtlarına ve işlem izlerine erişmesine olanak tanıyor.\nSüreç bir performans uyarısıyla başlıyor. Codex ajanı önce sorunun ne zaman ortaya çıktığını ve hangi işlemleri etkilediğini belirliyor. Ardından ilgili kod değişikliklerini, sistem kayıtlarını ve ölçümleri inceleyerek sorunun kaynağını araştırıyor.\nOpenAI, ilk denemelerde ajanların bazen karşılaştıkları ilk makul açıklamayı doğru kabul ettiğini fark etti. Bunun üzerine sisteme ikinci bir Codex ajanının ilk ajanın bulgularını sorguladığı bir kontrol aşaması eklendi. Bu ajan, elde edilen sonuçları doğrulamak yerine olası hataları ve alternatif açıklamaları araştırıyor.\nŞirketin manuel olarak değerlendirdiği 100 temel neden önerisinin yüzde 70'i doğru bulunurken, kalan yüzde 30'un daha fazla incelemeye ihtiyaç duyduğu belirtildi. Sorunun kaynağı belirlendikten sonra Codex bir düzeltme hazırlayabiliyor. Ancak önerilen kod değişikliklerinin uygulanması için mühendis onayı gerekiyor. Değişiklik yayına alındıktan sonra sistem, performans sorununun çözülüp çözülmediğini yeniden kontrol ediyor.\nCodex'in hazırladığı düzeltmeler kullanılmaya başlandı\nVentureBeat'in OpenAI ekibinden aldığı bilgilere göre, temel nedeni belirlenen 600'den fazla incelemenin yaklaşık 400'ünde çözüm önerisi oluşturuldu. Yayına alınan yaklaşık 50 düzeltme Codex'in önerilerinden etkilenirken, yaklaşık 15 düzeltmenin kodu doğrudan Codex tarafından hazırlandı.\nOpenAI, gelecek dönemde Performance Factory'yi daha bağımsız çalışabilecek şekilde geliştirmeyi hedefliyor. Şirket, ajanların mevcut uyarı sistemlerinin fark edemediği küçük performans düşüşlerini de kendiliğinden tespit etmesini ve düşük riskli bazı düzeltmelerin daha az insan müdahalesiyle uygulanmasını planlıyor. Performance Factory, yapay zeka ajanlarının yalnızca kod yazmakla sınırlı kalmayıp yazılımların bakım ve performans süreçlerinde de giderek daha fazla sorumluluk üstlendiğini gösteriyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 821
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
