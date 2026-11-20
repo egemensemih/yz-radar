@@ -1,0 +1,59 @@
+{
+  "id": "8ec5751c06",
+  "created_at": "2026-11-20T19:20:11Z",
+  "title": "Trump'tan yapay zeka veri merkezleri için vergi tehdidi",
+  "summary": "ABD Başkanı Donald Trump, yapay zeka veri merkezlerini ülke dışında inşa eden şirketlere çok büyük vergiler getireceğini duyurdu.",
+  "body": "ABD Başkanı Donald Trump, yapay zeka veri merkezleri inşasını ülke dışına taşıyan şirketlere büyük vergiler getirme tehdidinde bulundu. The Verge'ün aktardığına göre, bu açıklama Donald Trump tarafından Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin ile yaptığı zirvenin ardından düzenlenen basın toplantısında yapıldı. Başkan yardımcısı JD Vance ve Dışişleri Bakanı Marco Rubio'nun da katıldığı toplantıda Trump, bu teklifi ilk kez kamuoyuyla paylaştığını belirtti.\n\n## Veri merkezi inşası ve dış politika\n\nDonald Trump, yaptığı açıklamalarda şirketlerin yapay zeka veri merkezlerini ABD sınırları dışında kurmasına izin vermeyeceklerini vurguladı. Çip sektöründe geçmişte yaşananları hatırlatan Trump, ABD'nin bu konuda geride kaldığını savundu ve tesislerin başka ülkelerde kurulması durumunda \"Çin'in hepsini alacağını\" ifade etti. Planın detaylarını henüz paylaşmayan Donald Trump, konuyu kendi ekibine bile yeni aktardığını ifade etti.\n\n## Kongre ve yerel kısıtlamalar\n\nABD genelinde eyaletler ve şehirler yeni veri merkezi başvurularına karşı kısıtlamalar ve moratoryumlar getirirken, şirketler alternatif ülkelere yönelme ihtimaliyle karşı karşıya bulunuyor. Ancak uzmanlar, birkaç ay içinde göreve başlayacak yeni Demokrat çoğunluklu Kongre nedeniyle bu vaadin hayata geçirilmesinin zor olabileceğine dikkat çekiyor. Kendi partisinden isimler bile veri merkezi inşasının ülke genelinde popülaritesini yitiren bir konu olduğunu kabul ediyor.\n\n**Neden önemli?** Yapay zeka altyapısının kurulduğu coğrafi konumlar küresel rekabet açısından kritik önem taşırken, getirilebilecek olası vergiler şirketlerin yatırım stratejilerini kökten değiştirebilir.",
+  "category": "politika",
+  "tags": [
+    "Donald Trump",
+    "JD Vance",
+    "Marco Rubio",
+    "Çin",
+    "Rusya"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Trump'tan veri merkezlerine vergi tehdidi",
+  "kicker": "Regülasyon",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a single monolithic block of dark gray stone with a thin line of bright orange light cutting across its middle, set against a matte light gray backdrop",
+  "focus_keyword": "yapay zeka veri merkezleri",
+  "seo_title": "Trump'tan yapay zeka veri merkezleri için vergi tehdidi",
+  "meta_description": "ABD Başkanı Donald Trump, yapay zeka veri merkezlerini ülke dışında inşa eden şirketlere çok büyük vergiler getireceğini açıkladı.",
+  "seo_slug": "trump-tan-yapay-zeka-veri-merkezleri-icin-vergi-tehdidi",
+  "image_alt": "Gri taş blok üzerinde turuncu ışık çizgisi bulunan yapay zeka veri merkezi politikalarını temsil eden stüdyo görseli",
+  "cover_text": "Vergi tehdidi",
+  "importance": 8,
+  "triage_reason": "ABD Başkanı Trump, yurt dışında kurulan yapay zeka veri merkezlerine ağır vergi tehdidinde bulundu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-20T18:50:19Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 831
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "slug": "trump-tan-yapay-zeka-veri-merkezleri-icin-vergi-tehdidi",
+  "published_at": "2026-11-20T19:20:20Z",
+  "publish_mode": "auto"
+}
