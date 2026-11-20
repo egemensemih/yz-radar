@@ -1,0 +1,69 @@
+{
+  "id": "11d83ea70b",
+  "status": "pending",
+  "created_at": "2026-11-20T23:41:25Z",
+  "title": "Google Duplex Gemini uygulamasına taşındı: İşletmeleri kullanıcı adına arayacak",
+  "summary": "Google, sesli yapay zeka aracı Duplex'i Gemini uygulamasına entegre etti. Sistem, kullanıcılar adına yerel işletmeleri doğrudan telefonla arayarak görevleri tamamlayabiliyor.",
+  "body": "Google, ilk olarak 2018 yılında tanıttığı sesli yapay zeka teknolojisini Gemini ekosistemine taşıdı. Google Research tarafından yapılan açıklamaya göre **Google Duplex**, doğrudan Gemini uygulamasındaki Görevler (Tasks in Gemini) servisine entegre edildi. Güncelleme sayesinde yapay zeka asistanı, kullanıcıların yerine yerel işletmeleri telefonla arayarak randevu alma, masa ayırtma veya bilgi sorgulama gibi gerçek dünya işlemlerini yerine getirebiliyor.\n\n## Google Duplex mimarisinin Gemini evrimi\n\nGoogle Research yetkilileri, Duplex mimarisinin son on yılda üç ana aşamadan geçtiğini belirtiyor. Başlangıçta dar kapsamlı görevler için tekrarlayan sinir ağları (RNN) ile eğitilen sistem, 2022 yılında LaMDA modelinin kullanımıyla açık alanlı diyalog yeteneğine kavuştu. Sistem günümüzde ise tamamen Gemini tabanlı tek bir yapı üzerinden çok modlu anlama, planlama ve konuşma üretimi gerçekleştiriyor.\n\nDuplex altyapısı daha önce Pixel telefonlardaki Call Screen ve Hold for Me gibi arama yardımcısı işlevlerine güç vermiş, ayrıca Google Haritalar ve Arama'daki işletme bilgilerinin doğrulanmasında kullanılmıştı. Google verilerine göre sistem üzerinden toplanan işletme bilgileri 2023 itibarıyla arama ve harita sonuçlarında 1 trilyondan fazla kez görüntülendi.\n\n## Gemini 4 ile çok yönlü iş akışları\n\nTasks in Gemini bünyesindeki yeni telefonla arama yeteneği, şirketin en yeni **Gemini 4** ailesine ait Gemini 4 Hydrogen ve Gemini 4 Neon modelleri tarafından destekleniyor. Çevrim içi randevu formu veya programlama arayüzü (API) bulunmayan işletmeler için sesli arama devreye giriyor.\n\nSistem, takvim çakışmalarına göre rezervasyon saatlerini uyarlayabilmenin yanı sıra fatura analizi yapabiliyor, Agent Payments Protocol üzerinden güvenli işlem yürütebiliyor ve kullanıcılarla e-posta veya Zengin İletişim Hizmetleri (RCS) aracılığıyla koordinasyon sağlayabiliyor.\n\n**Neden önemli?** Çevrim içi rezervasyon altyapısı bulunmayan küçük işletmelerle iletişim ihtiyacı sürerken, Duplex'in Gemini bünyesine katılması telefon görüşmelerini çok modlu yapay zeka asistanlarının otonom iş akışlarına doğrudan dahil ediyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Google Duplex",
+    "Gemini",
+    "Gemini 4",
+    "Google Research"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Duplex, Gemini uygulamasına entegre edildi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "1 trilyon",
+  "hero_stat_label": "bilgi görüntülenmesi",
+  "visual_style": "sculpture",
+  "visual_scene": "A minimalist telephone handset sculpted from frosted glass, resting on a pedestal made of stacked dark acoustic baffles, illuminated by a warm beam of directional light in a quiet studio space.",
+  "focus_keyword": "Google Duplex Gemini",
+  "seo_title": "Google Duplex Gemini ile birleşti: İşletmeleri arayacak",
+  "meta_description": "Google Duplex Gemini uygulamasına entegre edildi. Yapay zeka aracı, kullanıcılar adına işletmeleri telefonla arayarak randevu ve rezervasyon alabiliyor.",
+  "seo_slug": "google-duplex-gemini-uygulamasina-entegre-edildi",
+  "image_alt": "Akustik paneller üzerinde duran buzlu camdan telefon ahizesi heykeli: Google Duplex sesli yapay zeka temsilî görseli",
+  "cover_text": "Google Duplex",
+  "importance": 6,
+  "triage_reason": "Google Duplex teknolojisinin Gemini entegrasyonundaki yeni yetenekleri duyuruldu.",
+  "sources": [
+    {
+      "name": "Google Research",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-20T23:30:30Z"
+    }
+  ],
+  "source_keys": [
+    "Google Research"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google Research",
+      "kind": "official",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "published": "2026-11-20T23:30:30Z",
+      "summary": "Generative AI",
+      "text": "November 20, 2026\nYossi Matias, Vice President, Google & GM, Google Research, Yaniv Leviathan, Google Fellow, Google Research, and Janet Zhou, Group Product Manager, Google Maps\nWhen we introduced Google Duplex in 2018, it pioneered natural voice conversations between AI and local businesses over the phone. Since then, this technology has worked behind the scenes across many Google products. These capabilities are integrated directly in Tasks in Gemini.\nCompleting tasks like making dinner reservations or booking a hair appointment is time consuming. Live phone conversations move fast and rarely follow a script. The person on the other end can say almost anything, often revising their thoughts mid-sentence – and people often rely on subtle tone changes to indicate whose turn it is to speak. Pause half a second too long, and it sounds like the call dropped; speak too soon, and you end up talking over each other. Leveraging AI to complete these tasks respectfully over the phone required us to consider high quality speech understanding, contextual reasoning, and speech synthesis working together in a single, low-latency system.\nWe introduced Google Duplex nearly a decade ago to help address this challenge. Propelled by advances in foundation models, the Duplex architecture has evolved to power autonomous task completion across many core products, such as Google Search and Maps. This week, we launched Duplex in Tasks in Gemini App, a personal AI collaborator that can help coordinate real-world chores, like calling businesses for you and handling real-world requests on behalf of the user. In this post, we look back at the decade-long architectural evolution that made this possible — moving from early, closed-domain models to a unified stack built entirely with Gemini.\nWhat began as a narrow, task-specific system quickly expanded into a shared conversational infrastructure, built in collaboration with teams across Google.\nDuring the COVID-19 pandemic, when business hours and services shifted rapidly, Duplex doubled down on verifying merchant info automatically to keep listings accurate. It remains an important data source; for example, business information sourced from Duplex’s phone calls had been shown in Search and Maps over one trillion times, as we shared in 2023.\nSimultaneously, we worked with Android and hardware teams to bring these conversational models directly on-device. Starting in 2019, we rolled out new Pixel Call Assist features across five consecutive Pixel generations. These models continue to power features like Call Screen and Hold for Me, helping users filter unknown callers and speak with a live agent when a hold queue ends until the user rejoins. In 2025 and 2026, foundation models unlocked broader agentic calling in Google Search and Ask Maps, checking quotes, product availability, and service openings from pet grooming to auto repair.\nOver the past decade, the stack behind these calls evolved through three distinct eras, moving from bespoke neural pipelines to a unified architecture using Gemini.\nWe started work on Google Duplex before modern language models and even before the transformer itself was invented. In these early days, to ensure businesses and users had a great experience, we constrained Duplex to narrow domains and trained custom recurrent neural network models on anonymized, task-specific phone conversations. Without pre-trained world knowledge, we taught our models how to handle every specific type of task efficiently. In practice, this meant relying on extensive training data for each task type — such as interpreting the rigid flow of restaurant booking versus checking holiday hours — to ensure the system could reliably navigate domain-specific logic.\nGoogle Duplex started employing open domain foundation models in production as they emerged. For example, in 2022 Duplex used LaMDA in live calls. These pre-trained models simplified comprehension and common-sense reasoning, allowing the system to handle unexpected conversational turns and tangents, while remaining grounded in the context like a standard restaurant booking.\nHowever, these early generative models were less predictable and sometimes slower than today's, so we built hybrid stacks that paired generative models for flexible phrasing with deterministic state tracking and strict policy guardrails. This helped ensure that both users and businesses had a great experience.\nAs foundation models advanced, we removed the constraint of fixed verticals entirely by shifting to prompting the system with free-text task descriptions. This allowed models to define a task simply via a prompt, enabling the system to generalize to new task types and nuances (like asking for window seating or extra space for a stroller) and new business categories, without building separate dialogue models from scratch.\nOur calling stack uses Gemini to unify multimodal understanding, planning, and dialogue generation so the system can navigate multi-constraint requests — like scheduling car maintenance around calendar conflicts — and adapt when a receptionist suggests another slot.\nEven with frontier models, live telephony poses hurdles that pre-training on standard datasets like the web alone doesn't solve:\nDuplex has to work just as well for the business answering the phone as it does for the user. That principle shaped several design choices:\nMany daily errands, local services, and urgent tasks still require speaking directly with another person to coordinate details reliably. By integrating Duplex’s capabilities into Tasks in Gemini App, we are taking another step toward closing this loop. Natural voice interaction becomes a seamlessly integrated modality that the agent can deploy whenever structured digital channels like online APIs or booking forms don't exist. Using our newest Gemini 4 models — including Gemini 4 Hydrogen and Gemini 4 Neon — Tasks in Gemini can now support more comprehensive workflows like analyzing utility bills, processing transactions securely via the Agent Payments Protocol, and coordinating with users over email and Rich Communication Services (RCS). Through these capabilities, we are bringing this research into the next generation of AI assistance.\nWe’re thankful to the Duplex team and to everyone across Google leading and involved in this decade-long journey.For driving the transition to Gemini-powered calling and making this launch in Tasks in Gemini possible, we're especially grateful to Yoav Tzur, Sasha Goldshtein, Rafael Goldfarb, Liran Peretz, Ritika Pathak, Sen Li, Ran Manor, Dekel Auster, and many others across the team."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 839
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google Research"
+}
