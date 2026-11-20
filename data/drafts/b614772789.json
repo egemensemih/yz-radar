@@ -39,10 +39,20 @@
       "via": "Hacker News",
       "via_url": "https://news.ycombinator.com/item?id=50562754",
       "published": "2026-11-19T17:02:40Z"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": null
     }
   ],
   "source_keys": [
-    "Hacker News"
+    "Hacker News",
+    "Anthropic"
   ],
   "source_texts": [
     {
