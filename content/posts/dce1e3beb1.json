@@ -1,0 +1,60 @@
+{
+  "id": "dce1e3beb1",
+  "created_at": "2026-11-20T12:31:41Z",
+  "title": "Signal ekran görüntüsü kısıtlamasıyla yapay zeka ajanlarını engelliyor",
+  "summary": "Güvenli mesajlaşma platformu Signal, Siri ve Gemini gibi yapay zeka ajanlarının ekran verilerini okumasını önlemek amacıyla iOS ve Android uygulamalarında ekran görüntüsü almayı kısıtladı.",
+  "body": "Güvenli mesajlaşma uygulaması Signal, işletim sistemlerinde çalışan yapay zeka ajanlarının mesajları ve ekran verilerini okumasını engellemek amacıyla **Signal ekran görüntüsü** alma özelliğini varsayılan olarak kısıtlamaya başladı. iOS ve Android sürümlerinde hayata geçirilen bu adımla birlikte Apple Siri ve Google Gemini gibi yapay zeka sistemlerinin ekrandaki içeriklere erişmesinin önüne geçilmesi hedefleniyor.\n\n## Signal ekran görüntüsü engelini nasıl uyguluyor?\n\nSignal Başkanı Meredith Whittaker tarafından paylaşılan bilgilere göre, işletim sistemlerine entegre edilen yapay zeka araçları kullanıcıların ekranındaki verileri analiz ederek gizliliği tehdit ediyor. Platform, iOS ve Android cihazlarda ekran görüntüsü almayı engelleyerek Siri ve Gemini gibi sistemlerin ekran içeriğini taramasını engellemeyi amaçlıyor. Kullanıcılar dilerlerse uygulama ayarlarından ekran görüntüsü alma özelliğini tekrar açabiliyor; ancak Signal bu durumda gizlilik garantilerinin geçersiz kalabileceği konusunda uyarıda bulunuyor.\n\nWhittaker, alınan önlemin tam bir çözüm sunmadığını ve eksik bir yöntem olduğunu da kabul ediyor. Yapay zeka ajanlarının cihaz dosya sistemine doğrudan erişmek veya Meta Muse gibi üçüncü taraf araçların erişilebilirlik ayarlarını kullanmak gibi farklı yollarla verilere ulaşabildiği belirtiliyor. Signal benzer bir adımı geçen yıl Microsoft'un **Recall** özelliğine karşı da atmıştı.\n\n## İşletim sistemi üreticilerine çağrı\n\nSignal yetkilileri, macOS tarafında benzer kısıtlamaların şu an için uygulanamadığını bildiriyor. Şirket, yapay zeka ajanlarının uygulama verilerine tam olarak nasıl eriştiğine dair teknik dokümantasyon yetersizliği nedeniyle daha kapsamlı çözümler geliştirmekte zorlandıklarını vurguluyor.\n\nBu doğrultuda Apple, Google ve Microsoft gibi şirketlere seslenen platform, geliştiricilere yapay zeka erişimini kısıtlayacak basit teknik araçlar ve doğru dokümantasyon sunulması gerektiğini ifade ediyor. Whittaker, işletim sistemi seviyesinde gerekli kontroller sağlanmadığı takdirde yapay zeka ajanlarının uygulama düzeyindeki gizlilik için ciddi bir tehdit oluşturduğunu savunuyor.\n\n**Neden önemli?** İşletim sistemlerine entegre edilen yapay zeka ajanları kullanıcı verilerine doğrudan erişim sağlarken, uygulama geliştiricilerinin gizliliği korumak için sınırlı araçlara sahip olması dijital mahremiyet tartışmalarını yeni bir seviyeye taşıyor.",
+  "category": "urunler",
+  "tags": [
+    "Signal",
+    "Apple",
+    "Google",
+    "Microsoft",
+    "Siri",
+    "Gemini"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Signal yapay zeka ajanlarına karşı ekranı kısıtlıyor",
+  "kicker": "Gizlilik güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A frosted glass smartphone lying flat on a dark slate surface, with a minimal translucent shield carved out of clear acrylic positioned over its screen, reflecting soft ambient white light.",
+  "focus_keyword": "Signal ekran görüntüsü",
+  "seo_title": "Signal ekran görüntüsü kısıtlamasıyla yapay zekaya engel",
+  "meta_description": "Signal ekran görüntüsü alma özelliğini kısıtlayarak Siri ve Gemini gibi yapay zeka ajanlarının kullanıcı verilerini okumasını engellemeye çalışıyor.",
+  "seo_slug": "signal-ekran-goruntusu-kisitlamasiyla-yapay-zekayi-engelliyor",
+  "image_alt": "Koyu renk zemin üzerinde duran ve ekranı saydam bir kalkanla korunan akıllı telefon görseli",
+  "cover_text": "Signal",
+  "importance": 7,
+  "triage_reason": "Signal, kullanıcı gizliliğini korumak amacıyla yapay zeka asistanlarının ekran okumasını engelliyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-20T12:30:47Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 823
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "slug": "signal-ekran-goruntusu-kisitlamasiyla-yapay-zekayi-engelliyor",
+  "published_at": "2026-11-20T12:31:55Z",
+  "publish_mode": "auto"
+}
