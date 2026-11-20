@@ -210,14 +210,14 @@
       "drafts": 1,
       "published": 1,
       "auto": 1,
-      "expired": 13
+      "expired": 14
     }
   },
   "last_error_notice": "2026-09-24T00:02:03Z",
   "chat_id_hint_sent": [],
   "commands_version": 1,
   "indexnow_queue": [],
-  "last_build": "2026-11-20T06:59:42Z",
+  "last_build": "2026-11-20T07:59:58Z",
   "build_sig": "1006e235604846f4",
   "queue": [],
   "last_activity": "2026-09-25T20:49:46Z"
