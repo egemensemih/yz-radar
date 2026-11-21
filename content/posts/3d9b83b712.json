@@ -1,0 +1,58 @@
+{
+  "id": "3d9b83b712",
+  "created_at": "2026-11-21T15:21:42Z",
+  "title": "Anthropic halka arz sürecini tamamlayarak borsaya açıldı",
+  "summary": "Yapay zeka laboratuvarı Anthropic, Nasdaq borsasında işlem görmeye başlayarak halka arz edilen ilk bağımsız yapay zeka girişimi oldu.",
+  "body": "Yapay zeka teknolojileri geliştiren Anthropic, 12 Kasım'da Nasdaq borsasında işlem görmeye başlayarak halka arz edilen ilk bağımsız yapay zeka kuruluşu oldu. The Verge’ün aktardığı bilgilere göre, 83 dolar fiyatla piyasaya giriş yapan şirketin hisse değeri 111 dolara kadar yükseldi. Bu gelişme, yapay zeka sektöründe faaliyet gösteren şirketlerin halka açık piyasalardaki ilk büyük sınavı olarak değerlendiriliyor.\n\n## Halka arz sonrası beklentiler\n\nŞirketin geleceğine yönelik piyasa beklentileri, Anthropic'in \"güvenli yapay zeka\" vurgulu pazarlama stratejisi ile halka açık bir şirketin kâr odaklı doğası arasındaki denge üzerine yoğunlaşıyor. Uzmanlar, şirketin önümüzdeki dönemde yüksek işlem gücü maliyetlerini karşılayabilmek için gelirlerini sürekli artırması gerektiğini belirtiyor. Anthropic'in, önümüzdeki yıllarda yaklaşık 900 milyar dolarlık hesaplama maliyetiyle karşı karşıya kalacağı öngörülüyor.\n\n## OpenAI ile rekabet dinamikleri\n\nSektördeki diğer büyük oyuncu OpenAI'ın, Anthropic'in halka arz sürecini yakından takip ettiği belirtiliyor. The Verge’ün raporuna göre, OpenAI yönetimi Anthropic'in bu adımı bir \"deneme balonu\" olarak değerlendiriyor ve şirketin piyasa performansından kendi halka arz stratejilerini şekillendirmek için faydalanmayı hedefliyor. OpenAI'ın geçmişte halka arz konusunda daha agresif bir tutum izlediği ancak yaşadığı çeşitli skandalların ardından daha temkinli bir süreci tercih ettiği ifade ediliyor.\n\n**Neden önemli?** Anthropic'in halka arzı, yapay zeka balonunun mevcut durumunu ve yatırımcıların bu alandaki gelir potansiyeline bakışını göstermesi açısından kritik bir eşik olarak görülüyor.",
+  "category": "sirketler",
+  "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Nasdaq",
+    "halka arz"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic Nasdaq'da işlem görmeye başladı",
+  "kicker": "Halka arz",
+  "hero_stat": "111 $",
+  "hero_stat_label": "hisse tavan fiyatı",
+  "visual_style": "sculpture",
+  "visual_scene": "A series of smooth, charcoal-colored obsidian shards standing vertically in a circular arrangement, with a single sliver of bright light reflecting off the edges to represent market momentum, set against a matte, neutral background.",
+  "focus_keyword": "Anthropic halka arz",
+  "seo_title": "Anthropic halka arz sürecini tamamladı ve borsaya açıldı",
+  "meta_description": "Anthropic, Nasdaq borsasında işlem görmeye başlayan ilk yapay zeka laboratuvarı oldu. Şirketin borsa performansı ve finansal hedefleri haberimizde.",
+  "seo_slug": "anthropic-halka-arz-surecini-tamamladi",
+  "image_alt": "Soyut obsidyen kaya parçaları arasında parlayan ışık çizgisi, Anthropic'in borsaya girişini temsil ediyor",
+  "cover_text": "Anthropic",
+  "importance": 7,
+  "triage_reason": "Anthropic'in halka arz süreci yapay zekanin finansal boyutu icin onemli bir gelisme.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "title": "Can Anthropic afford to put safety first?",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-21T15:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 840
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "slug": "anthropic-halka-arz-surecini-tamamladi",
+  "published_at": "2026-11-21T15:21:58Z",
+  "publish_mode": "auto"
+}
