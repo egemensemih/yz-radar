@@ -1,0 +1,71 @@
+{
+  "id": "f2da391bba",
+  "status": "pending",
+  "created_at": "2026-11-21T20:17:51Z",
+  "title": "BM Cenevre görüşmelerinde otonom silah düzenlemesi konusunda uzlaşma sağlanamadı",
+  "summary": "Cenevre'de toplanan BM diplomatları, katil robotlar olarak da bilinen otonom silahların denetimi konusunda bağlayıcı bir anlaşmaya varamadı.",
+  "body": "Cenevre'de bir araya gelen Birleşmiş Milletler diplomatları, **otonom silah düzenlemesi** oluşturma hedefiyle yürüttükleri bir haftalık müzakerelerin ardından bağlayıcı bir kural üzerinde uzlaşamadı. Askeri alanda yapay zeka ve tam otonom teknolojilerin kullanımını sınırlandırmayı hedefleyen görüşmelerin sonucunda taraflar, somut kararlar almak yerine yalnızca seçenekleri tartışmaya başlama konusunda anlaştı.\n\n## Bağlayıcı kurallar yerine otonom silah düzenlemesi için iki yıllık erteleme\n\nToplantı öncesinde Cenevre Sözleşmelerinin koruyucusu konumundaki Uluslararası Kızılhaç Komitesi, yasal bağlayıcılığı olan kuralların bir yıl içinde hazırlanmasının aciliyet taşıdığını duyurmuştu. Bu çağrı BM Genel Sekreteri ve Papa Leo tarafından da desteklendi. Ancak diplomatların vardığı uzlaşı kapsamında ülkelere düzenleme önerilerini sunmaları için iki yıllık süre tanındı. Uygulama ve denetim mekanizmalarının belirlenmesine yönelik müzakerelerin ise bu sürenin çok daha ötesine uzaması bekleniyor. Ayrıca hazırlanacak bazı maddelerin zorunlu değil, isteğe bağlı kılınabileceği ifade edildi.\n\n## Müzakere sürecini yavaşlatan engeller\n\nİnsani yardım örgütleri, Ukrayna, Gazze ve Sudan'daki çatışmalarda yarı otonom silahlar ve insansız hava araçlarının ciddi sayıda sivil can kaybına yol açması nedeniyle yasal zorunlulukların hızla yürürlüğe girmesini talep ediyor. NPR'ın aktardığı bilgilere göre Rusya, ABD ve İsrail müzakere sürecinde en belirgin itirazları sunan taraflar oldu. Rusya toplantının ilk gününde gündeme itiraz ederek ilerlemeyi yavaşlatırken, ABD heyeti bağlayıcı olmayan ve isteğe bağlı kılavuz ilkelerin tartışılması için beş yıllık bir çalışma takvimi önerdi.\n\n**Neden önemli?** Çatışma bölgelerinde sivil ölümlerine yol açan yarı otonom askeri teknolojiler hızla yayılırken, diplomatik uzlaşmazlıklar nedeniyle küresel ölçekte bağlayıcı bir denetim çerçevesinin kurulması yıllarca gecikme riskiyle karşı karşıya bulunuyor.",
+  "category": "politika",
+  "tags": [
+    "Birleşmiş Milletler",
+    "otonom silahlar",
+    "askeri yapay zeka",
+    "silah kontrolü",
+    "Cenevre"
+  ],
+  "confidence": "yuksek",
+  "flags": [
+    "hassas"
+  ],
+  "editor_note": "Haber askeri teknolojiler, çatışma bölgeleri ve sivil can kayıpları içeren BM müzakerelerine odaklanmaktadır.",
+  "short_title": "BM'de otonom silah uzlaşması çıkmadı",
+  "kicker": "Regülasyon",
+  "hero_stat": "2 yıl",
+  "hero_stat_label": "öneri sunma süresi",
+  "visual_style": "sculpture",
+  "visual_scene": "A heavy cast-iron gavel resting half-submerged in a block of cracked, frosted optical glass, with delicate brass clockwork gears frozen motionless inside the transparent ice-like structure under cold diffuse museum lighting.",
+  "focus_keyword": "otonom silah düzenlemesi",
+  "seo_title": "Otonom silah düzenlemesi BM görüşmelerinde tıkandı",
+  "meta_description": "BM Cenevre toplantısında otonom silah düzenlemesi için bağlayıcı kurallar getirilemedi; ülkeler iki yıl boyunca seçenekleri tartışmakla yetinecek.",
+  "seo_slug": "bm-cenevre-otonom-silah-duzenlemesi-uzlasmasi",
+  "image_alt": "Çatlak buzlu cam kütlesi içinde hareketsiz duran pirinç dişliler ve demir tokmak otonom silah müzakerelerini simgeliyor.",
+  "cover_text": "BM Görüşmeleri",
+  "importance": 7,
+  "triage_reason": "Birleşmiş Milletler'in otonom silahlar ve yapay zeka düzenlemelerinde uzlaşamaması önemli bir küresel politika gelişmesidir.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-21T20:03:37Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37Z",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "text": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called “killer robots.” Eventually, representatives left the meetings agreeing to “start discussing options” after a largely fruitless week of negotiations.\nThe UN fails to agree on rules regulating ‘killer robots’\nCountries agree to ‘start discussing options’ for rules around autonomous weapons.\nBefore the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo.\nThe compromise reached was that countries would instead have two years to propose regulations. Negotiations between countries on which regulations to adopt and how to enforce them will likely drag on well beyond that. Additionally, room was left for some of those yet-to-be-adopted regulations to remain “optional.”\nHumanitarian organizations and some countries see a need to urgently adopt legally binding rules as semi-autonomous weapons and drones have been responsible for a significant number of civilian deaths in conflicts around the globe, including in Ukraine, Gaza, and Sudan.\nAccording to NPR, Russia, Israel, and the US proved to be the primary obstructions:\nOn day one, Russia delayed proceedings by objecting to the meeting’s agenda. Then the United States proposed a five-year window to discuss nonbinding, optional guidelines for autonomous weapons."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 844
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
