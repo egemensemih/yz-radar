@@ -39,10 +39,20 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-23T17:00:00Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T19:14:46Z"
     }
   ],
   "source_keys": [
-    "Google"
+    "Google",
+    "TechCrunch"
   ],
   "source_texts": [
     {
