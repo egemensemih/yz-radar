@@ -49,11 +49,21 @@
       "via": null,
       "via_url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/#comments",
       "published": "2026-11-23T14:10:18Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T14:21:59Z"
     }
   ],
   "source_keys": [
     "Webrazzi",
-    "Ars Technica"
+    "Ars Technica",
+    "TechCrunch"
   ],
   "source_texts": [
     {
