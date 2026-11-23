@@ -1,0 +1,71 @@
+{
+  "id": "dc90f46fb3",
+  "status": "pending",
+  "created_at": "2026-11-23T21:47:32Z",
+  "title": "Megaspeed ABD kara listesi kapsamına alınıyor: Nvidia skandalında yeni adım",
+  "summary": "Nvidia CEO'su Jensen Huang'ın karıştığı casusluk skandalının odağındaki Singapur merkezli Megaspeed şirketi, ABD Ticaret Bakanlığı tarafından kara listeye alınıyor.",
+  "body": "Semafor'un aktardığı bilgilere göre, Nvidia ile bağlantılı casusluk iddialarının odağındaki Singapur merkezli Megaspeed şirketi, Megaspeed ABD kara listesi yaptırımları kapsamına alınıyor. ABD Ticaret Bakanlığı tarafından Varlık Listesi'ne (Entity List) eklenecek olan yapay zeka altyapı tedarikçisinin, Amerikan çip teknolojilerine erişiminin engellenmesi hedefleniyor.\n\n## İhracat kısıtlamaları ve soruşturma süreci\nABD Ticaret Bakanlığının Varlık Listesi, ulusal güvenliği veya Amerikan vatandaşlarını tehdit edebilecek yabancı kuruluşlara yönelik ihracat kısıtlamalarını içeriyor. Şirketin bu listeye alınması durumunda, ABD'li firmalar özel bir hükümet lisansı almadan Megaspeed'e ürün satamayacak veya şirketle ticari ilişki kuramayacak.\n\nSingapur merkezli bulut ve yapay zeka altyapı sağlayıcısı Megaspeed, Alice Huang tarafından iki yılı aşkın bir süre yönetildi. Şirket, Nvidia CEO'su Jensen Huang'ın Alice Huang ile ilişkisi olduğunu kabul ettiği dönemde Nvidia'nın en büyük çip alıcılarından biri haline gelmişti. Hem ABD hem de Singapur makamları, Megaspeed'in ihracat kısıtlamalarını çiğneyerek Nvidia çiplerini Çin'e yasa dışı yollarla sokup sokmadığını inceliyor. ABD Ticaret Bakanlığı geçen hafta şirket hakkında cezai soruşturma başlatırken, suçlamaları reddeden Megaspeed usulsüzlük yapmadığını savunuyor.\n\n## Nvidia liderliğinde yaşanan değişim\nSkandalın ardından Nvidia yönetim kurulu Jensen Huang'ı görevden almıştı. Ancak ABD Başkanı Donald Trump'ın müdahalesi ve lobicilik faaliyetlerinin ardından Huang, 23 Kasım Pazartesi günü yeniden CEO'luk görevine getirildi.\n\n**Neden önemli?** ABD'nin stratejik çip tedarikçilerine uyguladığı ihracat yaptırımları, küresel yapay zeka pazarındaki güvenlik denetimlerinin ve ticaret kısıtlamalarının ne kadar sertleştiğini ortaya koyuyor.",
+  "category": "politika",
+  "tags": [
+    "Megaspeed",
+    "Nvidia",
+    "Jensen Huang",
+    "ABD Ticaret Bakanlığı",
+    "yarı iletken"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Megaspeed'in kara listeye alınacağı haberi Semafor'un isimsiz kaynaklarına dayanmaktadır.",
+  "short_title": "Megaspeed ABD kara listesine alınıyor",
+  "kicker": "İhracat kısıtlaması",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A dark wooden desk with a heavy black metallic padlock resting next to a translucent silicon wafer, directional side lighting casting deep shadows on the surface.",
+  "focus_keyword": "megaspeed abd kara listesi",
+  "seo_title": "Megaspeed ABD kara listesi kapsamına alınıyor",
+  "meta_description": "Nvidia skandalı ile gündeme gelen Megaspeed ABD kara listesi kapsamına alınıyor. Ticaret Bakanlığı yaptırımları ve çip soruşturmasının detayları.",
+  "seo_slug": "megaspeed-abd-kara-listesi-kapsamina-aliniyor",
+  "image_alt": "Karanlık ahşap masa üzerinde duran metal kilit ve yarı iletken silikon plaka görseli.",
+  "cover_text": "Megaspeed",
+  "importance": 6,
+  "triage_reason": "Jensen Huang skandalının ardından Megaspeed şirketinin ABD kara listesine alınma ihtimali.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T21:25:42Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "source_texts": [
+    {
+      "credit": "TechCrunch",
+      "kind": "media",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "published": "2026-11-23T21:25:42Z",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "text": "Megaspeed, the company that Alice Huang — the woman at the center of the alleged Chinese espionage scandal involving Nvidia — led for over two years, will be placed on a U.S. Commerce Department blacklist, Semafor reported Monday.\nThe company will be added to the Commerce Department’s Entity List, the outlet writes. This list “contains the names of foreign parties” subject to certain export restrictions designed to ensure that “sensitive technologies do not fall into the hands of those who would threaten U.S. national security or American citizens.”\nFunctionally, what this will mean is that U.S. companies will not be able to do business with or sell products to Megaspeed without first gaining a special license from the federal government. Semafor cites anonymous sources familiar with the matter to note the move is designed to stop the company “from obtaining US-made semiconductors.”\nMegaspeed is a Singapore-based cloud and AI infrastructure provider that, during the period that Nvidia’s boss Jensen Huang self-admittedly had an affair with Huang, was one of Nvidia’s biggest chip customers. Last week, the Commerce Department also announced it had launched a criminal probe into the company. Authorities in both the U.S. and Singapore are now probing whether the company defied export restrictions and illegally smuggled Nvidia chips to China. The company has denied wrongdoing.\nTechCrunch reached out to the Commerce Department for comment on the reporting and will update this story if it responds.\nAfter lobbying from President Trump, Jensen Huang was reinstated as Nvidia CEO on Monday after a short period in which he was ousted by the company’s board over the scandal involving Huang."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 868
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "970d12d648",
+  "created_at": "2026-11-23T21:46:49Z",
+  "title": "COP31 zirvesinde AI veri merkezleri ve iklim hedefleri krizi",
+  "summary": "Antalya'da düzenlenen COP31 iklim zirvesi, yapay zeka veri merkezlerinin artan enerji talebi ve iklim hedefleri konusundaki anlaşmazlıklar nedeniyle sonuçsuz kaldı.",
+  "body": "Antalya'da düzenlenen Birleşmiş Milletler COP31 iklim zirvesi, yapay zeka veri merkezlerinin yükselen enerji ihtiyacı ve küresel iklim hedefleri arasındaki gerilimin gölgesinde başarısızlıkla sonuçlandı. İki hafta süren görüşmelerin ardından, delegeler enerji dönüşümü konusunda bağlayıcı bir mutabakata varmayı başaramadı. **AI veri merkezleri**, artan karbon ayak izleri nedeniyle iklim müzakerelerinin merkezine yerleşirken, enerji sektöründeki dönüşüm çabalarını da zorlaştıran bir unsur haline geldi.\n\n## Enerji talebi ve iklim hedefleri çatışması\n\nZirvede öne çıkan hedeflerden biri, küresel enerji tüketiminde elektriğin payını 2035 yılına kadar yüzde 35 seviyesine çıkarmaktı. Ancak veri merkezlerinin enerji talebindeki hızlı artış, bu hedefi yakalamayı teknik olarak daha karmaşık bir hale getiriyor. Küresel Yenilenebilir Enerji İttifakı CEO'su Bruce Douglas, \"Yükselen enerji talebi henüz sürdürülebilir değil ve yapay zeka patlamasının bir fosil yakıt patlamasına dönüşmesine izin verilemez\" ifadeleriyle durumu özetledi. Özellikle ABD'deki veri merkezi yatırımlarının, yeni fosil yakıt altyapısı ihtiyacını beraberinde getirebileceği belirtiliyor.\n\n## Bağlayıcı olmayan taahhütler ve eleştiriler\n\nResmi müzakerelerin sonuçsuz kalmasının ardından ülkeler yalnızca gönüllü taahhütlerde bulunabildi. COP31 başkanı Murat Kurum, yaklaşık 80 ülkenin elektriğin payını artırmaya yönelik gönüllü bir girişime imza attığını duyurdu. Ancak bu taahhütlerin yasal bağlayıcılığının olmaması, sivil toplum örgütleri tarafından eleştiriliyor. Meta, Google ve Microsoft gibi teknoloji şirketlerinin karbon ayak izlerinin, iklim taahhütlerine rağmen yapay zeka yatırımları nedeniyle genişlediği gözlemleniyor. Eleştirmenler, teknoloji devlerinin mevcut yeşil enerji kaynaklarını tüketmek yerine, sisteme yeni ve temiz enerji kapasitesi eklemeleri gerektiği konusunda uyarıyor.\n\n**Neden önemli?** Yapay zeka altyapısının enerji talebinin 2030 yılına kadar iki katına çıkacağı tahmin ediliyor; bu durum, iklim değişikliğiyle mücadele eden ülkelerin yenilenebilir enerji kaynaklarını önceliklendirme stratejilerini doğrudan etkiliyor.",
+  "category": "politika",
+  "tags": [
+    "AI",
+    "COP31",
+    "iklim-degisikligi",
+    "enerji",
+    "veri-merkezleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "COP31'de yapay zeka ve iklim krizi",
+  "kicker": "İklim zirvesi",
+  "hero_stat": "%35",
+  "hero_stat_label": "hedef elektrik payı",
+  "visual_style": "sculpture",
+  "visual_scene": "A towering monolith made of stacked, translucent ice-like blocks representing a server rack, slowly melting at the base into a pool of clear water, reflecting a warm, fading orange sunset light.",
+  "focus_keyword": "AI veri merkezleri",
+  "seo_title": "AI veri merkezleri COP31 zirvesini kilitledi",
+  "meta_description": "Antalya'da düzenlenen COP31 zirvesi, yapay zeka veri merkezlerinin artan enerji talebi ve iklim hedefleri konusundaki anlaşmazlıklarla sona erdi.",
+  "seo_slug": "cop31-zirvesinde-ai-veri-merkezleri-krizi",
+  "image_alt": "Buzdan bir sunucu rafını andıran eriyen bloklar, iklim değişikliği ve enerji tüketimini temsil ediyor.",
+  "cover_text": "COP31",
+  "importance": 6,
+  "triage_reason": "COP31 iklim zirvesinde veri merkezlerinin artan enerji talebi ve yapay zeka etkisi tartışıldı.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T21:09:37Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 865
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "slug": "cop31-zirvesinde-ai-veri-merkezleri-krizi",
+  "published_at": "2026-11-23T21:46:58Z",
+  "publish_mode": "auto"
+}
