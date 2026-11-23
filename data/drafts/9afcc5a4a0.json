@@ -58,12 +58,31 @@
       "via": null,
       "via_url": null,
       "published": "2026-11-23T14:21:59Z"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T15:04:01Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T14:04:24Z"
     }
   ],
   "source_keys": [
     "Webrazzi",
     "Ars Technica",
-    "TechCrunch"
+    "TechCrunch",
+    "The Verge"
   ],
   "source_texts": [
     {
