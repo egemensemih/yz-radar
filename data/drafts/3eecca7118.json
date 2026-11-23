@@ -1,0 +1,71 @@
+{
+  "id": "3eecca7118",
+  "status": "pending",
+  "created_at": "2026-11-23T18:36:11Z",
+  "title": "SpaceX'e Grok yapay zeka davaları açıldı",
+  "summary": "Oregon ve Virginia başsavcıları, SpaceX'in Grok yapay zeka aracındaki yetersiz güvenlik önlemleri nedeniyle eyalet tüketici koruma yasalarını ihlal ettiğini iddia ediyor.",
+  "body": "## Grok ve SpaceX karşı karşıya\n\nOregon Başsavcısı Dan Rayfield ve Virginia Başsavcısı Jay Jones, 23 Kasım 2026 tarihinde SpaceX'e karşı ayrı ayrı hukuk davaları başlattı. Söz konusu davalar, şirketin Grok yapay zeka özelliklerinde endüstri standartlarındaki güvenlik önlemlerini görmezden geldiği ve kullanıcıları yanılttığı suçlamalarına dayanıyor. Virginia Başsavcısı Jones, şirketin güvenlik açıklarını bir hata değil, kâr odaklı bir strateji olarak kurguladığını öne sürdü.\n\n## Deepfake iddiaları ve yasal süreç\n\nDavaların merkezinde, Grok ve X platformu üzerinde görsel ile video üretilmesini sağlayan Grok Imagine aracı yer alıyor. Ağustos 2025'te kullanıma sunulan ve sonrasında çeşitli cinsel içerikli görseller üretmesiyle gündeme gelen bu aracın, Ocak 2026'da getirilen düzenlemelerle kullanıcıların rızası dışında görselleri düzenlemesine olanak tanıdığı belirtiliyor. Başsavcılar, bu durumun rıza dışı cinsel içerikli görsellerin ve çocuk istismarı materyallerinin yayılmasına yol açtığını savunuyor.\n\n## Şirketin savunması\n\nX Güvenlik ekibi tarafından yapılan açıklamada ise, kötü niyetli kullanıcıların platform kurallarını bilerek ihlal ettiği ve güvenlik kalkanlarını aşmaya çalıştığı ifade edildi. Açıklamada, cinsel içerik üretme girişimlerine karşı her istemin önceden tarandığı ve çıktıların düzenli olarak denetlendiği vurgulandı. Şirket, bu tür suistimalleri önlemek için koruma mekanizmalarını sürekli güncellediklerini bildirdi. Oregon ve Virginia eyaletleri, süregelen bu durum nedeniyle SpaceX'ten maddi tazminat talep ediyor.\n\n**Neden önemli?** Bu yasal süreç, büyük yapay zeka modelleri geliştiren şirketlerin içerik denetimi ve güvenlik politikaları üzerindeki yasal sorumluluklarının sınırlarını belirleme potansiyeli taşıyor.",
+  "category": "politika",
+  "tags": [
+    "SpaceX",
+    "xAI",
+    "Grok",
+    "X",
+    "deepfake"
+  ],
+  "confidence": "yuksek",
+  "flags": [
+    "hassas"
+  ],
+  "editor_note": "Konu cinsel içerikli istismar iddialarını içerdiğinden 'hassas' etiketiyle işaretlenmiştir.",
+  "short_title": "SpaceX'e Grok davaları açıldı",
+  "kicker": "Hukuki süreç",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "sculpture",
+  "visual_scene": "A balanced scale made of dark volcanic rock sitting on a polished concrete surface, one side of the scale holds a cluster of smooth, glowing amber glass orbs while the other side is weighted down by heavy, rusted iron chains, symbolizing the tension between innovation and safety protocols.",
+  "focus_keyword": "Grok yapay zeka",
+  "seo_title": "SpaceX'e Grok yapay zeka davaları açıldı",
+  "meta_description": "Oregon ve Virginia başsavcıları, SpaceX'in Grok yapay zeka aracındaki güvenlik ihlalleri gerekçesiyle şirkete dava açtı. Detayları inceleyin.",
+  "seo_slug": "spacex-grok-yapay-zeka-davasi",
+  "image_alt": "Dengeyi temsil eden heykelsi bir ölçek, yenilik ve güvenlik arasındaki gerilimi simgeliyor.",
+  "cover_text": "Grok",
+  "importance": 7,
+  "triage_reason": "Yapay zeka deepfake görselleri nedeniyle açılan eyalet davaları önem taşıyor.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T18:26:47Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "published": "2026-11-23T18:26:47Z",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+      "text": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully ignoring growing concerns around AI-generated sexualized deepfakes, and “instead saw a market opportunity for more profits,” describing the weak safeguards around Grok as “not a failure but a feature.”\nOregon and Virginia sue SpaceX over Grok’s porn deepfakes\nState AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’\n“Time and again, xAI and X told consumers they were being protected from abuses. That was false. Instead, the tool permitted users to routinely create and circulate non-consensual intimate imagery and sexualized images, and child sexual abuse material (CSAM), causing harm to individuals and children,” Jones said in a press statement. “Companies that deploy powerful tools don’t get to ignore consumer safety and call it innovation.”\nThe complaints largely center around Grok Imagine, a tool that allows Grok and X users to generate images and videos. In August 2025, Grok maker xAI (which Musk has since merged with SpaceX) launched a “spicy” mode for Grok Imagine that spat out sexualized content including nude deepfakes of celebrities like Taylor Swift. In January 2026, Grok gained a feature that allowed X users to instantly edit any image without requiring consent from the original poster — resulting in X becoming flooded with nonconsensual, sexualized deepfakes of adults and minors.\nxAI made several changes to restrict access to Grok image editing, moving some capabilities behind a paywall and blocking certain requests for sexual poses, swimwear, or explicit scenarios. Our testing at the Verge following these restriction updates found they did little to prevent the bot from creating sexualized deepfakes, however.\nBoth of the Oregon and Virginia lawsuits are seeking financial damages.\nThe X Safety team said in a statement released after the lawsuits were announced that it takes appropriate measures to address users who generate sexual content involving minors:\n“The people who tried to use Grok Imagine to generate this material did so by deliberately violating our Terms of Service and working aggressively to circumvent our safeguards. When some of these bad actors found ways to misuse Grok Imagine earlier this year, we acted promptly to tighten its protections, which are designed to refuse any request to generate explicit images of minors or real people. To stay ahead of this disgusting and indefensible conduct, we keep testing and adjusting those protections as these abusers change tactics. We also implement sophisticated classifiers that screen every prompt before an image is generated and check every output after.”"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 859
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "grafit",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}

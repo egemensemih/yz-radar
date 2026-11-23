@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-23T18:20:47Z",
+  "last_collect": "2026-11-23T18:35:46Z",
   "last_summary_date": "2026-11-23",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:40Z",
       "count": 1422
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 22
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 916
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2570,
+      "fails": 2571,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-23T18:20:46Z",
+      "last_ok": "2026-11-23T18:35:41Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 2,
+      "fails": 3,
       "last_ok": "2026-11-23T17:49:55Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -201,10 +201,10 @@
       "expired": 11
     },
     "2026-11-23": {
-      "tok_in": 48528,
-      "tok_out": 13503,
+      "tok_in": 55561,
+      "tok_out": 15414,
       "cost_usd": 0.0,
-      "drafts": 11,
+      "drafts": 13,
       "expired": 1,
       "published": 1,
       "auto": 1
@@ -217,36 +217,6 @@
   "last_build": "2026-11-23T18:03:24Z",
   "build_sig": "1006e235604846f4",
   "queue": [
-    {
-      "story": {
-        "item_ids": [
-          "i1"
-        ],
-        "topic": "RoboTrack point tracking for robotics",
-        "ai_related": true,
-        "duplicate_of": "",
-        "importance": 6,
-        "category": "arastirma",
-        "reason": "Robotik manipülasyon için nokta takibi sağlayan yeni RoboTrack yöntemi duyuruldu."
-      },
-      "items": [
-        {
-          "key": "ca38829e73128713",
-          "source": "Hugging Face",
-          "kind": "official",
-          "credit": "Hugging Face",
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "via": null,
-          "via_url": null,
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "summary": "",
-          "published": "2026-11-23T17:20:37Z",
-          "html_source": false,
-          "tid": "i1"
-        }
-      ],
-      "at": "2026-11-23T17:21:03Z"
-    },
     {
       "story": {
         "item_ids": [
