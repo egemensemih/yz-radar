@@ -1,0 +1,71 @@
+{
+  "id": "44f01f8bae",
+  "status": "pending",
+  "created_at": "2026-11-23T09:36:13Z",
+  "title": "Amazon Decart satın alma görüşmelerinde 7,5 milyar dolarlık teklifle masada",
+  "summary": "Amazon, yapay zeka çip yazılımları geliştiren Decart girişimini 7,5 milyar dolara varan bir bedelle satın almak için görüşmeler yürütüyor.",
+  "body": "Financial Times'ın aktardığı bilgilere göre Amazon Decart satın alma süreci için masaya oturdu ve 7,5 milyar dolara kadar ulaşabilecek bir teklif sundu. 23 Kasım 2026 tarihli haberlerde, henüz kesinleşmeyen görüşmelerin önümüzdeki haftanın başında tamamlanabileceği ifade ediliyor. Calcalist'e dayandırılan ayrıntılara göre teklif nakit, hisse ve ertelenmiş ödemeleri içeriyor.\n\n## Amazon Decart satın alma hamlesi ve çip rekabeti\n2023 yılında **Dean Leitersdorf**, Moshe Shalev ve Orian Leitersdorf tarafından kurulan Decart, yapay zeka modellerinin farklı donanımlar üzerinde verimli çalışmasını sağlayan yazılımlar tasarlıyor. Girişimin geliştirdiği **DOS** isimli teknoloji, modeller ile donanım arasında bir optimizasyon katmanı görevi üstleniyor. Bu katman sayesinde yazılımlar Nvidia GPU'ları, Google TPU'ları ve Amazon Trainium çipleri üzerinde çalışabiliyor.\n\nAmazon, bu hamleyle kendi geliştirdiği Trainium çiplerinin rekabet gücünü artırmayı hedefliyor. Geliştiricilerin Nvidia donanımlarına göre hazırladığı yapay zeka yazılımlarının Trainium'a uyarlanması, Decart'ın teknolojisiyle kolaylaşacak. Böylece şirket, AWS müşterilerine Nvidia ürünlerine karşı daha güçlü bir alternatif sunmayı amaçlıyor.\n\n## Decart'ın yatırım geçmişi ve kurucu kadrosu\nMayıs 2026'da Radical Ventures liderliğindeki yatırım turunda 300 milyon dolar fon sağlayan Decart, değerlemesini 4 milyar dolara çıkarmıştı. Şirketin yatırımcı listesinde Nvidia, Sequoia Capital, Benchmark ve Toyota Ventures gibi güçlü isimler yer alıyor. Olası bir anlaşma durumunda şirketin üç kurucusunun da beş yıl boyunca görevlerine devam etmesi bekleniyor.\n\n**Neden önemli?** Amazon'un kendi veri merkezi donanımı Trainium'u Nvidia bağımlılığına karşı öne çıkarma çabası, yapay zeka altyapı pazarındaki çip ve yazılım rekabetinin ulaştığı boyutu gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Amazon",
+    "Decart",
+    "AWS",
+    "Trainium",
+    "Nvidia"
+  ],
+  "confidence": "orta",
+  "flags": [
+    "iddia"
+  ],
+  "editor_note": "Anlaşma henüz resmi olarak tamamlanmadı; FT ve Calcalist kaynaklı satın alma iddialarına dayanıyor.",
+  "short_title": "Amazon'dan Decart için 7,5 milyar dolarlık teklif",
+  "kicker": "Satın alma",
+  "hero_stat": "7,5 milyar $",
+  "hero_stat_label": "olası satın alma bedeli",
+  "visual_style": "sculpture",
+  "visual_scene": "A modern glass sculpture composed of interlocking translucent geometric shards in deep blue and warm copper tones, resting on a matte dark stone surface with clean directional light casting crisp shadows.",
+  "focus_keyword": "Amazon Decart satın alma",
+  "seo_title": "Amazon Decart satın alma görüşmelerinde 7,5 milyar dolar",
+  "meta_description": "Amazon Decart satın alma görüşmelerinde 7,5 milyar dolarlık teklifle öne çıkıyor. Anlaşmanın AWS'nin Trainium çip teknolojisini güçlendirmesi bekleniyor.",
+  "seo_slug": "amazon-decart-satin-alma-gorusmelerinde-7-5-milyar-dolar",
+  "image_alt": "Geometrik cam parçalardan oluşan modern heykel: Amazon'un Decart için sunduğu 7,5 milyar dolarlık satın alma teklifini…",
+  "cover_text": "Amazon Decart",
+  "importance": 9,
+  "triage_reason": "7.5 milyar dolarlık dev yapay zeka satın alma görüşmesi.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/23/amazon-yapay-zeka-girisimi-decart-i-7-5-milyar-dolara-satin-almayi-planliyor/",
+      "title": "Amazon, yapay zeka girişimi Decart'ı 7,5 milyar dolara satın almayı planlıyor",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/23/amazon-yapay-zeka-girisimi-decart-i-7-5-milyar-dolara-satin-almayi-planliyor/#comments",
+      "published": "2026-11-23T09:30:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Amazon, yapay zeka girişimi Decart'ı 7,5 milyar dolara satın almayı planlıyor",
+      "url": "https://webrazzi.com/2026/11/23/amazon-yapay-zeka-girisimi-decart-i-7-5-milyar-dolara-satin-almayi-planliyor/",
+      "published": "2026-11-23T09:30:00Z",
+      "summary": "Amazon, yapay zeka girişimi Decart'ı satın almak için görüşmeler yürütüyor. Financial Times'ın haberine göre taraflar, 7,5 milyar dolara kadar ulaşabilecek bir anlaşma üzerinde çalışıyor. Henüz kesin...",
+      "text": "Amazon, yapay zeka girişimi Decart'ı satın almak için görüşmeler yürütüyor. Financial Times'ın haberine göre taraflar, 7,5 milyar dolara kadar ulaşabilecek bir anlaşma üzerinde çalışıyor. Henüz kesinleşmeyen satın almanın önümüzdeki haftanın başlarında sonuçlanabileceği belirtiliyor.\n2023'te Dean Leitersdorf, Moshe Shalev ve Orian Leitersdorf tarafından kurulan Decart, yapay zeka modellerinin farklı çiplerde daha verimli çalışmasını sağlayan yazılımlar geliştiriyor. Şirketin DOS adını verdiği teknoloji, modeller ile donanım arasında bir optimizasyon katmanı oluşturarak Nvidia GPU'ları, Amazon Trainium ve Google TPU'ları üzerinde çalışabiliyor.\nAmazon'un Decart ile ilgilenmesinin temel nedeni, kendi geliştirdiği Trainium çiplerini daha rekabetçi hale getirmek. Decart'ın teknolojisi, geliştiricilerin Nvidia donanımlarına göre optimize ettikleri yapay zeka yazılımlarını Trainium'a uyarlamasını kolaylaştırabilir. Böylece Amazon, AWS müşterilerine Nvidia GPU'larına alternatif sunma konusunda elini güçlendirebilir.\nDecart, Mayıs 2026'da Radical Ventures liderliğinde 300 milyon dolar yatırım alarak 4 milyar dolar değerlemeye ulaşmıştı. Nvidia, Sequoia Capital, Benchmark ve Toyota Ventures şirketin yatırımcıları arasında yer alıyor. Calcalist'in haberine göre Amazon'un teklifinde nakit, hisse ve ertelenmiş ödemeler bulunuyor. Üç kurucunun da satın alma sonrasında beş yıl boyunca şirkette kalması bekleniyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 847
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Uyarı işareti var"
+}
