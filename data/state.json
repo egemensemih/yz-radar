@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-23T17:05:56Z",
+  "last_collect": "2026-11-23T17:20:47Z",
   "last_summary_date": "2026-11-22",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:38Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 1422
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 22
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 916
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2565,
+      "fails": 2566,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:46Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:39Z",
+      "last_ok": "2026-11-23T17:20:47Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:05:56Z",
+      "last_ok": "2026-11-23T17:20:47Z",
       "count": 20
     }
   },
@@ -200,8 +200,8 @@
       "expired": 11
     },
     "2026-11-23": {
-      "tok_in": 39270,
-      "tok_out": 10886,
+      "tok_in": 40601,
+      "tok_out": 11280,
       "cost_usd": 0.0,
       "drafts": 9,
       "expired": 1,
@@ -215,6 +215,97 @@
   "indexnow_queue": [],
   "last_build": "2026-11-23T17:00:02Z",
   "build_sig": "1006e235604846f4",
-  "queue": [],
+  "queue": [
+    {
+      "story": {
+        "item_ids": [
+          "i3"
+        ],
+        "topic": "Google Personal Intelligence in AI Mode",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "urunler",
+        "reason": "Google Arama, kişisel veriler ve Gemini ile entegre YZ modunu duyurdu."
+      },
+      "items": [
+        {
+          "key": "39c2da17cef629dc",
+          "source": "Google",
+          "kind": "official",
+          "credit": "Google",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "via": null,
+          "via_url": null,
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+          "published": "2026-11-23T17:00:00Z",
+          "html_source": false,
+          "tid": "i3"
+        }
+      ],
+      "at": "2026-11-23T17:21:03Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i4"
+        ],
+        "topic": "DeepMind quantum algorithms research with AI agents",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 7,
+        "category": "arastirma",
+        "reason": "Google DeepMind, kuantum algoritmalarını YZ ajanlarıyla geliştiren araştırmasını yayınladı."
+      },
+      "items": [
+        {
+          "key": "61dcf1169479ac82",
+          "source": "Google DeepMind",
+          "kind": "official",
+          "credit": "Google DeepMind",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "via": null,
+          "via_url": null,
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+          "published": "2026-11-23T16:59:40Z",
+          "html_source": false,
+          "tid": "i4"
+        }
+      ],
+      "at": "2026-11-23T17:21:03Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "RoboTrack point tracking for robotics",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Robotik manipülasyon için nokta takibi sağlayan yeni RoboTrack yöntemi duyuruldu."
+      },
+      "items": [
+        {
+          "key": "ca38829e73128713",
+          "source": "Hugging Face",
+          "kind": "official",
+          "credit": "Hugging Face",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "via": null,
+          "via_url": null,
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "summary": "",
+          "published": "2026-11-23T17:20:37Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-11-23T17:21:03Z"
+    }
+  ],
   "last_activity": "2026-09-25T20:49:46Z"
 }
