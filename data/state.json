@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-23T17:20:47Z",
+  "last_collect": "2026-11-23T17:35:42Z",
   "last_summary_date": "2026-11-22",
   "mode_override": null,
   "paused": false,
@@ -22,71 +22,71 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:41Z",
       "count": 1422
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:41Z",
       "count": 22
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:41Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:41Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 916
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2566,
+      "fails": 2567,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:46Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:47Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 15
     },
     "Hacker News": {
       "fails": 0,
-      "last_ok": "2026-11-23T17:20:47Z",
+      "last_ok": "2026-11-23T17:35:42Z",
       "count": 20
     }
   },
@@ -200,8 +200,8 @@
       "expired": 11
     },
     "2026-11-23": {
-      "tok_in": 40601,
-      "tok_out": 11280,
+      "tok_in": 41582,
+      "tok_out": 11360,
       "cost_usd": 0.0,
       "drafts": 9,
       "expired": 1,
@@ -305,6 +305,36 @@
         }
       ],
       "at": "2026-11-23T17:21:03Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i1"
+        ],
+        "topic": "Supercharging transformer residual connections",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "arastirma",
+        "reason": "Google Research tarafindindan yayinlanan transformer mimarisi ve artik baglantilari uzerine teknik arastirma."
+      },
+      "items": [
+        {
+          "key": "77ab3d65a27896e8",
+          "source": "Google Research",
+          "kind": "official",
+          "credit": "Google Research",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "via": null,
+          "via_url": null,
+          "title": "Supercharging transformer residual connections",
+          "summary": "Algorithms & Theory",
+          "published": "2026-11-23T17:21:12Z",
+          "html_source": false,
+          "tid": "i1"
+        }
+      ],
+      "at": "2026-11-23T17:36:30Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
