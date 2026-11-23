@@ -1,0 +1,68 @@
+{
+  "id": "7cbdf09506",
+  "status": "pending",
+  "created_at": "2026-11-23T08:21:48Z",
+  "title": "AMD Taalas satın alması ile yapay zeka çiplerini Instinct serisine katıyor",
+  "summary": "AMD, yapay zeka modellerini doğrudan silikona entegre eden Taalas'ı 2,9 milyar dolara satın aldı. Anlaşmayla birlikte yeni teknoloji Instinct hızlandırıcı ailesine eklenecek.",
+  "body": "AMD, 23 Kasım 2026 tarihinde duyurulan AMD Taalas satın alması ile yapay zeka modellerini doğrudan silikon üzerine entegre eden donanım teknolojisini bünyesine kattı. Webrazzi'nin aktardığına göre AMD, Toronto merkezli girişim Taalas'ı yaklaşık 2,9 milyar dolar değerindeki bir anlaşmayla satın aldı. Bu hamle, şirketin veri merkezlerinde yapay zeka çıkarım performansını artırma stratejisinin bir parçası olarak öne çıkıyor.\n\n## Silikona entegre yapay zeka mimarisi\n\n2023 yılında Ljubiša Bajić, Lejla Bajić ve Drago Ignjatović tarafından Toronto'da kurulan Taalas, geleneksel donanım yaklaşımlarından farklı bir yol izliyor. Genel amaçlı grafik işlem birimleri yerine doğrudan belirli yapay zeka modellerini temel alan mimariler geliştiren girişim, modelleri silikon seviyesinde donanıma işliyor. Bu yöntemle yapay zeka **çıkarım** süreçlerinin daha hızlı ve verimli hale getirilmesi hedefleniyor.\n\nGirişimin geliştirdiği ilk demonstrasyon çipi, Meta'nın Llama 3.1 8B modeli için tasarlandı. Taalas'ın açıklamalarına göre söz konusu çip, kullanıcı başına saniyede yaklaşık 17 bin **token** işleme kapasitesine ulaşıyor.\n\n## AMD Taalas satın alması sonrasında Instinct serisi\n\nAMD'nin satın alma sonrasında bu teknolojiyi Instinct hızlandırıcı ürün ailesine ve donanım yol haritasına dahil etmesi bekleniyor. Taalas bugüne kadar yürütülen yatırım turlarında yaklaşık 220 milyon dolar fon sağladı. Girişimin yatırımcıları arasında şu kurumlar yer alıyor:\n- Quiet Capital\n- Lamond Ventures\n- Fidelity\n- Fifth Quarter Ventures (5QV)\n\nFifth Quarter Ventures, ilk fonu kapsamında Taalas'a erken aşamada yatırım yapan şirketler arasında bulunuyordu.\n\n**Neden önemli?** Genel amaçlı işlemciler yerine modelleri doğrudan silikona işleyen donanım mimarileri, büyük dil modellerinin çıkarım maliyetini ve enerji tüketimini belirgin şekilde düşürme potansiyeli sunuyor.",
+  "category": "donanim",
+  "tags": [
+    "AMD",
+    "Taalas",
+    "Instinct",
+    "Llama 3.1"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "AMD, çip girişimi Taalas'ı 2,9 milyar dolara satın aldı",
+  "kicker": "Donanım",
+  "hero_stat": "2,9 milyar $",
+  "hero_stat_label": "satın alma bedeli",
+  "visual_style": "studio",
+  "visual_scene": "A dark minimalist studio setup featuring a sculpted metallic microchip platform with intricate geometric engraved tracks glowing with subtle internal light, sitting on a polished slate surface.",
+  "focus_keyword": "AMD Taalas satın alması",
+  "seo_title": "AMD Taalas satın alması: 2,9 milyar dolarlık çip hamlesi",
+  "meta_description": "AMD Taalas satın alması ile yapay zeka modellerini doğrudan silikona entegre eden teknolojiyi Instinct hızlandırıcı serisine dahil ediyor.",
+  "seo_slug": "amd-taalas-satin-almasi-ile-yapay-zeka-cipi",
+  "image_alt": "Koyu zeminde parlayan silikon çip plakası ve AMD ile Taalas arasındaki satın almayı simgeleyen donanım görseli",
+  "cover_text": "AMD Taalas",
+  "importance": 9,
+  "triage_reason": "AMD'nin 2,9 milyar dolarlık büyük çip girişimi satın alması.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/23/amd-yapay-zeka-cipi-girisimi-taalas-i-yaklasik-2-9-milyar-dolara-satin-aldi/",
+      "title": "AMD, yapay zeka çipi girişimi Taalas'ı yaklaşık 2,9 milyar dolara satın aldı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/23/amd-yapay-zeka-cipi-girisimi-taalas-i-yaklasik-2-9-milyar-dolara-satin-aldi/#comments",
+      "published": "2026-11-23T08:15:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "AMD, yapay zeka çipi girişimi Taalas'ı yaklaşık 2,9 milyar dolara satın aldı",
+      "url": "https://webrazzi.com/2026/11/23/amd-yapay-zeka-cipi-girisimi-taalas-i-yaklasik-2-9-milyar-dolara-satin-aldi/",
+      "published": "2026-11-23T08:15:00Z",
+      "summary": "AMD, yapay zeka modellerinin çalıştırılmasına yönelik özel çipler geliştiren Taalas'ı yaklaşık 2,9 milyar dolar değerindeki bir anlaşmayla satın aldı. Bu satın almayla şirket, yapay zeka modellerini d...",
+      "text": "AMD, yapay zeka modellerinin çalıştırılmasına yönelik özel çipler geliştiren Taalas'ı yaklaşık 2,9 milyar dolar değerindeki bir anlaşmayla satın aldı. Bu satın almayla şirket, yapay zeka modellerini doğrudan silikon üzerine entegre eden bir teknolojiye sahip olacak. AMD'nin söz konusu teknolojiyi Instinct hızlandırıcı ürün ailesine dahil etmeyi planladığı belirtiliyor.\n2023 yılında Toronto'da kurulan Taalas, yapay zeka modellerine özel çipler geliştiriyor. Ljubiša Bajić, Lejla Bajić ve Drago Ignjatović tarafından kurulan şirket, genel amaçlı GPU'lar yerine belirli yapay zeka modellerini temel alan bir donanım yaklaşımı benimsiyor. Bu yaklaşımda yapay zeka modelleri doğrudan silikon üzerine entegre ediliyor. Böylece modellerin çıkarım (inference) süreçlerinin daha hızlı ve verimli hale getirilmesi hedefleniyor.\nTaalas'ın ilk demonstrasyon çipi, Meta'nın Llama 3.1 8B modeli için geliştirildi. Şirketin açıklamalarına göre çip, kullanıcı başına saniyede yaklaşık 17 bin token işleyebiliyor. AMD'nin satın alma sonrasında bu teknolojiyi Instinct hızlandırıcı yol haritasına dahil etmesi bekleniyor.\nŞirket bugüne kadar Quiet Capital, Lamond Ventures, Fidelity ve Belgrad merkezli Fifth Quarter Ventures (5QV) gibi yatırımcılardan yaklaşık 220 milyon dolar yatırım aldı. Taalas, Fifth Quarter Ventures'ın ilk fonu kapsamında yatırım yaptığı erken aşama şirketler arasında yer alıyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 846
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
