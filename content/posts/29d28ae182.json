@@ -1,0 +1,57 @@
+{
+  "id": "29d28ae182",
+  "created_at": "2026-11-23T20:09:04Z",
+  "title": "Anthropic, Claude Ship ürünü ile yazılım mühendislerine yeni araçlar sunuyor",
+  "summary": "Anthropic, Claude Ship ürünü kapsamında Claude yapay zeka modelinin kod incelemesi yapmasını, hataları düzeltmesini ve onay vermesini sağlayan yeni özellikleri duyurdu.",
+  "body": "Anthropic şirketi, yazılım mühendislerinin kod yazma ve yayına alma süreçlerine yardımcı olmak amacıyla Claude Ship adlı yeni ürününü duyurdu. The Verge'ün aktardığına göre, bu yeni ürün kapsamında Claude AI artık **pull request** (kod birleştirme isteği) incelemeleri yapabiliyor, hataları tek başına düzeltebiliyor ve onay süreçlerinde rol oynayabiliyor.\n\n## Yeni Claude Ship özellikleri\n\nŞirketin daha önce sunduğu kod inceleme yeteneklerinin yanı sıra, beta aşamasında olan PR Steward ve Claude Approvals ajanları da kullanıma sunuldu. Anthropic'in açıklamasına göre PR Steward; başarısız CI (sürekli entegrasyon) kontrollerine, birleştirme çakışmalarına ve geri bildirimlere müdahale ederek yapılan değişiklikler hakkında yorum bırakabiliyor. Claude Approvals ise kurumların politikaları elverdiği takdirde rutin değişiklikler için onay verebiliyor.\n\n## Erişim ve entegrasyon\n\nKurumlar, Claude Approvals sisteminin karar sürecinde kod inceleme bulgularını veya doğal dille yazılmış sınıflandırıcıları dikkate almasını sağlayabiliyor. Claude Team ve Enterprise müşterileri için erişime açılan Claude Ship, GitHub üzerindeki veri depolarıyla uyumlu şekilde çalışıyor.\n\n**Neden önemli?** Anthropic'in duyurusuna göre yeni araçlar, yazılım mühendislerinin kod tabanındaki çakışmaları çözmesine ve rutin onay süreçlerini otomatikleştirmesine olanak tanıyor.",
+  "category": "urunler",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "GitHub"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Anthropic'ten Claude Ship duyurusu",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "studio",
+  "visual_scene": "a smooth obsidian block resting on a reflective white surface, with delicate threads of white light wrapping around its edges to represent digital connectivity and software management",
+  "focus_keyword": "Claude Ship",
+  "seo_title": "Anthropic, Claude Ship ile kod inceleme araçları duyurdu",
+  "meta_description": "Anthropic, Claude Ship ürünü ile yazılım mühendislerinin kod birleştirme isteklerini inceleyen ve onay veren yeni ajanlarını duyurdu.",
+  "seo_slug": "anthropic-claude-ship-duyuruldu",
+  "image_alt": "Siyah renkli pürüzsüz bir blok etrafında dönen ışık çizgileri, Claude Ship yazılım araçlarını temsil ediyor",
+  "cover_text": "Claude Ship",
+  "importance": 7,
+  "triage_reason": "Anthropic, yazılım geliştiriciler için kod inceleme ve düzeltme yapabilen yeni Claude Ship ürününü duyurdu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T20:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 862
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "mercan",
+    "cover_v": 1
+  },
+  "slug": "anthropic-claude-ship-duyuruldu",
+  "published_at": "2026-11-23T20:09:17Z",
+  "publish_mode": "auto"
+}
