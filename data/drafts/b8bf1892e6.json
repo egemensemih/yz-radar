@@ -1,0 +1,69 @@
+{
+  "id": "b8bf1892e6",
+  "status": "pending",
+  "created_at": "2026-11-23T07:07:28Z",
+  "title": "OpenAI baş bilim insanından yapay zeka gelişim sınırı çağrısı",
+  "summary": "OpenAI Baş Bilim İnsanı Jakub Pachocki, güvenlik ve denetim mekanizmaları yetersiz kaldığı sürece yapay zeka şirketlerinin ortak gelişim sınırları belirlemesini önerdi.",
+  "body": "OpenAI Baş Bilim İnsanı Jakub Pachocki, 22 Kasım'da yayımladığı blog yazısıyla sektör genelinde ortak bir **yapay zeka gelişim sınırı** oluşturulması önerisini gündeme getirdi. Webrazzi'nin aktardığı bilgilere göre Pachocki, güvenlik ve denetim mekanizmaları modellerin gelişim hızına yetişene kadar yapay zeka şirketlerinin belirlenecek teknik sınırları aşmaması gerektiğini savundu. OpenAI CEO'su Sam Altman ise yayımlanan metnin şirket açısından son zamanların en önemli değerlendirmelerinden biri olduğunu ifade ederek öneriyi destekledi.\n\n## Perplexity ölçütüyle yapay zeka gelişim sınırı\n\nPachocki'nin önerisinde modellerin gelişimini izlemek için geleneksel performans testleri yerine bir sonraki veriyi tahmin başarısını ölçen \"perplexity\" metriği temel alınıyor. Tahmin yeteneği arttıkça bu değerin düştüğü belirtilirken, OpenAI'ın paylaştığı verilere göre log-perplexity değeri GPT-3.5 için yaklaşık 0,99, GPT-4 için ise 0,91 seviyesinde gerçekleşti. Bu değerin 0,8 seviyesinin altına gerilemesiyle birlikte modellerde matematik ve siber güvenlik alanlarında önemli yetenek sıçramaları görüldü.\n\nPachocki, log-perplexity değerinin 0,68 ile 0,70 aralığına düşmesi halinde çok daha gelişmiş yeni yeteneklerin ortaya çıkabileceğini öngörüyor. Şirketler için henüz resmi bir sınır tanımlanmamış olsa da bu metriğin temel eğitim sürecini takip etmede daha tutarlı bir zemin sunduğu vurgulanıyor.\n\n## Sektörde ortak standart arayışı\n\nYapay zeka modellerinin yeni eğitim yöntemlerini geliştirmek amacıyla kullanılması, teknolojik ilerlemenin hızını artırma potansiyeline sahip. Pachocki, 2027 yılı itibarıyla yapay zekanın kendi gelişimine yapacağı katkıların ivme kazanabileceği konusunda uyarıda bulundu. Benzer şekilde Anthropic CEO'su Dario Amodei de eylül ayında yayımladığı yazıda denetlenmeyen ilerlemeye sınırlar getirilmesini ve ortak güvenlik standartları oluşturulmasını teklif etmişti.\n\nÖnerilen denetim sisteminin uygulanmasında bazı teknik engeller yer alıyor:\n- Şirketlerin farklı eğitim verileri kullanması sebebiyle modellerin doğrudan kıyaslanmasının zorlaşması\n- Perplexity ölçütünün modellerin tüm yeteneklerini tek başına değerlendirmede yetersiz kalabilmesi\n- Şirketler arasında henüz bağlayıcı ve resmi bir anlaşmanın sağlanamamış olması\n\n**Neden önemli?** Yapay zeka sistemlerinin kendi eğitim süreçlerini otomatikleştirme potansiyeli, güvenlik çalışmalarının geride kalma riskini artırıyor. Teknoloji devlerinin ortak sınır ve denetim hedefleri üzerinde uzlaşması, kontrolsüz gelişimi önlemek adına kritik bir adım olarak değerlendiriliyor.",
+  "category": "politika",
+  "tags": [
+    "OpenAI",
+    "Jakub Pachocki",
+    "Sam Altman",
+    "Anthropic",
+    "GPT-4"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "OpenAI'dan yapay zeka gelişimine sınır önerisi",
+  "kicker": "Güvenlik çağrısı",
+  "hero_stat": "0,68",
+  "hero_stat_label": "öngörülen log-perplexity eşiği",
+  "visual_style": "sculpture",
+  "visual_scene": "A frosted glass geometric barrier standing firmly on a smooth sandstone surface, blocking a stream of golden glowing liquid glass that pools at its base without spilling over.",
+  "focus_keyword": "yapay zeka gelişim sınırı",
+  "seo_title": "Yapay zeka gelişim sınırı için OpenAI'dan ortak çağrı",
+  "meta_description": "OpenAI baş bilim insanı Jakub Pachocki, güvenlik önlemleri yetersiz kaldığı takdirde ortak yapay zeka gelişim sınırı belirlenmesini teklif etti.",
+  "seo_slug": "openai-yapay-zeka-gelisim-siniri-cagrisi",
+  "image_alt": "Buzlu camdan koruyucu bir barikatın ardında tutulan altın sarısı erimiş cam kütlesini temsil eden illüstrasyon",
+  "cover_text": "Jakub Pachocki",
+  "importance": 7,
+  "triage_reason": "OpenAI bas bilim insaninin yapay zeka gelisimine sinir getirilmesi cagrisi onemli bir tartisma baslatiyor.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/23/openaiin-bas-bilim-insanindan-yapay-zeka-gelisimine-sinir-getirilmesi-cagrisi/",
+      "title": "OpenAI'ın baş bilim insanından yapay zeka gelişimine sınır getirilmesi çağrısı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/23/openaiin-bas-bilim-insanindan-yapay-zeka-gelisimine-sinir-getirilmesi-cagrisi/#comments",
+      "published": "2026-11-23T07:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "OpenAI'ın baş bilim insanından yapay zeka gelişimine sınır getirilmesi çağrısı",
+      "url": "https://webrazzi.com/2026/11/23/openaiin-bas-bilim-insanindan-yapay-zeka-gelisimine-sinir-getirilmesi-cagrisi/",
+      "published": "2026-11-23T07:00:00Z",
+      "summary": "OpenAI'ın baş bilim insanı Jakub Pachocki, yapay zeka modellerinin giderek artan yeteneklerinin beraberinde getirdiği riskleri kontrol altına almak için teknoloji şirketlerinin ortak gelişim sınırları...",
+      "text": "OpenAI'ın baş bilim insanı Jakub Pachocki, yapay zeka modellerinin giderek artan yeteneklerinin beraberinde getirdiği riskleri kontrol altına almak için teknoloji şirketlerinin ortak gelişim sınırları belirlemesini önerdi. Pachocki, 22 Kasım'da yayımladığı blog yazısında, yapay zeka geliştiricilerinin modellerin davranışlarını daha iyi anlayıp denetleyebilecekleri güvenlik mekanizmaları oluşturulana kadar belirli sınırları aşmamaları gerektiğini savundu.\nPachocki'nin önerisi, yapay zekanın gelişimini tamamen durdurmayı değil, teknolojik ilerlemeyi güvenlik çalışmalarının hızına göre düzenlemeyi amaçlıyor. OpenAI CEO'su Sam Altman da Pachocki'nin gönderisinin OpenAI'ın bir süredir yayınladığı en önemli şeylerden biri olduğunu ifade ederek yazılan öneriye destek verdi.\nYapay zekanın gelişimi nasıl ölçülecek?\nPachocki'nin önerisinin merkezinde, yapay zeka modellerinin performansını ölçmek için kullanılan perplexity adlı ölçüt yer alıyor. Bu ölçüt, bir modelin metindeki bir sonraki kelimeyi veya veri parçasını ne kadar doğru tahmin edebildiğini gösteriyor. Daha düşük perplexity değeri, modelin tahmin yeteneğinin daha iyi olduğu anlamına geliyor.\nPachocki'ye göre yapay zeka modellerinin belirli görevlerdeki başarısını ölçen testler, teknolojinin hızlı gelişimi nedeniyle zamanla geçerliliğini kaybedebiliyor. Perplexity ise modellerin temel eğitim sürecindeki ilerlemeyi takip etmek için daha tutarlı bir ölçüm sunabiliyor.\nOpenAI, bu yaklaşımı desteklemek amacıyla modellerinin eğitim süreçlerine ilişkin daha önce kamuoyuyla paylaşmadığı bazı verileri de yayımladı. Şirketin kendi değerlendirme verilerine göre GPT-3.5'in log-perplexity değeri yaklaşık 0,99, GPT-4'ün ise 0,91 seviyesindeydi. Değerin 0,8'in altına düşmesiyle birlikte matematik ve siber güvenlik gibi alanlarda önemli yeni yetenekler ortaya çıktı.\nPachocki, log-perplexity değerinin 0,68 ile 0,70 aralığına gerilemesiyle yeni ve önemli yeteneklerin ortaya çıkabileceğini öngörüyor. Ancak bu değerlerin henüz şirketler için belirlenmiş resmi gelişim sınırları olmadığını belirtelim.\nYapay zeka gelişimi 2027'de daha da hızlanabilir\nPachocki'nin dikkat çektiği bir diğer konu da yapay zekanın kendi gelişim sürecine katkıda bulunması oldu. Yapay zeka sistemlerinin yeni modellerin eğitim yöntemlerini geliştirmek için kullanılması, teknolojik ilerlemeyi önemli ölçüde hızlandırabilir.\nPachocki'ye göre 2027 gibi erken bir tarihte, yapay zeka modellerinin eğitimine yönelik araştırmalarda çok sayıda önemli gelişme yaşanması mümkün. Bununla birlikte güvenlik ve denetim çalışmalarının aynı hızda ilerleyemeyebileceği konusunda uyarıda bulunan Jakub Pachocki, önde gelen yapay zeka şirketlerinin ortak ölçüm yöntemleri ve gelişim sınırları üzerinde anlaşmasını arzu ediyor.\nŞirketler, modellerin davranışlarını anlama ve izleme konusunda önceden belirlenmiş somut hedeflere ulaşmadan bu sınırları aşmamayı taahhüt edebilir. Ancak önerilen sistemin önünde bazı zorluklar bulunuyor. Şirketlerin farklı eğitim verileri kullanması, modellerin doğrudan karşılaştırılmasını güçleştiriyor. Ayrıca perplexity, yapay zekanın bütün yeteneklerini tek başına ölçemiyor.\nHatırlatmak gerekirse Anthropic CEO'su Dario Amodei de eylül ayında yayımladığı yazısında, yapay zeka şirketlerinin ortak güvenlik standartları oluşturmasını ve denetlenmeyen teknolojik ilerlemenin hızına sınırlar getirmesini önermişti.\nOpenAI'ın yeni yaklaşımı da sektörde benzer bir iş birliğinin oluşturulmasını hedefliyor. Bununla birlikte şirketler arasında henüz ortak bir anlaşma sağlanmadığını belirtmekte fayda var. İlk gelişim sınırının hangi seviyede belirleneceği ve sistemin ne zaman uygulanacağı da şu an için bilinmiyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 845
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "nane",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
