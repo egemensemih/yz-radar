@@ -1,0 +1,69 @@
+{
+  "id": "be96e4d8cc",
+  "status": "pending",
+  "created_at": "2026-11-23T18:05:38Z",
+  "title": "Google kişisel zeka özelliğini Google Wallet ve Drive ile genişletiyor",
+  "summary": "Google, Arama servisinde sunduğu kişisel zekâ altyapısını Google Wallet, Google Drive ve Gemini uygulaması ile entegre ederek kullanıcıya özel yanıtları genişletiyor.",
+  "body": "23 Kasım 2026 tarihinde yapılan duyuruya göre, Google kişisel zeka altyapısını Arama servisindeki Yapay Zekâ Modu (AI Mode) altında daha fazla uygulamaya açıyor. Şirket, kullanıcıların finansal harcamalarından belgelerine kadar kişisel bağlamlarını arama deneyimine dahil etmelerine olanak tanıyor. Daha önce Gmail, Takvim ve Fotoğraflar uygulamalarıyla sunulan bu entegrasyona ilk olarak Google Wallet katılırken, önümüzdeki haftalarda Google Drive ve Gemini uygulaması da altyapıya eklenecek.\n\n## Google kişisel zeka uygulamaları nasıl entegre ediliyor?\n\nGoogle Wallet bağlandığında, Yapay Zekâ Modu kullanıcıların harcama alışkanlıklarını analiz edebiliyor, günlük giderleri azaltma yolları sunabiliyor ve kredi kartı avantajlarını optimize etmeye yardımcı oluyor. Ancak Google, sistemin yalnızca veri okuma yetkisine sahip olduğunu, hesaplar arasında para transferi yapamayacağını veya yatırım gerçekleştiremeyeceğini vurguluyor. Google Drive entegrasyonu sayesinde ise belgeler, tablolar ve PDF dosyalarındaki bilgiler taranarak örneğin vergi dönemine hazırlık planı gibi kişiselleştirilmiş yanıtlar üretilebiliyor.\n\nGemini uygulaması ile Arama servisindeki Yapay Zekâ Modu arasındaki veri paylaşımı da iki yönlü hale geliyor. Gemini üzerinde incelenen bir konu, Arama servisindeki yapay zekâ moduna temel oluşturabiliyor.\n\n## Veri denetimi ve gizlilik seçenekleri\n\nKullanıcılar bu entegrasyonları Arama Kişiselleştirme ayarlarından diledikleri zaman aktif veya pasif hale getirebiliyor. Özelleştirilmiş yanıtların altında yer alacak kişiselleştirme simgesi üzerinden yapay zekânın hangi bağlamı kullandığı görüntülenebilecek. Ayrıca sohbet akışı içerisinde doğrudan komut verilerek kişisel veriler güncellenebilecek. Örneğin kullanıcı, \"Artık vejetaryen değilim\" diyerek yapay zekanın dikkate aldığı bilgileri değiştirebilecek.\n\nYapay Zekâ Özetleri (AI Overviews) ve Yapay Zekâ Modu, son arama geçmişini de dikkate alarak seyahat planı gibi süreçlerde aramaya sıfırdan başlamak yerine kalınan yerden devam edilmesine imkan tanıyor.\n\n**Neden önemli?** Yapay zekâ destekli arama motorları, genel internet verilerinin ötesine geçerek kullanıcının kendi kişisel verileriyle entegre yanıtlar sunmaya yöneliyor. Google'ın bu adımı, kişisel gizlilik kontrollerini kullanıcıya bırakırken arama deneyimini daha bağlamsal ve kişiye özel hale getirmeyi hedefliyor.",
+  "category": "urunler",
+  "tags": [
+    "Google",
+    "Google Search",
+    "Google Wallet",
+    "Google Drive",
+    "Gemini"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Google Arama'ya Wallet ve Drive desteği geldi",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A translucent glass tablet sitting beside a dark leather wallet and a metallic digital key card on a clean oak wood desk, soft warm light casting clean geometric shadows",
+  "focus_keyword": "Google kişisel zeka",
+  "seo_title": "Google kişisel zeka Wallet ve Drive entegrasyonu aldı",
+  "meta_description": "Google kişisel zeka özelliğini Google Wallet, Drive ve Gemini uygulamasıyla genişleterek arama sonuçlarını kullanıcıya özel hale getiriyor.",
+  "seo_slug": "google-kisisel-zeka-wallet-ve-drive-entegrasyonu",
+  "image_alt": "Ahşap masa üzerinde şeffaf cam tablet ve cüzdan ile Google Arama'nın kişisel zekâ entegrasyonunu temsil eden görsel",
+  "cover_text": "Google Search",
+  "importance": 7,
+  "triage_reason": "Google Arama, kişisel veriler ve Gemini ile entegre YZ modunu duyurdu.",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "kind": "official",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T17:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Google"
+  ],
+  "source_texts": [
+    {
+      "credit": "Google",
+      "kind": "official",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published": "2026-11-23T17:00:00Z",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "text": "A more tailored Google Search that’s uniquely yours\nThe most helpful search experience brings together the richness of the world’s information with insights uniquely relevant to you. Today, Search is getting even more tailored with the ability to connect more of your apps to Personal Intelligence — and we're introducing more personally relevant responses, so it's easier to find just what you need.\nStarting to roll out today, you can opt in to securely connect Google Wallet to Personal Intelligence in AI Mode, with support for Drive and the Gemini app following in the coming weeks — bringing context from your spending, documents, and chats directly to Search. These apps join Gmail, Calendar, and Photos in delivering even more tailored responses with your personal context.\n- Get a clearer picture of your spending with Google Wallet: By connecting Google Wallet to Personal Intelligence in both AI Mode and the Gemini app, you can map out your financial milestones and identify actionable ways to trim everyday spending. You can also maximize credit card benefits — like optimizing cash-back categories, travel perks, and reward points — based on your cards linked via Wallet. If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.\n- Stay in your flow with Google Drive: Sometimes the important information that you need to get started on a project or make a big decision can be scattered across your docs, sheets, or PDFs. With Google Drive connected in Personal Intelligence, you can get uniquely helpful responses that take all of that context into account and help you get started, like a personalized preparation plan ahead of tax season.\n- Connect the dots between the Gemini app and Search: In the coming weeks you can easily share context across the Gemini app and AI Mode in Search. So if you explore an idea in the Gemini app, AI Mode will have that foundation to build on, and vice versa. While you could already opt in to connect your Search history to Personal Intelligence in the Gemini app, soon you can also opt in to securely connect your Gemini app to Personal Intelligence in AI Mode.\nTo connect your apps to Personal Intelligence in AI Mode, open Search Personalization, select Connected Apps, and then choose the apps you want to connect. You choose if and when you opt in, and you can turn those connections on or off at any time. You’re always in control of your personalization settings, and soon you’ll also be able to view the context AI Mode uses via the “Personalization” icon below any tailored response. If you want to edit anything simply let AI Mode know what to change, like responding in thread “I’m no longer a vegetarian.”\nYou’ll also start seeing more personally relevant responses in AI Overviews and AI Mode, tailored to your recent search context. So if you’ve been researching and planning for a trip, you can pick up right where you left off in a new search thread without starting over or repeating yourself. As always, you can adjust or turn off personalization at any time in your Search Settings."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 856
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "elektrik",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Google"
+}
