@@ -1,6 +1,6 @@
 {
   "telegram_offset": 614197266,
-  "last_collect": "2026-11-23T21:15:50Z",
+  "last_collect": "2026-11-23T21:30:59Z",
   "last_summary_date": "2026-11-23",
   "mode_override": null,
   "paused": false,
@@ -22,70 +22,70 @@
   "source_health": {
     "OpenAI": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
-      "count": 1423
+      "last_ok": "2026-11-23T21:30:59Z",
+      "count": 1424
     },
     "Anthropic": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 22
     },
     "Google DeepMind": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 100
     },
     "Google Research": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 100
     },
     "Google": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 20
     },
     "NVIDIA": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 18
     },
     "Hugging Face": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:49Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 916
     },
     "TechCrunch": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:50Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 20
     },
     "The Verge": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:50Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 10
     },
     "MIT Technology Review": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:50Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 10
     },
     "VentureBeat": {
-      "fails": 2582,
+      "fails": 2583,
       "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/"
     },
     "Ars Technica": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:50Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 20
     },
     "Webrazzi": {
       "fails": 0,
-      "last_ok": "2026-11-23T21:15:50Z",
+      "last_ok": "2026-11-23T21:30:59Z",
       "count": 15
     },
     "Hacker News": {
-      "fails": 4,
+      "fails": 5,
       "last_ok": "2026-11-23T20:18:46Z",
       "count": 20,
       "last_error": "HTTPError: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=150"
@@ -201,8 +201,8 @@
       "auto": 2
     },
     "2026-11-24": {
-      "tok_in": 1147,
-      "tok_out": 69,
+      "tok_in": 2386,
+      "tok_out": 277,
       "cost_usd": 0.0
     }
   },
@@ -242,6 +242,36 @@
         }
       ],
       "at": "2026-11-23T21:15:58Z"
+    },
+    {
+      "story": {
+        "item_ids": [
+          "i2"
+        ],
+        "topic": "Megaspeed faces potential US blacklist following Jensen Huang scandal",
+        "ai_related": true,
+        "duplicate_of": "",
+        "importance": 6,
+        "category": "politika",
+        "reason": "Jensen Huang skandalının ardından Megaspeed şirketinin ABD kara listesine alınma ihtimali."
+      },
+      "items": [
+        {
+          "key": "7bdc82557174d88c",
+          "source": "TechCrunch",
+          "kind": "media",
+          "credit": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "via": null,
+          "via_url": null,
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+          "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+          "published": "2026-11-23T21:25:42Z",
+          "html_source": false,
+          "tid": "i2"
+        }
+      ],
+      "at": "2026-11-23T21:31:01Z"
     }
   ],
   "last_activity": "2026-09-25T20:49:46Z"
