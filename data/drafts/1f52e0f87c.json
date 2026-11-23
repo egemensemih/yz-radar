@@ -1,0 +1,69 @@
+{
+  "id": "1f52e0f87c",
+  "status": "pending",
+  "created_at": "2026-11-23T11:10:20Z",
+  "title": "Walmart Meta Muse entegrasyonuyla yapay zeka alışverişi başladı",
+  "summary": "Walmart, Meta Muse yapay zeka ajanının kullanıcılar adına alışveriş yapmasına ve Black Friday fırsatlarını satın almasına imkan tanıyan yeni Agent Gateway sistemini devreye aldı.",
+  "body": "The Verge'ün 23 Kasım 2026 tarihli haberine göre Walmart, Meta Muse yapay zeka ajanı kullanıcılarının platform üzerinden otomatik alışveriş yapmasına imkan tanıyan yeni entegrasyonunu devreye aldı. Şirket, geçen ay duyurduğu Agent Gateway altyapısını canlıya alarak walmart meta muse entegrasyonunu resmi olarak başlattı. Bu sistem sayesinde kullanıcılar, özellikle Black Friday dönemindeki indirimli ürünleri yapay zeka ajanı aracılığıyla aratıp satın alabilecek.\n\n## Ajan profili ile kontrol sağlama\n\nWalmart tarafından paylaşılan bilgilere göre Agent Gateway altyapısı, yapay zeka ajanlarının kullanıcıların geçmiş satın alma verilerine erişmeden ürün bulmasına olanak tanıyor. İşleyiş kapsamında Meta Muse, kullanıcının Walmart müşteri hesabı içinde açılan **Ajan Profili** (Agent Profile) alanı üzerinden hareket ediyor. Kullanıcılar sohbet ekranı üzerinden ajana neye ihtiyaç duyduklarını ilettikten sonra Walmart hesaplarına giriş yaparak izinlerini tanımlıyor.\n\nSistemde sunulan kontrol mekanizmaları şu imkanları kapsıyor:\n\n* Belirli bir harcama limiti tanımlama\n* Yapay zekanın sepete eklediği ürünlerin satın alımını onaylama\n* Muse tarafından yapılan tüm harcamaların ve satın alma geçmişinin takibini yapma\n\nSohbet akışı içinden tamamlanan satın alma işlemlerinde, kullanıcının Walmart hesabında kayıtlı olan ödeme kartları kullanılıyor. Fiyatlandırma tarafında ise Walmart.com üzerindeki mevcut etiket fiyatları geçerliliğini korurken, standart iade politikaları bu işlemler için de geçerli sayılıyor.\n\n## Perakende devleri arasında farklılaşan tutum\n\nE-ticaret pazarındaki Amazon ve eBay gibi rakip şirketler yapay zeka ajanlarının platformlarında gezinmesini engellemek için adımlar atarken, Walmart yapay zeka entegrasyonuna açık bir tutum sergiliyor. Şirket yetkilileri, Meta Muse desteğinin bir başlangıç olduğunu ve gelecekte farklı yapay zeka uygulamaları ile ajanlarının da Walmart platformuna dahil edileceğini belirtiyor.\n\n**Neden önemli?** E-ticaret devlerinin yapay zeka botlarına karşı takındığı kısıtlayıcı tutuma tezat oluşturan bu hamle, otonom ajanların kullanıcılar adına harcama yaptığı yeni bir dijital alışveriş modelinin perakende sektöründeki ilk geniş ölçekli uygulamalarından birini temsil ediyor.",
+  "category": "urunler",
+  "tags": [
+    "Walmart",
+    "Meta Muse",
+    "Meta",
+    "yapay zeka ajanları",
+    "e-ticaret"
+  ],
+  "confidence": "orta",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Walmart ve Meta Muse'dan yapay zekayla alışveriş",
+  "kicker": "Ürün güncellemesi",
+  "hero_stat": "",
+  "hero_stat_label": "",
+  "visual_style": "still_life",
+  "visual_scene": "A clean frosted glass shopping cart sitting beside a glowing minimalist digital token on a matte slate surface, soft warm ambient lighting",
+  "focus_keyword": "walmart meta muse",
+  "seo_title": "Walmart Meta Muse ile yapay zeka alışverişi başladı",
+  "meta_description": "Walmart, Meta Muse yapay zeka ajanı entegrasyonunu duyurdu. Kullanıcılar harcama limiti belirleyerek otonom alışveriş yapabilecek.",
+  "seo_slug": "walmart-meta-muse-ile-yapay-zeka-alisverisi-baslatti",
+  "image_alt": "Buzlu camdan alışveriş arabası ve dijital jetonu gösteren görsel: Walmart Meta Muse entegrasyonunu temsil ediyor.",
+  "cover_text": "Meta Muse",
+  "importance": 7,
+  "triage_reason": "Meta'nn Muse yapay zeka ajanının Walmart'ta Black Friday alışverişi yapmaya başlaması önemli bir ürün entegrasyonu.",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T11:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "The Verge"
+  ],
+  "source_texts": [
+    {
+      "credit": "The Verge",
+      "kind": "media",
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "published": "2026-11-23T11:00:00Z",
+      "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
+      "text": "Walmart will now let Meta’s Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart.\nMeta Muse can now do your Black Friday shopping at Walmart\nThe Walmart Agent Gateway is now live with Muse support, with other apps and agents ‘on the way.’\nMuse can make purchases through Walmart’s “Agent Profiles,” which provide a dedicated space for agent activity within your Walmart customer account. These profiles also allow you to set spending limits, approve purchases, and check the purchase history of everything bought by Muse. While other online retailers like Amazon and eBay have blocked AI agents from browsing their platforms, Walmart says that support for Meta’s Muse is “just the beginning,” and that additional Walmart shopping experiences for other AI agents and apps are “on the way.”\nHere are Walmart’s instructions for shopping its website via Muse:\n1. Tell Muse what you need. For example, ask it to find a great TV deal or show you which Walmart Black Friday deals are available for delivery. Muse can help you explore products and build your basket.\n2. Set your shopping rules. Muse will take you to Walmart to sign in, then bring you back to Muse. The first time you add an item to your cart, you’ll set up your Agent Profile on Walmart within your Walmart account, including a spending limit you’re comfortable with.\n3. Check out. Complete your purchase within the conversation using a card saved in your Walmart account, with the same Walmart prices you’d find on Walmart.com. And if something isn’t quite right, Walmart’s return policy still applies."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 849
+  },
+  "image": {
+    "source": "cover",
+    "layout": "isim",
+    "palette": "okyanus",
+    "cover_v": 1
+  },
+  "policy_reason": "Güven seviyesi yüksek değil"
+}
