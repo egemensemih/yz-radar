@@ -1,0 +1,58 @@
+{
+  "id": "68587f31b0",
+  "created_at": "2026-11-23T14:51:08Z",
+  "title": "Sierra değerlemesini 30 milyar dolara çıkardı",
+  "summary": "Müşteri deneyimi odaklı yapay zeka şirketi Sierra, Series F turunda 1,75 milyar dolar yatırım alarak değerlemesini altı ay içinde ikiye katladı.",
+  "body": "Sierra değerlemesini 30 milyar dolara çıkardı ve şirket, kurumsal müşteri deneyimi alanındaki talebin artmasıyla birlikte yeni bir yatırım turunu tamamladı. TechCrunch'ın aktardığına göre, Bret Taylor tarafından ortak kurulan kurumsal müşteri deneyimi şirketi Sierra, 23 Kasım'da yaptığı açıklamada Series F turunda 1,75 milyar dolar topladığını duyurdu. Bu yeni tur, şirketin değerlemesini altı ay içinde 15 milyar dolardan 30 milyar dolara taşıdı.\n\n## Yatırım turu ve büyüme rakamları\n\nGreenoaks ve Lightspeed Venture Partners liderliğinde gerçekleştirilen yatırım turuna, daha önceki turlara liderlik eden Benchmark, Sequoia, Greenoaks, GV ve Tiger Global gibi mevcut yatırımcılar da katıldı. Kurumsal otomasyon, yapay zekanın hızlı kabul gördüğü nadir alanlar arasında yer alıyor. Şirket, Fortune 50 listesindeki şirketlerin neredeyse yüzde 50'sine hizmet verdiğini belirtti. Müşterileri arasında BNY, HSBC, Singtel, Wells Fargo, JPMorganChase, Pearson, Next ve Cox Automotive gibi kurumlar bulunuyor. Sierra, geçen ayın sonlarında sonuç odaklı fiyatlandırma modeli sayesinde yıllık gelir oranını beş ay içinde 400 milyon dolara çıkardığını açıklamıştı.\n\n## Yeni sermayenin kullanım alanları ve sektör durumu\n\nSierra, taze sermayeyi teknoloji altyapısını servis ajanlarıyla güçlendirmek ve rakiplerine kıyasla kurumsal sözleşmeleri daha hızlı imzalamak ve sürdürmek amacıyla satış personeli işe almak için kullanacak. Öte yandan şirket, Meta, Stripe ve Walmart gibi şirketlerle ajanlar için protokol tanımları oluşturmak üzere çalışmalar yürütüyor. Eylül ayında Amsterdam'da düzenlenen HumanX konferansında konuşan Sierra kurucu ortağı Clay Bavor, yapay zeka destekli müşteri deneyimi şirketlerinin çağrı merkezlerindeki insanların yerini aldığına dair yaygın inanışın aksine, müşterilerin çoğunun mevcut çalışanlarına yeni roller atadığını savunmuştu.\n\n**Neden önemli?** Yapay zeka tabanlı kurumsal müşteri deneyimi alanındaki hızlı benimseme ve devasa yatırımlar, pazarın değerlemelerini kısa sürede katlamasını sağlarken Sierra gibi şirketlerin sunduğu sonuç odaklı modellerin kurumsal alanda hızla yayıldığını gösteriyor.",
+  "category": "sirketler",
+  "tags": [
+    "Sierra",
+    "Bret Taylor",
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Sierra değerlemesini 30 milyar dolara çıkardı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "30 milyar $",
+  "hero_stat_label": "yeni değerleme",
+  "visual_style": "studio",
+  "visual_scene": "a monolithic block of matte obsidian stone with glowing amber light veins running through its geometric surface, positioned on a dark concrete pedestal",
+  "focus_keyword": "Sierra değerlemesini 30 milyar dolara çıkardı",
+  "seo_title": "Sierra değerlemesini 30 milyar dolara çıkardı",
+  "meta_description": "Sierra, Series F turunda 1,75 milyar dolar yatırım alarak şirket değerlemesini altı ay içinde 30 milyar dolara çıkardığını duyurdu.",
+  "seo_slug": "sierra-degerlemesini-30-milyar-dolara-cikardi",
+  "image_alt": "Sierra yatırım turunu temsil eden koyu renkli taş blok ve ışık damarları",
+  "cover_text": "Sierra",
+  "importance": 8,
+  "triage_reason": "Sierra, 1.75 milyar dolarlık yeni yatırım turuyla değerlemesini 30 milyar dolara çıkardı.",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "kind": "media",
+      "via": null,
+      "via_url": null,
+      "published": "2026-11-23T14:43:03Z"
+    }
+  ],
+  "source_keys": [
+    "TechCrunch"
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 853
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "altin",
+    "cover_v": 1
+  },
+  "slug": "sierra-degerlemesini-30-milyar-dolara-cikardi",
+  "published_at": "2026-11-23T14:51:11Z",
+  "publish_mode": "auto"
+}
