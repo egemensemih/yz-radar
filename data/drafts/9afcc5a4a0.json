@@ -1,0 +1,89 @@
+{
+  "id": "9afcc5a4a0",
+  "status": "pending",
+  "created_at": "2026-11-23T14:21:58Z",
+  "title": "Jensen Huang Nvidia CEO görevine yeniden döndü",
+  "summary": "Nvidia yönetim kurulu, Jensen Huang'ın şirketteki CEO'luk görevine geri döndüğünü duyurdu. ABD hükümetiyle yapılan görüşmelerin ardından karar onaylandı.",
+  "body": "Nvidia, şirket kurucularından Jensen Huang Nvidia CEO görevine 23 Kasım'da oy birliğiyle yeniden atandığını açıkladı. Yönetim kurulu kararıyla Huang; CEO, başkanlık ve yönetim kurulu üyeliği görevlerini derhal üstlendi. Görevden ayrılmasının üzerinden iki haftadan kısa bir süre geçen Huang'ın dönüşü sonrası geçici CEO Colette Kress CFO görevine geri döndü, Harvey C. Jones ise yönetim kurulu başkanlığını sürdürdü.\n\n## Jensen Huang Nvidia CEO görevine dönmeden önceki güvenlik incelemesi\nNvidia yönetim kurulu, üst düzey ABD hükümet yetkilileriyle görüşmeler yaptığını ve Huang’ın dönüşünün ulusal güvenlik riski oluşturmadığı sonucuna varıldığını belirtti. Kurul, Huang ile yapılan görüşmelerde açıklamalarını samimi bulduğunu ifade etti. Bağımsız yönetim kurulu üyelerinden oluşan komite, Huang'ın yabancı bir istihbarat girişiminin hedefi olduğu haberlerine yönelik başlattığı incelemeyi devam ettirecek.\n\nŞirket, ulusal güvenlik risklerini ve ihracat uyumunu denetlemek için yeni bir komite kurduğunu ve şirket genelinde mevzuata uyumdan sorumlu yönetici arayışına başladığını açıkladı. Nvidia ayrıca resmi soruşturmalarda yetkililerle iş birliğini sürdüreceğini duyurdu.\n\n## İstifa süreci ve piyasa yansıması\nNvidia, Huang'ın istifasını 12 Kasım'da duyurmuş ve ABD Menkul Kıymetler ve Borsa Komisyonu'na (SEC) yapılan bildirime göre kurul istifayı 11 Kasım'da kabul etmişti. Jones, 17 Kasım'daki toplantıda Huang'ın standartlara uymayan kişisel davranışları nedeniyle ayrıldığını ve yeniden atanmasının düşünülmediğini söylemişti. Reuters'ın aktardığına göre istifa, Huang'ın evlilik dışı ilişkileri ve ABD makamlarının bir ilişki hakkında Çin adına casusluk şüphesi taşıması üzerine yaşandı. Pekin bu iddiayı reddederken ABD Başkanı Donald Trump Huang'a destek verdi.\n\nYeniden atama kararının ardından **Nvidia hisseleri**, Reuters'ın haberine göre ABD seans öncesi işlemlerde **yüzde 25**'in üzerinde artış gösterdi.\n\n**Neden önemli?** Yapay zeka çip pazarının lideri Nvidia'daki liderlik krizinin ABD hükümetiyle yürütülen güvenlik değerlendirmeleriyle çözülmesi, şirketin ulusal güvenlik ve küresel teknoloji rekabetindeki stratejik konumunu teyit ediyor.",
+  "category": "sirketler",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "Colette Kress",
+    "Donald Trump",
+    "ABD",
+    "Çin"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Jensen Huang yeniden Nvidia CEO'su oldu",
+  "kicker": "Yönetim",
+  "hero_stat": "%25",
+  "hero_stat_label": "hisse artışı",
+  "visual_style": "studio",
+  "visual_scene": "A heavy obsidian pedestal standing alone in a minimalist grey studio, holding a polished brass metallic sphere split into two perfectly symmetrical halves that are slowly magnetically aligning back together. Clean architectural studio lighting casting sharp geometric shadows on the textured concrete surface.",
+  "focus_keyword": "Jensen Huang Nvidia CEO",
+  "seo_title": "Jensen Huang Nvidia CEO görevine geri döndü",
+  "meta_description": "Jensen Huang Nvidia CEO görevine yeniden atandı. ABD hükümeti yetkililerinin onayının ardından açıklanan karar sonrası şirket hisseleri yükseldi.",
+  "seo_slug": "jensen-huang-nvidia-ceo-gorevine-geri-dondu",
+  "image_alt": "Birleşen iki metalik küre yarısı: Jensen Huang'ın Nvidia CEO görevine dönmesini temsil eden görsel",
+  "cover_text": "Jensen Huang",
+  "importance": 8,
+  "triage_reason": "Nvidia CEO'su Jensen Huang'ın görevine geri dönmesi sektör için büyük bir gelişme.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/23/jensen-huang-nvidia-ceoluguna-geri-dondu/",
+      "title": "Jensen Huang, Nvidia CEO'luğuna geri döndü",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/23/jensen-huang-nvidia-ceoluguna-geri-dondu/#comments",
+      "published": "2026-11-23T14:17:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/#comments",
+      "published": "2026-11-23T14:10:18Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi",
+    "Ars Technica"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Jensen Huang, Nvidia CEO'luğuna geri döndü",
+      "url": "https://webrazzi.com/2026/11/23/jensen-huang-nvidia-ceoluguna-geri-dondu/",
+      "published": "2026-11-23T14:17:00Z",
+      "summary": "Nvidia, kurucu ortağı Jensen Huang'ın 23 Kasım'da yeniden CEO olarak göreve başladığını duyurdu. Yönetim kurulunun oy birliğiyle aldığı kararla Huang, şirket başkanlığına ve yönetim kurulu üyeliğine d...",
+      "text": "Nvidia, kurucu ortağı Jensen Huang'ın 23 Kasım'da yeniden CEO olarak göreve başladığını duyurdu. Yönetim kurulunun oy birliğiyle aldığı kararla Huang, şirket başkanlığına ve yönetim kurulu üyeliğine de döndü. Geçici CEO olarak görev yapan Colette Kress, CFO olarak devam edecek. Harvey C. Jones ise yönetim kurulu başkanlığını sürdürecek.\nNvidia, Huang'ın istifasını 12 Kasım'da duyurmuştu. Şirketin ABD Menkul Kıymetler ve Borsa Komisyonu'na (SEC) yaptığı bildirime göre yönetim kurulu istifayı 11 Kasım'da kabul etti. Jones, 17 Kasım'daki finansal sonuçlar toplantısında Huang'ın şirketin davranış kuralları ve standartlarıyla bağdaşmayan kişisel davranışlarının ortaya çıkmasının ardından kendi isteğiyle görevlerinden ayrıldığını söyledi. Jones, aynı toplantıda yönetim kurulunun Huang'ı yeniden CEO olarak atamayı düşünmediğini de belirtti.\nReuters'ın haberine göre istifa, Huang'ın evlilik dışı ilişkilerinin ortaya çıkmasının ardından geldi. Huang'ın ilişki yaşadığı kişilerden birinin Çin adına casusluk yaptığından ABD makamlarının şüphelendiği bildirildi. Pekin bu iddiayı reddetti. ABD Başkanı Donald Trump ise Huang'ın göreve dönmesine destek verdi.\nNvidia yönetim kurulu, Huang'la yaptığı görüşmelerin ardından açıklamalarını samimi bulduğunu ve şirketi yönetebileceğine kanaat getirdiğini bildirdi. Kurul ayrıca üst düzey ABD hükümet yetkililerinden görüş aldığını ve bu görüşlere dayanarak Huang’ın dönüşünün ulusal güvenlik riski oluşturmadığı değerlendirmesine vardığını açıkladı.\nYalnızca bağımsız yönetim kurulu üyelerinden oluşan komite, Huang'ın yabancı bir istihbarat girişiminin hedefi olduğu yönündeki haberler üzerine başlattığı incelemeyi sürdürecek. Nvidia ayrıca ulusal güvenlik risklerini ve ihracat kurallarına uyumu denetlemek üzere ayrı bir komite kurduğunu ve şirket genelinde mevzuata uyumdan sorumlu bir yönetici arayışına başladığını belirtti. Şirket, devam eden resmi soruşturmalarda yetkililerle iş birliğini sürdüreceğini de açıkladı.\nKararın açıklanmasının ardından Nvidia hisseleri, Reuters'ın aktardığına göre ABD'de seans öncesi işlemlerde yüzde 25'in üzerinde yükseldi."
+    },
+    {
+      "credit": "Ars Technica",
+      "kind": "media",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "published": "2026-11-23T14:10:18Z",
+      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
+      "text": "Nvidia’s board of directors has voted to reinstate Jensen Huang as CEO and director of the board, just over a week after he resigned in the wake of multiple scandals.\nThe reinstatement, announced Monday morning, is “effective immediately” and was based in part on “input from senior levels of the United States government” that assured the board members that “Mr. Huang’s reinstatement poses no national security risk.”\nThis is a breaking story and will be updated with additional information"
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 851
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi, Ars Technica"
+}
