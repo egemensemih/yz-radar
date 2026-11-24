@@ -1,0 +1,69 @@
+{
+  "id": "8bb06a6bdf",
+  "status": "pending",
+  "created_at": "2026-11-24T11:16:12Z",
+  "title": "Marlowe yatırım turunda 277 milyon dolar topladı",
+  "summary": "Yapay zeka altyapı şirketi Marlowe, farklı çip mimarilerini destekleyen veri merkezleri kurmak amacıyla Accel liderliğinde 277 milyon dolar tohum yatırım aldı.",
+  "body": "Yapay zeka altyapı şirketi Marlowe, 24 Kasım'da tamamlanan **Marlowe yatırım** turunda 277 milyon dolar tohum sermaye topladı. Accel liderliğinde gerçekleşen bu tura Bessemer, Altimeter, Atreides, Eclipse, Journey, Valor, Scribble, Emergence Capital, Ritual, Pitango, Neo, Village Global ve Banter gibi çok sayıda fon ile melek yatırımcılar katıldı. Webrazzi'nin aktardığına göre ABD merkezli girişim, toplanan finansmanı farklı çip mimarilerini destekleyen veri merkezleri inşa etmek, ilk tesislerini devreye almak ve yazılım geliştirme süreçlerini hızlandırmak amacıyla kullanacak.\n\n## Marlowe yatırım kararıyla çoklu çip mimarisine odaklanıyor\nDan Lewis ve Kutta Srinivasan tarafından Lior Susan, Ido Susan ve Chris Ré iş birliğiyle kurulan şirket; yapay zeka modellerinin kullanıcıdan gelen talepleri işleyip yanıt ürettiği çıkarım (inference) süreçlerini daha verimli hale getirmeyi amaçlıyor. Marlowe, veri merkezlerinde sadece tek bir donanım üreticisine bağlı kalmak yerine çoklu donanım yapısını benimsiyor.\n\nŞirketin altyapısında desteklemeyi planladığı çip markaları şunlardır:\n* AMD ve Amazon\n* Arm ve Broadcom\n* Cerebras ve Etched\n* NVIDIA GPU sistemleri\n\n## Esnek sunucu yapılandırması ve enerji tasarrufu\nGirişim, yürütülen yapay zeka uygulamasının niteliğine göre çip seçimini, sunucu yapılandırmasını, ağ altyapısını ve enerji kullanımını bütüncül bir yaklaşımla tasarlıyor. Bu mimari sayesinde sesli asistanların anlık yanıt ihtiyacı ile uzun belgeleri analiz eden modellerin yüksek işlem gereksinimlerine farklı çözümler sunulabiliyor. Marlowe, çiplerden tesis tasarımına kadar tüm süreçleri optimize ederek alternatif bileşenlerin entegrasyonunu kolaylaştırmayı, böylece maliyeti ve **enerji tüketimini** düşürmeyi hedefliyor.\n\n**Neden önemli?** Yapay zeka modellerinin yaygınlaşmasıyla çıkarım süreçlerindeki sunucu ve enerji maliyetleri en önemli sınırlayıcı unsurlardan biri haline geldi. Marlowe'un bağımsız çip üreticilerini aynı veri merkezi altyapısında birleştiren yaklaşımı, sektörün tek bir donanım sağlayıcısına olan bağımlılığını azaltmayı vaat ediyor.",
+  "category": "sirketler",
+  "tags": [
+    "Marlowe",
+    "Accel",
+    "AMD",
+    "NVIDIA",
+    "veri merkezleri"
+  ],
+  "confidence": "yuksek",
+  "flags": [],
+  "editor_note": "",
+  "short_title": "Marlowe 277 milyon dolar tohum yatırım aldı",
+  "kicker": "Yatırım turu",
+  "hero_stat": "277 milyon $",
+  "hero_stat_label": "tohum yatırım tutarı",
+  "visual_style": "sculpture",
+  "visual_scene": "An abstract sculpture made of geometric blocks of frosted silicon and brushed aluminium stacked together, interconnected by thin copper pathways on a dark matte pedestal, illuminated by soft direct studio lighting.",
+  "focus_keyword": "Marlowe yatırım",
+  "seo_title": "Marlowe yatırım turunda 277 milyon dolar topladı",
+  "meta_description": "Yapay zeka altyapı girişimi Marlowe yatırım turunda Accel liderliğinde 277 milyon dolar tohum fon elde etti. Şirketin veri merkezi hedefleri haberimizde.",
+  "seo_slug": "marlowe-yatirim-turunda-277-milyon-dolar-topladi",
+  "image_alt": "Buzlu silikon ve alüminyum bloklardan oluşan soyut bir veri merkezi heykeli",
+  "cover_text": "Marlowe",
+  "importance": 7,
+  "triage_reason": "Marlowe'un Accel liderliğinde 277 milyon dolar tohum yatırımı alması önemli bir finansal gelişme.",
+  "sources": [
+    {
+      "name": "Webrazzi",
+      "url": "https://webrazzi.com/2026/11/24/yapay-zeka-altyapisi-alaninda-faaliyet-gosteren-marlowe-277-milyon-dolar-yatirim-aldi/",
+      "title": "Yapay zeka altyapısı alanında faaliyet gösteren Marlowe, 277 milyon dolar yatırım aldı",
+      "kind": "media",
+      "via": null,
+      "via_url": "https://webrazzi.com/2026/11/24/yapay-zeka-altyapisi-alaninda-faaliyet-gosteren-marlowe-277-milyon-dolar-yatirim-aldi/#comments",
+      "published": "2026-11-24T11:00:00Z"
+    }
+  ],
+  "source_keys": [
+    "Webrazzi"
+  ],
+  "source_texts": [
+    {
+      "credit": "Webrazzi",
+      "kind": "media",
+      "title": "Yapay zeka altyapısı alanında faaliyet gösteren Marlowe, 277 milyon dolar yatırım aldı",
+      "url": "https://webrazzi.com/2026/11/24/yapay-zeka-altyapisi-alaninda-faaliyet-gosteren-marlowe-277-milyon-dolar-yatirim-aldi/",
+      "published": "2026-11-24T11:00:00Z",
+      "summary": "Yapay zeka altyapısı alanında faaliyet gösteren Marlowe, 277 milyon dolar yatırım aldı. Şirketin 277 milyon dolarlık tohum yatırım turuna Accel liderlik etti. ABD merkezli Marlowe'un yatırım turunda B...",
+      "text": "Yapay zeka altyapısı alanında faaliyet gösteren Marlowe, 277 milyon dolar yatırım aldı. Şirketin 277 milyon dolarlık tohum yatırım turuna Accel liderlik etti. ABD merkezli Marlowe'un yatırım turunda Bessemer, Altimeter, Atreides, Eclipse, Journey, Valor, Scribble, Emergence Capital, Ritual, Pitango, Neo, Village Global, Banter ve melek yatırımcılar yer aldı.\nŞirket, yeni yatırımı farklı çip mimarilerini destekleyen yapay zeka veri merkezleri kurmak, ilk tesislerini devreye almak ve altyapı ile yazılım geliştirme çalışmalarını hızlandırmak için kullanacağını açıkladı.\nMarlowe, Dan Lewis ve Kutta Srinivasan tarafından Lior Susan, Ido Susan ve Chris Ré'nin iş birliğiyle bu sene hayata geçirildi. Şirket, farklı çip mimarileri üzerinde yapay zeka modellerinin çıkarım (inference) işlemlerini gerçekleştirebileceği veri merkezleri tasarlayan, kuran ve işleten bir altyapı şirketi olarak tanımlanıyor.\nMarlowe, yalnızca NVIDIA GPU'larına dayalı sistemler yerine AMD, Amazon, Arm, Broadcom, Cerebras ve Etched gibi farklı üreticilerin çiplerini de destekleyen bir altyapı oluşturmayı hedefliyor. Şirketin temel çalışma alanı, yapay zeka modellerinin kullanıcıdan gelen komutları işlediği ve yanıt ürettiği çıkarım süreçlerini daha verimli hale getirmek.\nMarlowe, her yapay zeka uygulamasının ihtiyaçlarına göre çip seçimini, sunucu yapılandırmasını, ağ altyapısını, enerji kullanımını ve yazılım katmanını birlikte tasarlıyor. Böylece bir sesli asistanın hızlı yanıt verme ihtiyacıyla uzun belgeleri analiz eden bir modelin işlem gereksinimlerine farklı altyapılar sunabiliyor.\nMarlowe'un amacı, alternatif çiplerin mevcut veri merkezi altyapılarına entegre edilmesini kolaylaştırırken yapay zeka işlemlerinin maliyetini ve enerji tüketimini düşürmek. Şirket, çiplerden tesis tasarımına ve modellerin çalıştırılmasını sağlayan yazılımlara kadar tüm altyapıyı birlikte optimize ederek performansı artırmayı amaçlıyor."
+    }
+  ],
+  "rewrites": 0,
+  "telegram": {
+    "message_id": 869
+  },
+  "image": {
+    "source": "cover",
+    "layout": "sayi",
+    "palette": "orman",
+    "cover_v": 1
+  },
+  "policy_reason": "Henüz güvenilmeyen kaynak: Webrazzi"
+}
